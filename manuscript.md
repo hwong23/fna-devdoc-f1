@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T22:42:18+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T22:42:18+00:00" />
+  <meta name="dc.modified" content="2023-01-10T22:48:07+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T22:48:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/d7e2df8f25c94241285f8f53924dd52068b4d4ba/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/d7e2df8f25c94241285f8f53924dd52068b4d4ba/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/d7e2df8f25c94241285f8f53924dd52068b4d4ba/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/0dec9768e598a94b0329bd4ebd7ec5266cf7f0e8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/0dec9768e598a94b0329bd4ebd7ec5266cf7f0e8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/0dec9768e598a94b0329bd4ebd7ec5266cf7f0e8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -808,6 +808,31 @@ A falta de información directa respecto de la relación de los procesos de nego
 <br>
 
 La relación entre procesos y aplicaciones del Fondo siguiente nos da la pauta de que los que agrupan la mayor cantidad de servicios (aplicaciones) son el proceso de Facturación y Cartera (23 relaciones a aplicaciones), el proceso de Gestión de Crédito (19 relaciones a aplicaciones) y el de Gestión Comercial (19 relaciones a aplicaciones). Abajo visualizamos las relaciones de uno de los procesos para conocer la aplicaiones del FNA con las que este tiene relación.
+
+|**Proceso**|**Relaciones**|
+|-----------|----------------------------|
+|Facturación y Cartera|**23**|
+|Gestión de Crédito|**19**|
+|_(en blanco)_|**19**|
+|Gestión Comercial|9|
+|Cesantías|5|
+|Comunicación|3|
+|Gestión Jurídica|3|
+|Contrataciones|3|
+|Gestión Administrativa|3|
+|Gestion Comercial|3|
+|Mercadeo|2|
+|Aporte de Cesantías|2|
+|Gestión Comercial, Comunicación|1|
+|Gestion Humana|1|
+|Captación de Ahorro Voluntario|1|
+|**Total general**|**97**|
+
+[Tabla. ]() Procesos del FNA con mayor cantidad de relaciones a aplicaciones.
+
+_Fuente: InventarioAplicacionesFNA.xlsx_
+
+<br>
 
 
 

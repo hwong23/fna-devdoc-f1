@@ -2505,6 +2505,41 @@ content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:19:siguiente
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:19:tiene
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:19:uno
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:19:visualizamos
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:21:Proceso
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:21:Relaciones
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:23:Cartera
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:23:Facturación
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:24:Crédito
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:24:Gestión
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:25:blanco
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:26:Comercial
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:26:Gestión
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:27:Cesantías
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:28:Comunicación
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:29:Gestión
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:29:Jurídica
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:30:Contrataciones
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:31:Administrativa
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:31:Gestión
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:32:Comercial
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:32:Gestion
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:33:Mercadeo
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:34:Aporte
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:34:Cesantías
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:35:Comercial
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:35:Comunicación
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:35:Gestión
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:36:Gestion
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:36:Humana
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:37:Ahorro
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:37:Captación
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:37:Voluntario
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:40:aplicaciones
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:40:cantidad
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:40:FNA
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:40:Procesos
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:40:relaciones
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:42:InventarioAplicacionesFNA
 content/10.Fase 1 PR1 Vista de informacion.md:1:Descripción
 content/10.Fase 1 PR1 Vista de informacion.md:1:Información
 content/10.Fase 1 PR1 Vista de informacion.md:3:artefactos
