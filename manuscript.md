@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T18:28:15+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T18:28:15+00:00" />
+  <meta name="dc.modified" content="2023-01-10T18:58:44+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T18:58:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/1de0de1125d375a4c685e464d6b2b9803dbb44fb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/1de0de1125d375a4c685e464d6b2b9803dbb44fb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/1de0de1125d375a4c685e464d6b2b9803dbb44fb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,363 +62,333 @@ manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
 
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos del Alcance
 
+# Producto 1: PR1. SOA Actual
+Presentar la situación general SOA del Fondo Nacionnal del Ahorro (FNA) al año 2022 - 2023 desde organizada según las vistas de arquitectura. Por tanto, la situación general SOA del Fondo está comprendida por las vistas funcional, la de información, integración y la vista tecnológoca actual en donde destacan los sistemas de información (aplicaciones) críticas para el negocio, los servicios SOA y las tecnologías y proveedores que operan en el Fondo.
 
+## Justificación
+La arquitectura, organizada por vistas, se convierte en un medio de trabajo común entre negocio y tecnología. Adicionalmente, provee un vocabulario común y un espacio de análisis sobre las decisiones de arquitectura y su impacto en el negocio.  La estructura por vistas, es un estándar de organización de arquitectura  y se sugieren las mínimas necesarias para lograr comunicar de forma efectiva las decisiones relevantes que componen la propuesta de servicios actual del Fondo.
 
+## Contenidos
+1. Descripción de la vista Funcional Actual
+	* Vista de Contexto: objetivos del diagnóstico SOA, productos, áreas, y procesos FNA objeto del diagnóstico
+	* Vista de Segmento del ejercicio SOA del FNA
+	* Catálogo de servicios (blueprint) seleccionados FNA
+		* Áreas objeto del diagnóstico SOA
+		* Capacidades de negocio FNA relacionadas con servicios SOA
+		* Sistemas de información, aplicaciones y servicios
+		* Tipos de Servicios / Distribución de servicios SOA por tipo
+	* Servicios independientes (FNA debería tener)
+	* Procesos del FNA relacionados con los productos, objetivos, y áreas FNA objeto del diagnóstico SOA
+	* Arquitectura de referencia SOA del FNA
+1. Descripción de la vista de Información actual
+	* Portafolio de aplicaciones y proveedores
+	* Inventario de fuentes de datos
+1. Descripción de la vista de Integración actual
+	* Matriz de intercambio de información crítica del negocio
+	* Entidades de negocio (información y datos) relacionadas en la integración
+	* Conectores y servicios de integración
+	* Inventario de servicios por tipo (negocio, utilitarios, datos… )
+	* Conectores: necesidades de integración de las áreas del FNA objeto del diagnóstico SOA
+	* Interrelación Entre Servicios SOA del FNA
+1. Descripción de la vista Tecnológica actual
+	* Listado tecnológico del inventario de servicios
+1. Presentación del Método para el Análisis de Madurez SOA del FNA
+	* Cuestionarios de los objetivos del análisis
+	* Dimensiones del análisis (OSIMM)
+	* Herramienta de diagnóstico de nivel de madurez SOA
 
+## Criterios de Aceptación
 
-<small><em>
-This manuscript
-([permalink](https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/))
-was automatically generated
-from [hwong23/fna-devdoc-f1-1@2adb07f](https://github.com/hwong23/fna-devdoc-f1-1/tree/2adb07fdd834d55365065416659921fd62b6f0b0)
-on January 10, 2023.
-</em></small>
+*   Descripción de las vistas funcionales para los dominios de negocio, información, Tecnológica e integración
+*   Análisis  y diagnóstico del nivel de madurez SOA
 
+*** 
 
+|Tema|Vista de Contexto: **Objetivos del Diagnóstico SOA y Productos, Áreas, y Procesos FNA Objeto del Diagnóstico**|
+|----|---------------------------------------------------------------------------|
+|Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
+|Autor||
+|Fuente||
+|Secuencia|Padre<br>Hijo|
+|Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
+|||
 
-## Authors
+<br>
 
+# Vista de Contexto SOA FNA (181-2020)
+## Objetivos del diagnóstico SOA y Productos, Áreas Procesos FNA Objeto del Diagnóstico
+La vista de contexto presenta una visión de la empresa ajustada a aquellas partes que entran en el alcance de este proyecto, 181-2020, diagnóstico SOA FNA. 
 
+![](vistacontexto.png)
 
-+ **John Doe**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    <br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
+Esta vista informa al Fondo Nacional del Ahorro (FNA, en adelante) dos temas: primero, que el ejercicio actual, aunque utilice una visión empresarial, no puede abarcar a la completitud de la empresa, sino que hace foco en las partes indicadas que son relevantes según las restricciones de ejecución y de resultados esperados del proyecto. Segundo, la vista de contexto comunica las problemáticas (que a la vez son objetivos de solución) a los que le apuntarán los diagnósticos de este proyecto.
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
-  </small>
+<br>
 
+# Detalles de la Vista de Contexto SOA FNA (181-2020)
+## Objetivos de la Consultoría: Problemática y Diagnósticos
 
-::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/hwong23/fna-devdoc-f1-1/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+La consultoría SOA (proyecto 181-2020) tratará tres problemáticas importantes de Fondo Nacional del Ahorro (FNA):
 
+1. OBJ1. Independencia de proveedor
+1. OBJ2. Flexibilidad y tiempo de mercado
+1. OBJ3. Fortaleza SOA de las aplicaciones del FNA
 
-:::
+**Nota**: Gobierno SOA del FNA lo establecemos como uno de los resultados (un producto de trabajo) que entregaremos al FNA, no como un objeto de la consultoría.
 
+Estos objetivos fueron seleccionados según la relación valor entregado y tiempo de la consultoría, lo cual significa que estos objetivos entregan el nivel de conveniencia de los resultados que puedan desarrollarse en el tiempo de ejecución de este ejercicio.
 
-## Abstract {.page_break_before}
+Estos objetivos también son imporatntes porque sirven a la vez como los objetos de los diagnósticos que realizaremos en este poryecto de consultoría. 
 
+## Productos del FNA Objetos del Diagnóstico
 
+Esta consultoría considera como entradas para los diagnósticos a los productos de negocio del FNA siguientes:
 
+1. Cuenta AVC (ahorro voluntario)
+1. Cesantías
+1. Crédito
+1. Cartera
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+Los demás productos de negocio del FNA serán tratados únicamente cuando su relación con estos los haga relevantes según los requiera o bien un diagnóstico, o bien los objetivos de esta consultoría y del Fondo.
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+## Áreas de Negocio del FNA Objetos del Diagnóstico
 
-## Basic formatting
+Con base a los productos de negocio de la FNA seleccionados, las áreas del FNA que competen a esta consultoría y a los objetivos de los diagnósticos son: 
 
-**Bold** __text__
+1. Vicepresidencia de Crédito
+1. Vicepresidencia de Operaciones
 
-[Semi-bold text]{.semibold}
+La áreas debajo de estas, como por ejemplo, la Gerencia de Crédito Individual para el caso de la primera, o la Gerencia de Cartera, serán relacionadas en tanto se vean impactadas por un diagnóstico en marcha, o los objetivos de este consultoría y del Fondo.
 
-[Centered text]{.center}
+### Referencia
 
-[Right-aligned text]{.right}
+![](OrganigramaFNA27julio.jpg)
 
-*Italic* _text_
 
-Combined *italics and __bold__*
 
-~~Strikethrough~~
+## Procesos de Negocio Objetos del Diagnóstico
 
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
+Los procesos de negocio seleccionados por este proyecto SOA son aquellos relacionados con los productos de negocio objetos de esta consultoría, por ejemplo,
 
-- List item
-- List item
-- List item
+1. PROC1. Administración de Cuentas y Pago de Cesantías (CSNT)
+2. PROC2. Gestión Crédito
+    - PROC2.1. Gestión Crédito Educativo
+    - PROC2.2. Gestión Crédito Hipotecario
+    - PROC2.3. Gestión Crédito Constructor
+3. PROC3. Facturación y Cartera
 
-subscript: H~2~O is a liquid
 
-superscript: 2^10^ is 1024.
 
-[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
+### Referencia
 
-[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
+![](image_2.370ae998.png)
 
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
+***
 
-## Document organization
 
-Document section headings:
+|Tema|Vista de Segmento: Partes de la empresa FNA selecionados por su relación con la Vista de Contexto
+|----|-------------------------------------------|
+|Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
+|Autor||
+|Fuente||
+|Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
+|||
 
-# Heading 1
+# Vista Segmento SOA FNA 181-2020
 
-## Heading 2
+La vista de segmento presenta la lista de las partes seleccionadas de la empresa que serán objeto de esta consultoría (proyecto 181-2020) y sobre las que se desarrollarán los procesos de análisis, brecha, hoja de ruta, y demás de esta consultoría. Es una lista filtrada de todas las partes de la empresa, y por tanto, *esta vista define el alcance horizontal del diagnóstico SOA*.
 
-### Heading 3
+## Partes de la Empresa FNA objeto del diagnóstico SOA
 
-#### Heading 4
+Estas partes han sido seleccionadas por tener relación directa con los elementos de la vista de contexto (Ver Vista de Contexto), lo cual significa que estas partes están vinculadas, o bien con alguno de los productos de negocio o con alguno de los procesos de negocio, o con los demás elementos de la vista de contexto. 
 
-##### Heading 5
+    La "Aplicación Web Gestión Traslado" ha sido seleccionada como parte de la empresa FNA por su relación con el proceso de negocio "Aporte Cesantías".
+    
+    A su vez, el proceso de negocio "Aporte Cesantías" tiene que ver en forma directa con uno de los cuatro (4) productos de la vista de contexto: Cesantías. 
+    
+    Esto explica porqué la aplicación indicada ha sido seleccionada por el segmento de la empresa FNA objeto del diagnóstico.
 
-###### Heading 6
 
-### A heading centered on its own printed page{.center .page_center}
 
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
+Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 
-Horizontal rule:
+![](FNA_Arquitectura-VistaSegmentoSOAFNA181-2020.png)
 
----
+* [Aporte Censatias (Business Process)](#aporte-censatias-business-process)
+* [Administración de Cuentas  y Pago (Business Process)](#administración-de-cuentas--y-pago-business-process)
+* [Gestión Comercial (Business Process)](#gestión-comercial-business-process)
+* [Gestión de Credito (Business Process)](#gestión-de-credito-business-process)
+* [Educativo (Business Process)](#educativo-business-process)
+* [Procesos Misionales (Business Process)](#procesos-misionales-business-process)
+* [Hipotecario (Business Process)](#hipotecario-business-process)
+* [Cesantias (Business Process)](#cesantias-business-process)
+* [Desembolso (Business Process)](#desembolso-business-process)
+* [Facturación y Cartera (Business Process)](#facturación-y-cartera-business-process)
+* [Ahorro Voluntario (Business Process)](#ahorro-voluntario-business-process)
+* [Captación de Ahorro Voluntario (Business Process)](#captación-de-ahorro-voluntario-business-process)
+* [Aplicación ScriptPortlet - Planilla de Consignación (Application Component)](#aplicación-scriptportlet---planilla-de-consignación-application-component)
+* [Aplicación Web - Gestión Traslado (Application Component)](#aplicación-web---gestión-traslado-application-component)
+* [COBIS - Cesantias (Application Component)](#cobis---cesantias-application-component)
+* [Aplicación Back - Bizagi Engine (Application Component)](#aplicación-back---bizagi-engine-application-component)
+* [Aplicación EJB - Credito Constructor  (Application Component)](#aplicación-ejb---credito-constructor--application-component)
+* [Aplicación Web - Crédito Constructor (Application Component)](#aplicación-web---crédito-constructor-application-component)
+* [Aplicación Web - Scoring (Application Component)](#aplicación-web---scoring-application-component)
+* [BIZAGI (Application Component)](#bizagi-application-component)
+* [COBIS - Crédito (Application Component)](#cobis---crédito-application-component)
+* [Servicios Score (Technology Service)](#servicios-score-technology-service)
+* [COBIS - Cartera (Application Component)](#cobis---cartera-application-component)
+* [COBIS - AVC (Application Component)](#cobis---avc-application-component)
+* [Servicios de Infraestructura (Technology Service)](#servicios-de-infraestructura-technology-service)
+* [Transunion (Node)](#transunion-node)
 
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
+<br>
 
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
+**Nota**: las partes que se hagan faltan en la vista de segmento carecen de relación en los modelos de la empresa. Para que aparezcan en la vista de segmento es necesario actualizar los modelos de la empresa: modelos de negocio, procesos, servicios, aplicaciones e infraestructura.
 
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
+***
 
-## Links
 
-Bare URL link: <https://manubot.org>
+|Tema|Catálogo de Servicios SOA: **Vista Funcional**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
+|Autor||
+|Fuente||
+|Secuencia|Padre<br>Hijo|
+|Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
+<br>
 
-[Link with text](https://manubot.org)
+## Descripción de la Vista Funcional (arquitectura de referencia)
+La vista funcional presenta los servicios que deben hacer parte del portafolio de servicios SOA del Fondo, por tanto, funciona a la vez como una arquitectura de referencia a la que hay que fortalecer, comparar y desarrollar y vigilar.
 
-[Link with hover text](https://manubot.org "Manubot Homepage")
+![](vistafuncional.png)
 
-[Link by reference][manubot homepage]
+[Imagen. ]() Vista funcional basada en mapa de servicios.
 
-[Manubot Homepage]: https://manubot.org
+_Fuente: elaboración propia._
 
-## Citations
+>La vista funcional es importante porque presenta los _servicios SOA independientes de la tecnología y de proveedor_, alineados además con las áreas de negocio que son objeto de este diagnóstico, pero son también claves para el FNA.
 
-Citation by DOI [@doi:10.7554/eLife.32822].
+<br>
 
-Citation by PubMed Central ID [@pmc:PMC6103790].
+Resaltamos que a partir de esta vista es necesario establecer las relaciones internas de esta arquitectura de referencia con las partes de la empresa que hacen parte de la vista de segmento (ver [N003a Vista Segmento SOA FNA](N003a%20Vista.md)) que es una colección de las partes clave de la empresa y que a la vez son relevantes para este diagnóstico. 
 
-Citation by PubMed ID [@pubmed:30718888].
+El ejercicio siguiente listar los conectores necesarios para conectar estas capacidades e intersectar la vista funcional con la de segmento para desarrollar el segmento de partes del FNA que le van a dar cumplimiento a esta arquitectura de referencia.
 
-Citation by Wikidata ID [@wikidata:Q56458321].
+<br>
 
-Citation by ISBN [@isbn:9780262517638].
+## Conectores de las Capacidades (arquitectura de referencia)
+Los conectores que dinamizan la interacción entre los servicios independientes de la tecnología y de proveedor aparecen en la vista como líneas de conexión entre las capacidades de esta arquitectura de referencia.
 
-Citation by URL [@{https://greenelab.github.io/meta-review/}].
+Describimos las características de estos conectores con los siguientes ejemplos.
+![](conectores.png)
 
-Citation by alias [@deep-review].
+[Imagen. ]() Conectores que dinamizan la interacción entre los servicios independientes.
 
-Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
+_Fuente: elaboración propia._
 
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
 
-[@deep-review]: doi:10.1098/rsif.2017.0387
+|Tema|Catálogo de Servicios SOA: **Servicios SOA relevantes al diagnóstico**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Áreas, Capacidades, Servicios|
+|Autor||
+|Fuente||
+|Secuencia|Padre<br>Hijo|
+|Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
-## Referencing figures, tables, equations
+<br>
 
-Figure @fig:square-image
+# Catálogo de Servicios FNA (blueprint)
 
-Figure @fig:wide-image
+## Capacidades de la Empresa FNA
+No hay capacidades de negocio FNA en los modelos de la empresa, pero en la documentación del repositorio hay información sustituta con la que hacemos una propuesta de la vista de las capacidades FNA. Esta vista preliminar sirve para relacionar las capacidades preliminares con los servicios SOA de la empresa y con los demás elementos de la vista de segmento.
 
-Figure @fig:tall-image
+Capacidades de negocio encontradas:
 
-Figure @fig:vector-image
+1. Desarrollo de nuevos negocios
+1. Gestión de Cliente
+1. Administración de Recursos y Negocio
+1. Entrega de Productos
+1. Servicios de Cuentas
+1. Gestión Financiera
 
-Table @tbl:bowling-scores
+_Fuente: Portafolio de Aplicaciones FNA._
 
-Equation @eq:regular-equation
+<br>
 
-Equation @eq:long-equation
+## Importancia de las Capacidades y Servicios SOA (y otras partes de la empresa)
+La intersección de la vista de segmento del FNA con las capacidades de negocio propuestas por este ejercicio (en color naranja abajo) resultará en la lista de servicios de negocio más importantes para la empresa dado su nivel de relación con estas capacidades.
 
-## Quotes and code
+![][embedView]
 
-> Quoted text
+<br>
 
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
+Por lo anterior, los servicios SOA del FNA más relevantes según los modelos son los indicados a continuación. De igual manera que para el Fondo, estas partes de la empresa son importantes para futuros diagnósticos y gobierno SOA.
 
-Code `in the middle` of normal text, aka `inline code`.
+|**Parte FNA**|**Parte Relacionada**|**Tipo**|
+|-------------|---------------------|--------|
+|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Entrega de Productos|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Gestión de Cliente|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
+||Servicios COBIS|application-collaboration|
+|Servicios de Cuentas|AS026-Gestión de Autenticación|**application-service**|
+||AS034-ConsultarestadocuentaCartera|**application-service**|
+||ASXX3-RegistrarRecaudoObligacion|**application-service**|
+||COBIS|application-component|
 
-Code block with Python syntax highlighting:
+_Fuente: arquitectura fna.archimate_
 
-```python
-from manubot.cite.doi import expand_short_doi
+<br>
 
-def test_expand_short_doi():
-    doi = expand_short_doi("10/c3bp")
-    # a string too long to fit within page:
-    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
-```
+Las capacidades de mayor importancia para el FNA debido a su nivel superior de relación con las partes relevantes de la empresa son los siguientes
 
-Code block with no syntax highlighting:
+|Nombre Origen|**Destino**|**Relevancia**|
+|-------------|-----------|--------------|
+|Desarrollo de nuevos negocios|COBIS|**96**|
+|Desarrollo de nuevos negocios|AS026-Gestión de Autenticación|8|
+|Desarrollo de nuevos negocios|AS034-ConsultarestadocuentaCartera|6|
+|Desarrollo de nuevos negocios|ASXX3-RegistrarRecaudoObligacion|5|
+|Desarrollo de nuevos negocios|Servicios COBIS|13|
+|**Total Desarrollo de nuevos negocios**||128|
+|Entrega de Productos|COBIS|**96**|
+|Entrega de Productos|AS026-Gestión de Autenticación|8|
+|Entrega de Productos|AS034-ConsultarestadocuentaCartera|6|
+|Entrega de Productos|ASXX3-RegistrarRecaudoObligacion|5|
+|Entrega de Productos|Servicios COBIS|13|
+|**Total Entrega de Productos**||128|
+|Gestión de Cliente|COBIS|**96**|
+|Gestión de Cliente|AS026-Gestión de Autenticación|8|
+|Gestión de Cliente|AS034-ConsultarestadocuentaCartera|6|
+|Gestión de Cliente|ASXX3-RegistrarRecaudoObligacion|5|
+|Gestión de Cliente|Servicios COBIS|13|
+|**Total Gestión de Cliente**||128|
+|Servicios de Cuentas|COBIS|**96**|
+|Servicios de Cuentas|AS026-Gestión de Autenticación|8|
+|Servicios de Cuentas|AS034-ConsultarestadocuentaCartera|6|
+|Servicios de Cuentas|ASXX3-RegistrarRecaudoObligacion|5|
+|**Total Servicios de Cuentas**||115|
 
-```
-Exporting HTML manuscript
-Exporting DOCX manuscript
-Exporting PDF manuscript
-```
+_Fuente: arquitectura fna.archimate_
 
-## Figures
+<br>
 
-![
-**A square image at actual size and with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
+-----
 
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
-
-![
-**A tall image with a specified height.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
-
-![
-**A vector `.svg` image loaded from GitHub.**
-The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
-White background specified to serve as a backdrop for transparent sections of the image.
-](https://raw.githubusercontent.com/manubot/resources/main/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
-
-## Tables
-
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
-
-Table: A table with a top caption and specified relative column widths.
-{#tbl:bowling-scores}
-
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
-
-Table: A table too wide to fit within page.
-{#tbl:constant-digits}
-
-|          | **Colors** <!-- $colspan="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
-
-Table: A table with merged cells using the `attributes` plugin.
-{#tbl: merged-cells}
-
-## Equations
-
-A LaTeX equation:
-
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
-
-An equation too long to fit within page:
-
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
-
-## Special
-
-<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
-_Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
-
-[Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
-
-Adding arbitrary HTML attributes to an element using Pandoc's attribute syntax:
-
-::: {#some_id_1 .some_class style="background: #ad1457; color: white; margin-left: 40px;" title="a paragraph of text" data-color="white" disabled="true"}
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-:::
-
-Adding arbitrary HTML attributes to an element with the Manubot `attributes` plugin (more flexible than Pandoc's method in terms of which elements you can add attributes to):
-
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
-
-Available background colors for text, images, code, banners, etc:  
-
-`white`{.white}
-`lightgrey`{.lightgrey}
-`grey`{.grey}
-`darkgrey`{.darkgrey}
-`black`{.black}
-`lightred`{.lightred}
-`lightyellow`{.lightyellow}
-`lightgreen`{.lightgreen}
-`lightblue`{.lightblue}
-`lightpurple`{.lightpurple}
-`red`{.red}
-`orange`{.orange}
-`yellow`{.yellow}
-`green`{.green}
-`blue`{.blue}
-`purple`{.purple}
-
-Using the [Font Awesome](https://fontawesome.com/) icon set:
-
-<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
-
-<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
-
-[
-<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
-]{.banner .lightgrey}
-
-[
-<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
-]{.banner .lightblue}
-
-[
-<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
-]{.banner .lightred}
-
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
+[embedView]: FNA_Arquitectura-Vista%20de%20Capacidades%20FNA.png
 

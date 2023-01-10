@@ -1,51 +1,1243 @@
-content/02.delete-me.md:44:adipiscing
-content/02.delete-me.md:44:aliqua
-content/02.delete-me.md:44:amet
-content/02.delete-me.md:44:consectetur
-content/02.delete-me.md:44:dolore
-content/02.delete-me.md:44:eiusmod
-content/02.delete-me.md:44:elit
-content/02.delete-me.md:44:incididunt
-content/02.delete-me.md:44:ipsum
-content/02.delete-me.md:44:labore
-content/02.delete-me.md:44:Lorem
-content/02.delete-me.md:44:magna
-content/02.delete-me.md:44:sed
-content/02.delete-me.md:44:tempor
-content/02.delete-me.md:45:aliquip
-content/02.delete-me.md:45:commodo
-content/02.delete-me.md:45:consequat
-content/02.delete-me.md:45:enim
-content/02.delete-me.md:45:exercitation
-content/02.delete-me.md:45:laboris
-content/02.delete-me.md:45:nisi
-content/02.delete-me.md:45:nostrud
-content/02.delete-me.md:45:quis
-content/02.delete-me.md:45:ullamco
-content/02.delete-me.md:45:veniam
-content/02.delete-me.md:46:aute
-content/02.delete-me.md:46:cillum
-content/02.delete-me.md:46:dolore
-content/02.delete-me.md:46:Duis
-content/02.delete-me.md:46:esse
-content/02.delete-me.md:46:fugiat
-content/02.delete-me.md:46:irure
-content/02.delete-me.md:46:pariatur
-content/02.delete-me.md:46:reprehenderit
-content/02.delete-me.md:46:velit
-content/02.delete-me.md:46:voluptate
-content/02.delete-me.md:47:anim
-content/02.delete-me.md:47:culpa
-content/02.delete-me.md:47:cupidatat
-content/02.delete-me.md:47:deserunt
-content/02.delete-me.md:47:Excepteur
-content/02.delete-me.md:47:laborum
-content/02.delete-me.md:47:mollit
-content/02.delete-me.md:47:occaecat
-content/02.delete-me.md:47:officia
-content/02.delete-me.md:47:proident
-content/02.delete-me.md:47:qui
-content/02.delete-me.md:47:sint
-content/02.delete-me.md:47:sunt
-content/02.delete-me.md:236:Pandoc's
-content/02.delete-me.md:246:Pandoc's
+content/01.Fase1 PR1 SOA Actual.md:1:Estado
+content/01.Fase1 PR1 SOA Actual.md:1:Fase
+content/01.Fase1 PR1 SOA Actual.md:1:SOA
+content/01.Fase1 PR1 SOA Actual.md:2:Alcance
+content/01.Fase1 PR1 SOA Actual.md:2:Contenido
+content/01.Fase1 PR1 SOA Actual.md:2:Productos
+content/01.Fase1 PR1 SOA Actual.md:4:Producto
+content/01.Fase1 PR1 SOA Actual.md:4:SOA
+content/01.Fase1 PR1 SOA Actual.md:5:Ahorro
+content/01.Fase1 PR1 SOA Actual.md:5:año
+content/01.Fase1 PR1 SOA Actual.md:5:aplicaciones
+content/01.Fase1 PR1 SOA Actual.md:5:arquitectura
+content/01.Fase1 PR1 SOA Actual.md:5:comprendida
+content/01.Fase1 PR1 SOA Actual.md:5:críticas
+content/01.Fase1 PR1 SOA Actual.md:5:desde
+content/01.Fase1 PR1 SOA Actual.md:5:destacan
+content/01.Fase1 PR1 SOA Actual.md:5:donde
+content/01.Fase1 PR1 SOA Actual.md:5:el
+content/01.Fase1 PR1 SOA Actual.md:5:el
+content/01.Fase1 PR1 SOA Actual.md:5:está
+content/01.Fase1 PR1 SOA Actual.md:5:FNA
+content/01.Fase1 PR1 SOA Actual.md:5:Fondo
+content/01.Fase1 PR1 SOA Actual.md:5:Fondo
+content/01.Fase1 PR1 SOA Actual.md:5:Fondo
+content/01.Fase1 PR1 SOA Actual.md:5:funcional
+content/01.Fase1 PR1 SOA Actual.md:5:información
+content/01.Fase1 PR1 SOA Actual.md:5:información
+content/01.Fase1 PR1 SOA Actual.md:5:integración
+content/01.Fase1 PR1 SOA Actual.md:5:Nacionnal
+content/01.Fase1 PR1 SOA Actual.md:5:negocio
+content/01.Fase1 PR1 SOA Actual.md:5:operan
+content/01.Fase1 PR1 SOA Actual.md:5:organizada
+content/01.Fase1 PR1 SOA Actual.md:5:por
+content/01.Fase1 PR1 SOA Actual.md:5:Por
+content/01.Fase1 PR1 SOA Actual.md:5:Presentar
+content/01.Fase1 PR1 SOA Actual.md:5:proveedores
+content/01.Fase1 PR1 SOA Actual.md:5:según
+content/01.Fase1 PR1 SOA Actual.md:5:servicios
+content/01.Fase1 PR1 SOA Actual.md:5:sistemas
+content/01.Fase1 PR1 SOA Actual.md:5:situación
+content/01.Fase1 PR1 SOA Actual.md:5:situación
+content/01.Fase1 PR1 SOA Actual.md:5:SOA
+content/01.Fase1 PR1 SOA Actual.md:5:SOA
+content/01.Fase1 PR1 SOA Actual.md:5:SOA
+content/01.Fase1 PR1 SOA Actual.md:5:tanto
+content/01.Fase1 PR1 SOA Actual.md:5:tecnologías
+content/01.Fase1 PR1 SOA Actual.md:5:tecnológoca
+content/01.Fase1 PR1 SOA Actual.md:7:Justificación
+content/01.Fase1 PR1 SOA Actual.md:8:Adicionalmente
+content/01.Fase1 PR1 SOA Actual.md:8:análisis
+content/01.Fase1 PR1 SOA Actual.md:8:arquitectura
+content/01.Fase1 PR1 SOA Actual.md:8:arquitectura
+content/01.Fase1 PR1 SOA Actual.md:8:arquitectura
+content/01.Fase1 PR1 SOA Actual.md:8:componen
+content/01.Fase1 PR1 SOA Actual.md:8:común
+content/01.Fase1 PR1 SOA Actual.md:8:común
+content/01.Fase1 PR1 SOA Actual.md:8:comunicar
+content/01.Fase1 PR1 SOA Actual.md:8:convierte
+content/01.Fase1 PR1 SOA Actual.md:8:decisiones
+content/01.Fase1 PR1 SOA Actual.md:8:decisiones
+content/01.Fase1 PR1 SOA Actual.md:8:efectiva
+content/01.Fase1 PR1 SOA Actual.md:8:el
+content/01.Fase1 PR1 SOA Actual.md:8:entre
+content/01.Fase1 PR1 SOA Actual.md:8:espacio
+content/01.Fase1 PR1 SOA Actual.md:8:estándar
+content/01.Fase1 PR1 SOA Actual.md:8:estructura
+content/01.Fase1 PR1 SOA Actual.md:8:Fondo
+content/01.Fase1 PR1 SOA Actual.md:8:forma
+content/01.Fase1 PR1 SOA Actual.md:8:impacto
+content/01.Fase1 PR1 SOA Actual.md:8:lograr
+content/01.Fase1 PR1 SOA Actual.md:8:medio
+content/01.Fase1 PR1 SOA Actual.md:8:mínimas
+content/01.Fase1 PR1 SOA Actual.md:8:necesarias
+content/01.Fase1 PR1 SOA Actual.md:8:negocio
+content/01.Fase1 PR1 SOA Actual.md:8:negocio
+content/01.Fase1 PR1 SOA Actual.md:8:organización
+content/01.Fase1 PR1 SOA Actual.md:8:organizada
+content/01.Fase1 PR1 SOA Actual.md:8:por
+content/01.Fase1 PR1 SOA Actual.md:8:por
+content/01.Fase1 PR1 SOA Actual.md:8:propuesta
+content/01.Fase1 PR1 SOA Actual.md:8:provee
+content/01.Fase1 PR1 SOA Actual.md:8:relevantes
+content/01.Fase1 PR1 SOA Actual.md:8:servicios
+content/01.Fase1 PR1 SOA Actual.md:8:sobre
+content/01.Fase1 PR1 SOA Actual.md:8:su
+content/01.Fase1 PR1 SOA Actual.md:8:sugieren
+content/01.Fase1 PR1 SOA Actual.md:8:tecnología
+content/01.Fase1 PR1 SOA Actual.md:8:trabajo
+content/01.Fase1 PR1 SOA Actual.md:8:vocabulario
+content/01.Fase1 PR1 SOA Actual.md:10:Contenidos
+content/01.Fase1 PR1 SOA Actual.md:11:Descripción
+content/01.Fase1 PR1 SOA Actual.md:11:Funcional
+content/01.Fase1 PR1 SOA Actual.md:12:áreas
+content/01.Fase1 PR1 SOA Actual.md:12:áreas
+content/01.Fase1 PR1 SOA Actual.md:12:Contexto
+content/01.Fase1 PR1 SOA Actual.md:12:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:12:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:12:FNA
+content/01.Fase1 PR1 SOA Actual.md:12:objetivos
+content/01.Fase1 PR1 SOA Actual.md:12:objeto
+content/01.Fase1 PR1 SOA Actual.md:12:procesos
+content/01.Fase1 PR1 SOA Actual.md:12:productos
+content/01.Fase1 PR1 SOA Actual.md:12:SOA
+content/01.Fase1 PR1 SOA Actual.md:13:ejercicio
+content/01.Fase1 PR1 SOA Actual.md:13:FNA
+content/01.Fase1 PR1 SOA Actual.md:13:Segmento
+content/01.Fase1 PR1 SOA Actual.md:13:SOA
+content/01.Fase1 PR1 SOA Actual.md:14:Catálogo
+content/01.Fase1 PR1 SOA Actual.md:14:FNA
+content/01.Fase1 PR1 SOA Actual.md:14:seleccionados
+content/01.Fase1 PR1 SOA Actual.md:14:servicios
+content/01.Fase1 PR1 SOA Actual.md:15:Áreas
+content/01.Fase1 PR1 SOA Actual.md:15:Áreas
+content/01.Fase1 PR1 SOA Actual.md:15:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:15:objeto
+content/01.Fase1 PR1 SOA Actual.md:15:SOA
+content/01.Fase1 PR1 SOA Actual.md:16:Capacidades
+content/01.Fase1 PR1 SOA Actual.md:16:FNA
+content/01.Fase1 PR1 SOA Actual.md:16:negocio
+content/01.Fase1 PR1 SOA Actual.md:16:relacionadas
+content/01.Fase1 PR1 SOA Actual.md:16:servicios
+content/01.Fase1 PR1 SOA Actual.md:16:SOA
+content/01.Fase1 PR1 SOA Actual.md:17:aplicaciones
+content/01.Fase1 PR1 SOA Actual.md:17:información
+content/01.Fase1 PR1 SOA Actual.md:17:servicios
+content/01.Fase1 PR1 SOA Actual.md:17:Sistemas
+content/01.Fase1 PR1 SOA Actual.md:18:Distribución
+content/01.Fase1 PR1 SOA Actual.md:18:por
+content/01.Fase1 PR1 SOA Actual.md:18:servicios
+content/01.Fase1 PR1 SOA Actual.md:18:Servicios
+content/01.Fase1 PR1 SOA Actual.md:18:SOA
+content/01.Fase1 PR1 SOA Actual.md:18:tipo
+content/01.Fase1 PR1 SOA Actual.md:18:Tipos
+content/01.Fase1 PR1 SOA Actual.md:19:debería
+content/01.Fase1 PR1 SOA Actual.md:19:FNA
+content/01.Fase1 PR1 SOA Actual.md:19:independientes
+content/01.Fase1 PR1 SOA Actual.md:19:Servicios
+content/01.Fase1 PR1 SOA Actual.md:19:tener
+content/01.Fase1 PR1 SOA Actual.md:20:áreas
+content/01.Fase1 PR1 SOA Actual.md:20:áreas
+content/01.Fase1 PR1 SOA Actual.md:20:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:20:FNA
+content/01.Fase1 PR1 SOA Actual.md:20:FNA
+content/01.Fase1 PR1 SOA Actual.md:20:objetivos
+content/01.Fase1 PR1 SOA Actual.md:20:objeto
+content/01.Fase1 PR1 SOA Actual.md:20:Procesos
+content/01.Fase1 PR1 SOA Actual.md:20:productos
+content/01.Fase1 PR1 SOA Actual.md:20:relacionados
+content/01.Fase1 PR1 SOA Actual.md:20:SOA
+content/01.Fase1 PR1 SOA Actual.md:21:Arquitectura
+content/01.Fase1 PR1 SOA Actual.md:21:FNA
+content/01.Fase1 PR1 SOA Actual.md:21:referencia
+content/01.Fase1 PR1 SOA Actual.md:21:SOA
+content/01.Fase1 PR1 SOA Actual.md:22:Descripción
+content/01.Fase1 PR1 SOA Actual.md:22:Información
+content/01.Fase1 PR1 SOA Actual.md:23:aplicaciones
+content/01.Fase1 PR1 SOA Actual.md:23:Portafolio
+content/01.Fase1 PR1 SOA Actual.md:23:proveedores
+content/01.Fase1 PR1 SOA Actual.md:24:datos
+content/01.Fase1 PR1 SOA Actual.md:24:Inventario
+content/01.Fase1 PR1 SOA Actual.md:25:Descripción
+content/01.Fase1 PR1 SOA Actual.md:25:Integración
+content/01.Fase1 PR1 SOA Actual.md:26:crítica
+content/01.Fase1 PR1 SOA Actual.md:26:información
+content/01.Fase1 PR1 SOA Actual.md:26:intercambio
+content/01.Fase1 PR1 SOA Actual.md:26:Matriz
+content/01.Fase1 PR1 SOA Actual.md:26:negocio
+content/01.Fase1 PR1 SOA Actual.md:27:datos
+content/01.Fase1 PR1 SOA Actual.md:27:Entidades
+content/01.Fase1 PR1 SOA Actual.md:27:información
+content/01.Fase1 PR1 SOA Actual.md:27:integración
+content/01.Fase1 PR1 SOA Actual.md:27:negocio
+content/01.Fase1 PR1 SOA Actual.md:27:relacionadas
+content/01.Fase1 PR1 SOA Actual.md:28:Conectores
+content/01.Fase1 PR1 SOA Actual.md:28:integración
+content/01.Fase1 PR1 SOA Actual.md:28:servicios
+content/01.Fase1 PR1 SOA Actual.md:29:datos
+content/01.Fase1 PR1 SOA Actual.md:29:Inventario
+content/01.Fase1 PR1 SOA Actual.md:29:negocio
+content/01.Fase1 PR1 SOA Actual.md:29:por
+content/01.Fase1 PR1 SOA Actual.md:29:servicios
+content/01.Fase1 PR1 SOA Actual.md:29:tipo
+content/01.Fase1 PR1 SOA Actual.md:29:utilitarios
+content/01.Fase1 PR1 SOA Actual.md:30:áreas
+content/01.Fase1 PR1 SOA Actual.md:30:áreas
+content/01.Fase1 PR1 SOA Actual.md:30:Conectores
+content/01.Fase1 PR1 SOA Actual.md:30:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:30:FNA
+content/01.Fase1 PR1 SOA Actual.md:30:integración
+content/01.Fase1 PR1 SOA Actual.md:30:necesidades
+content/01.Fase1 PR1 SOA Actual.md:30:objeto
+content/01.Fase1 PR1 SOA Actual.md:30:SOA
+content/01.Fase1 PR1 SOA Actual.md:31:Entre
+content/01.Fase1 PR1 SOA Actual.md:31:FNA
+content/01.Fase1 PR1 SOA Actual.md:31:Interrelación
+content/01.Fase1 PR1 SOA Actual.md:31:Servicios
+content/01.Fase1 PR1 SOA Actual.md:31:SOA
+content/01.Fase1 PR1 SOA Actual.md:32:Descripción
+content/01.Fase1 PR1 SOA Actual.md:32:Tecnológica
+content/01.Fase1 PR1 SOA Actual.md:33:inventario
+content/01.Fase1 PR1 SOA Actual.md:33:Listado
+content/01.Fase1 PR1 SOA Actual.md:33:servicios
+content/01.Fase1 PR1 SOA Actual.md:33:tecnológico
+content/01.Fase1 PR1 SOA Actual.md:34:Análisis
+content/01.Fase1 PR1 SOA Actual.md:34:el
+content/01.Fase1 PR1 SOA Actual.md:34:FNA
+content/01.Fase1 PR1 SOA Actual.md:34:Madurez
+content/01.Fase1 PR1 SOA Actual.md:34:Método
+content/01.Fase1 PR1 SOA Actual.md:34:Presentación
+content/01.Fase1 PR1 SOA Actual.md:34:SOA
+content/01.Fase1 PR1 SOA Actual.md:35:análisis
+content/01.Fase1 PR1 SOA Actual.md:35:Cuestionarios
+content/01.Fase1 PR1 SOA Actual.md:35:objetivos
+content/01.Fase1 PR1 SOA Actual.md:36:análisis
+content/01.Fase1 PR1 SOA Actual.md:36:Dimensiones
+content/01.Fase1 PR1 SOA Actual.md:36:OSIMM
+content/01.Fase1 PR1 SOA Actual.md:37:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:37:Herramienta
+content/01.Fase1 PR1 SOA Actual.md:37:madurez
+content/01.Fase1 PR1 SOA Actual.md:37:nivel
+content/01.Fase1 PR1 SOA Actual.md:37:SOA
+content/01.Fase1 PR1 SOA Actual.md:39:Aceptación
+content/01.Fase1 PR1 SOA Actual.md:39:Criterios
+content/01.Fase1 PR1 SOA Actual.md:41:Descripción
+content/01.Fase1 PR1 SOA Actual.md:41:dominios
+content/01.Fase1 PR1 SOA Actual.md:41:funcionales
+content/01.Fase1 PR1 SOA Actual.md:41:información
+content/01.Fase1 PR1 SOA Actual.md:41:integración
+content/01.Fase1 PR1 SOA Actual.md:41:negocio
+content/01.Fase1 PR1 SOA Actual.md:41:Tecnológica
+content/01.Fase1 PR1 SOA Actual.md:42:Análisis
+content/01.Fase1 PR1 SOA Actual.md:42:diagnóstico
+content/01.Fase1 PR1 SOA Actual.md:42:madurez
+content/01.Fase1 PR1 SOA Actual.md:42:nivel
+content/01.Fase1 PR1 SOA Actual.md:42:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Contexto
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:1:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Objeto
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Procesos
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Productos
+content/02.Fase 1 PR1 Vista de Contexto.md:1:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:1:Tema
+content/02.Fase 1 PR1 Vista de Contexto.md:3:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:3:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:3:clave
+content/02.Fase 1 PR1 Vista de Contexto.md:3:Contexto
+content/02.Fase 1 PR1 Vista de Contexto.md:3:Objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:3:Palabras
+content/02.Fase 1 PR1 Vista de Contexto.md:3:Procesos
+content/02.Fase 1 PR1 Vista de Contexto.md:3:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:4:Autor
+content/02.Fase 1 PR1 Vista de Contexto.md:5:Fuente
+content/02.Fase 1 PR1 Vista de Contexto.md:6:Hijo
+content/02.Fase 1 PR1 Vista de Contexto.md:6:Secuencia
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Ejecución
+content/02.Fase 1 PR1 Vista de Contexto.md:7:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Procesos
+content/02.Fase 1 PR1 Vista de Contexto.md:7:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:7:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:7:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Trabajo
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Trabajo
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Trabajo
+content/02.Fase 1 PR1 Vista de Contexto.md:7:Vínculos
+content/02.Fase 1 PR1 Vista de Contexto.md:12:Contexto
+content/02.Fase 1 PR1 Vista de Contexto.md:12:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:12:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:13:diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:13:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Objeto
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Procesos
+content/02.Fase 1 PR1 Vista de Contexto.md:13:Productos
+content/02.Fase 1 PR1 Vista de Contexto.md:13:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:14:ajustada
+content/02.Fase 1 PR1 Vista de Contexto.md:14:alcance
+content/02.Fase 1 PR1 Vista de Contexto.md:14:aquellas
+content/02.Fase 1 PR1 Vista de Contexto.md:14:contexto
+content/02.Fase 1 PR1 Vista de Contexto.md:14:diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:14:el
+content/02.Fase 1 PR1 Vista de Contexto.md:14:empresa
+content/02.Fase 1 PR1 Vista de Contexto.md:14:entran
+content/02.Fase 1 PR1 Vista de Contexto.md:14:este
+content/02.Fase 1 PR1 Vista de Contexto.md:14:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:14:partes
+content/02.Fase 1 PR1 Vista de Contexto.md:14:presenta
+content/02.Fase 1 PR1 Vista de Contexto.md:14:proyecto
+content/02.Fase 1 PR1 Vista de Contexto.md:14:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:14:una
+content/02.Fase 1 PR1 Vista de Contexto.md:14:visión
+content/02.Fase 1 PR1 Vista de Contexto.md:18:abarcar
+content/02.Fase 1 PR1 Vista de Contexto.md:18:adelante
+content/02.Fase 1 PR1 Vista de Contexto.md:18:Ahorro
+content/02.Fase 1 PR1 Vista de Contexto.md:18:apuntarán
+content/02.Fase 1 PR1 Vista de Contexto.md:18:aunque
+content/02.Fase 1 PR1 Vista de Contexto.md:18:completitud
+content/02.Fase 1 PR1 Vista de Contexto.md:18:comunica
+content/02.Fase 1 PR1 Vista de Contexto.md:18:contexto
+content/02.Fase 1 PR1 Vista de Contexto.md:18:diagnósticos
+content/02.Fase 1 PR1 Vista de Contexto.md:18:ejecución
+content/02.Fase 1 PR1 Vista de Contexto.md:18:ejercicio
+content/02.Fase 1 PR1 Vista de Contexto.md:18:el
+content/02.Fase 1 PR1 Vista de Contexto.md:18:empresa
+content/02.Fase 1 PR1 Vista de Contexto.md:18:empresarial
+content/02.Fase 1 PR1 Vista de Contexto.md:18:esperados
+content/02.Fase 1 PR1 Vista de Contexto.md:18:Esta
+content/02.Fase 1 PR1 Vista de Contexto.md:18:este
+content/02.Fase 1 PR1 Vista de Contexto.md:18:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:18:foco
+content/02.Fase 1 PR1 Vista de Contexto.md:18:Fondo
+content/02.Fase 1 PR1 Vista de Contexto.md:18:hace
+content/02.Fase 1 PR1 Vista de Contexto.md:18:indicadas
+content/02.Fase 1 PR1 Vista de Contexto.md:18:informa
+content/02.Fase 1 PR1 Vista de Contexto.md:18:Nacional
+content/02.Fase 1 PR1 Vista de Contexto.md:18:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:18:partes
+content/02.Fase 1 PR1 Vista de Contexto.md:18:primero
+content/02.Fase 1 PR1 Vista de Contexto.md:18:problemáticas
+content/02.Fase 1 PR1 Vista de Contexto.md:18:proyecto
+content/02.Fase 1 PR1 Vista de Contexto.md:18:proyecto
+content/02.Fase 1 PR1 Vista de Contexto.md:18:puede
+content/02.Fase 1 PR1 Vista de Contexto.md:18:relevantes
+content/02.Fase 1 PR1 Vista de Contexto.md:18:restricciones
+content/02.Fase 1 PR1 Vista de Contexto.md:18:resultados
+content/02.Fase 1 PR1 Vista de Contexto.md:18:según
+content/02.Fase 1 PR1 Vista de Contexto.md:18:sino
+content/02.Fase 1 PR1 Vista de Contexto.md:18:solución
+content/02.Fase 1 PR1 Vista de Contexto.md:18:temas
+content/02.Fase 1 PR1 Vista de Contexto.md:18:una
+content/02.Fase 1 PR1 Vista de Contexto.md:18:utilice
+content/02.Fase 1 PR1 Vista de Contexto.md:18:vez
+content/02.Fase 1 PR1 Vista de Contexto.md:18:visión
+content/02.Fase 1 PR1 Vista de Contexto.md:22:Contexto
+content/02.Fase 1 PR1 Vista de Contexto.md:22:Detalles
+content/02.Fase 1 PR1 Vista de Contexto.md:22:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:22:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:23:Consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:23:Diagnósticos
+content/02.Fase 1 PR1 Vista de Contexto.md:23:Objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:23:Problemática
+content/02.Fase 1 PR1 Vista de Contexto.md:25:Ahorro
+content/02.Fase 1 PR1 Vista de Contexto.md:25:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:25:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:25:Fondo
+content/02.Fase 1 PR1 Vista de Contexto.md:25:importantes
+content/02.Fase 1 PR1 Vista de Contexto.md:25:Nacional
+content/02.Fase 1 PR1 Vista de Contexto.md:25:problemáticas
+content/02.Fase 1 PR1 Vista de Contexto.md:25:proyecto
+content/02.Fase 1 PR1 Vista de Contexto.md:25:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:25:tratará
+content/02.Fase 1 PR1 Vista de Contexto.md:25:tres
+content/02.Fase 1 PR1 Vista de Contexto.md:27:Independencia
+content/02.Fase 1 PR1 Vista de Contexto.md:27:proveedor
+content/02.Fase 1 PR1 Vista de Contexto.md:28:Flexibilidad
+content/02.Fase 1 PR1 Vista de Contexto.md:28:tiempo
+content/02.Fase 1 PR1 Vista de Contexto.md:29:aplicaciones
+content/02.Fase 1 PR1 Vista de Contexto.md:29:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:29:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:31:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:31:entregaremos
+content/02.Fase 1 PR1 Vista de Contexto.md:31:establecemos
+content/02.Fase 1 PR1 Vista de Contexto.md:31:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:31:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:31:Gobierno
+content/02.Fase 1 PR1 Vista de Contexto.md:31:Nota
+content/02.Fase 1 PR1 Vista de Contexto.md:31:objeto
+content/02.Fase 1 PR1 Vista de Contexto.md:31:producto
+content/02.Fase 1 PR1 Vista de Contexto.md:31:resultados
+content/02.Fase 1 PR1 Vista de Contexto.md:31:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:31:trabajo
+content/02.Fase 1 PR1 Vista de Contexto.md:31:uno
+content/02.Fase 1 PR1 Vista de Contexto.md:33:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:33:conveniencia
+content/02.Fase 1 PR1 Vista de Contexto.md:33:cual
+content/02.Fase 1 PR1 Vista de Contexto.md:33:desarrollarse
+content/02.Fase 1 PR1 Vista de Contexto.md:33:ejecución
+content/02.Fase 1 PR1 Vista de Contexto.md:33:ejercicio
+content/02.Fase 1 PR1 Vista de Contexto.md:33:el
+content/02.Fase 1 PR1 Vista de Contexto.md:33:el
+content/02.Fase 1 PR1 Vista de Contexto.md:33:entregado
+content/02.Fase 1 PR1 Vista de Contexto.md:33:entregan
+content/02.Fase 1 PR1 Vista de Contexto.md:33:este
+content/02.Fase 1 PR1 Vista de Contexto.md:33:estos
+content/02.Fase 1 PR1 Vista de Contexto.md:33:Estos
+content/02.Fase 1 PR1 Vista de Contexto.md:33:fueron
+content/02.Fase 1 PR1 Vista de Contexto.md:33:nivel
+content/02.Fase 1 PR1 Vista de Contexto.md:33:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:33:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:33:puedan
+content/02.Fase 1 PR1 Vista de Contexto.md:33:relación
+content/02.Fase 1 PR1 Vista de Contexto.md:33:resultados
+content/02.Fase 1 PR1 Vista de Contexto.md:33:según
+content/02.Fase 1 PR1 Vista de Contexto.md:33:seleccionados
+content/02.Fase 1 PR1 Vista de Contexto.md:33:significa
+content/02.Fase 1 PR1 Vista de Contexto.md:33:tiempo
+content/02.Fase 1 PR1 Vista de Contexto.md:33:tiempo
+content/02.Fase 1 PR1 Vista de Contexto.md:35:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:35:diagnósticos
+content/02.Fase 1 PR1 Vista de Contexto.md:35:este
+content/02.Fase 1 PR1 Vista de Contexto.md:35:Estos
+content/02.Fase 1 PR1 Vista de Contexto.md:35:imporatntes
+content/02.Fase 1 PR1 Vista de Contexto.md:35:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:35:objetos
+content/02.Fase 1 PR1 Vista de Contexto.md:35:porque
+content/02.Fase 1 PR1 Vista de Contexto.md:35:poryecto
+content/02.Fase 1 PR1 Vista de Contexto.md:35:realizaremos
+content/02.Fase 1 PR1 Vista de Contexto.md:35:sirven
+content/02.Fase 1 PR1 Vista de Contexto.md:35:también
+content/02.Fase 1 PR1 Vista de Contexto.md:35:vez
+content/02.Fase 1 PR1 Vista de Contexto.md:37:Diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:37:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:37:Objetos
+content/02.Fase 1 PR1 Vista de Contexto.md:37:Productos
+content/02.Fase 1 PR1 Vista de Contexto.md:39:considera
+content/02.Fase 1 PR1 Vista de Contexto.md:39:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:39:diagnósticos
+content/02.Fase 1 PR1 Vista de Contexto.md:39:entradas
+content/02.Fase 1 PR1 Vista de Contexto.md:39:Esta
+content/02.Fase 1 PR1 Vista de Contexto.md:39:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:39:negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:39:productos
+content/02.Fase 1 PR1 Vista de Contexto.md:39:siguientes
+content/02.Fase 1 PR1 Vista de Contexto.md:41:ahorro
+content/02.Fase 1 PR1 Vista de Contexto.md:41:AVC
+content/02.Fase 1 PR1 Vista de Contexto.md:41:Cuenta
+content/02.Fase 1 PR1 Vista de Contexto.md:41:voluntario
+content/02.Fase 1 PR1 Vista de Contexto.md:42:Cesantías
+content/02.Fase 1 PR1 Vista de Contexto.md:43:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:44:Cartera
+content/02.Fase 1 PR1 Vista de Contexto.md:46:bien
+content/02.Fase 1 PR1 Vista de Contexto.md:46:bien
+content/02.Fase 1 PR1 Vista de Contexto.md:46:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:46:cuando
+content/02.Fase 1 PR1 Vista de Contexto.md:46:demás
+content/02.Fase 1 PR1 Vista de Contexto.md:46:diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:46:esta
+content/02.Fase 1 PR1 Vista de Contexto.md:46:estos
+content/02.Fase 1 PR1 Vista de Contexto.md:46:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:46:Fondo
+content/02.Fase 1 PR1 Vista de Contexto.md:46:haga
+content/02.Fase 1 PR1 Vista de Contexto.md:46:negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:46:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:46:productos
+content/02.Fase 1 PR1 Vista de Contexto.md:46:relación
+content/02.Fase 1 PR1 Vista de Contexto.md:46:relevantes
+content/02.Fase 1 PR1 Vista de Contexto.md:46:requiera
+content/02.Fase 1 PR1 Vista de Contexto.md:46:según
+content/02.Fase 1 PR1 Vista de Contexto.md:46:serán
+content/02.Fase 1 PR1 Vista de Contexto.md:46:su
+content/02.Fase 1 PR1 Vista de Contexto.md:46:tratados
+content/02.Fase 1 PR1 Vista de Contexto.md:46:únicamente
+content/02.Fase 1 PR1 Vista de Contexto.md:48:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:48:Áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:48:Diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:48:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:48:Negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:48:Objetos
+content/02.Fase 1 PR1 Vista de Contexto.md:50:áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:50:áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:50:competen
+content/02.Fase 1 PR1 Vista de Contexto.md:50:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:50:diagnósticos
+content/02.Fase 1 PR1 Vista de Contexto.md:50:esta
+content/02.Fase 1 PR1 Vista de Contexto.md:50:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:50:FNA
+content/02.Fase 1 PR1 Vista de Contexto.md:50:negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:50:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:50:productos
+content/02.Fase 1 PR1 Vista de Contexto.md:50:seleccionados
+content/02.Fase 1 PR1 Vista de Contexto.md:52:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:52:Vicepresidencia
+content/02.Fase 1 PR1 Vista de Contexto.md:53:Operaciones
+content/02.Fase 1 PR1 Vista de Contexto.md:53:Vicepresidencia
+content/02.Fase 1 PR1 Vista de Contexto.md:55:áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:55:áreas
+content/02.Fase 1 PR1 Vista de Contexto.md:55:Cartera
+content/02.Fase 1 PR1 Vista de Contexto.md:55:caso
+content/02.Fase 1 PR1 Vista de Contexto.md:55:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:55:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:55:debajo
+content/02.Fase 1 PR1 Vista de Contexto.md:55:diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:55:ejemplo
+content/02.Fase 1 PR1 Vista de Contexto.md:55:el
+content/02.Fase 1 PR1 Vista de Contexto.md:55:estas
+content/02.Fase 1 PR1 Vista de Contexto.md:55:este
+content/02.Fase 1 PR1 Vista de Contexto.md:55:Fondo
+content/02.Fase 1 PR1 Vista de Contexto.md:55:Gerencia
+content/02.Fase 1 PR1 Vista de Contexto.md:55:Gerencia
+content/02.Fase 1 PR1 Vista de Contexto.md:55:impactadas
+content/02.Fase 1 PR1 Vista de Contexto.md:55:marcha
+content/02.Fase 1 PR1 Vista de Contexto.md:55:objetivos
+content/02.Fase 1 PR1 Vista de Contexto.md:55:por
+content/02.Fase 1 PR1 Vista de Contexto.md:55:por
+content/02.Fase 1 PR1 Vista de Contexto.md:55:primera
+content/02.Fase 1 PR1 Vista de Contexto.md:55:relacionadas
+content/02.Fase 1 PR1 Vista de Contexto.md:55:serán
+content/02.Fase 1 PR1 Vista de Contexto.md:55:tanto
+content/02.Fase 1 PR1 Vista de Contexto.md:55:vean
+content/02.Fase 1 PR1 Vista de Contexto.md:57:Referencia
+content/02.Fase 1 PR1 Vista de Contexto.md:63:Diagnóstico
+content/02.Fase 1 PR1 Vista de Contexto.md:63:Negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:63:Objetos
+content/02.Fase 1 PR1 Vista de Contexto.md:63:Procesos
+content/02.Fase 1 PR1 Vista de Contexto.md:65:aquellos
+content/02.Fase 1 PR1 Vista de Contexto.md:65:consultoría
+content/02.Fase 1 PR1 Vista de Contexto.md:65:ejemplo
+content/02.Fase 1 PR1 Vista de Contexto.md:65:esta
+content/02.Fase 1 PR1 Vista de Contexto.md:65:este
+content/02.Fase 1 PR1 Vista de Contexto.md:65:negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:65:negocio
+content/02.Fase 1 PR1 Vista de Contexto.md:65:objetos
+content/02.Fase 1 PR1 Vista de Contexto.md:65:por
+content/02.Fase 1 PR1 Vista de Contexto.md:65:por
+content/02.Fase 1 PR1 Vista de Contexto.md:65:procesos
+content/02.Fase 1 PR1 Vista de Contexto.md:65:productos
+content/02.Fase 1 PR1 Vista de Contexto.md:65:proyecto
+content/02.Fase 1 PR1 Vista de Contexto.md:65:relacionados
+content/02.Fase 1 PR1 Vista de Contexto.md:65:seleccionados
+content/02.Fase 1 PR1 Vista de Contexto.md:65:SOA
+content/02.Fase 1 PR1 Vista de Contexto.md:67:Administración
+content/02.Fase 1 PR1 Vista de Contexto.md:67:Cesantías
+content/02.Fase 1 PR1 Vista de Contexto.md:67:CSNT
+content/02.Fase 1 PR1 Vista de Contexto.md:67:Cuentas
+content/02.Fase 1 PR1 Vista de Contexto.md:67:Pago
+content/02.Fase 1 PR1 Vista de Contexto.md:68:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:68:Gestión
+content/02.Fase 1 PR1 Vista de Contexto.md:69:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:69:Educativo
+content/02.Fase 1 PR1 Vista de Contexto.md:69:Gestión
+content/02.Fase 1 PR1 Vista de Contexto.md:70:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:70:Gestión
+content/02.Fase 1 PR1 Vista de Contexto.md:70:Hipotecario
+content/02.Fase 1 PR1 Vista de Contexto.md:71:Crédito
+content/02.Fase 1 PR1 Vista de Contexto.md:71:Gestión
+content/02.Fase 1 PR1 Vista de Contexto.md:72:Cartera
+content/02.Fase 1 PR1 Vista de Contexto.md:72:Facturación
+content/02.Fase 1 PR1 Vista de Contexto.md:76:Referencia
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:Contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:Partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:por
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:relación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:Segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:selecionados
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:su
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:Tema
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Aplicaciones
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Áreas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Áreas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:clave
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Palabras
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:Servicios
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:3:SOA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:4:Autor
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:5:Fuente
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:Contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:Negocio
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:Procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:SOA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:SOA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:Trabajo
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:Trabajo
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:6:Vínculos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:9:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:9:Segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:9:SOA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:alcance
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:análisis
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:brecha
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:consultoría
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:consultoría
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:demás
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:desarrollarán
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:diagnóstico
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:el
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:esta
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:esta
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:esta
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:filtrada
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:hoja
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:lista
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:lista
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:objeto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:por
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:presenta
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:proyecto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:ruta
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:seleccionadas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:serán
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:SOA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:sobre
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:tanto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:todas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:11:una
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:13:diagnóstico
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:13:Empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:13:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:13:objeto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:13:Partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:13:SOA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:alguno
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:alguno
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:bien
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:Contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:cual
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:demás
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:directa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:elementos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:elementos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:están
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:estas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:Estas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:negocio
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:negocio
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:por
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:productos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:relación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:seleccionadas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:sido
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:significa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:tener
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:Ver
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:15:vinculadas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:Aporte
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:Cesantías
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:el
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:Gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:negocio
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:parte
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:por
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:relación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:sido
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:su
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:17:Traslado
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:Aporte
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:Cesantías
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:Cesantías
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:contexto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:directa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:el
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:forma
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:negocio
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:productos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:su
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:uno
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:ver
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:19:vez
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:diagnóstico
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:el
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:objeto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:por
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:sido
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:conforman
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:diagnosticar
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:el
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:FNA
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:25:segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:29:aporte
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:29:Aporte
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:29:censatias
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:29:Censatias
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:30:administración
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:30:Administración
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:30:cuentas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:30:Cuentas
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:30:pago
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:30:Pago
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:31:comercial
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:31:Comercial
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:31:gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:31:Gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:32:credito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:32:Credito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:32:gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:32:Gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:33:educativo
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:33:Educativo
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:34:misionales
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:34:Misionales
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:34:procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:34:Procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:35:hipotecario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:35:Hipotecario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:36:cesantias
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:36:Cesantias
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:37:desembolso
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:37:Desembolso
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:38:cartera
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:38:Cartera
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:38:facturación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:38:Facturación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:39:ahorro
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:39:Ahorro
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:39:voluntario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:39:Voluntario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:40:ahorro
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:40:Ahorro
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:40:captación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:40:Captación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:40:voluntario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:40:Voluntario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:consignación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:Consignación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:planilla
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:Planilla
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:scriptportlet
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:41:ScriptPortlet
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:42:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:42:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:42:gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:42:Gestión
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:42:traslado
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:42:Traslado
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:43:cesantias
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:43:Cesantias
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:43:cobis
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:43:COBIS
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:44:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:44:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:44:bizagi
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:44:Bizagi
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:45:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:45:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:45:credito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:45:Credito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:45:ejb
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:45:EJB
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:46:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:46:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:46:crédito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:46:Crédito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:47:aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:47:Aplicación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:48:bizagi
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:48:BIZAGI
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:49:cobis
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:49:COBIS
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:49:crédito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:49:Crédito
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:50:servicios
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:50:Servicios
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:51:cartera
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:51:Cartera
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:51:cobis
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:51:COBIS
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:52:avc
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:52:AVC
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:52:cobis
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:52:COBIS
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:53:infraestructura
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:53:Infraestructura
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:53:servicios
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:53:Servicios
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:54:transunion
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:54:Transunion
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:actualizar
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:aparezcan
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:aplicaciones
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:carecen
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:empresa
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:faltan
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:hagan
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:infraestructura
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:modelos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:modelos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:modelos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:necesario
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:negocio
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:Nota
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:partes
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:procesos
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:relación
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:segmento
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:servicios
+content/04.Fase 1 PR1 Vista funcional.md:1:Catálogo
+content/04.Fase 1 PR1 Vista funcional.md:1:Funcional
+content/04.Fase 1 PR1 Vista funcional.md:1:Servicios
+content/04.Fase 1 PR1 Vista funcional.md:1:SOA
+content/04.Fase 1 PR1 Vista funcional.md:1:Tema
+content/04.Fase 1 PR1 Vista funcional.md:3:Áreas
+content/04.Fase 1 PR1 Vista funcional.md:3:Áreas
+content/04.Fase 1 PR1 Vista funcional.md:3:Capacidades
+content/04.Fase 1 PR1 Vista funcional.md:3:clave
+content/04.Fase 1 PR1 Vista funcional.md:3:Conectores
+content/04.Fase 1 PR1 Vista funcional.md:3:Palabras
+content/04.Fase 1 PR1 Vista funcional.md:3:Servicios
+content/04.Fase 1 PR1 Vista funcional.md:3:SOA
+content/04.Fase 1 PR1 Vista funcional.md:4:Autor
+content/04.Fase 1 PR1 Vista funcional.md:5:Fuente
+content/04.Fase 1 PR1 Vista funcional.md:6:Hijo
+content/04.Fase 1 PR1 Vista funcional.md:6:Secuencia
+content/04.Fase 1 PR1 Vista funcional.md:7:Catálogo
+content/04.Fase 1 PR1 Vista funcional.md:7:Catálogo
+content/04.Fase 1 PR1 Vista funcional.md:7:FNA
+content/04.Fase 1 PR1 Vista funcional.md:7:FNA
+content/04.Fase 1 PR1 Vista funcional.md:7:Servicios
+content/04.Fase 1 PR1 Vista funcional.md:7:Servicios
+content/04.Fase 1 PR1 Vista funcional.md:7:Vínculos
+content/04.Fase 1 PR1 Vista funcional.md:11:arquitectura
+content/04.Fase 1 PR1 Vista funcional.md:11:Descripción
+content/04.Fase 1 PR1 Vista funcional.md:11:Funcional
+content/04.Fase 1 PR1 Vista funcional.md:11:referencia
+content/04.Fase 1 PR1 Vista funcional.md:12:arquitectura
+content/04.Fase 1 PR1 Vista funcional.md:12:comparar
+content/04.Fase 1 PR1 Vista funcional.md:12:deben
+content/04.Fase 1 PR1 Vista funcional.md:12:desarrollar
+content/04.Fase 1 PR1 Vista funcional.md:12:Fondo
+content/04.Fase 1 PR1 Vista funcional.md:12:fortalecer
+content/04.Fase 1 PR1 Vista funcional.md:12:funciona
+content/04.Fase 1 PR1 Vista funcional.md:12:funcional
+content/04.Fase 1 PR1 Vista funcional.md:12:hacer
+content/04.Fase 1 PR1 Vista funcional.md:12:parte
+content/04.Fase 1 PR1 Vista funcional.md:12:por
+content/04.Fase 1 PR1 Vista funcional.md:12:portafolio
+content/04.Fase 1 PR1 Vista funcional.md:12:presenta
+content/04.Fase 1 PR1 Vista funcional.md:12:referencia
+content/04.Fase 1 PR1 Vista funcional.md:12:servicios
+content/04.Fase 1 PR1 Vista funcional.md:12:servicios
+content/04.Fase 1 PR1 Vista funcional.md:12:SOA
+content/04.Fase 1 PR1 Vista funcional.md:12:tanto
+content/04.Fase 1 PR1 Vista funcional.md:12:una
+content/04.Fase 1 PR1 Vista funcional.md:12:vez
+content/04.Fase 1 PR1 Vista funcional.md:12:vigilar
+content/04.Fase 1 PR1 Vista funcional.md:16:basada
+content/04.Fase 1 PR1 Vista funcional.md:16:funcional
+content/04.Fase 1 PR1 Vista funcional.md:16:Imagen
+content/04.Fase 1 PR1 Vista funcional.md:16:mapa
+content/04.Fase 1 PR1 Vista funcional.md:16:servicios
+content/04.Fase 1 PR1 Vista funcional.md:18:elaboración
+content/04.Fase 1 PR1 Vista funcional.md:18:propia
+content/04.Fase 1 PR1 Vista funcional.md:20:además
+content/04.Fase 1 PR1 Vista funcional.md:20:alineados
+content/04.Fase 1 PR1 Vista funcional.md:20:áreas
+content/04.Fase 1 PR1 Vista funcional.md:20:áreas
+content/04.Fase 1 PR1 Vista funcional.md:20:claves
+content/04.Fase 1 PR1 Vista funcional.md:20:diagnóstico
+content/04.Fase 1 PR1 Vista funcional.md:20:el
+content/04.Fase 1 PR1 Vista funcional.md:20:este
+content/04.Fase 1 PR1 Vista funcional.md:20:FNA
+content/04.Fase 1 PR1 Vista funcional.md:20:funcional
+content/04.Fase 1 PR1 Vista funcional.md:20:importante
+content/04.Fase 1 PR1 Vista funcional.md:20:independientes
+content/04.Fase 1 PR1 Vista funcional.md:20:negocio
+content/04.Fase 1 PR1 Vista funcional.md:20:objeto
+content/04.Fase 1 PR1 Vista funcional.md:20:pero
+content/04.Fase 1 PR1 Vista funcional.md:20:porque
+content/04.Fase 1 PR1 Vista funcional.md:20:presenta
+content/04.Fase 1 PR1 Vista funcional.md:20:SOA
+content/04.Fase 1 PR1 Vista funcional.md:20:también
+content/04.Fase 1 PR1 Vista funcional.md:20:tecnología
+content/04.Fase 1 PR1 Vista funcional.md:24:arquitectura
+content/04.Fase 1 PR1 Vista funcional.md:24:clave
+content/04.Fase 1 PR1 Vista funcional.md:24:colección
+content/04.Fase 1 PR1 Vista funcional.md:24:diagnóstico
+content/04.Fase 1 PR1 Vista funcional.md:24:empresa
+content/04.Fase 1 PR1 Vista funcional.md:24:empresa
+content/04.Fase 1 PR1 Vista funcional.md:24:esta
+content/04.Fase 1 PR1 Vista funcional.md:24:esta
+content/04.Fase 1 PR1 Vista funcional.md:24:establecer
+content/04.Fase 1 PR1 Vista funcional.md:24:este
+content/04.Fase 1 PR1 Vista funcional.md:24:FNA
+content/04.Fase 1 PR1 Vista funcional.md:24:hacen
+content/04.Fase 1 PR1 Vista funcional.md:24:internas
+content/04.Fase 1 PR1 Vista funcional.md:24:necesario
+content/04.Fase 1 PR1 Vista funcional.md:24:parte
+content/04.Fase 1 PR1 Vista funcional.md:24:partes
+content/04.Fase 1 PR1 Vista funcional.md:24:partes
+content/04.Fase 1 PR1 Vista funcional.md:24:partir
+content/04.Fase 1 PR1 Vista funcional.md:24:referencia
+content/04.Fase 1 PR1 Vista funcional.md:24:relaciones
+content/04.Fase 1 PR1 Vista funcional.md:24:relevantes
+content/04.Fase 1 PR1 Vista funcional.md:24:Resaltamos
+content/04.Fase 1 PR1 Vista funcional.md:24:segmento
+content/04.Fase 1 PR1 Vista funcional.md:24:Segmento
+content/04.Fase 1 PR1 Vista funcional.md:24:SOA
+content/04.Fase 1 PR1 Vista funcional.md:24:una
+content/04.Fase 1 PR1 Vista funcional.md:24:ver
+content/04.Fase 1 PR1 Vista funcional.md:24:vez
+content/04.Fase 1 PR1 Vista funcional.md:26:arquitectura
+content/04.Fase 1 PR1 Vista funcional.md:26:capacidades
+content/04.Fase 1 PR1 Vista funcional.md:26:conectar
+content/04.Fase 1 PR1 Vista funcional.md:26:conectores
+content/04.Fase 1 PR1 Vista funcional.md:26:cumplimiento
+content/04.Fase 1 PR1 Vista funcional.md:26:desarrollar
+content/04.Fase 1 PR1 Vista funcional.md:26:ejercicio
+content/04.Fase 1 PR1 Vista funcional.md:26:el
+content/04.Fase 1 PR1 Vista funcional.md:26:El
+content/04.Fase 1 PR1 Vista funcional.md:26:esta
+content/04.Fase 1 PR1 Vista funcional.md:26:estas
+content/04.Fase 1 PR1 Vista funcional.md:26:FNA
+content/04.Fase 1 PR1 Vista funcional.md:26:funcional
+content/04.Fase 1 PR1 Vista funcional.md:26:intersectar
+content/04.Fase 1 PR1 Vista funcional.md:26:listar
+content/04.Fase 1 PR1 Vista funcional.md:26:necesarios
+content/04.Fase 1 PR1 Vista funcional.md:26:partes
+content/04.Fase 1 PR1 Vista funcional.md:26:referencia
+content/04.Fase 1 PR1 Vista funcional.md:26:segmento
+content/04.Fase 1 PR1 Vista funcional.md:26:segmento
+content/04.Fase 1 PR1 Vista funcional.md:26:siguiente
+content/04.Fase 1 PR1 Vista funcional.md:30:arquitectura
+content/04.Fase 1 PR1 Vista funcional.md:30:Capacidades
+content/04.Fase 1 PR1 Vista funcional.md:30:Conectores
+content/04.Fase 1 PR1 Vista funcional.md:30:referencia
+content/04.Fase 1 PR1 Vista funcional.md:31:aparecen
+content/04.Fase 1 PR1 Vista funcional.md:31:arquitectura
+content/04.Fase 1 PR1 Vista funcional.md:31:capacidades
+content/04.Fase 1 PR1 Vista funcional.md:31:conectores
+content/04.Fase 1 PR1 Vista funcional.md:31:conexión
+content/04.Fase 1 PR1 Vista funcional.md:31:dinamizan
+content/04.Fase 1 PR1 Vista funcional.md:31:entre
+content/04.Fase 1 PR1 Vista funcional.md:31:entre
+content/04.Fase 1 PR1 Vista funcional.md:31:esta
+content/04.Fase 1 PR1 Vista funcional.md:31:independientes
+content/04.Fase 1 PR1 Vista funcional.md:31:interacción
+content/04.Fase 1 PR1 Vista funcional.md:31:líneas
+content/04.Fase 1 PR1 Vista funcional.md:31:proveedor
+content/04.Fase 1 PR1 Vista funcional.md:31:referencia
+content/04.Fase 1 PR1 Vista funcional.md:31:servicios
+content/04.Fase 1 PR1 Vista funcional.md:31:tecnología
+content/04.Fase 1 PR1 Vista funcional.md:33:características
+content/04.Fase 1 PR1 Vista funcional.md:33:conectores
+content/04.Fase 1 PR1 Vista funcional.md:33:Describimos
+content/04.Fase 1 PR1 Vista funcional.md:33:ejemplos
+content/04.Fase 1 PR1 Vista funcional.md:33:estos
+content/04.Fase 1 PR1 Vista funcional.md:33:siguientes
+content/04.Fase 1 PR1 Vista funcional.md:34:conectores
+content/04.Fase 1 PR1 Vista funcional.md:36:Conectores
+content/04.Fase 1 PR1 Vista funcional.md:36:dinamizan
+content/04.Fase 1 PR1 Vista funcional.md:36:entre
+content/04.Fase 1 PR1 Vista funcional.md:36:Imagen
+content/04.Fase 1 PR1 Vista funcional.md:36:independientes
+content/04.Fase 1 PR1 Vista funcional.md:36:interacción
+content/04.Fase 1 PR1 Vista funcional.md:36:servicios
+content/04.Fase 1 PR1 Vista funcional.md:38:elaboración
+content/04.Fase 1 PR1 Vista funcional.md:38:propia
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:Catálogo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:diagnóstico
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:relevantes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:Tema
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:Áreas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:Áreas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:Capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:clave
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:Palabras
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:4:Autor
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:5:Fuente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:6:Hijo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:6:Secuencia
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Catálogo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Catálogo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Vínculos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:11:Catálogo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:11:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:11:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:13:Capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:13:Empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:13:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:demás
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:documentación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:elementos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:Esta
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:hacemos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:información
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:modelos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:negocio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:pero
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:preliminar
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:preliminares
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:propuesta
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:relacionar
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:repositorio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:segmento
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:sirve
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:sustituta
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:14:una
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:16:Capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:16:encontradas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:16:negocio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:18:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:18:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:18:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:19:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:19:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:20:Administración
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:20:Negocio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:20:Recursos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:21:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:21:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:22:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:22:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:23:Financiera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:23:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:25:Aplicaciones
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:25:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:25:Portafolio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:Capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:Importancia
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:otras
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:partes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:29:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:abajo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:ejercicio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:estas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:este
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:importantes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:intersección
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:lista
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:más
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:naranja
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:negocio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:negocio
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:nivel
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:por
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:propuestas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:relación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:resultará
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:segmento
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:30:su
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:continuación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:diagnósticos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:el
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:estas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:Fondo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:futuros
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:gobierno
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:igual
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:importantes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:indicados
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:manera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:más
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:modelos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:partes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:Por
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:relevantes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:según
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:36:SOA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:38:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:38:Parte
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:38:Parte
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:38:Relacionada
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:38:Tipo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:40:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:40:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:40:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:40:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:40:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:41:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:42:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:43:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:44:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:44:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:45:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:45:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:45:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:45:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:46:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:47:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:48:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:49:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:49:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:50:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:50:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:50:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:50:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:51:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:52:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:53:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:54:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:54:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:55:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:55:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:55:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:55:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:56:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:57:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:58:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:60:arquitectura
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:60:fna
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:capacidades
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:debido
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:el
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:empresa
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:FNA
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:importancia
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:nivel
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:partes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:relación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:relevantes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:siguientes
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:64:su
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:66:Destino
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:66:Nombre
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:66:Origen
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:66:Relevancia
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:68:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:68:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:68:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:68:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:69:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:69:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:69:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:69:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:69:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:70:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:70:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:70:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:70:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:71:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:71:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:71:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:71:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:72:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:72:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:72:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:72:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:72:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:73:Desarrollo
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:73:negocios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:73:nuevos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:74:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:74:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:74:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:75:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:75:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:75:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:75:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:76:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:76:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:76:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:77:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:77:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:77:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:78:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:78:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:78:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:78:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:79:Entrega
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:79:Productos
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:80:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:80:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:80:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:81:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:81:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:81:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:81:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:82:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:82:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:82:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:83:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:83:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:83:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:84:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:84:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:84:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:84:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:85:Cliente
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:85:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:86:COBIS
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:86:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:86:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:87:Autenticación
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:87:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:87:Gestión
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:87:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:88:ConsultarestadocuentaCartera
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:88:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:88:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:89:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:89:RegistrarRecaudoObligacion
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:89:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:90:Cuentas
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:90:Servicios
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:92:arquitectura
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:92:fna
