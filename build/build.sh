@@ -40,11 +40,11 @@ mkdir -p output
 
 # Create HTML output
 # https://pandoc.org/MANUAL.html
-# echo >&2 "Exporting HTML manuscript"
-# pandoc --verbose \
-#   --data-dir="$PANDOC_DATA_DIR" \
-#   --defaults=common.yaml \
-#   --defaults=html.yaml
+echo >&2 "Exporting HTML manuscript"
+pandoc --verbose \
+  --data-dir="$PANDOC_DATA_DIR" \
+  --defaults=common.yaml \
+  --defaults=html.yaml
 
 # Create PDF output (unless BUILD_PDF environment variable equals "false")
 # If Docker is not available, use WeasyPrint to create PDF
