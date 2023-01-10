@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T22:48:07+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T22:48:07+00:00" />
+  <meta name="dc.modified" content="2023-01-10T22:53:29+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T22:53:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/0dec9768e598a94b0329bd4ebd7ec5266cf7f0e8/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/0dec9768e598a94b0329bd4ebd7ec5266cf7f0e8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/0dec9768e598a94b0329bd4ebd7ec5266cf7f0e8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b26e723e9f17027838ec6cb60b6646c7df9b4945/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b26e723e9f17027838ec6cb60b6646c7df9b4945/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b26e723e9f17027838ec6cb60b6646c7df9b4945/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -828,7 +828,41 @@ La relación entre procesos y aplicaciones del Fondo siguiente nos da la pauta d
 |Captación de Ahorro Voluntario|1|
 |**Total general**|**97**|
 
-[Tabla. ]() Procesos del FNA con mayor cantidad de relaciones a aplicaciones.
+[Tabla.]() Procesos del FNA con mayor cantidad de relaciones a aplicaciones.
+
+_Fuente: InventarioAplicacionesFNA.xlsx_
+
+<br>
+
+Para ejemplificar las relaciones de los procesos con las aplicaciones, tomaremos el proceso Facturación y Cartera para listar las aplicaciones implicadas con este.
+
+|**Proceso**|**Aplicación**|**Canal**|
+|-----------|--------------|---------|
+|Facturación y Cartera|Abogados Externos|Internet|
+|Facturación y Cartera|Adminfo cobranza|Oficina|
+|Facturación y Cartera|Adminfo crédito|Oficina|
+|Facturación y Cartera|Aplicación ASOCAJAS|Externo|
+|Facturación y Cartera|Aplicación Banco de Bogotá|Externo|
+|Facturación y Cartera|Aplicación Banco de Occidente|Externo|
+|Facturación y Cartera|Aplicación Banco Sudameris|Externo|
+|Facturación y Cartera|Aplicación Bancolombia|Externo|
+|Facturación y Cartera|Aplicación Cadena|Oficina|
+|Facturación y Cartera|Aplicación Colpatria|Externo|
+|Facturación y Cartera|Aplicación Davivienda|Externo|
+|Facturación y Cartera|Aplicación Helm|Externo|
+|Facturación y Cartera|Aplicación Operador Aportes En Línea|Externo|
+|Facturación y Cartera|Aplicación Operador Asopagos|Externo|
+|Facturación y Cartera|Aplicación Operador Enlace Operativo|Externo|
+|Facturación y Cartera|Aplicación Operador Mi Planilla|Externo|
+|Facturación y Cartera|Aplicación Operador Simple|Externo|
+|Facturación y Cartera|Aplicación Operador SOI|Externo|
+|Facturación y Cartera|Aplicación SuRed|Externo|
+|Facturación y Cartera|COBIS Cartera|Oficina|
+|Facturación y Cartera|COBIS Garantías|Oficina|
+|Facturación y Cartera|Contingencia Banco de la Republica|Oficina|
+|Facturación y Cartera|Ecollect/Avisor/PSE|Internet|
+
+[Tabla. ]() Relaciones del proceso Facturación y Cartera del FNA.
 
 _Fuente: InventarioAplicacionesFNA.xlsx_
 
