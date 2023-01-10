@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T19:40:24+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T19:40:24+00:00" />
+  <meta name="dc.modified" content="2023-01-10T19:48:36+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T19:48:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b8f816233dbf0d5e71ac71a963759bb819df4503/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b8f816233dbf0d5e71ac71a963759bb819df4503/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b8f816233dbf0d5e71ac71a963759bb819df4503/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/49f97830e57472875d4bc6b254ec8b91d1874409/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/49f97830e57472875d4bc6b254ec8b91d1874409/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/49f97830e57472875d4bc6b254ec8b91d1874409/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -724,4 +724,67 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 
 ---
 [embedView]:VistaPortafolio-CatalogoServiciosFNA.1.png
+
+
+|Tema|Catálogo de Servicios: **Tipos de Servicios y Distribución de Servicios SOA por Tipo**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Servicios, Distribución de servicios|
+|Autor||
+|Fuente||
+|Versión||
+|Secuencia|Padre<br>Hijo||Vínculos||
+
+<br>
+
+## Catalogación de los Tipos de Servicios del Portafolio SOA, FNA
+
+De la clasificación de servicios que dimos en la vista de contexto (servicios de información, proceso y negocio), y filtrando los servicios únicamente a los objeto de esta consultoría (vista de segmento), tenemos que la mayor cantidad de servicios del portafolio son de información. 
+
+La tabla siguiente muestra la población de servicios del portafolio FNA.
+
+|||
+|---------------|--|
+|**Tipo Servicio**|**Cantidad**|
+|Servicio Información|**55**|
+|Servicio Proceso|18|
+|Servicio Negocio|14|
+|**Total general**|**87**|
+
+[Tabla.]() Catalogación de los tipos de servicios SOA del FNA.
+
+_Fuente: elaboración propia, FNA_PortafolioServiciosFinal+ConsumidoresyProveedores.xlsx_
+
+<br>
+
+    Lo anterior responde a que la mayor cantidad de servicios SOA que son relevantes para el Fondo sirven para transportar información, esto es, para responder a solicitudes de información de los procesos o aplicaciones. Así mismo, este grupo influye en la cantidad de esfuerzo en mantenimiento y gobierno SOA. Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómputo (sea cálculo, diferencia, comparación...), y por tanto, inciden en la flexibilidad de negocio, son los de menor presencia en el portafolio FNA.
+
+<br>
+
+
+**Es importante** tener esta población presente porque puede estar influyendo en inclinar los esfuerzos hacia el mantenimiento de servicios de información, en lugar de a la velocidad de salida (tiempo de mercado) de las funcionalidades de negocio.
+
+<br>
+
+### Lista de Detalle de los Servicios de Proceso
+Presentamos a continuación el detalle de una de las catalogaciones presentadas en la tabla anterior: los servicios de proceso.
+
+|**Nombre Servicio**|**Proveedor**|**Consumidor**|**Tipo Servicio**|
+|-------------------|-------------|--------------|-----------------|
+|VS\_ESB\_2.0.0\_Credito\_RecuperarTramiteSolicitudes|COBIS AS058|COBRANZA|Servicio Negocio|
+|VS-ESB-1.3.0-Cesantias-CrearSolicitudRetiro|Cobis|APP MOVIL|Servicio Negocio|
+|VS-ESB-1.1.0-CuentaAVC-CrearSolicitudRetiro|Cobis|APP MOVIL|Servicio Negocio|
+|VS-ESB-1.0.0-CuentaAVC-ConsultarScoring|Cobis|Aplicaciones FNA|Servicio Negocio|
+|VS\_ESB\_1.0.0\_CuentaAVC\_GestionCuentaAVC|Cobis|APP MOVIL|Servicio Negocio|
+|VS\_ESB\_1.0.0\_Credito\_RechazarTramiteCredito|Cobis|bizagi|Servicio Negocio|
+|VS\_ESB\_1.0.0\_Credito\_GenerarCertificadoService|Cobis|FONDO EN LINEA|Servicio Negocio|
+|VS\_ESB\_1.0.0\_Credito\_EnrutarTramiteCredito|Cobis|bizagi|Servicio Negocio|
+|VS\_ESB\_1.0.0\_Credito\_AsignarEstacionTramiteCredito|Cobis|ASESOR FNA|Servicio Negocio|
+|VS\_ESB\_1.0.0\_Cesantias\_CrearSolicitudRetiro|Cobis|APP MOVIL|Servicio Negocio|
+|VS-ESB-1.0.0-Credito-NotificarEstadoDesembolso|BIZAGI|COBIS|Servicio Negocio|
+|VS\_ESB\_1.0.0\_CuadroVentas\_CrearSolicitud|ADMINFO|ATENCIÓN AL CLIENTE|Servicio Negocio|
+|VS\_ESB\_1.0.0\_CuentaAVC\_CalcularPuntajeService|||Servicio Negocio|
+|VS\_ESB\_1.0.0\_Credito\_InformarCambioEstadoEtapaCobroJuridico|||Servicio Negocio|
+
+
+_Fuente: elaboración propia. Catalogo_FNA.xlsx_
 
