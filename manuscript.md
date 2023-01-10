@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T18:09:37+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T18:09:37+00:00" />
+  <meta name="dc.modified" content="2023-01-10T18:28:15+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T18:28:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/fna-devdoc-f1-1/v/b7a5c3f80d23ecb53de321822e2a2239209e01c7/))
+([permalink](https://hwong23.github.io/fna-devdoc-f1-1/v/2adb07fdd834d55365065416659921fd62b6f0b0/))
 was automatically generated
-from [hwong23/fna-devdoc-f1-1@b7a5c3f](https://github.com/hwong23/fna-devdoc-f1-1/tree/b7a5c3f80d23ecb53de321822e2a2239209e01c7)
+from [hwong23/fna-devdoc-f1-1@2adb07f](https://github.com/hwong23/fna-devdoc-f1-1/tree/2adb07fdd834d55365065416659921fd62b6f0b0)
 on January 10, 2023.
 </em></small>
 
