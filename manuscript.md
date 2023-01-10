@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T18:58:44+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T18:58:44+00:00" />
+  <meta name="dc.modified" content="2023-01-10T19:40:24+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T19:40:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/1de0de1125d375a4c685e464d6b2b9803dbb44fb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/1de0de1125d375a4c685e464d6b2b9803dbb44fb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/1de0de1125d375a4c685e464d6b2b9803dbb44fb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b8f816233dbf0d5e71ac71a963759bb819df4503/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b8f816233dbf0d5e71ac71a963759bb819df4503/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b8f816233dbf0d5e71ac71a963759bb819df4503/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -391,4 +391,337 @@ _Fuente: arquitectura fna.archimate_
 -----
 
 [embedView]: FNA_Arquitectura-Vista%20de%20Capacidades%20FNA.png
+
+
+# Areas de Negocio FNA
+
+|Tema|Catálogo de Servicios SOA: **Relación de Áreas de Negocio FNA y Servicios SOA**|
+|----|-------------------------------------------|
+|Palabras clave|SOA, Áreas de Negocio, Procesos
+|Autor||
+|Fuente|Modelos de arquitectura FNA |
+|Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
+|||
+
+En los modelos analizados (Anexo 2) no se evidencia relación de las áreas de negocio del FNA con otros elementos de la vista de segmento. Los modelos actuales no registran la relación de las áreas con los procesos de negocio (misionales, estratégicos o de soporte, ni con los seleccionados para el diagnóstico), aplicaciones ni con servicios SOA. 
+
+**Importante**: si falta esta relación en los modelos, no hay forma de conocer ni gestionar la demanda de los servicios SOA del Fondo, y si estos responde a necesidades de negocio, o de operación, o de tecnología, o de alguna otra área o proceso.
+
+La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de Legalización.
+
+
+![Vista][embedView]
+_Fuente: ae_fna.archimate, ae_fna_as_is.archimate, ae_fna_tobe.archimate._
+
+<br>
+
+Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas. Razón por la cual no tienen relación con los elementos relevantes de la empresa ni de este diagnóstico. 
+
+## Anexo 1. Áreas FNA Modeladas
+|Name|Type|
+|--------|--------|
+|1\. Cargue de insumo|business-function|
+|10\. Toma de Firmas Notariales|business-function|
+|11\. Validar estado Documental para Desembolso|business-function|
+|12\. Seguimiento de Registro|business-function|
+|13\. Consolidar carpeta Legal|business-function|
+|2\. Consulta de Documento|business-function|
+|3\. Estudio Preliminar Títulos|business-function|
+|4\. Análisis Previo - Análisis de capacidad de pagos|business-function|
+|5\. Consecución de Documentos|business-function|
+|6\. Recibir documentos|business-function|
+|7\. Avalúo Comercial|business-function|
+|8\. Estudio de Títulos – Imprimible|business-function|
+|9\. Elaboración de Minuta y Reparto Notarial|business-function|
+|Aplicacion de Negocio|business-function|
+|Aplicacion de Negocio (copy)|business-function|
+|Business Function|business-function|
+|FN1. Vicepresidencia de Crédito|business-function|
+|FN2. Vicepresidencia de Operaciones.|business-function|
+|Otras Áreas FNA|business-function|
+|Servicio de Negocio|business-function|
+|Servicio de Negocio (copy)|business-function|
+|Versión Aplicación|business-function|
+|Versión Aplicación (copy)|business-function|
+|Versiones Del Servicio|business-function|
+|Versiones Del Servicio|business-function|
+
+<br>
+
+## Anexo 2. Modelos Analizados
+* 2015-06-01 modelo arquitectura togaf - fna banca digital v6.archimate
+* aa002 - cobis ahorro voluntario.archimate
+* aa003-cobis cesantias.archimate
+* aa005-cobis cartera.archimate
+* aa006-cobis tramites.archimate
+* aa015-cobis clientes.archimate
+* aa020-banca virtual.archimate
+* aa021-fondo en linea.archimate
+* aa074-fondo en linea personal.archimate
+* **aa091-cobis cx.archimate**
+* **ae_fna.archimate**
+* **ae_fna_as_is.archimate**
+* ae_fna_tobe.archimate
+* arquitectura banca digital v4.archimate
+* **arquitectura fna.archimate**
+* arquitectura movil_v1.archimate
+* arquitectura movil_v2.archimate
+* fna_proyectos v2.0.archimate
+* information_architecture_bi_ba_md_archixml.archimate
+* ivr.archimate
+* pa0003-pki.archimate
+* workmanager.archimate
+
+----
+
+[embedView]: FNA_Arquitectura-Areas%20de%20Negocio%20FNA.png
+
+
+|Tema|Catálogo de Servicios: **Sistemas de información, Aplicaciones y Servicios**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N003e. Catálogo de Servicios FNA-1](N003e.%20Catálogo%20de%20Servicios%20FNA-1.md)|
+|Vínculos||
+
+<br>
+
+## Servicios SOA y Aplicaciones Proveedoras/Consumidoras
+Las aplicaciones proveedoras de servicios SOA más significativas, según la cantidad de servicios provistos, son las primeras cinco (5) de la lista siguiente, y son también las aplicaciones que deben entrar a consideración del gobierno de aplicaciones y del gobierno SOA del Fondo.
+
+|**Aplicación propietaria o proveedora**|**Cantidad de Servicios**|
+|-----------------------------------|---------------------|
+|Sin Proveedor|44|
+|Cobis-Clientes|**39**|
+|AA003-COBIS Cesantias|**18**|
+|AA005 - COBIS Cartera|**15**|
+|AA015 - COBIS Clientes|**13**|
+|AA002-COBIS Ahorro voluntario|9|
+|IIB UT-BUS|5|
+|AA001-COBIS Admin Seguridad|5|
+|Cobis-Cesantias|4|
+|AA006 - COBIS Trámites|4|
+|Cobis-AVC|4|
+|AA012 - COBIS Contabilidad|3|
+|Gemalto|3|
+|Solati-ADMINFO|3|
+|AA033 - COBIS Caja y Bancos|3|
+|AA032 - Autenticación Externa|2|
+|AA014 - COBIS Cobranzas|1|
+|WorkManager|1|
+|UT - Central de Citas|1|
+|AA002-COBIS Caja y Bancos|1|
+|AA072 - WSUtilitario|1|
+|Vigia|1|
+|AA080-WSFramework|1|
+|AA016-COBIS Garantias|1|
+|AA081-Comunicados|1|
+|AA017 - COBIS Presupuesto|1|
+|Cobis-Cartera|1|
+|AA038-COBIS Admin Referencias|1|
+
+_Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
+
+<br>
+
+En el Anexo 1 está el detalle de los servicios relacionados con la aplicación Cobis-Clientes que tomamos como ejemplo.
+
+<br>
+
+### Atención
+Las siguientes servicios no tienen catalogada una aplicación proveedora, y por tanto, pueden ser ignoradas por las acciones de gestión o evolución que los requieran.
+
+|**Servicio**|**Aplicación/proveedor**|
+|------------|------------------------|
+|Cesantias\_EliminarSolicitudRetiro|Sin Proveedor|
+|Cesantias\_ModificarSolicitudRetiro|Sin Proveedor|
+|Cesantias\_CrearSolicitudRetiro|Sin Proveedor|
+|Credito\_RecuperarDetalleTramiteCredito|Sin Proveedor|
+|Credito\_GenerarCertificado|Sin Proveedor|
+|Csntias\_GenerarCertificacionSaldos|Sin Proveedor|
+|Crdto\_GenerarCertificacionIntereses|Sin Proveedor|
+|CntaAVC\_GenerarCertificacion|Sin Proveedor|
+|Participante\_ValidarListasInhibitorias|Sin Proveedor|
+|Credito\_RecuperarFlujoTramiteSolicitud|Sin Proveedor|
+|Credito\_RecuperarDetalleTramiteSolicitud|Sin Proveedor|
+|BProyectos\_ModificarProyecto|Sin Proveedor|
+|BProyectos\_ModificarEstructura|Sin Proveedor|
+|CuadroVentas\_VldarPgoPrrta|Sin Proveedor|
+|Prtcpnte\_RcprarInfoIdCntralRsgo|Sin Proveedor|
+|Prtcpnte\_EvluarCstnrioCnfrnta|Sin Proveedor|
+|Prtcpnte\_RcprarCstnrioCnfrnta|Sin Proveedor|
+|PQYR\_Rgstrar|Sin Proveedor|
+|Grntias\_RcprarDtosBscos|Sin Proveedor|
+|Csntias\_MdfcarMPC|Sin Proveedor|
+|Csntias\_CnclarMPC|Sin Proveedor|
+|Csntias\_RgstrarMPC|Sin Proveedor|
+|Csntias\_RcprarInfoMPC|Sin Proveedor|
+|CuentaAVC\_RecuperarDatosBasicos|Sin Proveedor|
+|CuentaAVC\_RecuperarMovimientos|Sin Proveedor|
+|Cesantias\_RecuperarDetalleTramiteRetiro|Sin Proveedor|
+|Cesantias\_RecuperarTramitesRetiro|Sin Proveedor|
+|Cesantias\_RecuperarMovimientos|Sin Proveedor|
+|Libranza\_NotificarPagoPlanilla|Sin Proveedor|
+|Libranza\_RecuperarDatosPlanillaPago|Sin Proveedor|
+|Contabilidad\_CrearTerceroContable|Sin Proveedor|
+|Tesoreria\_GenerarOrdenPago|Sin Proveedor|
+|Presupuesto\_RecuperarDatosBasicosCDP|Sin Proveedor|
+|Contabilidad\_RecuperarDatosCentroCosto|Sin Proveedor|
+|Contabilidad\_RecuperarDatosCuentaContable|Sin Proveedor|
+|Credito\_ModificarInformacionCobroJuridicoEnCobis|Sin Proveedor|
+|Credito\_InformarCambioEstadoEtapaCobroJurídico|Sin Proveedor|
+|BProyectos\_CrearEstructura|Sin Proveedor|
+|CuadroVentas\_CrearSolicitud|Sin Proveedor|
+|CrearProyectoInmobiliarioRequest|Sin Proveedor|
+|Credito\_RecuperarTablaAmortizacion|Sin Proveedor|
+
+_Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
+
+<br>
+
+## Servicios y Aplicaciones del FNA con Mayor Grado de Dependencia (potencial impacto)
+El nivel de relación de dependencia de las aplicaciones con los servicios FNA da cuentas del esfuerzo de mantenimiento al momento de hacerles a estas cambios correctivos o evolutivos. La alta dependencia también tiene implicaciones en la flexibilidad al momento de dar una respuesta mediante los servicios SOA a las aplicaciones o procesos que los usan.
+
+|**Componente o Aplicación**|**Dependencia Servicios**|
+|---------------------------|-------------------------|
+|Cobis|**78**|
+|COBIS - Clientes|**30**|
+|ProxyBizagi|**29**|
+|COBIS - Crédito|**29**|
+|Aplicación Ext - Banlínea|20|
+|Aplicación Back - Bizagi Engine|20|
+|Aplicación Web - Scoring|12|
+|SafeNet BSIDCA|11|
+|WM\_APIv2|10|
+|...||
+|**Total general**|**328**|
+
+[Tabla. ]() Nivel de dependencia aplicaciones del FNA a de servicios SOA.
+
+_Fuente principal: elaboración propia. **Fuente secundaria**: ae_fna_as_is.archimate, arquitectura fna.archimate_
+
+<br>
+
+>**Nota**. Las aplicaciones y los servicios SOA implicados en los niveles de dependencia superiores a 10 relaciones deben ser sujeto de gobierno SOA.
+
+<br>
+
+## Servicios del Portafolio con Mayor Grado de Uso (potencial impacto)
+Los servicios SOA objeto de esta consultoría del portafolio SOA del Fondo que acumularn la mayor referencias de aplicaciones FNA, y por tanto, son causa de dependencia, son los marcados en el extracto siguiente. Para hacer foco en lo importante, la lista contiene únicamente servicios con más de 5 relaciones de uso (están siendo usados por otro sistema).
+
+Los servicios SOA con mayor cantidad de relaciones (tienen o causan dependencia) organizados por aplicacioón proveedora.
+
+|**Aplicación Proveedora**|**Servicios**|**Cantidad de Usos**|
+|-------------------------|-------------|--------------------------|
+|**COBIS**|AS055-ConsultaConsumidorFinanciero|**12**|
+||AS150-ModificacionFormularioTramiteCredito|**11**|
+||AS093-ModificaciónTramiteCredito|**9**|
+||AS026-Gestión de Autenticación|8|
+||AS149-CreacionTramiteCredito|6|
+||AS163-GeneracionFormularioAfiliacionCesantias|6|
+||AS038-ConsultaCuentaAVC|6|
+||AS144-CreacionRelacionCliente|6|
+||AS049-ConsultaTramiteCredito|6|
+||AS034-consultarestadocuentaCartera|6|
+||AS050-ConsultaPuntajeCredito|6|
+||AS033-ConsultaProductosConsumidorFinanciero|6|
+||AS068-ModificacionConsumidorFinanciero|6|
+||AS164-GeneracionFormularioAfiliacionCesantias\*|5|
+||ASXX3-registrarRecaudoObligacion|5|
+||AS079-GeneracionExtractoCuentaCesantias|5|
+||...||
+|**ESB**|ESB\_001\_ClientePN\_RecuperarProductos|**14**|
+||ESB\_133\_Credito\_NotificarEstadoDesembolso|**14**|
+||ESB\_024\_ClientePN\_RecuperarInformacionBasica|**12**|
+||ESB\_190\_GestorDocumental\_ConsultarDocumento|11|
+||ESB\_063\_Credito\_RecuperarDetalleTramite|11|
+||ESB\_075\_Seguridad\_AdministrarConexion2FA - CQ148541|10|
+||ESB\_097\_Credito\_RecuperarFlujoTramite|10|
+||ESB\_106\_Credito\_EnrutarTramiteCredito|9|
+||ESB\_022\_Credito\_RecuperarTramiteSolicitudes|8|
+||ESB\_204\_Credito\_CalcularPuntajeOrq|8|
+||ESB\_194\_GestorDocumental\_ObtenerInformacionFormulario|8|
+||ESB\_033\_CuentaAVC\_ConsultarCuenta|8|
+||ESB\_022\_Credito\_RecuperarTramiteSolicitudes - CQ90537|7|
+||ESB\_121\_Cesantias\_EncapsulaEliminacion - WI3992|7|
+||ESB\_178\_ClientePJ\_ConsultaInfoEmpresarial|7|
+||ESB\_163\_Cesantias\_GenerarFormularioAfiliacion|7|
+||ESB\_207\_Credito\_ConsultarPuntaje|7|
+||ESB\_079\_ClientePersonaJuridica\_CreacionRapidaPersonaJuridica|6|
+||...|
+|**Process Server**|AS020 - GestorConsultasCRED|6|
+||**Total general (incluye todas las relaciones)**|**749**|
+
+_Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
+
+<br>
+
+### Diagrama de Interdependencias del Portafolio FNA (niveles de acoplamiento)
+El diagrama muestra la misma información que la tabla de dependencias del portfolio del FNA aunque expone mejor las interrelaciones entre servicios SOA pertenecesintes a las tres (3) aplicaciones citadas en el diagnóstico: Cobis, ESB y Process Server. También se puede apreciar mejor el peso tiene el concepto de las dependencias para el Fondo. Las áreas con mayor concentración de dependencias son aquellas que acumulan más líneas salientes.
+
+<br>
+
+    (arriba, izq.) Grupo de aplicaciones pertenecientes a Cobis. (centro, izq.) Grupo de aplicaciones que pertenecen al Process Server del Fondo. (abajo, izq.) El grupo de aplicaciones ESB IBM de la empresa.
+
+![][embedView]
+
+[Imagen. ]() Interdependencias del Portafolio FNA.
+
+_Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
+
+<br>
+
+### Atención
+No hay información para determinar el rol de cada relación entre los grupos de servicios: servicios de Cobis, servicios de Process Server y servicios del ESB. Esto es importante porque no conocemos si los servicios del bus son intermediarios, orquestadores o controladores: si por cada servicio SOA el bus replica estos, las replicas tendría el rol de intermediario; en cambio, si el bus organiza o secuencia a los otros servicios, estos servicios organizadores tendrían el rol de orquestador. 
+
+<br>
+
+## Anexo 1. Servicios Relacionados con (aplicación) Cobis-Clientes
+Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguientes.
+
+|**Servicio**|**Aplicación/proveedor**|
+|------------|------------------------|
+|Seguridad\_ValidarIdentidadBiometria|Cobis-Clientes|
+|ClntePrsnaJrdca\_RecuperarInfoRapidaPJ|Cobis-Clientes|
+|ClntePrsnaNtral\_RecuperarInfoBasica\_V2|Cobis-Clientes|
+|ClntePrsnaJrdca\_CreacionRapidaPJ|Cobis-Clientes|
+|ClntePrsnaNtral\_CreacionRapidaPN|Cobis-Clientes|
+|ClntePrsnaNtral\_RecuperarNumerosProducto|Cobis-Clientes|
+|ClntePrsnaJrdca\_RecuperarInfoFinancieraV2|Cobis-Clientes|
+|ClntePrsnaJrdca\_RecuperarInfoLegalV2|Cobis-Clientes|
+|ClntePrsnaJrdca\_RecuperarInfoBasicaV2|Cobis-Clientes|
+|ClntePrsnaJrdca\_ModificarCasillaPostal|Cobis-Clientes|
+|ClntePrsnaJrdca\_ModificarReferencias|Cobis-Clientes|
+|ClntePrsnaJrdca\_ModificarInfoLegal|Cobis-Clientes|
+|ClntePrsnaJrdca\_ModificarInfoBasica|Cobis-Clientes|
+|ClntePrsnaJrdca\_CnsltrIfoCnsld|Cobis-Clientes|
+|ClntePrsnaNtral\_MdfcarCsllPstl|Cobis-Clientes|
+|ClntePrsnaNtral\_MdfcarInfoLbral|Cobis-Clientes|
+|ClntePrsnaNtral\_MdfcarInfoFmliar|Cobis-Clientes|
+|ClntePrsnaNtral\_MdfcarInfoBsca|Cobis-Clientes|
+|Participante\_GenerarOperacionRios|Cobis-Clientes|
+|Participante\_CrearOperacionRios|Cobis-Clientes|
+|ClntePrsnaNtral\_GestionarCredenciales|Cobis-Clientes|
+|ClntePrsnaJrdca\_MdfcarInfo|Cobis-Clientes|
+|ClntePrsnaJrdca\_MdfcarInfo|Cobis-Clientes|
+|ClntePrsnaNtral\_Crear|Cobis-Clientes|
+|ClntePrsnaNtral\_Crear|Cobis-Clientes|
+|ClntePrsnaJrdca\_Crear|Cobis-Clientes|
+|ClntePrsnaJrdca\_Crear|Cobis-Clientes|
+|ClntePrsnaNtral\_RcprarInfoLbral|Cobis-Clientes|
+|ClntePrsnaNtral\_RcprarInfoLbral|Cobis-Clientes|
+|ClntePrsnaNtral\_RcprarInfoFnncra|Cobis-Clientes|
+|ClntePrsnaNtral\_RcprarInfoFnncra|Cobis-Clientes|
+|ClientePersonaNatural\_RecuperarInformacion|Cobis-Clientes|
+|ClientePersonaNatural\_RecuperarInformacion|Cobis-Clientes|
+|ClientePersonaJuridica\_RecuperarInformacionLegal|Cobis-Clientes|
+|ClientePersonaJuridica\_RecuperarDatosFinancieros|Cobis-Clientes|
+|ClientePersonaJuridica\_RcprarDatosBasicos|Cobis-Clientes|
+|ClientePersonaJuridica\_RecuperarInformacion|Cobis-Clientes|
+|Cliente\_ValidarExistencia|Cobis-Clientes|
+|ClntePrsnaNtral\_RecuperarProductos|Cobis-Clientes|
+
+---
+[embedView]:VistaPortafolio-CatalogoServiciosFNA.1.png
 
