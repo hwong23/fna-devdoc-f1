@@ -1,4 +1,4 @@
-name: Manubot
+name: devdocs-mbot
 on:
   push:
     branches:
@@ -29,14 +29,14 @@ on:
       SPELLCHECK:
         type: boolean
         description: Check spelling
-        default: true
+        default: false
       MANUBOT_USE_DOCKER:
         type: boolean
         description: Use Docker to generate PDF
         default: true
 jobs:
-  manubot:
-    name: Manubot
+  devdocs:
+    name: devdocs-Mbot
     runs-on: ubuntu-latest
     env:
       GITHUB_PULL_REQUEST_SHA: ${{ github.event.pull_request.head.sha }}
