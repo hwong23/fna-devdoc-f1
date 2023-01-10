@@ -1,6 +1,6 @@
 # Pandoc --defaults for PDF output via weasyprint.
 # Load on top of HTML defaults.
-output-file: output/manuscript.pdf
+# output-file: output/manuscript.pdf
 pdf-engine: weasyprint
 pdf-engine-opts:
 - '--presentational-hints'

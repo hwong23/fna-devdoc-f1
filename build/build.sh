@@ -18,7 +18,7 @@ DOCKER_RUNNING="$(docker info &> /dev/null && echo "true" || (true && echo "fals
 # Set option defaults
 CI="${CI:-false}"
 BUILD_PDF="${BUILD_PDF:-true}"
-BUILD_DOCX="${BUILD_DOCX:-false}"
+BUILD_DOCX="${BUILD_DOCX:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 SPELLCHECK="${SPELLCHECK:-false}"
 MANUBOT_USE_DOCKER="${MANUBOT_USE_DOCKER:-$DOCKER_RUNNING}"
@@ -87,10 +87,25 @@ fi
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
 if [ "${BUILD_DOCX}" = "true" ]; then
   echo >&2 "Exporting Word Docx manuscript"
+  for f in content/*.md; do
+    basenameFILE=${f##*/};
+    
+    echo --data-dir="$PANDOC_DATA_DIR" --defaults=common-i.yaml --defaults=docx-i.yaml --output=output/"${basenameFILE%.md}.docx" $f
+
+    pandoc --verbose \
+      --data-dir="$PANDOC_DATA_DIR" \
+      --defaults=common-i.yaml \
+      --defaults=docx-i.yaml \
+      --output=output/"${basenameFILE%.md}.docx" \
+      "$f"
+    
+  done
+
   pandoc --verbose \
     --data-dir="$PANDOC_DATA_DIR" \
     --defaults=common.yaml \
     --defaults=docx.yaml
+
 fi
 
 # Create LaTeX output (if BUILD_LATEX environment variable equals "true")
