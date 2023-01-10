@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T22:53:29+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T22:53:29+00:00" />
+  <meta name="dc.modified" content="2023-01-10T23:02:14+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T23:02:14+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b26e723e9f17027838ec6cb60b6646c7df9b4945/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b26e723e9f17027838ec6cb60b6646c7df9b4945/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b26e723e9f17027838ec6cb60b6646c7df9b4945/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/975c58fffad8afa03c970115d9560775b24f7761/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/975c58fffad8afa03c970115d9560775b24f7761/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/975c58fffad8afa03c970115d9560775b24f7761/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -867,6 +867,35 @@ Para ejemplificar las relaciones de los procesos con las aplicaciones, tomaremos
 _Fuente: InventarioAplicacionesFNA.xlsx_
 
 <br>
+
+### Atención
+Las siguientes aplicaciones del Fondo no tienen relación con procesos, aparecen "en blanco" en la tabla anterior y en el modelo analizado: _InventarioAplicacionesFNA.xlsx_.
+
+|**Aplicación**|**Proceso**|
+|----------|-----------|
+|IDM|Sin proceso|
+|FINAC|Sin proceso|
+|GoAnyWhere|Sin proceso|
+|ERP SAP|Sin proceso|
+|ASOCAJAS|Sin proceso|
+|WorkManager|Sin proceso|
+|Banlinea|Sin proceso|
+|Autenticación IVR|Sin proceso|
+|OASIS|Sin proceso|
+|GHumana|Sin proceso|
+|Fondo En Linea Personas|Sin proceso|
+|Fondo En Linea Empresarial|Sin proceso|
+|COBIS REC|Sin proceso|
+|COBIS Admin Referencias|Sin proceso|
+|COBIS VisualBatch|Sin proceso|
+|COBIS Contabilidad|Sin proceso|
+|COBIS Presupuesto|Sin proceso|
+|COBIS Admin Seguridad|Sin proceso|
+|Mi vivienda en linea / Vitrina virtual|Sin proceso|
+
+[Tabla. ]() Apliaciones del FNA sin relaciones con procesos.
+
+_Fuente: InventarioAplicacionesFNA.xlsx_
 
 
 
