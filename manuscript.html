@@ -35,8 +35,8 @@
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T19:48:36+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T19:48:36+00:00" />
+  <meta name="dc.modified" content="2023-01-10T22:06:11+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T22:06:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -57,9 +57,9 @@
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/49f97830e57472875d4bc6b254ec8b91d1874409/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/49f97830e57472875d4bc6b254ec8b91d1874409/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/49f97830e57472875d4bc6b254ec8b91d1874409/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/1a769f4b2e33f47ca8b5611c24f5ffd99cad5fdc/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/1a769f4b2e33f47ca8b5611c24f5ffd99cad5fdc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/1a769f4b2e33f47ca8b5611c24f5ffd99cad5fdc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -1801,6 +1801,585 @@ Esto explica porqué la aplicación indicada ha sido seleccionada por el segment
 </tbody>
 </table>
 <p><em>Fuente: elaboración propia. Catalogo_FNA.xlsx</em></p>
+<h2 id="descripción-de-la-vista-de-información-actual">Descripción de la vista de Información actual</h2>
+<p>La vista funcional actual tiene como objetivo identificar el estado actual de los diferentes artefactos y la relación entre estos. Como lo son, los catálogos de entidades de datos y bases de datos; las matrices que permiten identificar las relaciones entre catálogos y los diagramas que ilustran las relaciones antes mencionadas.</p>
+<h2 id="marcos-de-referencia">Marcos de Referencia</h2>
+<p>La arquitectura se construye teniendo en cuenta una serie de marcos de referencia como DAMA, el Marco de Referencia de Arquitectura Empresarial para el Estado Colombiano V2.0, TOGAF, entre otros. Estos marcos de referencia ayudan a la tener criterios para realizar un diagnóstico inicial, un nivel de madurez y la posterior construcción de un plan a futuro que debe ser implementado y que se guía por una hoja de ruta de iniciativas.</p>
+<p>La Ilustración a continuación, muestra los marcos de referencia aplicables a la vista de Información:</p>
+<p><img src="vinformacion-marcos.jpg" />
+<a href="">Ilustracion 1.</a> Marcos de referencia vista de Información</p>
+<p><br></p>
+<h2 id="lista-de-aplicaciones">Lista de Aplicaciones</h2>
+<p>A continuación, se listan las diferentes aplicaciones que hacen parte del ecosistema de integración de servicios del FNA:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Aplicación Destino</strong></th>
+<th><strong>URL</strong></th>
+<th><strong>Virtual Server</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ECOLLECT</td>
+<td><a href="https://aplicacionesweb.fna.gov.co:8090/eCollectERPAgent/">https://aplicacionesweb.fna.gov.co:8090/eCollectERPAgent/</a></td>
+<td>aplicacionesweb</td>
+</tr>
+<tr class="even">
+<td>ADMINFO</td>
+<td><a href="https://ext.fna.gov.co:8090/CobroAdministrativo/">https://ext.fna.gov.co:8090/CobroAdministrativo/</a></td>
+<td>ext</td>
+</tr>
+<tr class="odd">
+<td>TRANSUNION</td>
+<td><a href="https://ext.fna.gov.co:8090/transunion/">https://ext.fna.gov.co:8090/transunion/</a></td>
+<td>ext</td>
+</tr>
+<tr class="even">
+<td>REGISTRADURIA NACIONAL</td>
+<td><a href="https://ext.fna.gov.co:8090/RegistraduriaANI/">https://ext.fna.gov.co:8090/RegistraduriaANI/</a></td>
+<td>ext</td>
+</tr>
+<tr class="odd">
+<td>CAMERFIRMA</td>
+<td><a href="https://ext.fna.gov.co:8090/CorreoSeguro/">https://ext.fna.gov.co:8090/CorreoSeguro/</a></td>
+<td>ext</td>
+</tr>
+<tr class="even">
+<td>SAP</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/fna-poprd/">https://fnabogsoa.fna.gov.co:8099/fna-poprd/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="odd">
+<td>SECUREID</td>
+<td><a href="https://ext.fna.gov.co:8090/api/consultas/">https://ext.fna.gov.co:8090/api/consultas/</a></td>
+<td>ext</td>
+</tr>
+<tr class="even">
+<td>MASIVIAN</td>
+<td><a href="https://ext.fna.gov.co:8090/MasivianOTP/">https://ext.fna.gov.co:8090/MasivianOTP/</a></td>
+<td>ext</td>
+</tr>
+<tr class="odd">
+<td>SFC</td>
+<td><a href="https://ext.fna.gov.co:8090/SmartSupervision/">https://ext.fna.gov.co:8090/SmartSupervision/</a></td>
+<td>ext</td>
+</tr>
+<tr class="even">
+<td>COBIS</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/WSAdmin/">https://fnabogsoa.fna.gov.co:8099/WSAdmin/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="odd">
+<td>VIABILIDAD</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/viabilidad-api/">https://fnabogsoa.fna.gov.co:8099/viabilidad-api/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="even">
+<td>ADMINCREDITO</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/admincredito-api/">https://fnabogsoa.fna.gov.co:8099/admincredito-api/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="odd">
+<td>CARGUEDOCUMENTOS</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/carguedocumentos-api/">https://fnabogsoa.fna.gov.co:8099/carguedocumentos-api/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="even">
+<td>SIMULADOR</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/Simulador/">https://fnabogsoa.fna.gov.co:8099/Simulador/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="odd">
+<td>CONFECAMARA</td>
+<td><a href="https://aplicacionesweb.fna.gov.co:8090/CamaraComercio/">https://aplicacionesweb.fna.gov.co:8090/CamaraComercio/</a></td>
+<td>aplicacionesweb</td>
+</tr>
+<tr class="even">
+<td>VIGIA</td>
+<td><a href="https://aplicacionesweb.fna.gov.co:8090/vigia2/">https://aplicacionesweb.fna.gov.co:8090/vigia2/</a></td>
+<td>aplicacionesweb</td>
+</tr>
+<tr class="odd">
+<td>WORKMANAGER</td>
+<td><a href="https://fnabogsoa.fna.gov.co:8099/GestorDocumental/">https://fnabogsoa.fna.gov.co:8099/GestorDocumental/</a></td>
+<td>fnabogsoa</td>
+</tr>
+<tr class="even">
+<td>BIZAGI</td>
+<td><a href="https://aplicacionesweb.fna.gov.co:8090/BizagiProxyServices/">https://aplicacionesweb.fna.gov.co:8090/BizagiProxyServices/</a></td>
+<td>aplicacionesweb</td>
+</tr>
+<tr class="odd">
+<td>APP MOVIL</td>
+<td><a href="http://172.16.127.116/FNA/Web/WJ_verificarNotificacionesPush.aspx">http://172.16.127.116/FNA/Web/WJ_verificarNotificacionesPush.aspx</a></td>
+<td>aplicacionesweb</td>
+</tr>
+</tbody>
+</table>
+<p><em>Tabla 1 Portafolio de Aplicaciones</em></p>
+<p><br></p>
+<p>## Lista de Proveedores</p>
+<p>A continuación, se listan los diferentes proveedores que hacen parte del ecosistema de integración de servicios del FNA:</p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Aplicación Destino</strong></th>
+<th><strong>URL</strong></th>
+<th><strong>Virtual Server</strong></th>
+<th><strong>Contexto</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ADMINFO</td>
+<td><a href="https://ext.fna.gov.co:8090/CobroAdministrativo/">https://ext.fna.gov.co:8090/CobroAdministrativo/</a></td>
+<td>ext</td>
+<td>“/CobroAdministrativo/*”</td>
+</tr>
+<tr class="even">
+<td>TRANSUNION</td>
+<td><a href="https://ext.fna.gov.co:8090/transunion/">https://ext.fna.gov.co:8090/transunion/</a></td>
+<td>ext</td>
+<td>“/transunion/”</td>
+</tr>
+<tr class="odd">
+<td>REGISTRADURIA NACIONAL</td>
+<td><a href="https://ext.fna.gov.co:8090/RegistraduriaANI/">https://ext.fna.gov.co:8090/RegistraduriaANI/</a></td>
+<td>ext</td>
+<td>“/RegistraduriaANI/*”</td>
+</tr>
+<tr class="even">
+<td>TRANSUNION</td>
+<td><a href="https://ext.fna.gov.co:8090/transunion-dc/">https://ext.fna.gov.co:8090/transunion-dc/</a></td>
+<td>ext</td>
+<td>“/transunion-dc/”</td>
+</tr>
+<tr class="odd">
+<td>CAMERFIRMA</td>
+<td><a href="https://ext.fna.gov.co:8090/CorreoSeguro/">https://ext.fna.gov.co:8090/CorreoSeguro/</a></td>
+<td>ext</td>
+<td>“/CorreoSeguro/*”</td>
+</tr>
+<tr class="even">
+<td>SECUREID</td>
+<td><a href="https://ext.fna.gov.co:8090/api/consultas/">https://ext.fna.gov.co:8090/api/consultas/</a></td>
+<td>ext</td>
+<td>“/api/consultas*”</td>
+</tr>
+<tr class="odd">
+<td>MASIVIAN</td>
+<td><a href="https://ext.fna.gov.co:8090/MasivianOTP/">https://ext.fna.gov.co:8090/MasivianOTP/</a></td>
+<td>ext</td>
+<td>“/MasivianOTP/*”</td>
+</tr>
+<tr class="even">
+<td>SFC</td>
+<td><a href="https://ext.fna.gov.co:8090/SmartSupervision/">https://ext.fna.gov.co:8090/SmartSupervision/</a></td>
+<td>ext</td>
+<td>“/SmartSupervision/*”</td>
+</tr>
+</tbody>
+</table>
+<p><em>Tabla 2 Portafolio de Proveedores</em></p>
+<p><br></p>
+<h2 id="entidades-de-datos">Entidades de Datos</h2>
+<p>Las entidades son una encapsulación de datos que describen un objeto de relevancia para la operación del FNA. Las entidades de datos o información se pueden vincular a aplicaciones, repositorios y servicios que se pueden estructurar de acuerdo con las consideraciones de implementación específicas de sistemas y soluciones.</p>
+<p>Para el alcance de la vista de información, se tuvo como fuente de información el modelamiento a nivel lógico, para identificar entidades de información a nivel conceptual de los archivos de la herramienta de modelamiento.</p>
+<p>La tabla a continuación, muestra las entidades de datos identificadas y el número de servicios con los que tienen relación:</p>
+<table>
+<thead>
+<tr class="header">
+<th><strong>Entidades</strong></th>
+<th><strong>Cantidad de servicios</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Credito</strong></td>
+<td><strong>50</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Cesantias</strong></td>
+<td><strong>45</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>CuentaAVC</strong></td>
+<td><strong>30</strong></td>
+</tr>
+<tr class="even">
+<td><strong>ClientePN</strong></td>
+<td><strong>23</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Seguridad</strong></td>
+<td><strong>17</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Cartera</strong></td>
+<td><strong>16</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>ClientePJ</strong></td>
+<td><strong>14</strong></td>
+</tr>
+<tr class="even">
+<td><strong>GestorDocumental</strong></td>
+<td><strong>14</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Tesoreria</strong></td>
+<td><strong>8</strong></td>
+</tr>
+<tr class="even">
+<td><strong>PQYR</strong></td>
+<td><strong>6</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Administrador</strong></td>
+<td><strong>4</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Clientes</strong></td>
+<td><strong>3</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Garantias</strong></td>
+<td><strong>2</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em>Tabla 3 Entidades de Datos</em></p>
+<p><br></p>
+<h2 id="inventario-de-fuentes-de-datos-bd">Inventario de fuentes de datos (BD)</h2>
+<p>A continuación, se listan las fuentes de información que son usadas para ingestar o carga cargar datos desde o hacia el ecosistema de integración del FNA:</p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>NOMBRE</strong></th>
+<th><strong>RESPONSABLE</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>FNABOGPROD1</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>SAP Adaptive Server Platform 16.0 SP03 PL06</td>
+<td>SERVICIO BASE DE DATOS : Grupo Base de Datos FNA</td>
+</tr>
+<tr class="odd">
+<td>SISTEMA OPERATIVO: Proveedor encargado - Infraestructura</td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>FNABOGFLASH</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>SAP Adaptive Server Platform 16.0 SP03 PL06</td>
+<td>SERVICIO BASE DE DATOS : Grupo Base de Datos FNA</td>
+</tr>
+<tr class="even">
+<td>SISTEMA OPERATIVO: Proveedor encargado - Infraestructura</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>FNABOGIQPRO1</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>SAP ASE Platform Edition Plataforma 16 SP11
+SAP IQ nodo1 | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGIQPRO2</strong>
+SAP ASE Platform Edition Plataforma 16 SP11
+SAP IQ nodo2 | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGIQPRO</strong>
+CAPE | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPROD1</strong>
+CAPE | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGRSPRO</strong>
+SAP ASE Platform Edition Plataforma 16 SP11
+SAP IQ | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>fna-hanabipro</strong>
+SAP HANA Enterprise Edition Plataforma 1.0 SP12 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPREP1</strong>
+SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>JUPASCANG05BEG01</strong>
+SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPREP1_TSM</strong>
+SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPRUE</strong>
+SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGIQPRE</strong>
+SAP ASE Platform Edition Plataforma 16 SP11
+SAP IQ | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGRSPRU</strong>
+SAP ASE Platform Edition Plataforma 16 SP11
+SAP IQ | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>fna-hanabiqa</strong>
+SAP HANA Enterprise Edition Plataforma 1.0 SP12 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGAPP008</strong>
+SAP Data Services 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPAPP005</strong>
+SAP Data Services 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGBOPRO</strong>
+SAP Business Objects Enterprise Premiun 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPBO</strong>
+SAP Business Objects Enterprise Premiun 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVPPWP018</strong>
+Oracle Database 11g Release 11.2.0.4.0 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGBDOR01</strong>
+Oracle Database 11g Release 11.2.0.4.0 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGGIT-01</strong>
+Oracle Database 12c Standard Edition Release 12.1.0.2.0 - 64bit Production | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVPPWP023</strong>
+SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGCL01BD02</strong> SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD01WP002</strong> SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD02WP002</strong> _2 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD03WP002</strong> SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| BOGPVBD04WP002
+SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD05WP002</strong> SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD01WP003</strong> SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD02WP003</strong> _1 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBDWP013</strong> SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGCOV-03</strong> SQL SERVER 2012 Standard Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGDCL01N6</strong> SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGDPCL01N1</strong> SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGDCL01N5</strong> SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGCCL02BD02</strong>
+SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGCCL02BD01</strong>
+SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGCCL02BD04</strong> SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>BOGPVBD01WC002** PMSSQL2016
+SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| </strong>FNABOGCCL04BD02<strong>
+SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| BOGPVBD02WC002 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| </strong>BOGPVBDWC007** SQL SERVER 2016 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGCDBAPP</strong>
+DB2 Enterprise Server Edition 64 bits | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGDBAPP_68</strong>
+DB2 Enterprise Server Edition 64 bitsFNABOGDBAPP_68 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGPDBAPP</strong>
+DB2 Enterprise Server Edition 64 bits | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+| <strong>FNABOGSDBP</strong>
+DB2 9.7.0.11 / 10.5.0.8 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
+SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |</p>
+<p><em>Tabla 4 Inventario de Bases de Datos Activas</em></p>
+<p>La ilustración a continuación, muestra la vista de bases de datos y la infraestructura en la que están desplegadas:</p>
+<p><img src="vinformacion-basesdedatos.png" alt="Ilustración 2 Vista de Bases de Datos" />
+<em>Ilustración 2 Vista de Bases de Datos</em></p>
+<p><br></p>
+<h2 id="matriz-de-entidades-de-datos-vs-procesos-misionales">Matriz de Entidades de Datos Vs Procesos Misionales</h2>
+<p>Esta matriz permite identificar la relación existente entre los procesos del FNA en el contexto del proyecto y las entidades de datos identificadas en el ecosistema:</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Procesos Misionales /Entidades de Datos</strong></th>
+<th>Proceso de Aportes de Cesantías</th>
+<th>Administración de Cuentas y Pagos Cesantías</th>
+<th>Procesos Gestión de crédito Constructor</th>
+<th>Procesos Gestión de Crédito Educativo</th>
+<th>Procesos Gestión de Crédito Hipotecario</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Credito</td>
+<td></td>
+<td></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="even">
+<td>Cesantias</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>CuentaAVC</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ClientePN</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="odd">
+<td>Seguridad</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="even">
+<td>Cartera</td>
+<td></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="odd">
+<td>ClientePJ</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="even">
+<td>GestorDocumental</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="odd">
+<td>Tesoreria</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="even">
+<td>PQYR</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="odd">
+<td>Administrador</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="even">
+<td>Clientes</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+<tr class="odd">
+<td>Garantias</td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+<td><strong>x</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em>Tabla 5 Matriz de Entidades de Datos VS Procesos Misionales</em></p>
+<p><br></p>
+<h2 id="observaciones">Observaciones</h2>
+<p>A continuación, se listan observaciones realizadas en este diagnóstico inicial:</p>
+<ul>
+<li>Si bien existen modelos de datos y diccionarios de las bases de datos más importantes como, por ejemplo: CORBIS, no se encontró un modelo de datos canónico que permita un lenguaje común en todos los modelos de datos, un entendimiento a toda la organización (técnico y funcional) y facilite la explotación y toma de decisiones a partir de los datos.</li>
+<li>Se evidencia que existe cierta desactualización en los artefactos que conforman la arquitectura de datos. (Modelo de datos empresarial, diccionario de datos, catálogos, matrices y diagramas).</li>
+<li>Existen diccionarios de datos particulares para algunas bases de datos, aunque se requiere un diccionario de datos de forma estandarizada, que permita facilitar el entendimiento de éstos y sus relaciones. Así como diccionarios de otro tipo de datos: maestros y referencias, analíticos, transaccionales y de metadatos.</li>
+<li>Aunque existen algunas actividades realizadas en torno al gobierno de datos, que incluso fue propuesto como iniciativa en el PETI con fecha a 2022, es necesario retomar este proyecto que permita al FNA tener una gestión de los datos más apropiada mediante la incorporación de lineamientos, directrices, indicadores en torno al gobierno de los datos</li>
+<li>Se tienen identificados los dominios de información, aunque es importante aterrizar cuales de estos son datos maestros y referencias mediante un levantamiento tanto funcional como técnico de estos. Y que permitan a través de una estrategia, tener una vista unificada de los datos que conlleven a la democratización y uso correcto de estos.</li>
+<li>Aunque se tienen desarrollos in house y el FNA es dueño de estos procesos, se presentan algunas necesidades en torno al ciclo de vida de los datos donde se ve la obligación de recurrir a los proveedores. Anterior, genera una alta dependencia para el desarrollo de actividades operativas (inclusión de campos, reglas de negocio, generación de indicadores, entre otras).</li>
+</ul>
+<h2 id="fuentes-de-información">Fuentes de Información</h2>
+<ul>
+<li>The Enterprise Data Model: a framework for enterprise data architecture, 2nd Edition. (2012, mayo 7). Andy Graham.</li>
+<li>DAMA-DMBOK: Data Management Body of Knowledge, 2nd Edition. (2017, Julio 5). Dama International.</li>
+</ul>
 <!-- default theme -->
 
 <style>
