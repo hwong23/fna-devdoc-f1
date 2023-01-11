@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T16:45:07+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T16:45:07+00:00" />
+  <meta name="dc.modified" content="2023-01-11T16:52:03+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T16:52:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -1574,4 +1574,366 @@ _Fuente: elaboración propia_
 La falta de relación entre las entidades y las áreas puede implicar la falta de un modelo de uso y gobierno de datos, de interoperabilidad, y de integración SOA mediante los que se pueda determinar por qué estas entidades son la únicas o se requieren más. En los documentos de repositorio SOA del FNA no hay evidencias de dichos modelos.
 
 <br>
+
+
+|Tema|Descripción de la vista de integración actual: **Conectores y servicios de Integración**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
+|Autor||
+|Fuente||
+|Secuencia|Padre<br>Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Conectores y servicios de Integración
+_Fuente: elaboración propia_
+
+<br>
+
+## Modelo de Interoperabilidad de las Aplicaciones FNA
+El modelo de integración de aplicaciones del FNA está basado en el patrón adaptador / conector por cliente, razón por la cual estos elementos están muy presentes en la arquitectura de integración de las aplicaciones. _La proliferación de adaptadores en el bus, uno por cada nuevo cliente o distinto, en lugar de adherir a los clientes a un adaptador empresarial es un aspecto que hay que vigilar_.
+
+La imagen siguiente presenta los adaptadores por clientes del bus de datos. El bus debe tener un adaptador distinto por cada nuevo cliente en lugar de tener uno estándar para, si no todos (Cobis, Ventas, BPMN), para la mayoría de los clientes de la integración.
+
+![Imagen. ](ArquitecturaConceptualCreditoCostructor.png)
+
+[Imagen. ]() Modelo de Interoperabilidad FAN: conector / adaptador en el bus.
+
+_Fuente: ae_fna_as_is.archimate_
+
+<br>
+
+Otro ejemplo de la aplicación del modelo de integración basado en adaptadores por cliente en el bus (ESB en la imagen) se encuentra en la capacidad de sincronización del sistema de información Cobis CRM descrito en esta imagen.
+
+![I](ArquitecturaConceptualSincronizacionCobisCRM.png)
+
+[Imagen. ]() Modelo de Interoperabilidad FAN: conector / adaptador en la sincronización de Cobis CRM y Cobis Clientes.
+
+_Fuente: ae_fna_as_is.archimate_
+
+<br>
+
+>_La proliferación de adaptadores en el bus, uno por cada nuevo cliente o distinto, en lugar de adherir a los clientes a un adaptador empresarial es un aspecto que hay que vigilar_.
+
+<br>
+
+## Interrelación Entre Servicios SOA del FNA
+Por último, presentamos el nivel de relación de servicio a servicio. Esta relación sucede sin intermediación ni de aplicaciones ni algún otro mediador (bus o broker). Son consumos directos de un servicio a otro. _Lo que hay que vigilar es que la cantidad de llamados directos a otro servicio no sea mayor a lo que el Fondo pueda administrar_.
+
+Los servicios con mayor cantidad de interrelación son los sombreados.
+
+|**Servicios Origen**|**Relaciones con otros Servicios**|
+|--------------------|----------------------------------|
+|ESB\_075\_Seguridad\_AdministrarConexion2FA - CQ148541|**9**|
+|ESB\_001\_ClientePN\_RecuperarProductos|**8**|
+|APIv2|**8**|
+|ESB\_121\_Cesantias\_EncapsulaEliminacion - WI3992|**7**|
+|AS093-ModificaciónTramiteCredito|**6**|
+|ESB\_022\_Credito\_RecuperarTramiteSolicitudes - CQ90537|**6**|
+|AS049-ConsultaTramiteCredito|**6**|
+|AS055-ConsultaConsumidorFinanciero|**6**|
+|AS150-ModificacionFormularioTramiteCredito|**6**|
+|ESB\_204\_Credito\_CalcularPuntajeOrq|5|
+|AS020 - GestorConsultasCRED|5|
+|ESB\_024\_ClientePN\_RecuperarInformacionBasica|5|
+|ESB\_063\_Credito\_RecuperarDetalleTramite|5|
+|ESB\_106\_Credito\_EnrutarTramiteCredito|5|
+|IDVision|4|
+|ESB\_XXX\_ClientePN\_RecuperarInformacionCredito|4|
+|WSAndes|4|
+|ESB\_033\_CuentaAVC\_ConsultarCuenta|4|
+|Form\_Insert|4|
+|ESB\_097\_Credito\_RecuperarFlujoTramite|4|
+|SCOR001\_ScoringGenerar|4|
+|ESB\_163\_Cesantias\_GenerarFormularioAfiliacion|3|
+|ESB\_005\_Clientes\_ValidarExistencia|3|
+|ESB\_190\_GestorDocumental\_ConsultarDocumento|3|
+|AS017 - GestorConsultasAVOL|3|
+|ESB\_022\_Credito\_RecuperarTramiteSolicitudes|3|
+|AS068-ModificacionConsumidorFinanciero|3|
+|ESB\_178\_ClientePJ\_ConsultaInfoEmpresarial|3|
+|AS135-ConsultaCargaTrabajoTramiteCredito|3|
+|ESB\_205\_Credito\_ValidaAfiliadoORQ|3|
+|ESB\_133\_Credito\_NotificarEstadoDesembolso|3|
+|Form\_GetData|3|
+|EntityManagerSOASoap12\_saveEntityAsString|3|
+|ESB\_026\_ClientePN\_RecuperarInformacionLaboral|3|
+|ESB\_149\_Credito\_ActualizacionDocumental|3|
+|ESB\_104\_Credito\_ConsultarCargaTrabajo|3|
+|ESB\_144\_Clientes\_ConsultarReferenciaJuridica|3|
+|AS033-ConsultaProductosConsumidorFinanciero|2|
+|AS040\_ConsultaCuentaCesantias|2|
+|ESBFile\_002\_Seguridad\_EnviarCorreoSeguro|2|
+|AS050-ConsultaPuntajeCredito|2|
+|2041\_ScoreClear|2|
+|ESB\_058\_ClientePJ\_RecuperarInformacionConsolidadaV2 - CQ142691|2|
+|ESB\_XXX\_Credito\_TU\_ScoreFNA|2|
+|ESB\_079\_ClientePersonaJuridica\_CreacionRapidaPersonaJuridica|2|
+|Form\_AttachFiles|2|
+|ESB\_082\_ClientePN\_RecuperarInformacionRapida|2|
+|ESB\_029\_Cesantias\_RecuperarDatosBasicos|2|
+|AS006 - VerificarEntidad|2|
+|ESB\_207\_Credito\_ConsultarPuntaje|2|
+|ESB\_102\_Seguridad\_RemoverUsuario2FA - WI29972|2|
+|ESB\_XXX\_Credito\_TU\_InfoComercial|2|
+|AS019 - GestorConsultasClientes|2|
+|ESB\_XXX\_FachadaClientePJ\_VerificarEntidad|2|
+|ESB\_105\_Credito\_AsignarEstacionTramiteCredito|2|
+|EvaluarCuestionarioCONFRONTA|2|
+|WSHUBDocumental\_MigrarSolicitudReparto|2|
+|AS037-ConsultarEntidad|2|
+|ESB\_124\_Seguridad\_ModificarUsuario2FA - WI6634|2|
+|154\_InfoComercial|2|
+|ESB\_132\_ClntePrsnaNtral\_FachadaConsultaRecaudoBta|2|
+|ESB\_202\_Comercial\_crearOportunidad|2|
+|AS144-CreacionRelacionCliente|2|
+|CreditVision|2|
+|AS149-CreacionTramiteCredito|2|
+|ESB\_XXX\_Cartera\_ConsultaObligacion|2|
+|AS163-GeneracionFormularioAfiliacionCesantias|2|
+|ESB\_XXX\_Credito\_ConsultarEstadoGrantiaPorTramite|2|
+|ESB\_150\_Credito\_MigrarSolicitudReparto|2|
+|ESB\_XXX\_Credito\_TU\_ScoreClear|2|
+|AS164-GeneracionFormularioAfiliacionCesantias\*|2|
+|ESB\_XXX\_CuentaAVC\_ConsultarScore|2|
+|ESB\_164\_Credito\_ValidarPoliticasTramite|2|
+|ESB\_XXX\_FachadaClientePN\_ConsultaRecaudo|2|
+|ESB\_175\_GestorDocumental\_CrearRadicadoDocumento|2|
+|ESBXXX\_FachadaClientePN\_ConsultarRecaudoSeguro|2|
+|ConfrontaUltraWSSoapBinding|2|
+|File\_Delete|2|
+|ESB\_188\_GestorDocumental\_RadicarDocumento|2|
+|Form\_GetBase64StringFile|2|
+|ESB\_189\_GestorDocumental\_AgregarDocumento|2|
+|Form\_GetFilesCodes|2|
+|ConsultarCuestionarioCONFRONTA|2|
+|170 GestorDocumentalProxy\_RadicarDocumento|2|
+|ESB\_194\_GestorDocumental\_ObtenerInformacionFormulario|2|
+|SCOR002\_InfoComercial|2|
+|ESB\_198\_GestorDocumental\_ObtenerDocumento|2|
+|ESB\_201\_Comercial\_crearProspecto|2|
+|WSSealMail|2|
+|ESB\_060\_CuentaAVC\_GenerarCertificado|1|
+|AS061-GeneracionCertificadoCartera|1|
+|ESB\_099\_Seguridad\_AprovisionarTokenUsuario2FA - CQ159871|1|
+|AS026-Gestión de Autenticación|1|
+|ESB\_044\_ClntePrsnaNtral\_Crear|1|
+|140 CobisProxy\_NotificarApp|1|
+|Form\_Update|1|
+|ESB\_107\_Cesantias\_EliminarDevolucionAporte - WI3986|1|
+|WJ\_enviarPush\_Eventos|1|
+|ESB\_110\_Creditos\_EliminarDesembolsoObligacionCartera - WI3988|1|
+|ESB\_XXX\_ConsultarPuntajeCredito|1|
+|ESB\_113\_Cesantias\_EliminarGiroConsignacionEntidad - WI3987|1|
+|ESB\_055\_ClientePersonaNatural\_ModificarInfoFamiliarRq|1|
+|ESB\_114\_CuentaAVC\_EliminarRetiroCuenta - WI3989|1|
+|ESB\_076\_Seguridad\_AdministrarUsuario2FA|1|
+|AS029 - ConsultaRecaudoSeguro|1|
+|IDVision\_VerificacionDigital|1|
+|XXX GarantiasProxy\_consultarEstadoGrantiaPorTramite|1|
+|WI2863 - ESB\_071\_ClientePN\_RecuperarNumsProd|1|
+|144 CobisProxy\_RecuperarFlujo|1|
+|AS059-GeneracionCertificadoAVC|1|
+|ESB\_118\_Cesantias\_EliminarAporteEntidad - WI3994|1|
+|ESB\_XXX\_ClientePN\_ConsultarScore|1|
+|ESB\_119\_Seguridad\_SolicitarCertificadoDigital|1|
+|ESB\_XXX\_Credito\_InformacionComercial|1|
+|194 GestorDocumentalProxy\_ObtenerInformacionFormulario|1|
+|ESB\_054\_ClientePersonaNatural\_ModificarInfoBasicaRq|1|
+|AS009 - ConsultaRecaudo|1|
+|ESBFile\_001\_Seguridad\_FirmarDocumento|1|
+|ESB\_125\_Seguridad\_RecuperarTokenUsuario2FA - WI6634|1|
+|ESB\_072\_CuentaAVC\_CalcularPuntaje|1|
+|ESB\_126\_Seguridad\_RecuperarPlantillaToken2FA - WI6634|1|
+|AS122-ConsultaReferenciaJuridica|1|
+|ESB\_128\_Seguridad\_RecuperarTareaAprov2FA - WI6634|1|
+|IDVision\_ValidacionIdentidad\_Preguntas|1|
+|ESB\_129\_Seguridad\_RecuperarCodActivacionAprov2FA - WI6634|1|
+|List\_GetItems|1|
+|164 CobisProxy\_ValidarExistenciaService|1|
+|ScoreFNA|1|
+|AS036-ValidaExistenciaCliente|1|
+|WI2929 - ESB\_061\_Credito\_GenerarCertificado|1|
+|ESB\_134\_Seguridad\_ConsultarCertificadoDigital|1|
+|AS124-ConsultaObligacionCartera|1|
+|ESB\_135\_Seguridad\_RevocarCertificadoDigital|1|
+|AS060-GeneracionCertificadoCesantias|1|
+|AS003 - ConsultaCreditos|1|
+|AS067-CreacionConsumidorFinanciero|1|
+|AS165-GeneracionFormularioAfiliacionCesantias|1|
+|ESB\_034\_Cesantias\_CalcularPuntaje|1|
+|AS038-ConsultaCuentaAVC|1|
+|ESB\_041\_Participante\_RecuperarCuestionarioConfronta|1|
+|AS018 - GestorConsultasCEST|1|
+|ESB\_042\_Participante\_EvaluarCuestionarioConfronta|1|
+|consultarEstadoGrantiaPorTramite|1|
+|ESB\_051\_ConsultaReferenciaInhibitoria|1|
+|ESB\_165\_Credito\_CrearTramite|1|
+|ESB\_XXX\_FachadaClientePJ\_RecuperarInformacion|1|
+|ESB\_166\_Credito\_ModificarInformacionPersonalFormulario|1|
+|ESB\_056\_ClientePersonaNatural\_ModificarInfoLaboralRq|1|
+|ESB\_167\_Credito\_ModificarInformacionFinancieraFormulario|1|
+|AS021 - EntidadesPila|1|
+|ESB\_168\_Credito\_ModificarInformacionLaboralFormulario|1|
+|172 GestorDocumentalProxy\_ConsultaDocumento|1|
+|ESB\_169\_Credito\_ModificarInfoFormularioTramiteCreditoHipotecario|1|
+|176 CobisProxy\_RecuperarDetalleTramiteService|1|
+|ESB\_170\_Credito\_ModificarInformacionReferenciaFormulario|1|
+|160 CobisProxy\_RecuperarInfoPNService|1|
+|ESB\_172\_Credito\_ModificarInformacionFormularioTramiteCreditoEducativo|1|
+|ESB\_083\_ClientePJ\_RecuperarInformacionRapida|1|
+|AS008 - ConsultaRecaudoBogota|1|
+|AS123-ConsultaScoringAVC|1|
+|150 CobisProxy\_RecuperarTramites|1|
+|IDVision\_ValidacionIdentidad\_Respuestas|1|
+|ESB\_187\_Tesoreria\_RecaudoConsultarPorIdentificacion|1|
+|IDVision\_VerificacionIdentidad|1|
+|170 GestorDocumentalProxy\_AgregarDocumento|1|
+|ESB\_098\_Seguridad\_AdicionarUsuario2FA - CQ159867|1|
+|AS051-CreacionEntidad|1|
+|Score Ws (Clear)|1|
+|ESB\_005\_Clientes\_ValidarExistencia - CQ136740|1|
+|ServicioGestionDesembolso\_NotificarEstadoDesembolso|1|
+|ESB\_191\_GestorDocumental\_EliminarDocumento|1|
+|WI2896 - ESB\_048\_ClientePN\_GestionarCredenciales|1|
+|ESB\_006\_ClientePJ\_RecuperarInformacion - CQ76477|1|
+|WI2935 - ESB\_062\_Cesantias\_GenerarCertificado|1|
+|158 CobisProxy\_EnrutarTramiteCredito|1|
+|Workflow\_Start|1|
+|170 GestorDocumentalProxy\_ObtenerDocumento|1|
+|AS130-ModificacionOrdenPago|1|
+|ESB\_023\_ClientePersonaNatural\_RecuperarInformacionConsolidada|1|
+|ESB\_115\_Cesantias\_EliminarRetiroCuenta - WI3990|1|
+|XXX-ConsultarVIGIA|1|
+|ESB\_116\_Creditos\_EliminacionDevolucionSobranteCartera - WI3991|1|
+|ESB\_117\_Tesoreria\_ModificarOrdenPago|1|
+|**Total general**|**361**|
+
+[Tabla. ]() Nivel de relación servicio a servicio del FNA.
+
+_Fuente principal: elaboración propia. **Fuente secundaria**: ae_fna_as_is.archimate; ae_fna_as_is.archimate_
+
+<br>
+
+> **Nota**. Lo que hay que vigilar es que la cantidad de consumos directos de un servicio a otro no sea mayor a lo que el Fondo puede administrar o ha determinado como aceptable en términos de restricciones tecnológicas y de integración.
+
+<br>
+
+Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md).
+
+
+
+|Tema|Presentación del Análisis de Madurez SOA del FNA: **Adaptación del Diagnóstico de Madurez SOA a la Empresa FNA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Adaptación del Diagnóstico de Madurez SOA a la Empresa FNA
+El método de diagnóstico de madurez SOA seleccionado (SOCIMM, del Open Group) ha sido adaptado al FNA según la información con la que cuenta el repositorio documental surtido a esta consultoría, y para que pueda ser usado por el proceso de evaluación descrito anteriormente [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1.md). 
+
+El método OSIMM adaptado al FNA consta de dos partes.
+1. Evaluación de **Resultado SOA**: objetivos y dimensiones del FNA
+1. Evaluación **Arquitectura SOA**: capacidades de los servicios SOA
+
+En la evaluación de Resultado SOA la empresa es el objeto a evaluar. Esta evaluación observa a la empresa FNA desde los objetivos de la consultoría (OBJ1. Independencia de proveedor...) y las vistas de contexto, y de segmento desarrolladas anteriormente. Finalmente, constrasta esta información con siete perspectivas (a las que el método llama dimensiones) conel fin de asignar un puntaje a cada una de estas: Negocio, Organización y Gobierno, Procedimientos (Método), Aplicaciones, Arquitectura, Información, Infraestructura.
+
+Ejemplo de la evaluación Resultado SOA adaptada al FNA.
+![](ResultadoSOA.png )
+
+[Imagen.]() Evaluación de Resultado SOA. Dimensiones seleccionadas para el diagnóstico SOA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+En cambio, en la segunda parte del médoto, la evaluación Arquitectura SOA, el objeto observado son los servicios SOA. Lo que hace esta evaluación es una caracterización de los servicios del FNA en función de atributos de calidad que deben estar presentes en los servicios.
+
+Ejemplo de la evaluación Arquitectura SOA adaptada al FNA.
+![](ArquitecturaSOA.png)
+
+[Imagen.]() Evaluación de Arquitectura SOA. Capacidades de los servicios SOA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Al conjugar de estas dos evaluaciones es la que produce finalmente un índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.
+
+Ejemplo del resultado de las dos evaluaciones SOA.
+
+![](nivelMadurez.png)
+
+[Imagen.]() Índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+## Cuestionarios del Análisis de Madurez SOA Adaptado al FNA
+Los cuestionarios del método de evaluación de madurez SOA del FNA han sido ajustados para responder a los objetivos de la consultoría, estos son, Independencia de proveedor (OBJ1), Fortaleza SOA de las aplicaciones (OBJ2), y el Flexibilidad y Tiempo de mercado (OBJ3).
+
+### Cuestionario no. 1. Independencia Proveedor
+|**Independencia Proveedor**|Existe una Arquitectura de Procesos de Negocio, definida formalmente, documentada y gobernada|
+|-----------------------|---------------------------------------------------------------------------------------------|
+||Existen varias líneas de negocio diferentes? ¿Cada una necesita o define sus propios procesos de negocio?|
+||Quién es el dueño de procesos, aplicaciones y servicios?|
+||Qué tan ágiles son los procesos de negocio actuales?|
+||¿Los procesos del Gobierno SOA existen? ¿Están documentados?|
+||¿Cada uno de las areas involucradas dentro del proceso SOA tiene roles (Arq. Servicio, Analista Servicio, Especialista Gobierno Servicio, etc) y responsabilidades bien definidas?|
+||Existe cambios en la organización que afecten en: regulaciones y politicas, creacion de nuevos procesos, normas de diseño interno, control de cumplimiento y ejecución, etc?|
+||¿Existe alguna autoridad SOA dentro de la organización (Comité Arquitectura? ¿Existe alguna autoridad de Gobierno TI?|
+||¿Cómo está organizada la administración de proyectos IT, existe una PMO?|
+||¿Qué herramientas de diseño (Enterprise Architecture) y colaboración (PMO) se utilizan?|
+||¿Existe un repositorio para almacenar los activos y buenas prácticas definidas dentro de la organización (RAE, Sharepoint)?|
+
+<br>
+
+### Cuestionario no. 2. Fortaleza SOA
+|**Fortaleza SOA**|¿Cómo se administran actualmente los requerimientos en los sistemas de software de la organización?|
+|-------------|---------------------------------------------------------------------------------------------------|
+||¿Cómo está organizada la administración de proyectos IT?|
+||¿Qué herramientas de diseño y colaboración se utilizan?|
+||¿Existe un repositorio para almacenar los activos y buenas prácticas definidas dentro de la organización?|
+||¿Qué estilo de aplicaciones se utilizan / desarrollan dentro de la organización?|
+||¿Cómo se integran las aplicaciones o sistemas dentro de la organización? Es demostrable?|
+||¿Se utiliza alguna tecnología asociada con SOA como ESB, datos compartidos?|
+||¿Qué tan confiables son las aplicaciones de negocio críticas para la organización?|
+||¿Qué tipos de repositorios de datos se utilizan en la organización? ¿los proveedores son propietarios de los modelos?|
+||¿Cómo se logra una integración en la arquitectura actual?|
+||¿Qué principios arquitectónicos o lineamientos están definidos? ¿son evidenciables?|
+||Existe un comité de cambios de arquitectura, o una bitácora de decisiones de arquitectura. ¿cómo se evalúan los cambios de arquitectura?|
+||Considera que existe un modelo lógico gestionado, y que este es el que gobierna al modelo físico, o es lo contrario|
+||Qué nivel de esfuerzo requieren para atender solicitudes ad hoc de información, y si estas son reutilizables|
+|||
+
+<br>
+
+### Cuestionario no. 3. Flexibilidad y Tiempo de Mercado
+|**Flexibilidad y Tiempo de Mercado**|Cuáles son los tiempos de respuesta de los provedores para implementar nuevas soluciones, y qué impacto tienen en la organización|
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+||¿Existe area de Devops que permita interactuar a los equipos de desarrollo e infraestructura dentro de la organización?|
+||Qué herramientas de diseño se utilizan? son propias de los proveedores?|
+||Existe aplicaciones ligadas a la plataforma base de Servidores de aplicacion y/o Infraestructura (Sistema Operativo) o nube?|
+||Existe aplicaciones centradas en el negocio (accesibilidad. seguridad, confiabilidad)|
+||Se aplica en el diseño de servicios los principios de: Estandarizacion Contrato Servicio, Bajo acoplamiento, Autonomia, Abstraccion, Reusabilidad, Sin estado, Descubrimiento, Composición|
+||Si existe un modelo de datos común|
+||Si existen reglas de transformación de datos entre distintos modelos, ¿estas reglas son administradas y mantenidas por el negocio o por la gente de IT, Desarrollo?|
+||¿Cómo se da soporte a requerimientos no funcionales (Alta Disponibilidad, concurrencia, contingencia) a través de la arquitectura operativa?|
+
+<br>
+
+## Herramienta de Diagnóstico de Nivel de Madurez SOA
+Descargar la herramienta que implementa el método presentado anteriomente, sus partes, dimensiones de evaluación, y las fórmulas de puntuación desde la siguiente dirección: [Herramienta de Diagnóstico de Nivel de Madurez SOA](https://stefaninilatam.sharepoint.com/:x:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EaFAwvlljjhPtOMS6Px_BWAB3dCP0EfacSHo6jo0E441RQ?e=l45v7K).
+
+![](herramientaSOA.png)
+
+[Imagen.]() Descargar la herramienta de Diagnóstico de Nivel de Madurez SOA.
+
+_Fuente: elaboración propia._
 
