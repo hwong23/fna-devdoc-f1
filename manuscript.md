@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T14:39:18+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T14:39:18+00:00" />
+  <meta name="dc.modified" content="2023-01-11T14:51:08+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T14:51:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/ceecb71b488d81a356686b68697b30af5c070a41/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/ceecb71b488d81a356686b68697b30af5c070a41/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/ceecb71b488d81a356686b68697b30af5c070a41/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/440b0e829ee3bc0da71be5defadb6e5a1234e816/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/440b0e829ee3bc0da71be5defadb6e5a1234e816/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/440b0e829ee3bc0da71be5defadb6e5a1234e816/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -801,7 +801,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 
 ## Procesos del FNA relacionados con Servicios del FNA Objeto del Diagnóstico SOA
 
-A falta de información directa respecto de la relación de los procesos de negocio con los servicios, hacemos la propuesta mediante la relación de procesos y aplicaciones, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. La vista siguiente muestra que falta la relación entre los procesos de negocio y los servicios hasta una profundidad de nivel 3. Vista de relación entre los procesos misionales del FNA y las aplicaciones que los soportan (los modelos no contienen la relación directa entre procesos y servicios SOA). _Lo que muestra la vista puede responder a una posoible realidad en la que no hay relación explícita entre los procesos de negocio y los servicios_, y que por tanto, el Fondo tiene únicamente categorías de servicios utilitarios más que de procesos, o que los modelos simplemente no contienen estas relaciones.
+A falta de información directa respecto de la relación de los procesos de negocio con los servicios, hacemos la propuesta mediante la relación de procesos y aplicaciones, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. La vista siguiente muestra que falta la relación entre los procesos de negocio y los servicios hasta una profundidad de nivel 3. Vista de relación entre los procesos misionales del FNA y las aplicaciones que los soportan (los modelos no contienen la relación directa entre procesos y servicios SOA). _Lo que muestra la vista puede responder a una realidad probable en la que no hay relación explícita entre los procesos de negocio y los servicios_, y que por tanto, el Fondo tiene únicamente categorías de servicios utilitarios más que de procesos, o que los modelos simplemente no contienen estas relaciones.
 
 ![Imagen. ](VistaRelacionProcesosServicios.png)
 
