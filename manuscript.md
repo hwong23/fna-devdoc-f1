@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T22:30:58+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T22:30:58+00:00" />
+  <meta name="dc.modified" content="2023-01-11T22:34:26+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T22:34:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/82385650d44043a461b41ceccc5c794779d46503/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/82385650d44043a461b41ceccc5c794779d46503/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/82385650d44043a461b41ceccc5c794779d46503/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/c9852ea3c19596ad6f8fb60e86d95ac0c42469ca/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/c9852ea3c19596ad6f8fb60e86d95ac0c42469ca/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/c9852ea3c19596ad6f8fb60e86d95ac0c42469ca/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -721,53 +721,6 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 
 
 
-
-|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Dominio de Tecnología**
-|----|-------------------------------------------------|
-|Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
-|Autor||
-|Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
-|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
-
-<br>
-
-## Resultados y métricas del diagnóstico de madurez SOA. Dominio Tecnología
-El resultado del nivel de cumplimiento del dominio de Tecnología del FNA es **Gestionado**. Este resultado proviene de las consideraciones obtenidas en las sesiones de trabajo con los encargados de la Infraestructura del Fondo y los siguientes aspectos relacionados al dominio de Tecnología: _independencia del proveedor (OBJ1), fortalecimiento SOA (OBJ2) y flexibilidad, tiempo de mercado SOA (OBJ3)_.
-
-![](images/madurezInfo.png)
-
-[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA Tecnología.
-
-_Fuente: elaboración propia_.
-
->**Nota**. FNA realiza soluciones a la medida para responder a las necesidades y requerimientos de Tecnología de las áreas funcionales. Aunque se evidencia conocimiento y estandarización en las capacidades de computo actuales, falta centralizar la información y estandardizarla para mejorar las toma de decisiones.
-
-<br>
-
-Teniendo en cuenta la clasificación que propone el modelo OSIMM; el cual define el estado de la organización con respecto a los servicios de integración y la madurez SOA de la organización, concluimos que actualmente el Fondo Nacional del Ahorro, en el dominio de infraestructura, realiza soluciones a la medida para responder a las necesidades y requerimientos de las áreas funcionales, sin embargo dichos requerimientos se ejecutan en su mayoría sobre plataformas y tecnologías homogéneas  tales como mismo servidor de aplicaciones o entorno de ejecución  (ej. Java). Se encontrarían problemas en el caso que se quisiera cambiar radicalmente de entorno de ejecución, sistema operativo o arquitectura de procesador.
-
-Para obtener este nivel de madurez se tuvieron en cuenta las siguientes consideraciones.
-
-<br>
-
-## Consideraciones y conclusiones respecto a la arquitectura estándar SOA
-El análisis del repositorio SOA del FNA evidencia que existe una arquitectura y servicios de Infraestructura bien definida que sirve a varias aplicaciones; pero que dependen de unos fabricantes específicos .
-
-La infraestructura actual fue y sigue siendo influenciada por los productos del fabricante IBM, adicional esta infraestructura ha definido el plan de recuperación de desastres y en un futuro podría limitar el uso de tecnologías de otros fabricantes.
-
-<br>
-
-## Consideraciones y conclusiones respecto de las necesidades de integración
-
-Actualmente a nivel de Infraestructura existen elementos adecuados para garantizar integración de componentes/servicios de una forma segura y estandarizada. De todos modos en caso que se quisiera reutilizar los elementos actuales para implementar nuevas tecnologías, se encontrarían limitaciones en caso que impliquen cambio de sistema operativo, arquitectura de CPU, entorno de ejecución o contenerización. 
-
-<br>
-
-## Consideraciones y conclusiones respecto al gobierno SOA
-Los artefactos que conforman la arquitectura de infraestructura describen bien ciertas condiciones y configuraciones actuales. Sin embargo,  no se encuentran todos los elementos en un repositorio centralizado, y en algunos casos no se cuenta con practicas adecuadas que permitan realizar trazas de cambios o evolución de la misma.
-
-Es necesaria una mayor integración del área de Infraestructura con los repositorios de Arquitectura Empresarial para alinearse más con los procesos de negocio y así mismo generar artefactos que le aporten mas valor a la organización.
 
 |Tema|Catálogo de Servicios: **Tipos de Servicios y Distribución de Servicios SOA por Tipo**
 |----|-------------------------------------------------|
@@ -2190,6 +2143,53 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 <br>
 
 
+
+|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Dominio de Tecnología**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Resultados y métricas del diagnóstico de madurez SOA. Dominio Tecnología
+El resultado del nivel de cumplimiento del dominio de Tecnología del FNA es **Gestionado**. Este resultado proviene de las consideraciones obtenidas en las sesiones de trabajo con los encargados de la Infraestructura del Fondo y los siguientes aspectos relacionados al dominio de Tecnología: _independencia del proveedor (OBJ1), fortalecimiento SOA (OBJ2) y flexibilidad, tiempo de mercado SOA (OBJ3)_.
+
+![](images/madurezInfo.png)
+
+[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA Tecnología.
+
+_Fuente: elaboración propia_.
+
+>**Nota**. FNA realiza soluciones a la medida para responder a las necesidades y requerimientos de Tecnología de las áreas funcionales. Aunque se evidencia conocimiento y estandarización en las capacidades de computo actuales, falta centralizar la información y estandardizarla para mejorar las toma de decisiones.
+
+<br>
+
+Teniendo en cuenta la clasificación que propone el modelo OSIMM; el cual define el estado de la organización con respecto a los servicios de integración y la madurez SOA de la organización, concluimos que actualmente el Fondo Nacional del Ahorro, en el dominio de infraestructura, realiza soluciones a la medida para responder a las necesidades y requerimientos de las áreas funcionales, sin embargo dichos requerimientos se ejecutan en su mayoría sobre plataformas y tecnologías homogéneas  tales como mismo servidor de aplicaciones o entorno de ejecución  (ej. Java). Se encontrarían problemas en el caso que se quisiera cambiar radicalmente de entorno de ejecución, sistema operativo o arquitectura de procesador.
+
+Para obtener este nivel de madurez se tuvieron en cuenta las siguientes consideraciones.
+
+<br>
+
+## Consideraciones y conclusiones respecto a la arquitectura estándar SOA
+El análisis del repositorio SOA del FNA evidencia que existe una arquitectura y servicios de Infraestructura bien definida que sirve a varias aplicaciones; pero que dependen de unos fabricantes específicos .
+
+La infraestructura actual fue y sigue siendo influenciada por los productos del fabricante IBM, adicional esta infraestructura ha definido el plan de recuperación de desastres y en un futuro podría limitar el uso de tecnologías de otros fabricantes.
+
+<br>
+
+## Consideraciones y conclusiones respecto de las necesidades de integración
+
+Actualmente a nivel de Infraestructura existen elementos adecuados para garantizar integración de componentes/servicios de una forma segura y estandarizada. De todos modos en caso que se quisiera reutilizar los elementos actuales para implementar nuevas tecnologías, se encontrarían limitaciones en caso que impliquen cambio de sistema operativo, arquitectura de CPU, entorno de ejecución o contenerización. 
+
+<br>
+
+## Consideraciones y conclusiones respecto al gobierno SOA
+Los artefactos que conforman la arquitectura de infraestructura describen bien ciertas condiciones y configuraciones actuales. Sin embargo,  no se encuentran todos los elementos en un repositorio centralizado, y en algunos casos no se cuenta con practicas adecuadas que permitan realizar trazas de cambios o evolución de la misma.
+
+Es necesaria una mayor integración del área de Infraestructura con los repositorios de Arquitectura Empresarial para alinearse más con los procesos de negocio y así mismo generar artefactos que le aporten mas valor a la organización.
 
 |Tema|Resultados y métricas del diagnóstico de madurez SOA: **Anexos. Todos los Dominios**
 |----|-------------------------------------------------|
