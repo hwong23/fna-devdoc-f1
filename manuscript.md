@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T22:48:54+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T22:48:54+00:00" />
+  <meta name="dc.modified" content="2023-01-11T22:53:29+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T22:53:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/f51c20077949b6d04de9006d9fbcca23c13afeed/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/f51c20077949b6d04de9006d9fbcca23c13afeed/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/f51c20077949b6d04de9006d9fbcca23c13afeed/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/7126955fb6dbe472adb54289303b158598fc27c9/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/7126955fb6dbe472adb54289303b158598fc27c9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/7126955fb6dbe472adb54289303b158598fc27c9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -2670,5 +2670,143 @@ Esta Norma Internacional contiene tres partes:
 | N003   | Guía Técnica de Información - Gobierno del dato                                                                                           | 2019    | liena           |
 | N004   | ISO/IEC 18384-1:2016(en)<br>Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA) | 2016    | liena           |
 | n5     | des                                                                                                                                       | 111     | liena           |
+
+
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 5: PR5. Vigilancia Tecnológica SOA
+Describir y justificar la selección de tecnologías y las técnicas de diseño, implementación y gestión de servicios SOA aplicables al Fondo Nacional del Ahorro (FNA).
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y propuestas de solución SOA para el FNA.
+
+<br>
+
+## Contenidos
+1. Lista tecnologías SOA afines al Fondo
+1. Lista de beneficios al FNA por las tecnologías seleccionadas
+1. Implicaciones para la adquisición y adopción tecnológica
+
+<br>
+
+## Criterios de Aceptación
+
+* Evaluación e Identificación de la tecnología SOA que mejor se alinea con los objetivos del proyecto. 
+* Presentación de una arquitectura de solución de Alto Nivel
+
+
+*** 
+
+
+|Tema|Vigilancia Avances de Industria: **Estrategia de modelado e identificación de servicios**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
+|Autor||
+|Fuente||
+|Secuencia|Padre \| Hijo|
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+# Estrategia de modelado e identificación de servicios 
+
+## Domain-Driven Design
+Una de las principales estrategias de diseño de arquitecturas orientadas a servicios / microservicios, es la de reemplazar la búsqueda de reutilización por la facilidad de mantenimiento de los servicios.
+
+En SOA es usual propender por servicios que puedan ser reutilizados a lo largo de toda la organización y en diferentes aplicaciones.  El ojetivo es que un servicio pueda solucionar necesidades de diferentes unidades organizacionales y diferentes procesos de negocio, esto implica usualmente servicios que manejan formatos canónicos y tienen reglas de negocio bastante particulares para solucionar casos puntuales y específicos de las unidades de negocio.  Si bien en un principio se veía esta reutilización como algo favorable, normalmente implicaba un desbalance con la facilidad de modificación.  Un cambio en una regla de negocio implica un versionamiento del servicio y afectar a todos los usuarios del servicio.
+
+Una propuesta diferente que se está utilizando actualmente es la de modelar los servicios a partir de estrategias como Domain-Driven Design o DDD. En esta propuesta se busca tener servicios dedicados al dominio así no sean reutilizados
+
+DDD reconoce los dominios y subdominios de negocio como elemento fundamental para la estrategia de servicios. Se busca tener una alineación entre negocio y tecnología, comenzando por los subdominios de negocio de la organización.
+
+
+![](images/vigilancia1.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Los subdominios pueden ser clasificados en subdominios Core, Soporte y General. El subdominio Core representa lo misional de la organización, los de soporte, representan servicios generales y transversales a las organizaciones y los generales los orientados a las unidades de negocio no core.
+
+![](images/vigilancia2.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Una vez se identifican los subdominios de la organización se hace una relación entre subdominio y los llamados contexto acotados. Los contexto acotados pueden verse como agrupaciones de servicios asociadas a subdominios de la organización
+
+Es posible que un subdominio de negocio tenga asociados varios contextos acotados, es decir que el subdominio se represente con agrupaciones de servicios separadas pero asociadas a un mismo concepto de negocio.
+
+![](images/vigilancia3.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Una característica de un contexto acotado es el uso de un lenguaje ubicuo.  Esto quiere decir que conceptos como cliente, producto o servicio, pueden tener significados diferentes en diferentes contextos acotados.
+
+Lo anterior hace que ya no se busque encapsular en un solo servicio, por ejemplo cliente, todas las posibles reglas de negocio de la organización, sino que existan diferentes servicios Cliente, con funcionalidades más pequeñas y acotadas, en cada contexto. Esto hace que se pierda la reutilización pero se gana en mantenimiento de la solución.
+
+![](images/vigilancia4.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+El proceso de identificación de los contextos acotados y sus lenguajes ubicuos se denomina diseño estratégico. Como se ha explicado, el diseño estratégico identifica agrupaciones de servicios.
+
+La siguiente fase es la del diseño táctico. En esta fase, se identifican componentes más pequeños denominados agregados. Los agregados se pueden ver como las unidades de implementación en SOA, es decir los servicios. Un agregado es usualmente un servicio.
+
+![](images/vigilancia6.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+El conjunto de agregados irán conformando el portafolio de servicios de la organización.
+
+![](images/vigilancia7.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+* Entity. Modela un elemento de forma individual Tiene un identificador único.
+* Value Objects. Modela un concepto inmmutable, el cual no tiene identificador único. Usualmente se usa para describir, cuantificar o medir un Entity.
+* \<\<root>> Entity. Da el nombre a la agregación y contiene todos los otros elementos (entidades y values). Es el único punto de entrada a la agregación.
+
+![](images/vigilancia8.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Por último, cada Aggregate, forma una frontera transaccional. Al interior todo las partes son consistentes.
+
+1. Las innvariantes de negocio se protegen dentro de un Aggregate
+1. Propender por diseñar Aggregates pequeños
+1. Solo se referencian otros aggregates por su identificador
+1. Los Aggregates se actualizan mediante la consistencia eventual
 
 
