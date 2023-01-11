@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T16:58:54+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T16:58:54+00:00" />
+  <meta name="dc.modified" content="2023-01-11T17:23:40+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T17:23:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/30560bb8eedfb61f1192897354c7b375c24cff83/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/30560bb8eedfb61f1192897354c7b375c24cff83/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/30560bb8eedfb61f1192897354c7b375c24cff83/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/018cd7b1d0bfa3a294bb533fcf3a0f0db001cfa2/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/018cd7b1d0bfa3a294bb533fcf3a0f0db001cfa2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/018cd7b1d0bfa3a294bb533fcf3a0f0db001cfa2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -122,7 +122,7 @@ La arquitectura, organizada por vistas, se convierte en un medio de trabajo com�
 ## Objetivos del diagnóstico SOA y Productos, Áreas Procesos FNA Objeto del Diagnóstico
 La vista de contexto presenta una visión de la empresa ajustada a aquellas partes que entran en el alcance de este proyecto, 181-2020, diagnóstico SOA FNA. 
 
-![](vistacontexto.png)
+![](images/vistacontexto.png)
 
 Esta vista informa al Fondo Nacional del Ahorro (FNA, en adelante) dos temas: primero, que el ejercicio actual, aunque utilice una visión empresarial, no puede abarcar a la completitud de la empresa, sino que hace foco en las partes indicadas que son relevantes según las restricciones de ejecución y de resultados esperados del proyecto. Segundo, la vista de contexto comunica las problemáticas (que a la vez son objetivos de solución) a los que le apuntarán los diagnósticos de este proyecto.
 
@@ -184,7 +184,7 @@ Los procesos de negocio seleccionados por este proyecto SOA son aquellos relacio
 
 ### Referencia
 
-![](image_2.370ae998.png)
+![](images/image_2.370ae998.png)
 
 
 
@@ -217,7 +217,7 @@ Estas partes han sido seleccionadas por tener relación directa con los elemento
 
 Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 
-![](FNA_Arquitectura-VistaSegmentoSOAFNA181-2020.png)
+![](images/FNA_Arquitectura-VistaSegmentoSOAFNA181-2020.png)
 
 * [Aporte Censatias (Business Process)](#aporte-censatias-business-process)
 * [Administración de Cuentas  y Pago (Business Process)](#administración-de-cuentas--y-pago-business-process)
@@ -266,7 +266,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 ## Descripción de la Vista Funcional (arquitectura de referencia)
 La vista funcional presenta los servicios que deben hacer parte del portafolio de servicios SOA del Fondo, por tanto, funciona a la vez como una arquitectura de referencia a la que hay que fortalecer, comparar y desarrollar y vigilar.
 
-![](vistafuncional.png)
+![](images/vistafuncional.png)
 
 [Imagen. ]() Vista funcional basada en mapa de servicios.
 
@@ -286,7 +286,7 @@ El ejercicio siguiente listar los conectores necesarios para conectar estas capa
 Los conectores que dinamizan la interacción entre los servicios independientes de la tecnología y de proveedor aparecen en la vista como líneas de conexión entre las capacidades de esta arquitectura de referencia.
 
 Describimos las características de estos conectores con los siguientes ejemplos.
-![](conectores.png)
+![](images/conectores.png)
 
 [Imagen. ]() Conectores que dinamizan la interacción entre los servicios independientes.
 
@@ -324,7 +324,7 @@ _Fuente: Portafolio de Aplicaciones FNA._
 ## Importancia de las Capacidades y Servicios SOA (y otras partes de la empresa)
 La intersección de la vista de segmento del FNA con las capacidades de negocio propuestas por este ejercicio (en color naranja abajo) resultará en la lista de servicios de negocio más importantes para la empresa dado su nivel de relación con estas capacidades.
 
-![][embedView]
+![](images/FNA_Arquitectura-Vista%20de%20Capacidades%20FNA.png)
 
 <br>
 
@@ -388,9 +388,7 @@ _Fuente: arquitectura fna.archimate_
 
 <br>
 
------
 
-[embedView]: FNA_Arquitectura-Vista%20de%20Capacidades%20FNA.png
 
 
 # Areas de Negocio FNA
@@ -410,7 +408,8 @@ En los modelos analizados (Anexo 2) no se evidencia relación de las áreas de n
 La única relación encontrada es la de algunas áreas de negocio del FNA con el proceso de Legalización.
 
 
-![Vista][embedView]
+![Vista](images/FNA_Arquitectura-Areas%20de%20Negocio%20FNA.png)
+
 _Fuente: ae_fna.archimate, ae_fna_as_is.archimate, ae_fna_tobe.archimate._
 
 <br>
@@ -472,9 +471,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 * pa0003-pki.archimate
 * workmanager.archimate
 
-----
 
-[embedView]: FNA_Arquitectura-Areas%20de%20Negocio%20FNA.png
 
 
 |Tema|Catálogo de Servicios: **Sistemas de información, Aplicaciones y Servicios**
@@ -664,7 +661,7 @@ El diagrama muestra la misma información que la tabla de dependencias del portf
 
     (arriba, izq.) Grupo de aplicaciones pertenecientes a Cobis. (centro, izq.) Grupo de aplicaciones que pertenecen al Process Server del Fondo. (abajo, izq.) El grupo de aplicaciones ESB IBM de la empresa.
 
-![][embedView]
+![](images/VistaPortafolio-CatalogoServiciosFNA.1.png)
 
 [Imagen. ]() Interdependencias del Portafolio FNA.
 
@@ -722,8 +719,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Cliente\_ValidarExistencia|Cobis-Clientes|
 |ClntePrsnaNtral\_RecuperarProductos|Cobis-Clientes|
 
----
-[embedView]:VistaPortafolio-CatalogoServiciosFNA.1.png
+
 
 
 |Tema|Catálogo de Servicios: **Tipos de Servicios y Distribución de Servicios SOA por Tipo**
@@ -803,7 +799,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 
 A falta de información directa respecto de la relación de los procesos de negocio con los servicios, hacemos la propuesta mediante la relación de procesos y aplicaciones, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. La vista siguiente muestra que falta la relación entre los procesos de negocio y los servicios hasta una profundidad de nivel 3. Vista de relación entre los procesos misionales del FNA y las aplicaciones que los soportan (los modelos no contienen la relación directa entre procesos y servicios SOA). _Lo que muestra la vista puede responder a una realidad probable en la que no hay relación explícita entre los procesos de negocio y los servicios_, y que por tanto, el Fondo tiene únicamente categorías de servicios utilitarios más que de procesos, o que los modelos simplemente no contienen estas relaciones.
 
-![Imagen. ](VistaRelacionProcesosServicios.png)
+![](images/VistaRelacionProcesosServicios.png)
 
 <br>
 
@@ -909,7 +905,7 @@ La arquitectura se construye teniendo en cuenta una serie de marcos de referenci
 
 La Ilustración a continuación, muestra los marcos de referencia aplicables a la vista de Información:
 
-![](vinformacion-marcos.jpg)
+![](images/vinformacion-marcos.jpg)
 [Ilustracion 1.]() Marcos de referencia vista de Información
 
 <br>
@@ -1133,7 +1129,7 @@ _Tabla 4 Inventario de Bases de Datos Activas_
 
 La ilustración a continuación, muestra la vista de bases de datos y la infraestructura en la que están desplegadas:
 
-![Ilustración 2 Vista de Bases de Datos](vinformacion-basesdedatos.png)
+![Ilustración 2 Vista de Bases de Datos](images/vinformacion-basesdedatos.png)
 _Ilustración 2 Vista de Bases de Datos_
 
 <br>
@@ -1596,7 +1592,7 @@ El modelo de integración de aplicaciones del FNA está basado en el patrón ada
 
 La imagen siguiente presenta los adaptadores por clientes del bus de datos. El bus debe tener un adaptador distinto por cada nuevo cliente en lugar de tener uno estándar para, si no todos (Cobis, Ventas, BPMN), para la mayoría de los clientes de la integración.
 
-![Imagen. ](ArquitecturaConceptualCreditoCostructor.png)
+![](images/ArquitecturaConceptualCreditoCostructor.png)
 
 [Imagen. ]() Modelo de Interoperabilidad FAN: conector / adaptador en el bus.
 
@@ -1606,7 +1602,7 @@ _Fuente: ae_fna_as_is.archimate_
 
 Otro ejemplo de la aplicación del modelo de integración basado en adaptadores por cliente en el bus (ESB en la imagen) se encuentra en la capacidad de sincronización del sistema de información Cobis CRM descrito en esta imagen.
 
-![I](ArquitecturaConceptualSincronizacionCobisCRM.png)
+![](images/ArquitecturaConceptualSincronizaciónCobisCRM.png)
 
 [Imagen. ]() Modelo de Interoperabilidad FAN: conector / adaptador en la sincronización de Cobis CRM y Cobis Clientes.
 
@@ -1858,7 +1854,7 @@ En resumen, las vistas elaboradas en el diagnóstico de la situación actual SOA
 
 Imagen del proceso de diagnóstico y evaluación de madurez SOA. Entradas, salidas y afectación a la estrategia SOA en cada iteración.
 
-![](ProcesoMadurez.png)
+![](images/ProcesoMadurez.png)
 
 [Imagen. ]() Proceso iterativo de diagnóstico de madurez SOA influye en la estrategia SOA.
 
@@ -1889,7 +1885,7 @@ El método OSIMM adaptado al FNA consta de dos partes.
 En la evaluación de Resultado SOA la empresa es el objeto a evaluar. Esta evaluación observa a la empresa FNA desde los objetivos de la consultoría (OBJ1. Independencia de proveedor...) y las vistas de contexto, y de segmento desarrolladas anteriormente. Finalmente, constrasta esta información con siete perspectivas (a las que el método llama dimensiones) conel fin de asignar un puntaje a cada una de estas: Negocio, Organización y Gobierno, Procedimientos (Método), Aplicaciones, Arquitectura, Información, Infraestructura.
 
 Ejemplo de la evaluación Resultado SOA adaptada al FNA.
-![](ResultadoSOA.png )
+![](images/ResultadoSOA.png )
 
 [Imagen.]() Evaluación de Resultado SOA. Dimensiones seleccionadas para el diagnóstico SOA.
 
@@ -1900,7 +1896,7 @@ _Fuente: elaboración propia._
 En cambio, en la segunda parte del médoto, la evaluación Arquitectura SOA, el objeto observado son los servicios SOA. Lo que hace esta evaluación es una caracterización de los servicios del FNA en función de atributos de calidad que deben estar presentes en los servicios.
 
 Ejemplo de la evaluación Arquitectura SOA adaptada al FNA.
-![](ArquitecturaSOA.png)
+![](images/ArquitecturaSOA.png)
 
 [Imagen.]() Evaluación de Arquitectura SOA. Capacidades de los servicios SOA.
 
@@ -1912,7 +1908,7 @@ Al conjugar de estas dos evaluaciones es la que produce finalmente un índice de
 
 Ejemplo del resultado de las dos evaluaciones SOA.
 
-![](nivelMadurez.png)
+![](images/nivelMadurez.png)
 
 [Imagen.]() Índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.
 
@@ -1976,7 +1972,7 @@ Los cuestionarios del método de evaluación de madurez SOA del FNA han sido aju
 ## Herramienta de Diagnóstico de Nivel de Madurez SOA
 Descargar la herramienta que implementa el método presentado anteriomente, sus partes, dimensiones de evaluación, y las fórmulas de puntuación desde la siguiente dirección: [Herramienta de Diagnóstico de Nivel de Madurez SOA](https://stefaninilatam.sharepoint.com/:x:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EaFAwvlljjhPtOMS6Px_BWAB3dCP0EfacSHo6jo0E441RQ?e=l45v7K).
 
-![](herramientaSOA.png)
+![](images/herramientaSOA.png)
 
 [Imagen.]() Descargar la herramienta de Diagnóstico de Nivel de Madurez SOA.
 
