@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T16:52:03+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T16:52:03+00:00" />
+  <meta name="dc.modified" content="2023-01-11T16:58:54+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T16:58:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/30560bb8eedfb61f1192897354c7b375c24cff83/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/30560bb8eedfb61f1192897354c7b375c24cff83/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/30560bb8eedfb61f1192897354c7b375c24cff83/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -1821,6 +1821,51 @@ _Fuente principal: elaboración propia. **Fuente secundaria**: ae_fna_as_is.arch
 <br>
 
 Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md).
+
+
+
+|Tema|Presentación del Análisis de Madurez SOA del FNA: **Proceso de Evaluación de Madurez**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
+|Autor||
+|Fuente||
+|Secuencia|Padre<br>Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Presentación del Análisis de Madurez SOA del FNA
+El ejercicio de madurez a realizar tiene por objeto cuantificar la efectividad de la arquitectura SOA actual, así como la de los procesos usuales de SOA, como por ejemplo, el proceso de gobierno SOA. _Medir la madurez en términos de efectividad es necesario si queremos mover el estado de la arquitectura SOA actual y la de los procesos SOA hacia un estado objetivo de independencia de proveedor, flexibilidad de negocio y tiempo demercado, y fortalecimiento SOA_.
+
+El método para el análisis de madurez incorpora las siguientes consideraciones:
+1. Alcance de la adopción SOA en el Fondo
+1. Niveles de las capacidades de la arquitectura SOA del Fondo
+1. Descripción de los estados deseados, o estadios SOA
+1. Implicaciones del retorno de inversión tecnológica 
+1. Vigilancia del costo, efectividad y factibilidad SOA
+
+<br>
+
+## Proceso de Evaluación de Madurez
+El proceso de diagnóstico y evaluación de madurez SOA aplicado en el Fondo es acotado e iterativo. _El objetivo de este proceso es realizar varias iteraciones de evaluación de madurez y en cada una aportar a la estrategia SOA del Fondo_.
+
+En resumen, las vistas elaboradas en el diagnóstico de la situación actual SOA (PR1) en esta consultoría sirven de entrada para el proceso. Particularmente, 
+
+1. Sesiones de descripción del negocio, organización y visión estratégica: intención, productos, clientes y mercado, requerimientos estratégicos
+1. Entrevistas con ingenieros del Fondo (estándares de TI, decisiones diseño)
+1. Cuestionarios de evaluación (aspectos SOA)
+1. Listas de chequeo SOA (implementación SOA)
+
+Imagen del proceso de diagnóstico y evaluación de madurez SOA. Entradas, salidas y afectación a la estrategia SOA en cada iteración.
+
+![](ProcesoMadurez.png)
+
+[Imagen. ]() Proceso iterativo de diagnóstico de madurez SOA influye en la estrategia SOA.
+
+_Fuente: elaboración propia._
+
+<br>
+Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, diagramas, estrategias, entre otros, deben residir en el repositorio SOA del Fondo.
 
 
 
