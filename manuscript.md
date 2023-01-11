@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T22:34:26+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T22:34:26+00:00" />
+  <meta name="dc.modified" content="2023-01-11T22:48:54+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T22:48:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/c9852ea3c19596ad6f8fb60e86d95ac0c42469ca/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/c9852ea3c19596ad6f8fb60e86d95ac0c42469ca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/c9852ea3c19596ad6f8fb60e86d95ac0c42469ca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/f51c20077949b6d04de9006d9fbcca23c13afeed/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/f51c20077949b6d04de9006d9fbcca23c13afeed/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/f51c20077949b6d04de9006d9fbcca23c13afeed/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -2540,4 +2540,135 @@ Para apoyar la gestión de la alineación de la tecnología  del Fondo guíada p
 [Imagen. ]() Herramienta para navegación y clasificación de contenidos del FNA.
 
 _Fuente: elaboración propia._
+
+
+---
+Fase: Fase 1.2
+Tema: Estado SOA Actual
+Producto: PR4. Marcos Regulatorios, Normatividad y Referencias Tecnológicas
+---
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 4: PR4. Marcos Regulatorios, Normatividad y Referencias Tecnológicas
+Describir y justificar la aplicación de los marcos legales seleccionados, restricciones del sector, y referentes tecnológicos aplicables el Fondo.
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+Identificar restricciones que modifiquen o afecten a las iniciativas y propuestas de solución SOA para el FNA.
+
+<br>
+
+## Contenidos
+1. Lista de normatividad pública del sector ahorro
+    * Justificación de la selección de las normas
+    * Implicaciones para las capacidades SOA del FNA
+
+1. Referencias tecnológicas de la industria
+    * Justificación de la selección de las referencias
+    * Implicaciones para las capacidades SOA del FNA
+
+<br>
+
+## Criterios de Aceptación
+
+* Correspondencia entre las marcos regulatorios, normas y referencias seleccionadas con los aspectos operativos o misionales del FNA
+* Identificacion de implicaciones positivas (o negativas) para el Fondo
+
+*** 
+
+## N001. Marco de interoperabilidad para Gobierno Digital
+### Año: 2019
+
+<br>
+
+### Justificación
+El Marco de interoperabilidad de Gobierno Digital surge con el propósito de contribuir en la entrega de servicios digitales, de manera completa, adecuada, minimizando los pasos y evitando el desplazamiento del ciudadano a diversas entidades para obtener la información necesaria de una entidad y acceder así a sus derechos y obligaciones con el Estado. La interoperabilidad permite fortalecer la visión de unidad del Estado, al tener una mayor capacidad de comunicación, entrega y uso de servicios digitales de valor para mejorar la calidad de vida de los ciudadanos.
+
+### Implicaciones para el Fondo
+El Marco de Interoperabilidad de Gobierno Digital es la herramienta que acompaña a las entidades en el desarrollo de  capacidades de intercambio de información, sin importar  restricciones o  tamaño. Para esto se estructuró dividiendo la interoperabilidad en sus diferentes ámbitos y puntos de vista que constituyen el ejercicio de intercambiar información en cuatro (4) dominios de interoperabilidad.  Para realizar una mejor adopción y seguimiento a la implementación de este Marco, se desarrolló un modelo de madurez que ayuda a las entidades a identificar su estado de avance en el cumplimiento de los lineamientos para cada uno de los dominios. Finalmente, los lineamientos son descritos a un nivel detallado a través de un conjunto de actividades y recomendaciones que facilitan su cumplimiento, conteniendo acciones a emprender y habilitadores transversales a utilizar para garantizar el intercambio efectivo de información. 			
+
+<br>
+
+## N002. Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales
+### Año: 2019
+
+<br>
+
+### Justificación
+Esta guía contiene el conjunto de pautas que se deben tener en cuenta en el momento de hacer uso del Lenguaje Común de Intercambio de Información, explicando de una manera clara su definición y cuáles son los requisitos y pasos que se deben cumplir, dependiendo de las necesidades de cada entidad.  De esta manera pretendemos que el lector conozca cómo utilizar el Lenguaje Común de Intercambio en los sistemas de información y los servicios de interoperabilidad que soporten su negocio.	
+
+### Implicaciones para el Fondo
+El Lenguaje Común de Intercambio de Información les sirve a las entidades para:  Definir conceptos en consenso, en virtud de que independiente de la entidad responsable de la definición de este, el usuario perciba la misma información.  Información definida teniendo en cuenta aspectos normativos: constitución, leyes, decretos, actos administrativos, reglamentación interna, entre otros.  Información definida con un solo significado.  Información definida con una sola sintaxis.  Apropiación de conocimiento de estándares internacionales para el intercambio de información.  Facilitar el flujo de información en los servicios de intercambio de información.   Estructurar la información de forma estandarizada.  Reutilizar conceptos en el intercambio de información.  Intercambiar información de calidad.  Ahorro en tiempo de diseño de elementos.  Evolución ordenada y controlada de los conceptos que hacen parte del estándar.  Ahorro en tiempo en implementación de transformaciones.  Ahorro en tiempo de ejecución del servicio. 			
+
+<br>
+
+## N003. Guía Técnica de Información - Gobierno del dato
+### Año: 2019
+
+<br>
+
+### Justificación
+Esta guía técnica del Gobierno del Dato apoya la implementación de los lineamientos asociados a: registro y mantenimiento de información de proveedores de COM-INF, establecimiento de los mecanismos de actualización de los COM-INF, la creación y mantenimiento del repositorio unificado de estructuración de los COM-INF, la clasificación para los COM-INF de intercambio y consolidación de los COM-INF a nivel sectorial; para presentar los Componentes que pueden ser aplicados por las instituciones para el buen gobierno del dato, desde la perspectiva del dominio de Información del Marco de Referencia de AE.
+
+### Implicaciones para el Fondo
+Definir criterios estándares para el manejo de los datos por parte de las instituciones, bajo un modelo general de gestión del dato.
+Presentar los beneficios generales y el modelo de madurez que se relacionan con la gestión del dato de la gran mayoría de las instituciones del Estado, para las entidades de datos más genéricas. 
+
+Definir las actividades generales que deben ser incorporadas en el proceso de gobierno del dato, en particular desde la perspectiva de un modelo federado. 
+Explicar el gobierno del dato como un proceso de mejora del conocimiento de la información relevante de las instituciones, desde la perspectiva de procesos de transformación como: eficiencia operativa, conocimiento del dato, uso de la información, entre ot ros.
+
+<br>
+
+## N004. ISO/IEC 18384-1
+### Año: 2016
+
+<br>
+
+### Justificación
+Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA)"	2016	"Esta parte de ISO/IEC 18384 establece el vocabulario, las directrices y los principios técnicos generales que subyacen a la arquitectura orientada a servicios (SOA), incluidos los principios relacionados con el diseño funcional, el rendimiento, el desarrollo, la implementación y la gestión.
+
+### Implicaciones para el Fondo
+"Esta Norma Internacional define la terminología, los principios técnicos, la arquitectura de referencia y la ontología para SOA. La audiencia objetivo de esta Norma Internacional incluye, entre otros, organizaciones de estándares, arquitectos, metodólogos de arquitectura, diseñadores de sistemas y software, gente de negocios, proveedores de servicios SOA, desarrolladores de servicios y soluciones SOA, y consumidores de servicios SOA que estén interesados ​​en adoptar y desarrollo de SOA. Por ejemplo, esta parte de ISO/IEC 18384 se puede utilizar para introducir conceptos de SOA y como guía para el desarrollo y la gestión de soluciones SOA.
+
+Esta Norma Internacional contiene tres partes:
+
+* ISO/IEC 18384-1 que define la terminología, principios técnicos básicos y conceptos para SOA
+* ISO/IEC 18384-2 que define las capas detalladas de la arquitectura de referencia SOA, incluido un metamodelo, capacidades, bloques de construcción arquitectónicos, así como tipos de servicios en soluciones SOA
+* c) ISO/IEC 18384-3 que define los conceptos centrales de SOA y sus relaciones en la Ontología.
+
+
+<br>
+
+## N005. XXXXX
+### Año: YYYY
+
+<br>
+
+### Justificación
+...
+
+### Implicaciones para el Fondo
+...
+
+...
+
+
+***
+
+
+
+## Anexo 1. Resumen de Normas, Referencias y Tecnologías SOA del FNA
+| **ID** | **Número**                                                                                                                                | **Año** | **Descripción** |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------|---------|-----------------|
+| N001   | Marco de interoperabilidad para Gobierno Digital                                                                                          | 2019    | linea           |
+| N002   | Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales                                                        | 2019    | linea           |
+| N003   | Guía Técnica de Información - Gobierno del dato                                                                                           | 2019    | liena           |
+| N004   | ISO/IEC 18384-1:2016(en)<br>Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA) | 2016    | liena           |
+| n5     | des                                                                                                                                       | 111     | liena           |
+
 
