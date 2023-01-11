@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T19:34:52+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T19:34:52+00:00" />
+  <meta name="dc.modified" content="2023-01-11T19:54:39+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T19:54:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/d1d75b8ac5338633e3ebd59df688e56f89f1f680/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/d1d75b8ac5338633e3ebd59df688e56f89f1f680/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/d1d75b8ac5338633e3ebd59df688e56f89f1f680/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/659914de8657207114e66de01999e4d253e07913/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/659914de8657207114e66de01999e4d253e07913/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/659914de8657207114e66de01999e4d253e07913/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
