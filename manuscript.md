@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T17:23:40+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T17:23:40+00:00" />
+  <meta name="dc.modified" content="2023-01-11T19:34:52+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T19:34:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/018cd7b1d0bfa3a294bb533fcf3a0f0db001cfa2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/018cd7b1d0bfa3a294bb533fcf3a0f0db001cfa2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/018cd7b1d0bfa3a294bb533fcf3a0f0db001cfa2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/d1d75b8ac5338633e3ebd59df688e56f89f1f680/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/d1d75b8ac5338633e3ebd59df688e56f89f1f680/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/d1d75b8ac5338633e3ebd59df688e56f89f1f680/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -940,7 +940,7 @@ _Tabla 1 Portafolio de Aplicaciones_
 
 <br>
 
-  ## Lista de Proveedores
+## Lista de Proveedores
 
 A continuación, se listan los diferentes proveedores que hacen parte del ecosistema de integración de servicios del FNA:
 
@@ -969,19 +969,19 @@ La tabla a continuación, muestra las entidades de datos identificadas y el núm
 
 | **Entidades** | **Cantidad de servicios** |
 | --- | --- |
-| **Credito** | **50** |
-| **Cesantias** | **45** |
-| **CuentaAVC** | **30** |
-| **ClientePN** | **23** |
-| **Seguridad** | **17** |
-| **Cartera** | **16** |
-| **ClientePJ** | **14** |
-| **GestorDocumental** | **14** |
-| **Tesoreria** | **8** |
-| **PQYR** | **6** |
-| **Administrador** | **4** |
-| **Clientes** | **3** |
-| **Garantias** | **2** |
+| Credito | 50 |
+| Cesantias | 45 |
+| CuentaAVC | 30 |
+| ClientePN | 23 |
+| Seguridad | 17 |
+| Cartera | 16 |
+| ClientePJ | 14 |
+| GestorDocumental | 14 |
+| Tesoreria | 8 |
+| PQYR | 6 |
+| Administrador | 4 |
+| Clientes | 3 |
+| Garantias | 2 |
 
 _Tabla 3 Entidades de Datos_
 
