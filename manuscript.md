@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2023-01-10'
+date-meta: '2023-01-11'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2023-01-10" />
-  <meta name="citation_publication_date" content="2023-01-10" />
-  <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T23:23:48+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T23:23:48+00:00" />
+  <meta name="dc.date" content="2023-01-11" />
+  <meta name="citation_publication_date" content="2023-01-11" />
+  <meta property="article:published_time" content="2023-01-11" />
+  <meta name="dc.modified" content="2023-01-11T14:34:44+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T14:34:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/68e549aef5cd17723f40010dd14d9488f44888cf/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/68e549aef5cd17723f40010dd14d9488f44888cf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/68e549aef5cd17723f40010dd14d9488f44888cf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/f17414329fa0f3c2d8f41481c74ab689eb51742a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/f17414329fa0f3c2d8f41481c74ab689eb51742a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/f17414329fa0f3c2d8f41481c74ab689eb51742a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -802,6 +802,8 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 ## Procesos del FNA relacionados con Servicios del FNA Objeto del Diagnóstico SOA
 
 A falta de información directa respecto de la relación de los procesos de negocio con los servicios, hacemos la propuesta mediante la relación de procesos y aplicaciones, _misma que sirve para inferir los servicios que están soportando a dichos procesos_. La vista siguiente muestra que falta la relación entre los procesos de negocio y los servicios hasta una profundidad de nivel 3. Vista de relación entre los procesos misionales del FNA y las aplicaciones que los soportan (los modelos no contienen la relación directa entre procesos y servicios SOA). _Lo que muestra la vista puede responder a una posoible realidad en la que no hay relación explícita entre los procesos de negocio y los servicios_, y que por tanto, el Fondo tiene únicamente categorías de servicios utilitarios más que de procesos, o que los modelos simplemente no contienen estas relaciones.
+
+![Imagen. ](VistaRelacionProcesosServicios.png)
 
 <br>
 
