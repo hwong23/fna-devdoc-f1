@@ -1948,6 +1948,7 @@ content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:abajo
 content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:aplicaciones
 content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:aplicaciones
 content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:aplicaciones
+content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:centro
 content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:Cobis
 content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:El
 content/07.Fase 1 PR1 Catálogo de Servicios FNA-2.md:186:empresa
@@ -2532,10 +2533,15 @@ content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:27:propia
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:aplicaciones
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:aquellos
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:Así
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:cálculo
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:cantidad
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:cantidad
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:comparación
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:cómputo
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:diferencia
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:el
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:el
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:elaboran
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:esfuerzo
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:este
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:esto
@@ -2544,16 +2550,19 @@ content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:FNA
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:Fondo
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:gobierno
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:grupo
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:inciden
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:influye
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:información
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:información
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:mantenimiento
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:mediante
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:menor
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:mismo
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:negocio
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:negocio
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:por
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:portafolio
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:presencia
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:procesos
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:relevantes
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:responde
@@ -7634,3 +7643,1735 @@ content/19.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Diagnóstico
 content/19.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Gobierno
 content/19.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Por
 content/19.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:1:Estado
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:1:Fase
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:1:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:2:Alcance
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:2:Contenido
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:2:Productos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:Diagnóstico
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:FNA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:Producto
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:Resultado
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:Situación
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:4:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:brechas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:conclusiones
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:conclusiones
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:constrastadas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:darán
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:el
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:elementos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:Estado
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:estándar
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:estudios
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:expuestas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:Fase
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:futuras
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:futuras
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:gobierno
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:hojas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:iniciaticas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:insumo
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:lugar
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:oportunidades
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:otros
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:posteriores
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:Presentar
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:resumen
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:ruta
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:señalar
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:una
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:5:visión
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:aplicaciones
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:dependencia
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:el
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:este
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:Nota
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:objetivos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:producto
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:proveedor
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:provienen
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:proyecto
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:tiempo
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:7:únicamente
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:9:Justificación
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:actividad
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:actividades
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:arquitectura
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:arquitectura
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:arrojará
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:conclusiones
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:cualitativas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:cuantitativas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:diagnóstico
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:el
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:el
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:el
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:El
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:encaminar
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:Esta
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:establecer
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:estado
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:estado
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:FNA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:futuro
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:permitirá
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:permitirán
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:resultado
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:sobre
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:tanto
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:TOBE
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:10:valoraciones
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:12:Contenidos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:alineación
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:Análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:negocio
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:ROI
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:13:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:Análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:dependencia
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:FNA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:huella
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:14:tecnologica
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:Análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:FNA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:fortalezas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:15:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:Análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:gobierno
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:Interop
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:16:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:17:Análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:17:atributos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:17:calidad
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:17:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:beneficios
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:futuros
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:Oportunidades
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:Requerimientos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:18:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:20:Aceptación
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:20:Criterios
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:Análisis
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:dependencia
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:desde
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:dominios
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:el
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:forataleza
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:información
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:información
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:infraestructura
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:negocio
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:objetivos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:proveedor
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:sistemas
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:situación
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:SOA
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:21:tiempo
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:descripción
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:ecosistema
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:mejora
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:nuevos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:oportunidades
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:posibles
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:Presentación
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:relacionados
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:requerimientos
+content/20.Fase1 PR3 Resultado Diagnóstico Situación Actual.md:22:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Análisis
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Diagnóstico
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Resultado
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Situación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:1:Tema
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:3:Capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:3:clave
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:3:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:3:Palabras
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:3:Situación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:3:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:4:Autor
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:5:Fuente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:6:Hijo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:6:Secuencia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:7:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:7:Segmento
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:7:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:7:Vínculos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:11:Alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:11:Análisis
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:11:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:11:Negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:El
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:evidenciamos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:mediante
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:medio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:nivel
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:población
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:portafolio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:primera
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:relación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:segunda
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:tecnología
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:tipo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:vías
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:14:Alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:14:Capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:14:Mediante
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:14:Relación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:14:Servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:14:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:análisis
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:aplicar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:aquellas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:áreas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:áreas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:asignar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:cambiar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:cercanas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:conseguir
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:contrario
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:controles
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:cuando
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:deben
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:definitiva
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:demás
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:Desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:ejercicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:empresa
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:ende
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:enfocar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:esfuerzos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:estas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:este
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:esto
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:Fondo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:formalmente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:funcionales
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:hace
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:imperativo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:importante
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:incluye
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:liberan
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:más
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:mejor
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:mejora
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:modelo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:modelo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:momento
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:objetivo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:partes
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:partes
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:percepción
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:percibido
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:posible
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:positivo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:profundizar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:recursos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:relaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:requerimientos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:seleccionadas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:ser
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:sería
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:su
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:surja
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:sus
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:tenga
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:tiene
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:todo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:únicamente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:uno
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:arquitectura
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:arquitectura
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:beneficia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:Crédito
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:cuente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:Desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:desarrollo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:describir
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:detalles
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:diagnóstico
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:ello
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:empresa
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:este
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:fácil
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:gestionar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:hoja
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:más
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:mejorando
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:objeto
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:Operaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:particularmente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:posibilidad
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:referencia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:requerimientos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:ruta
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:seguir
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:selección
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:sirva
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:también
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:tanto
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:tecnologías
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:una
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:Una
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:vez
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:vicepresidencia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:desarrolle
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:desarrollo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:empresa
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:entre
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:estado
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:Fondo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:gestione
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:imagen
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:mejor
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:modelo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:muestra
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:muy
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:necesario
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:pocas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:razón
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:relaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:requerimientos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:siguiente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:su
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:19:tipos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:21:conclusiones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:Desarrollo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:entre
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:Existen
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:Fondo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:Imagen
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:pocas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:profundización
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:propuestas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:relaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:23:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:25:elaboración
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:aplicaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:Catálogo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:enfocar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:esfuerzos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:evidencia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:gobierno
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:herramientas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:imperativo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:más
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:modelo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:monitoreo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:Nota
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:pasa
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:permita
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:Servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:situación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:tal
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:29:ver
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:Alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:Clasificación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:Mediante
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:Portafolio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:Servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:33:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:alineación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:Crédito
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:distribución
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:El
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:encuentra
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:esta
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:están
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:este
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:Esto
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:Fondo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:grado
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:hacia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:inclinada
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:indicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:mano
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:necesidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:Operaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:otro
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:portafolio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:portafolio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:proceso
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:puede
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:satisfechas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:siendo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:significar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:SOa
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:tipo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:vez
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:vicepresidencias
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:viene
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:38:Cantidad
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:38:Servicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:38:Tipo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:39:Información
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:39:Servicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:40:Proceso
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:40:Servicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:41:Negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:41:Servicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:44:Catalogación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:44:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:44:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:44:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:44:tipos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:46:Catálogo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:46:elaboración
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:46:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:46:propia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:46:Servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:aquellos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:cálculo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:cambio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:comparación
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:cómputo
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:diferencia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:ejecución
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:el
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:elaboran
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:flexibilidad
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:FNA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:inciden
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:mediante
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:menor
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:orquestan
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:portafolio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:presencia
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:procesos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:procesos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:respuesta
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:tanto
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:tareas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:una
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:áreas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:áreas
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:centrada
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:consulta
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:Crédito
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:cuando
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:datos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:está
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:flexibilidad
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:integración
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:más
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:mayoría
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:negocio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:Nota
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:Operaciones
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:proceso
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:requerimientos
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:transporte
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:vicepresidencias
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:Análisis
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:dependencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:Diagnóstico
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:FNA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:FNA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:huella
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:Resultado
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:Situación
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:tecnologica
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:1:Tema
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:3:clave
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:3:Palabras
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:3:Situación
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:3:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:3:Tecnología
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:4:Autor
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:5:Fuente
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:6:Hijo
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:6:Secuencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:7:Vínculos
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:11:Análisis
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:11:Dependencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:11:FNA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:11:Huella
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:11:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:11:Tecnologica
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:allá
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:backend
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:capas
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:Cobis
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:dependencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:diagrama
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:ERP
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:expone
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:extiende
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:hecho
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:lógica
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:negocio
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:proveedor
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:resida
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:siguiente
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:13:situación
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:15:conclusiones
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:17:Dependencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:17:FNA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:17:Imagen
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:17:proveedor
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:17:tecnologías
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:19:arquitectura
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:19:fna
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:afines
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:ámbitos
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:arquitectura
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:Cobis
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:dependencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:El
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:empresa
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:ERP
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:ERP
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:este
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:extienden
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:favorecen
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:flexibilidad
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:FNA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:Fondo
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:fortalezas
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:incide
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:influye
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:más
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:objetivos
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:otras
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:primero
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:problema
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:procura
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:proveedor
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:seleccionadas
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:tecnología
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:23:tecnologías
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:áreas
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:áreas
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:cambio
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:centra
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:cobertura
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:cobertura
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:CRM
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:desarrollo
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:diagrama
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:directorios
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:ERP
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:Este
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:evidencia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:huella
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:mapa
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:mapa
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:monitoreo
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:Muestra
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:servicios
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:servicios
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:siguiente
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:tecnologías
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:tecnológica
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:tecnológica
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:tecnológica
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:Tesorería
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:tiene
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:27:tienen
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:29:conclusiones
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:Cobis
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:desarrollan
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:Imagen
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:proveedor
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:según
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:31:Tecnologías
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:arquitectura
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:beneficios
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:bien
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:capacidades
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:composición
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:contrario
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:dificulta
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:el
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:El
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:empresarial
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:FNA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:gestión
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:haya
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:hecho
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:implementación
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:más
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:monitoreo
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:Nota
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:por
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:propicia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:redundancia
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:registro
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:reutilización
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:servicios
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:servicios
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:SOA
+content/22. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1a.md:37:tecnologías
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:Análisis
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:dependencia
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:Diagnóstico
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:FNA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:FNA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:huella
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:Resultado
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:Situación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:SOA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:SOA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:tecnologica
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:1:Tema
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:3:clave
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:3:Palabras
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:3:Situación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:3:SOA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:3:Tecnología
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:4:Autor
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:5:Fuente
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:6:Diagnóstico
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:6:Hijo
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:6:Resultado
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:6:Secuencia
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:6:Situación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:7:Vínculos
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:11:Análisis
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:11:Dependencia
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:11:FNA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:11:Huella
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:11:SOA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:11:Tecnologica
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:continuación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:dependencia
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:donde
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:el
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:el
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:encuentra
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:evidencia
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:fabricante
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:fabricante
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:fabricante
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:Infraestructura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:Infraestructura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:muchos
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:nivel
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:por
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:proporcionado
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:proveedor
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:relación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:respecto
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:servicios
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:servicios
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:también
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:una
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:13:ve
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:15:conclusiones
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:Catálogo
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:FNA
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:Imagen
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:Infraestructura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:respecto
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:servicios
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:17:tecnologías
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:19:arquitectura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:19:basado
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:19:Composición
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:19:datos
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:19:fna
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:arquitectura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:cambio
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:caso
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:contemplar
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:ejecución
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:el
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:entorno
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:fabricante
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:influenciada
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:infraestructura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:nivel
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:operativo
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:plataformas
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:por
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:problemas
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:procesador
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:productos
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:quisiera
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:sido
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:sistema
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:soluciones
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:tanto
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:23:tecnologías
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:adicional
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:desastres
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:el
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:esta
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:fabricante
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:fue
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:influenciada
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:influenciado
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:infraestructura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:infraestructura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:por
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:productos
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:recuperación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:siendo
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:27:sigue
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:29:conclusiones
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:31:Alterno
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:31:Centro
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:31:Imagen
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:actualmente
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:arquitectura
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:arquitecturas
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:asignarle
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:cuando
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:dentro
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:documentación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:el
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:elegir
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:elemento
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:implementar
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:importante
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:limitar
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:lugar
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:nuevas
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:operación
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:pretenda
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:proveedores
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:puedan
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:puede
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:solución
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:tecnologías
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:tipo
+content/23. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1b.md:37:transparente
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:Análisis
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:Diagnóstico
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:Gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:Resultado
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:Situación
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:1:Tema
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:clave
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:Efectividad
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:Gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:Palabras
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:Situación
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:3:Tecnología
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:4:Autor
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:5:Fuente
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:6:Hijo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:6:Secuencia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:7:Vínculos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:11:Análisis
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:11:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:11:Gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:11:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:acciones
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:ameritan
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:arquitectura
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:caso
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:continuación
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:controlar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:diagnóstico
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:ejercicio
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:entrega
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:este
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:Fondo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:gestión
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:Gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:identificación
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:identificaremos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:principales
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:reforzar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:riesgos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:riesgos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:riesgos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:tecnología
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:trata
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:Uno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:12:valores
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:14:beneficios
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:14:Inefectividad
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:14:Riesgo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:14:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:14:Tecnológica
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:aplicaciones
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:aplicaciones
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Cobis
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:datos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:encuentran
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:entre
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:ERP
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:esta
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:está
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:fabricantes
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Fondo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:grandes
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:imagen
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:importante
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Isolution
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:listado
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Parte
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:plataforma
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:por
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:presencia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:productos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:proveedor
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:reflejada
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:seguido
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:siguiente
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Solusoft
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:supuesto
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:sus
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Sybase
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:tecnología
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:tecnologías
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:tienen
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:Transunion
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:15:ver
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:19:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:19:Imagen
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:19:Listado
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:19:tecnologías
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:21:Aplicaciones
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:21:catalogo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:21:xlsx
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:contraste
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:diangóstico
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:eficacia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:escala
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:escalafon
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:esta
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:esta
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:Existe
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:indica
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:inefectividad
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:lista
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:madurez
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:Nota
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:pasa
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:proveedores
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:respecto
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:resultado
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:riesgo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:tecnologías
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:25:tecnológica
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:configura
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:cuando
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:diagnósticos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:eficacia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:ejercicio
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:El
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:este
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:inefectividad
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:inversión
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:nivel
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:realizamos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:respecto
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:resultados
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:riesgo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:riñe
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:tecnología
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:27:tecnológica
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:aprovechar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:avance
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:balancear
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:consecuencia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:desbalances
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:desempeño
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:eficacia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:empresa
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:estos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:existieran
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:futuro
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:impulsar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:incluso
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:instalada
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:inversiones
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:inversiones
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:madurez
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:mejor
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:planta
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:portafolio
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:prevenir
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:primero
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:servicios
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:tarea
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:31:tecnología
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:debe
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:diagnóstico
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:FNA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:futuro
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:gobierno
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:Según
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:situación
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:35:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:36:arquitectura
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:36:aumentar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:36:capacidades
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:36:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:36:Vigilar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:arquitectura
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:capacidades
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:desarrollo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:desarrollo
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:el
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:entre
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:Mantener
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:procesos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:37:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:arquitectura
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:eficacia
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:índices
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:madurez
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:procesos
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:Procurar
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:servicios
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:SOA
+content/24. Fase 1 PR3 Resultado Diagnóstico Situación Actual-2.md:38:sólo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:Análisis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:Diagnóstico
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:Fortalezas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:Resultado
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:Situación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:1:Tema
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:3:clave
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:3:Palabras
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:3:Situación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:3:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:3:Tecnología
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:4:Autor
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:5:Fuente
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:6:Hijo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:6:Secuencia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:7:Vínculos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:11:Análisis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:11:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:11:Fortalezas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:11:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:acoplamiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:bajo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:capacidades
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:Cobis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:dependencia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:evidenció
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:existen
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:fortalezas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:grados
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:igual
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:importancia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:mantener
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:mejorar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:necesario
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:negocio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:otras
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:Pero
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:problemas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:problemáticas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:proveedor
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:revisión
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:subsanar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:12:también
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:continuación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:empresa
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:encontradas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:imporatantes
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:más
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:problemática
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:resumen
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:14:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Acoplamiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:capacidades
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:capacidades
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Catálogo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Catálogo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Cobis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Cobis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:entre
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:herramientas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:más
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:negocio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:negocio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:Servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:16:ver
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:acoplamiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:afecta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:caso
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:causa
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:Esta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:este
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:flexibilidad
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:grado
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:negocio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:problemática
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:proveedor
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:rigidez
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:rigidez
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:tiempo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:Todo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:17:una
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:administrador
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:afecte
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:aplicaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:aplicaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:aumentan
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:aumento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:aumento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:cambio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:cantidad
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Cartera
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Catálogo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:causa
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Clientes
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Cobis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Cobis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Cobis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:consulta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:controle
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:creación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:datos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:datos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:debe
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:degrada
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:degradación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:dependencia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:desempeño
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:desempeño
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:desempeño
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:El
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:El
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:El
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:entre
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:equivalencia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Esta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Fondo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:gestión
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:gestión
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:gobierno
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:grado
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:grupo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:impedir
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:índices
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:índices
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:intervención
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:mantenimiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:más
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:más
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:modificación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:ocurre
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:operaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:operaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:otra
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:otros
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:prevenga
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:problemas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:proliferación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:proveedoras
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:relación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:requiere
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:rigidez
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:Servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:sino
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:situación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:situación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:su
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:suce
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:suma
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:suman
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:tanto
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:tiene
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:19:ver
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:acrecienten
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:anexo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:aplicación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:asegurar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:calidad
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:cambio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:cambios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:dependencia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:efectando
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:esfuerzos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:esta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:Esto
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:evolutivos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:grado
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:implica
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:mantenimiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:mismo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:optimización
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:realizar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:requiere
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:tenga
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:termina
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:tiempo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:una
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:20:Ver
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:administrar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:aplicaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:cantidad
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:Catálogo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:contrario
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:creciente
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:Crédito
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:evidencian
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:más
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:modelos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:nivel
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:Operaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:por
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:Por
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:relación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:requerimientos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:Servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:último
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:ver
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:vicepresidencia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:22:vicepresidencias
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:afecta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:áreas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:áreas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:áreas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:áreas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:baja
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:complica
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:consumiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:demanda
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:eficacia
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:empieza
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:gestión
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:intermediarios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:llenarse
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:mayores
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:negocio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:negocio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:recursos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:relación
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:requerimientos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:responden
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:sus
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:terminan
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:términos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:tipo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:23:utilitarios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:agrava
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:análisis
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:anteriores
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:anteriores
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:arquitectura
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:arquitectura
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:Asesoftw
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:causa
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:causan
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:complican
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:comunicar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:concepto
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:concepto
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:conceptos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:consultorías
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:desactualizaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:desactualizados
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:dificultad
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:difucultades
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:distintos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:el
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:Encontrar
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:ende
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:entender
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:entendimiento
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:entre
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:este
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:esté
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:esté
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:estos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:Fondo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:Heinsohn
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:información
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:manera
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:modelo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:modelos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:modelos
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:nombrado
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:otra
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:Otra
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:por
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:porque
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:presenta
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:problemática
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:quieren
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:realizan
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:redundancias
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:repetido
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:repositorio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:sobre
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:tipo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:todas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:todas
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:una
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:27:uno
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:31:Anexo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:31:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:31:Interdependencias
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:31:Portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:aplicaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:entre
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:Fondo
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:Relaciones
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:servicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:32:SOA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:36:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:36:Imagen
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:36:Interdependencias
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:36:Portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:38:FNA
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:38:Portafolio
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:38:Servvicios
+content/25. Fase 1 PR3 Resultado Diagnóstico Situación Actual-3.md:38:Unificado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Beneficios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Diagnóstico
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Futuros
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Oportunidades
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Resultado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Situación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:1:Tema
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:clave
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:Oportunidades
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:Palabras
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:Proyectos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:Situación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:3:Tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:4:Autor
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:5:Fuente
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:6:Hijo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:6:Secuencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:7:Vínculos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:Arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:Desarrollo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:Guiada
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:Oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:por
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:Referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:11:Servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:alineación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:análisis
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:aplicaciones
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:Crédito
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:descendente
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:desde
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:Diagnóstico
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:enfoque
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:Fondo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:más
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:muestra
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:Operaciones
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:portafolio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:predominante
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:proveedores
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:provienen
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:reforzar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:Resultado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:Situación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:tenemos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:ver
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:12:vicepresidencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:Arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:desarrollo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:guía
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:Imagen
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:portafolio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:16:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:18:elaboración
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:18:propia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:alineación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:asegura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:desarrollo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:día
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:día
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:esfuerzos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:focalización
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:inversión
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:mediano
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:mejora
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:monitorear
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:operativos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:plazo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:22:una
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:Arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:Desarrollo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:Guiada
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:Oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:por
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:Referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:26:Servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:acomplamiento
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:afecta
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:análisis
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:ascendente
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:cambio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:cambio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:capacidades
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:desde
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:Diagnóstico
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:Diagnóstico
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:diagnósticos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:enfoque
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:entendida
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:entregar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:está
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:este
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:evidenciada
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:funcionalidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:hacia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:mejora
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:objeto
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:prevalencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:problemática
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:producción
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:provedor
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:proveedor
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:Resultado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:Resultado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:rigidez
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:Situación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:Situación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:también
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:tiempo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:tiempo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:toma
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:27:una
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:anteriores
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:aspectos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:decisiones
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:diagnósticos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:portafolio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:reglas
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:tecnilogía
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:29:tipos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:alineación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:análisis
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:aplicaciones
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:Crédito
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:descendente
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:desde
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:Diagnóstico
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:enfoque
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:Fondo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:más
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:muestra
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:Operaciones
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:portafolio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:predominante
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:proveedores
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:provienen
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:reforzar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:Resultado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:Situación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:tenemos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:ver
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:30:vicepresidencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:Arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:desarrollo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:guía
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:Imagen
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:portafolio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:34:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:36:elaboración
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:36:propia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:alineación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:asegura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:desarrollo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:día
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:día
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:esfuerzos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:focalización
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:inversión
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:mediano
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:mejora
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:monitorear
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:operativos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:plazo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:referencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:40:una
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:44:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:44:Oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:44:SOA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:44:Tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:44:Utilización
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:Arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:Gestión
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:gobierno
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:Medio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:Oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:por
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:49:Tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:alineación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:áreas
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:áreas
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:clasificación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:contiene
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:este
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:evolución
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:Existe
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:Fondo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:Fondo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:impulsar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:información
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:información
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:inicial
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:misionales
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:objetivo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:oportunidad
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:repositorio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:repositorio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:siguiente
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:50:ver
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:52:Contenidos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:52:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:54:Servicios
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:55:Arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:56:Información
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:57:Aplicación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:58:Funcional
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:59:Contenidos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:59:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:59:revisados
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:62:Clasificación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:62:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:62:información
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:62:repositorio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:64:elaboración
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:64:propia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:conceptos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:encontradas
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:estas
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:gestión
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:información
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:modelos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:paso
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:problemática
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:repositorio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:subsanar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:68:tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:70:atraso
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:70:conceptos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:70:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:70:información
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:70:modelos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:70:Redundancias
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:capacidades
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:conceptos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:Incompletitud
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:modelamiento
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:negocio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:71:procesos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:conceptos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:el
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:entre
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:estandarizar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:Falta
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:formas
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:Inconsistencia
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:lenguaje
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:mismo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:modelado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:modelos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:nombres
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:72:representación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:alineación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:apoyar
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:arquitectura
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:búsqueda
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:clasificación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:contenidos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:creado
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:Fondo
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:gestión
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:guíada
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:hemos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:herramienta
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:navegación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:por
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:repositorio
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:tecnología
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:76:una
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:80:clasificación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:80:contenidos
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:80:FNA
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:80:Herramienta
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:80:Imagen
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:80:navegación
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:82:elaboración
+content/26. Fase 1 PR3 Resultado Diagnóstico Situación Actual-4.md:82:propia
