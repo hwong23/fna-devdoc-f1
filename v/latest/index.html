@@ -35,8 +35,8 @@
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T16:45:07+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T16:45:07+00:00" />
+  <meta name="dc.modified" content="2023-01-11T16:52:03+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T16:52:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -57,9 +57,9 @@
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b1b6f14fe9109a16c952f5087a69e9634e1e333a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -3918,6 +3918,1072 @@ SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |</p>
 <p><br></p>
 <p>La falta de relación entre las entidades y las áreas puede implicar la falta de un modelo de uso y gobierno de datos, de interoperabilidad, y de integración SOA mediante los que se pueda determinar por qué estas entidades son la únicas o se requieren más. En los documentos de repositorio SOA del FNA no hay evidencias de dichos modelos.</p>
 <p><br></p>
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 92%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tema</th>
+<th>Descripción de la vista de integración actual: <strong>Conectores y servicios de Integración</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Palabras clave</td>
+<td>SOA, Integración, Modelo de integración, Adaptadores</td>
+</tr>
+<tr class="even">
+<td>Autor</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fuente</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Secuencia</td>
+<td>Padre<br>Hijo</td>
+</tr>
+<tr class="odd">
+<td>Vínculos</td>
+<td><a href="N005a.%20Vista%2de%2Integración%2FNA-1.md">N005a. Vista de Integración FNA-1</a> | <a href="N003e.%20Catálogo%20de%20Servicios%20FNA-3.md">Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo</a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="conectores-y-servicios-de-integración">Conectores y servicios de Integración</h2>
+<p><em>Fuente: elaboración propia</em></p>
+<p><br></p>
+<h2 id="modelo-de-interoperabilidad-de-las-aplicaciones-fna">Modelo de Interoperabilidad de las Aplicaciones FNA</h2>
+<p>El modelo de integración de aplicaciones del FNA está basado en el patrón adaptador / conector por cliente, razón por la cual estos elementos están muy presentes en la arquitectura de integración de las aplicaciones. <em>La proliferación de adaptadores en el bus, uno por cada nuevo cliente o distinto, en lugar de adherir a los clientes a un adaptador empresarial es un aspecto que hay que vigilar</em>.</p>
+<p>La imagen siguiente presenta los adaptadores por clientes del bus de datos. El bus debe tener un adaptador distinto por cada nuevo cliente en lugar de tener uno estándar para, si no todos (Cobis, Ventas, BPMN), para la mayoría de los clientes de la integración.</p>
+<figure>
+<img src="ArquitecturaConceptualCreditoCostructor.png" alt="Imagen." />
+<figcaption aria-hidden="true">Imagen.</figcaption>
+</figure>
+<p><a href="">Imagen.</a> Modelo de Interoperabilidad FAN: conector / adaptador en el bus.</p>
+<p><em>Fuente: ae_fna_as_is.archimate</em></p>
+<p><br></p>
+<p>Otro ejemplo de la aplicación del modelo de integración basado en adaptadores por cliente en el bus (ESB en la imagen) se encuentra en la capacidad de sincronización del sistema de información Cobis CRM descrito en esta imagen.</p>
+<figure>
+<img src="ArquitecturaConceptualSincronizacionCobisCRM.png" alt="I" />
+<figcaption aria-hidden="true">I</figcaption>
+</figure>
+<p><a href="">Imagen.</a> Modelo de Interoperabilidad FAN: conector / adaptador en la sincronización de Cobis CRM y Cobis Clientes.</p>
+<p><em>Fuente: ae_fna_as_is.archimate</em></p>
+<p><br></p>
+<blockquote>
+<p><em>La proliferación de adaptadores en el bus, uno por cada nuevo cliente o distinto, en lugar de adherir a los clientes a un adaptador empresarial es un aspecto que hay que vigilar</em>.</p>
+</blockquote>
+<p><br></p>
+<h2 id="interrelación-entre-servicios-soa-del-fna">Interrelación Entre Servicios SOA del FNA</h2>
+<p>Por último, presentamos el nivel de relación de servicio a servicio. Esta relación sucede sin intermediación ni de aplicaciones ni algún otro mediador (bus o broker). Son consumos directos de un servicio a otro. <em>Lo que hay que vigilar es que la cantidad de llamados directos a otro servicio no sea mayor a lo que el Fondo pueda administrar</em>.</p>
+<p>Los servicios con mayor cantidad de interrelación son los sombreados.</p>
+<table>
+<colgroup>
+<col style="width: 37%" />
+<col style="width: 62%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Servicios Origen</strong></th>
+<th><strong>Relaciones con otros Servicios</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ESB_075_Seguridad_AdministrarConexion2FA - CQ148541</td>
+<td><strong>9</strong></td>
+</tr>
+<tr class="even">
+<td>ESB_001_ClientePN_RecuperarProductos</td>
+<td><strong>8</strong></td>
+</tr>
+<tr class="odd">
+<td>APIv2</td>
+<td><strong>8</strong></td>
+</tr>
+<tr class="even">
+<td>ESB_121_Cesantias_EncapsulaEliminacion - WI3992</td>
+<td><strong>7</strong></td>
+</tr>
+<tr class="odd">
+<td>AS093-ModificaciónTramiteCredito</td>
+<td><strong>6</strong></td>
+</tr>
+<tr class="even">
+<td>ESB_022_Credito_RecuperarTramiteSolicitudes - CQ90537</td>
+<td><strong>6</strong></td>
+</tr>
+<tr class="odd">
+<td>AS049-ConsultaTramiteCredito</td>
+<td><strong>6</strong></td>
+</tr>
+<tr class="even">
+<td>AS055-ConsultaConsumidorFinanciero</td>
+<td><strong>6</strong></td>
+</tr>
+<tr class="odd">
+<td>AS150-ModificacionFormularioTramiteCredito</td>
+<td><strong>6</strong></td>
+</tr>
+<tr class="even">
+<td>ESB_204_Credito_CalcularPuntajeOrq</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>AS020 - GestorConsultasCRED</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>ESB_024_ClientePN_RecuperarInformacionBasica</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>ESB_063_Credito_RecuperarDetalleTramite</td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>ESB_106_Credito_EnrutarTramiteCredito</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>IDVision</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_ClientePN_RecuperarInformacionCredito</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>WSAndes</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>ESB_033_CuentaAVC_ConsultarCuenta</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>Form_Insert</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>ESB_097_Credito_RecuperarFlujoTramite</td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>SCOR001_ScoringGenerar</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>ESB_163_Cesantias_GenerarFormularioAfiliacion</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>ESB_005_Clientes_ValidarExistencia</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>ESB_190_GestorDocumental_ConsultarDocumento</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>AS017 - GestorConsultasAVOL</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>ESB_022_Credito_RecuperarTramiteSolicitudes</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>AS068-ModificacionConsumidorFinanciero</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>ESB_178_ClientePJ_ConsultaInfoEmpresarial</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>AS135-ConsultaCargaTrabajoTramiteCredito</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>ESB_205_Credito_ValidaAfiliadoORQ</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>ESB_133_Credito_NotificarEstadoDesembolso</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>Form_GetData</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>EntityManagerSOASoap12_saveEntityAsString</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>ESB_026_ClientePN_RecuperarInformacionLaboral</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>ESB_149_Credito_ActualizacionDocumental</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>ESB_104_Credito_ConsultarCargaTrabajo</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>ESB_144_Clientes_ConsultarReferenciaJuridica</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>AS033-ConsultaProductosConsumidorFinanciero</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS040_ConsultaCuentaCesantias</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESBFile_002_Seguridad_EnviarCorreoSeguro</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS050-ConsultaPuntajeCredito</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>2041_ScoreClear</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_058_ClientePJ_RecuperarInformacionConsolidadaV2 - CQ142691</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_Credito_TU_ScoreFNA</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_079_ClientePersonaJuridica_CreacionRapidaPersonaJuridica</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Form_AttachFiles</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_082_ClientePN_RecuperarInformacionRapida</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_029_Cesantias_RecuperarDatosBasicos</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS006 - VerificarEntidad</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_207_Credito_ConsultarPuntaje</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_102_Seguridad_RemoverUsuario2FA - WI29972</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_Credito_TU_InfoComercial</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS019 - GestorConsultasClientes</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_FachadaClientePJ_VerificarEntidad</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_105_Credito_AsignarEstacionTramiteCredito</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>EvaluarCuestionarioCONFRONTA</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>WSHUBDocumental_MigrarSolicitudReparto</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>AS037-ConsultarEntidad</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_124_Seguridad_ModificarUsuario2FA - WI6634</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>154_InfoComercial</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_132_ClntePrsnaNtral_FachadaConsultaRecaudoBta</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_202_Comercial_crearOportunidad</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS144-CreacionRelacionCliente</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>CreditVision</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS149-CreacionTramiteCredito</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_Cartera_ConsultaObligacion</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS163-GeneracionFormularioAfiliacionCesantias</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_Credito_ConsultarEstadoGrantiaPorTramite</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_150_Credito_MigrarSolicitudReparto</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_Credito_TU_ScoreClear</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>AS164-GeneracionFormularioAfiliacionCesantias*</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_CuentaAVC_ConsultarScore</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_164_Credito_ValidarPoliticasTramite</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_FachadaClientePN_ConsultaRecaudo</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_175_GestorDocumental_CrearRadicadoDocumento</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESBXXX_FachadaClientePN_ConsultarRecaudoSeguro</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ConfrontaUltraWSSoapBinding</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>File_Delete</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_188_GestorDocumental_RadicarDocumento</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Form_GetBase64StringFile</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_189_GestorDocumental_AgregarDocumento</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Form_GetFilesCodes</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ConsultarCuestionarioCONFRONTA</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>170 GestorDocumentalProxy_RadicarDocumento</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_194_GestorDocumental_ObtenerInformacionFormulario</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>SCOR002_InfoComercial</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>ESB_198_GestorDocumental_ObtenerDocumento</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_201_Comercial_crearProspecto</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>WSSealMail</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>ESB_060_CuentaAVC_GenerarCertificado</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS061-GeneracionCertificadoCartera</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_099_Seguridad_AprovisionarTokenUsuario2FA - CQ159871</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS026-Gestión de Autenticación</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_044_ClntePrsnaNtral_Crear</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>140 CobisProxy_NotificarApp</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Form_Update</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_107_Cesantias_EliminarDevolucionAporte - WI3986</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>WJ_enviarPush_Eventos</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_110_Creditos_EliminarDesembolsoObligacionCartera - WI3988</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_ConsultarPuntajeCredito</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_113_Cesantias_EliminarGiroConsignacionEntidad - WI3987</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_055_ClientePersonaNatural_ModificarInfoFamiliarRq</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_114_CuentaAVC_EliminarRetiroCuenta - WI3989</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_076_Seguridad_AdministrarUsuario2FA</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS029 - ConsultaRecaudoSeguro</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>IDVision_VerificacionDigital</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>XXX GarantiasProxy_consultarEstadoGrantiaPorTramite</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>WI2863 - ESB_071_ClientePN_RecuperarNumsProd</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>144 CobisProxy_RecuperarFlujo</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS059-GeneracionCertificadoAVC</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_118_Cesantias_EliminarAporteEntidad - WI3994</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_ClientePN_ConsultarScore</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_119_Seguridad_SolicitarCertificadoDigital</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_Credito_InformacionComercial</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>194 GestorDocumentalProxy_ObtenerInformacionFormulario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_054_ClientePersonaNatural_ModificarInfoBasicaRq</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS009 - ConsultaRecaudo</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESBFile_001_Seguridad_FirmarDocumento</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_125_Seguridad_RecuperarTokenUsuario2FA - WI6634</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_072_CuentaAVC_CalcularPuntaje</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_126_Seguridad_RecuperarPlantillaToken2FA - WI6634</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS122-ConsultaReferenciaJuridica</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_128_Seguridad_RecuperarTareaAprov2FA - WI6634</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>IDVision_ValidacionIdentidad_Preguntas</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_129_Seguridad_RecuperarCodActivacionAprov2FA - WI6634</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>List_GetItems</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>164 CobisProxy_ValidarExistenciaService</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ScoreFNA</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS036-ValidaExistenciaCliente</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>WI2929 - ESB_061_Credito_GenerarCertificado</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_134_Seguridad_ConsultarCertificadoDigital</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS124-ConsultaObligacionCartera</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_135_Seguridad_RevocarCertificadoDigital</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS060-GeneracionCertificadoCesantias</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS003 - ConsultaCreditos</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS067-CreacionConsumidorFinanciero</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS165-GeneracionFormularioAfiliacionCesantias</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_034_Cesantias_CalcularPuntaje</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS038-ConsultaCuentaAVC</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_041_Participante_RecuperarCuestionarioConfronta</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS018 - GestorConsultasCEST</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_042_Participante_EvaluarCuestionarioConfronta</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>consultarEstadoGrantiaPorTramite</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_051_ConsultaReferenciaInhibitoria</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_165_Credito_CrearTramite</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_XXX_FachadaClientePJ_RecuperarInformacion</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_166_Credito_ModificarInformacionPersonalFormulario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_056_ClientePersonaNatural_ModificarInfoLaboralRq</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_167_Credito_ModificarInformacionFinancieraFormulario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS021 - EntidadesPila</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_168_Credito_ModificarInformacionLaboralFormulario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>172 GestorDocumentalProxy_ConsultaDocumento</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_169_Credito_ModificarInfoFormularioTramiteCreditoHipotecario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>176 CobisProxy_RecuperarDetalleTramiteService</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_170_Credito_ModificarInformacionReferenciaFormulario</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>160 CobisProxy_RecuperarInfoPNService</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_172_Credito_ModificarInformacionFormularioTramiteCreditoEducativo</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_083_ClientePJ_RecuperarInformacionRapida</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS008 - ConsultaRecaudoBogota</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS123-ConsultaScoringAVC</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>150 CobisProxy_RecuperarTramites</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>IDVision_ValidacionIdentidad_Respuestas</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_187_Tesoreria_RecaudoConsultarPorIdentificacion</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>IDVision_VerificacionIdentidad</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>170 GestorDocumentalProxy_AgregarDocumento</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_098_Seguridad_AdicionarUsuario2FA - CQ159867</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>AS051-CreacionEntidad</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Score Ws (Clear)</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_005_Clientes_ValidarExistencia - CQ136740</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ServicioGestionDesembolso_NotificarEstadoDesembolso</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_191_GestorDocumental_EliminarDocumento</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>WI2896 - ESB_048_ClientePN_GestionarCredenciales</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_006_ClientePJ_RecuperarInformacion - CQ76477</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>WI2935 - ESB_062_Cesantias_GenerarCertificado</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>158 CobisProxy_EnrutarTramiteCredito</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Workflow_Start</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>170 GestorDocumentalProxy_ObtenerDocumento</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>AS130-ModificacionOrdenPago</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_023_ClientePersonaNatural_RecuperarInformacionConsolidada</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_115_Cesantias_EliminarRetiroCuenta - WI3990</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>XXX-ConsultarVIGIA</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>ESB_116_Creditos_EliminacionDevolucionSobranteCartera - WI3991</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>ESB_117_Tesoreria_ModificarOrdenPago</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td><strong>Total general</strong></td>
+<td><strong>361</strong></td>
+</tr>
+</tbody>
+</table>
+<p><a href="">Tabla.</a> Nivel de relación servicio a servicio del FNA.</p>
+<p><em>Fuente principal: elaboración propia. <strong>Fuente secundaria</strong>: ae_fna_as_is.archimate; ae_fna_as_is.archimate</em></p>
+<p><br></p>
+<blockquote>
+<p><strong>Nota</strong>. Lo que hay que vigilar es que la cantidad de consumos directos de un servicio a otro no sea mayor a lo que el Fondo puede administrar o ha determinado como aceptable en términos de restricciones tecnológicas y de integración.</p>
+</blockquote>
+<p><br></p>
+<p>Tema relacionado: <a href="N003e.%20Catálogo%20de%20Servicios%20FNA-3.md">Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo</a>.</p>
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 92%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tema</th>
+<th>Presentación del Análisis de Madurez SOA del FNA: <strong>Adaptación del Diagnóstico de Madurez SOA a la Empresa FNA</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Palabras clave</td>
+<td>SOA, Madurez, Método, OSIMM, Adaptación</td>
+</tr>
+<tr class="even">
+<td>Autor</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Fuente</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Secuencia</td>
+<td>Padre <a href="N007.%20Presentación%20del%20Análisis%20de%20Madurez-1">N007. Presentación del Análisis de Madurez-1</a> | Hijo</td>
+</tr>
+<tr class="odd">
+<td>Vínculos</td>
+<td><a href="N005a.%20Vista%2de%2Integración%2FNA-1.md">N005a. Vista de Integración FNA-1</a> | <a href="N003e.%20Catálogo%20de%20Servicios%20FNA-3.md">Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo</a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="adaptación-del-diagnóstico-de-madurez-soa-a-la-empresa-fna">Adaptación del Diagnóstico de Madurez SOA a la Empresa FNA</h2>
+<p>El método de diagnóstico de madurez SOA seleccionado (SOCIMM, del Open Group) ha sido adaptado al FNA según la información con la que cuenta el repositorio documental surtido a esta consultoría, y para que pueda ser usado por el proceso de evaluación descrito anteriormente <a href="N007.%20Presentación%20del%20Análisis%20de%20Madurez-1.md">N007. Presentación del Análisis de Madurez-1</a>.</p>
+<p>El método OSIMM adaptado al FNA consta de dos partes.
+1. Evaluación de <strong>Resultado SOA</strong>: objetivos y dimensiones del FNA
+1. Evaluación <strong>Arquitectura SOA</strong>: capacidades de los servicios SOA</p>
+<p>En la evaluación de Resultado SOA la empresa es el objeto a evaluar. Esta evaluación observa a la empresa FNA desde los objetivos de la consultoría (OBJ1. Independencia de proveedor…) y las vistas de contexto, y de segmento desarrolladas anteriormente. Finalmente, constrasta esta información con siete perspectivas (a las que el método llama dimensiones) conel fin de asignar un puntaje a cada una de estas: Negocio, Organización y Gobierno, Procedimientos (Método), Aplicaciones, Arquitectura, Información, Infraestructura.</p>
+<p>Ejemplo de la evaluación Resultado SOA adaptada al FNA.
+<img src="ResultadoSOA.png" /></p>
+<p><a href="">Imagen.</a> Evaluación de Resultado SOA. Dimensiones seleccionadas para el diagnóstico SOA.</p>
+<p><em>Fuente: elaboración propia.</em></p>
+<p><br></p>
+<p>En cambio, en la segunda parte del médoto, la evaluación Arquitectura SOA, el objeto observado son los servicios SOA. Lo que hace esta evaluación es una caracterización de los servicios del FNA en función de atributos de calidad que deben estar presentes en los servicios.</p>
+<p>Ejemplo de la evaluación Arquitectura SOA adaptada al FNA.
+<img src="ArquitecturaSOA.png" /></p>
+<p><a href="">Imagen.</a> Evaluación de Arquitectura SOA. Capacidades de los servicios SOA.</p>
+<p><em>Fuente: elaboración propia.</em></p>
+<p><br></p>
+<p>Al conjugar de estas dos evaluaciones es la que produce finalmente un índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.</p>
+<p>Ejemplo del resultado de las dos evaluaciones SOA.</p>
+<figure>
+<img src="nivelMadurez.png" />
+</figure>
+<p><a href="">Imagen.</a> Índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.</p>
+<p><em>Fuente: elaboración propia.</em></p>
+<p><br></p>
+<h2 id="cuestionarios-del-análisis-de-madurez-soa-adaptado-al-fna">Cuestionarios del Análisis de Madurez SOA Adaptado al FNA</h2>
+<p>Los cuestionarios del método de evaluación de madurez SOA del FNA han sido ajustados para responder a los objetivos de la consultoría, estos son, Independencia de proveedor (OBJ1), Fortaleza SOA de las aplicaciones (OBJ2), y el Flexibilidad y Tiempo de mercado (OBJ3).</p>
+<h3 id="cuestionario-no.-1.-independencia-proveedor">Cuestionario no. 1. Independencia Proveedor</h3>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Independencia Proveedor</strong></th>
+<th>Existe una Arquitectura de Procesos de Negocio, definida formalmente, documentada y gobernada</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Existen varias líneas de negocio diferentes? ¿Cada una necesita o define sus propios procesos de negocio?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Quién es el dueño de procesos, aplicaciones y servicios?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Qué tan ágiles son los procesos de negocio actuales?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Los procesos del Gobierno SOA existen? ¿Están documentados?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Cada uno de las areas involucradas dentro del proceso SOA tiene roles (Arq. Servicio, Analista Servicio, Especialista Gobierno Servicio, etc) y responsabilidades bien definidas?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Existe cambios en la organización que afecten en: regulaciones y politicas, creacion de nuevos procesos, normas de diseño interno, control de cumplimiento y ejecución, etc?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Existe alguna autoridad SOA dentro de la organización (Comité Arquitectura? ¿Existe alguna autoridad de Gobierno TI?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Cómo está organizada la administración de proyectos IT, existe una PMO?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Qué herramientas de diseño (Enterprise Architecture) y colaboración (PMO) se utilizan?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Existe un repositorio para almacenar los activos y buenas prácticas definidas dentro de la organización (RAE, Sharepoint)?</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="cuestionario-no.-2.-fortaleza-soa">Cuestionario no. 2. Fortaleza SOA</h3>
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 88%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Fortaleza SOA</strong></th>
+<th>¿Cómo se administran actualmente los requerimientos en los sistemas de software de la organización?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>¿Cómo está organizada la administración de proyectos IT?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Qué herramientas de diseño y colaboración se utilizan?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Existe un repositorio para almacenar los activos y buenas prácticas definidas dentro de la organización?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Qué estilo de aplicaciones se utilizan / desarrollan dentro de la organización?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Cómo se integran las aplicaciones o sistemas dentro de la organización? Es demostrable?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Se utiliza alguna tecnología asociada con SOA como ESB, datos compartidos?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Qué tan confiables son las aplicaciones de negocio críticas para la organización?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Qué tipos de repositorios de datos se utilizan en la organización? ¿los proveedores son propietarios de los modelos?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>¿Cómo se logra una integración en la arquitectura actual?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Qué principios arquitectónicos o lineamientos están definidos? ¿son evidenciables?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Existe un comité de cambios de arquitectura, o una bitácora de decisiones de arquitectura. ¿cómo se evalúan los cambios de arquitectura?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Considera que existe un modelo lógico gestionado, y que este es el que gobierna al modelo físico, o es lo contrario</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Qué nivel de esfuerzo requieren para atender solicitudes ad hoc de información, y si estas son reutilizables</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="cuestionario-no.-3.-flexibilidad-y-tiempo-de-mercado">Cuestionario no. 3. Flexibilidad y Tiempo de Mercado</h3>
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Flexibilidad y Tiempo de Mercado</strong></th>
+<th>Cuáles son los tiempos de respuesta de los provedores para implementar nuevas soluciones, y qué impacto tienen en la organización</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>¿Existe area de Devops que permita interactuar a los equipos de desarrollo e infraestructura dentro de la organización?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Qué herramientas de diseño se utilizan? son propias de los proveedores?</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Existe aplicaciones ligadas a la plataforma base de Servidores de aplicacion y/o Infraestructura (Sistema Operativo) o nube?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Existe aplicaciones centradas en el negocio (accesibilidad. seguridad, confiabilidad)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Se aplica en el diseño de servicios los principios de: Estandarizacion Contrato Servicio, Bajo acoplamiento, Autonomia, Abstraccion, Reusabilidad, Sin estado, Descubrimiento, Composición</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Si existe un modelo de datos común</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Si existen reglas de transformación de datos entre distintos modelos, ¿estas reglas son administradas y mantenidas por el negocio o por la gente de IT, Desarrollo?</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>¿Cómo se da soporte a requerimientos no funcionales (Alta Disponibilidad, concurrencia, contingencia) a través de la arquitectura operativa?</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h2 id="herramienta-de-diagnóstico-de-nivel-de-madurez-soa">Herramienta de Diagnóstico de Nivel de Madurez SOA</h2>
+<p>Descargar la herramienta que implementa el método presentado anteriomente, sus partes, dimensiones de evaluación, y las fórmulas de puntuación desde la siguiente dirección: <a href="https://stefaninilatam.sharepoint.com/:x:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EaFAwvlljjhPtOMS6Px_BWAB3dCP0EfacSHo6jo0E441RQ?e=l45v7K">Herramienta de Diagnóstico de Nivel de Madurez SOA</a>.</p>
+<figure>
+<img src="herramientaSOA.png" />
+</figure>
+<p><a href="">Imagen.</a> Descargar la herramienta de Diagnóstico de Nivel de Madurez SOA.</p>
+<p><em>Fuente: elaboración propia.</em></p>
 <!-- default theme -->
 
 <style>
