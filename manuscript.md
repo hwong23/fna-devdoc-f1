@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T15:00:48+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T15:00:48+00:00" />
+  <meta name="dc.modified" content="2023-01-11T16:23:16+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T16:23:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/b4b636492e468cce4dfc3ac4dcd0e0e1abf36411/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b4b636492e468cce4dfc3ac4dcd0e0e1abf36411/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/b4b636492e468cce4dfc3ac4dcd0e0e1abf36411/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/75af1d4a99e814aa1c560445945c5a818bde61db/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/75af1d4a99e814aa1c560445945c5a818bde61db/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/75af1d4a99e814aa1c560445945c5a818bde61db/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -1426,116 +1426,152 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |AI0082|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
 
 
-|Tema|Presentación del Análisis de Madurez SOA del FNA: **Adaptación del Diagnóstico de Madurez SOA a la Empresa FNA**
+|Tema|Descripción de la vista de integración actual: **Entidades de negocio (información y datos) relacionadas en la integración**
 |----|-------------------------------------------------|
-|Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
+|Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
-|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+|Secuencia|Padre<br>Hijo|
 
 <br>
 
-## Adaptación del Diagnóstico de Madurez SOA a la Empresa FNA
-El método de diagnóstico de madurez SOA seleccionado (SOCIMM, del Open Group) ha sido adaptado al FNA según la información con la que cuenta el repositorio documental surtido a esta consultoría, y para que pueda ser usado por el proceso de evaluación descrito anteriormente [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1.md). 
+## Entidades de Negocio (información y datos) Relacionadas
+Si bien existe información sobre las entidades de datos de negocio del FNA, los modelos de integración de FNA no permiten encontrar la relación entre las operaciones punto a punto y los datos que transportan, sean resultado de operaciones, o entidades.
 
-El método OSIMM adaptado al FNA consta de dos partes.
-1. Evaluación de **Resultado SOA**: objetivos y dimensiones del FNA
-1. Evaluación **Arquitectura SOA**: capacidades de los servicios SOA
+En la siguiente tabla presentamos una inferencia posible relación entre las integraciones punto a punto y las entidades canónicas de datos de FNA.
 
-En la evaluación de Resultado SOA la empresa es el objeto a evaluar. Esta evaluación observa a la empresa FNA desde los objetivos de la consultoría (OBJ1. Independencia de proveedor...) y las vistas de contexto, y de segmento desarrolladas anteriormente. Finalmente, constrasta esta información con siete perspectivas (a las que el método llama dimensiones) conel fin de asignar un puntaje a cada una de estas: Negocio, Organización y Gobierno, Procedimientos (Método), Aplicaciones, Arquitectura, Información, Infraestructura.
+|**Entidad**|**Nivel de Uso**|
+|-----------|:--------------:|
+|archivo.xsd|**x**|
+|aseguramientoProducto.xsd||
+|asesor.xsd||
+|autorizacionEnvio.xsd||
+|beneficiario.xsd||
+|bloqueo.xsd||
+|casaCobranza.xsd||
+|catalogos.xsd||
+|cdp.xsd||
+|centrocostos.xsd||
+|cesantias.xsd|**x**|
+|clasificacionInmueble.xsd||
+|clasificacionParqueo.xsd||
+|cliente.xsd||
+|cobranza.xsd||
+|cobrojuridico.xsd||
+|codeudor.xsd||
+|codigoTipo.xsd||
+|composicionAreas.xsd||
+|composicionGeneralInmobiliario.xsd||
+|composicionNiveles.xsd||
+|composicionParqueaderos.xsd||
+|composicionSegmentosUnidades.xsd||
+|composicionTiposUnidades.xsd||
+|conceptoContable.xsd||
+|consultacentrocostos.xsd||
+|conversionUvr.xsd||
+|credenciales.xsd||
+|credito.xsd||
+|cuentaAVC.xsd||
+|cuentaBancaria.xsd||
+|cuentacontable.xsd||
+|cuentaproductocliente.xsd||
+|cuentaproductocredito.xsd||
+|cuotaCredito.xsd||
+|cuotasMora.xsd||
+|DatosRegistroInhibitorias.xsd||
+|definicionEstructura.xsd||
+|definicionProyecto.xsd||
+|descuentoConceptoPago.xsd||
+|descuentos.xsd||
+|desembolso.xsd||
+|destinacionAreas.xsd||
+|detalleAreaConstruccion.xsd||
+|detalleAreaLote.xsd||
+|direccion.xsd||
+|embargo.xsd||
+|estadoEspecial.xsd||
+|estructuras.xsd||
+|excepciongenerica.xsd||
+|funcionario.xsd||
+|garantia.xsd||
+|identificacion.xsd||
+|infoCentralRiesgo.xsd||
+|informacionCuentaMora.xsd||
+|informacionEstructuraInmobiliaria.xsd||
+|informacionfinanciera.xsd||
+|informacionlaboral.xsd||
+|informacionProyectoInmobiliario.xsd||
+|inventarioViviendas.xsd||
+|libranza.xsd||
+|listasNegras.xsd||
+|monedaExtranjera.xsd||
+|niveles.xsd||
+|ordenPago.xsd||
+|paginacion.xsd||
+|pagosCredito.xsd||
+|pagosDeuda.xsd||
+|participante.xsd||
+|pep.xsd||
+|personajuridica.xsd||
+|personanatural.xsd||
+|pignoracion.xsd||
+|pqyr.xsd||
+|proceso.xsd||
+|productocliente.xsd||
+|proyectos.xsd||
+|relacion.xsd||
+|reporteInhibitorias.xsd||
+|resumenValorAPagar.xsd||
+|saldodeudacredito.xsd||
+|solicitud.xsd||
+|telefono.xsd||
+|tercero.xsd||
+|tipoafiliacion.xsd||
+|tramite.xsd||
+|ubicacionOficinaProducto.xsd||
+|ubicacionProyecto.xsd||
 
-Ejemplo de la evaluación Resultado SOA adaptada al FNA.
-![](ResultadoSOA.png )
+[Tabla. ]() Nivel de uso de las entidades canónicas en integraciones FNA
 
-[Imagen.]() Evaluación de Resultado SOA. Dimensiones seleccionadas para el diagnóstico SOA.
-
-_Fuente: elaboración propia._
+_Fuente: Inventario Canonico V1.0.0.xlsx_
 
 <br>
 
-En cambio, en la segunda parte del médoto, la evaluación Arquitectura SOA, el objeto observado son los servicios SOA. Lo que hace esta evaluación es una caracterización de los servicios del FNA en función de atributos de calidad que deben estar presentes en los servicios.
-
-Ejemplo de la evaluación Arquitectura SOA adaptada al FNA.
-![](ArquitecturaSOA.png)
-
-[Imagen.]() Evaluación de Arquitectura SOA. Capacidades de los servicios SOA.
-
-_Fuente: elaboración propia._
+**Nota**: según los modelos del repositorio FNA, el nivel de uso de las entidades canónicas es muy bajo. De igual manera que en el caso anterior, sin información de lo que estas integraciones transportan u operan, no es posible determinar redundancias negativas, en cuyo caso impactarían a la flexibilidad y a los costos de mantenimiento.
 
 <br>
 
-Al conjugar de estas dos evaluaciones es la que produce finalmente un índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.
+### Clasificación de Entidades por Áreas Propietaria
+La relación de entidades de datos y áreas de negocio del FNA nos debe dar una idea de qué áreas se encuentran más estandarizadas en su comunicación con otros actores. La lista siguiente indica que el área de negocio más intensa en el uso de entidades de datos, y por tanto, la más estándar en su comunicación con otras _es el área de Crédito del FNA_.
 
-Ejemplo del resultado de las dos evaluaciones SOA.
 
-![](nivelMadurez.png)
+|**Etiquetas de fila**|**Cuenta de Unidad Negocio**|
+|---------------------|----------------------------|
+|**Sin Unidad**|**60**|
+|Crédito|**7**|
+|Cartera|5|
+|Clientes|4|
+|Contabilidad|3|
+|Inmueble|2|
+|Jurídico|2|
+|Cobranza|2|
+|Garantía|1|
+|Cesantía|1|
+|Cuenta AVC|1|
+|**Total general**|**88**|
 
-[Imagen.]() Índice de eficacia SOA, también llamdado, nivel de madurez SOA del FNA.
+[Tabla. ]() Nivel de uso de las entidades canónicas en integraciones FNA
 
-_Fuente: elaboración propia._
-
-<br>
-
-## Cuestionarios del Análisis de Madurez SOA Adaptado al FNA
-Los cuestionarios del método de evaluación de madurez SOA del FNA han sido ajustados para responder a los objetivos de la consultoría, estos son, Independencia de proveedor (OBJ1), Fortaleza SOA de las aplicaciones (OBJ2), y el Flexibilidad y Tiempo de mercado (OBJ3).
-
-### Cuestionario no. 1. Independencia Proveedor
-|**Independencia Proveedor**|Existe una Arquitectura de Procesos de Negocio, definida formalmente, documentada y gobernada|
-|-----------------------|---------------------------------------------------------------------------------------------|
-||Existen varias líneas de negocio diferentes? ¿Cada una necesita o define sus propios procesos de negocio?|
-||Quién es el dueño de procesos, aplicaciones y servicios?|
-||Qué tan ágiles son los procesos de negocio actuales?|
-||¿Los procesos del Gobierno SOA existen? ¿Están documentados?|
-||¿Cada uno de las areas involucradas dentro del proceso SOA tiene roles (Arq. Servicio, Analista Servicio, Especialista Gobierno Servicio, etc) y responsabilidades bien definidas?|
-||Existe cambios en la organización que afecten en: regulaciones y politicas, creacion de nuevos procesos, normas de diseño interno, control de cumplimiento y ejecución, etc?|
-||¿Existe alguna autoridad SOA dentro de la organización (Comité Arquitectura? ¿Existe alguna autoridad de Gobierno TI?|
-||¿Cómo está organizada la administración de proyectos IT, existe una PMO?|
-||¿Qué herramientas de diseño (Enterprise Architecture) y colaboración (PMO) se utilizan?|
-||¿Existe un repositorio para almacenar los activos y buenas prácticas definidas dentro de la organización (RAE, Sharepoint)?|
+_Fuente: elaboración propia_
 
 <br>
 
-### Cuestionario no. 2. Fortaleza SOA
-|**Fortaleza SOA**|¿Cómo se administran actualmente los requerimientos en los sistemas de software de la organización?|
-|-------------|---------------------------------------------------------------------------------------------------|
-||¿Cómo está organizada la administración de proyectos IT?|
-||¿Qué herramientas de diseño y colaboración se utilizan?|
-||¿Existe un repositorio para almacenar los activos y buenas prácticas definidas dentro de la organización?|
-||¿Qué estilo de aplicaciones se utilizan / desarrollan dentro de la organización?|
-||¿Cómo se integran las aplicaciones o sistemas dentro de la organización? Es demostrable?|
-||¿Se utiliza alguna tecnología asociada con SOA como ESB, datos compartidos?|
-||¿Qué tan confiables son las aplicaciones de negocio críticas para la organización?|
-||¿Qué tipos de repositorios de datos se utilizan en la organización? ¿los proveedores son propietarios de los modelos?|
-||¿Cómo se logra una integración en la arquitectura actual?|
-||¿Qué principios arquitectónicos o lineamientos están definidos? ¿son evidenciables?|
-||Existe un comité de cambios de arquitectura, o una bitácora de decisiones de arquitectura. ¿cómo se evalúan los cambios de arquitectura?|
-||Considera que existe un modelo lógico gestionado, y que este es el que gobierna al modelo físico, o es lo contrario|
-||Qué nivel de esfuerzo requieren para atender solicitudes ad hoc de información, y si estas son reutilizables|
-|||
+>La lista anterior advierte además que la mayoría de entidades de datos canónicas no son atribuíbles a un área o proceso de negocio. Los modelos del FNA no evidencian esta relación, que es importante para conocer el nivel de estandarización en el uso del lenguaje canónico de intercambio de información.
 
 <br>
 
-### Cuestionario no. 3. Flexibilidad y Tiempo de Mercado
-|**Flexibilidad y Tiempo de Mercado**|Cuáles son los tiempos de respuesta de los provedores para implementar nuevas soluciones, y qué impacto tienen en la organización|
-|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-||¿Existe area de Devops que permita interactuar a los equipos de desarrollo e infraestructura dentro de la organización?|
-||Qué herramientas de diseño se utilizan? son propias de los proveedores?|
-||Existe aplicaciones ligadas a la plataforma base de Servidores de aplicacion y/o Infraestructura (Sistema Operativo) o nube?|
-||Existe aplicaciones centradas en el negocio (accesibilidad. seguridad, confiabilidad)|
-||Se aplica en el diseño de servicios los principios de: Estandarizacion Contrato Servicio, Bajo acoplamiento, Autonomia, Abstraccion, Reusabilidad, Sin estado, Descubrimiento, Composición|
-||Si existe un modelo de datos común|
-||Si existen reglas de transformación de datos entre distintos modelos, ¿estas reglas son administradas y mantenidas por el negocio o por la gente de IT, Desarrollo?|
-||¿Cómo se da soporte a requerimientos no funcionales (Alta Disponibilidad, concurrencia, contingencia) a través de la arquitectura operativa?|
+La falta de relación entre las entidades y las áreas puede implicar la falta de un modelo de uso y gobierno de datos, de interoperabilidad, y de integración SOA mediante los que se pueda determinar por qué estas entidades son la únicas o se requieren más. En los documentos de repositorio SOA del FNA no hay evidencias de dichos modelos.
 
 <br>
 
-## Herramienta de Diagnóstico de Nivel de Madurez SOA
-Descargar la herramienta que implementa el método presentado anteriomente, sus partes, dimensiones de evaluación, y las fórmulas de puntuación desde la siguiente dirección: [Herramienta de Diagnóstico de Nivel de Madurez SOA](https://stefaninilatam.sharepoint.com/:x:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EaFAwvlljjhPtOMS6Px_BWAB3dCP0EfacSHo6jo0E441RQ?e=l45v7K).
-
-![](herramientaSOA.png)
-
-[Imagen.]() Descargar la herramienta de Diagnóstico de Nivel de Madurez SOA.
-
-_Fuente: elaboración propia._
 

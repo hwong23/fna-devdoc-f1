@@ -2247,7 +2247,6 @@ content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:servicios
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:sirven
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:SOA
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:SOA
-content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:solicitudes
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:tanto
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:una
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:36:el
@@ -4632,607 +4631,404 @@ content/11.Fase 1 PR1 Vista de Integración FNA-1.md:245:Cesantias
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:245:COBIS
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:245:Fondo
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:245:Línea
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Adaptación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Análisis
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Empresa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Presentación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:1:Tema
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:Adaptación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:clave
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:Método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:OSIMM
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:Palabras
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:3:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:4:Autor
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:5:Fuente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:6:Análisis
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:6:Hijo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:6:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:6:Presentación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:6:Secuencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Distribución
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Integración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:por
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Portafolio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Tipo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Tipos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:7:Vínculos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:11:Adaptación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:11:Diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:11:Empresa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:11:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:11:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:11:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:adaptado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:Análisis
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:anteriormente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:consultoría
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:cuenta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:descrito
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:documental
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:El
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:esta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:información
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:por
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:Presentación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:proceso
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:pueda
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:repositorio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:según
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:seleccionado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:ser
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:sido
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:SOCIMM
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:surtido
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:12:usado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:adaptado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:consta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:El
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:OSIMM
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:14:partes
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:15:dimensiones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:15:Evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:15:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:15:objetivos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:15:Resultado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:15:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:16:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:16:capacidades
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:16:Evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:16:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:16:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:16:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:anteriormente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:asignar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:cada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:conel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:constrasta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:consultoría
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:contexto
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:desarrolladas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:desde
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:dimensiones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:empresa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:empresa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:esta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Esta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:estas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:evaluar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Finalmente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Gobierno
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Independencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:información
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Información
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Infraestructura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:objetivos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:objeto
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:observa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:perspectivas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Procedimientos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:proveedor
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:puntaje
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:Resultado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:segmento
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:siete
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:18:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:20:adaptada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:20:Ejemplo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:20:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:20:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:20:Resultado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:20:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:Dimensiones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:Evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:Imagen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:Resultado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:seleccionadas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:23:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:25:elaboración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:25:propia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:atributos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:calidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:cambio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:caracterización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:deben
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:esta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:estar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:función
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:hace
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:médoto
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:objeto
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:observado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:parte
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:presentes
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:segunda
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:29:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:31:adaptada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:31:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:31:Ejemplo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:31:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:31:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:31:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:Capacidades
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:Evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:Imagen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:34:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:36:elaboración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:36:propia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:conjugar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:eficacia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:estas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:evaluaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:finalmente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:índice
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:índice
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:llamdado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:nivel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:40:también
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:42:Ejemplo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:42:evaluaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:42:resultado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:42:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:eficacia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:Imagen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:Índice
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:Índice
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:llamdado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:nivel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:46:también
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:48:elaboración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:48:propia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:52:Adaptado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:52:Análisis
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:52:Cuestionarios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:52:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:52:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:52:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:ajustados
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:consultoría
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:cuestionarios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:estos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:Flexibilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:FNA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:Independencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:objetivos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:proveedor
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:responder
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:sido
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:53:Tiempo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:55:Cuestionario
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:55:Independencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:55:Proveedor
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:definida
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:documentada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:formalmente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:gobernada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:Independencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:Negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:Procesos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:Proveedor
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:56:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:Cada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:diferentes
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:Existen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:líneas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:necesita
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:procesos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:propios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:sus
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:58:varias
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:59:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:59:dueño
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:59:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:59:procesos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:59:Quién
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:59:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:60:actuales
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:60:ágiles
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:60:negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:60:procesos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:60:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:61:documentados
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:61:Están
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:61:existen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:61:Gobierno
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:61:procesos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:61:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Analista
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Arq
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:bien
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Cada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:definidas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Especialista
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Gobierno
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:involucradas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:proceso
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:responsabilidades
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Servicio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Servicio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:Servicio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:tiene
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:62:uno
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:afecten
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:cambios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:creacion
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:cumplimiento
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:diseño
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:ejecución
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:interno
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:normas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:nuevos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:politicas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:procesos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:63:regulaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:alguna
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:alguna
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:Arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:autoridad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:autoridad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:Comité
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:Gobierno
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:64:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:administración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:Cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:está
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:organizada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:PMO
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:proyectos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:65:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:66:colaboración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:66:diseño
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:66:herramientas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:66:PMO
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:66:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:66:utilizan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:activos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:almacenar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:buenas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:definidas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:prácticas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:67:repositorio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:71:Cuestionario
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:71:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:actualmente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:administran
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:Cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:requerimientos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:sistemas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:72:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:74:administración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:74:Cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:74:está
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:74:organizada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:74:proyectos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:75:colaboración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:75:diseño
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:75:herramientas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:75:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:75:utilizan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:activos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:almacenar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:buenas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:definidas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:prácticas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:76:repositorio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:desarrollan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:estilo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:77:utilizan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:Cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:demostrable
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:integran
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:78:sistemas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:alguna
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:asociada
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:compartidos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:datos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:ESB
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:tecnología
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:79:utiliza
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:80:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:80:confiables
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:80:críticas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:80:negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:80:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:80:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:datos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:modelos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:propietarios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:proveedores
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:repositorios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:tipos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:81:utilizan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:82:arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:82:Cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:82:integración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:82:logra
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:82:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:arquitectónicos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:definidos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:están
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:evidenciables
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:lineamientos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:principios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:83:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:bitácora
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:cambios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:cambios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:comité
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:decisiones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:evalúan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:84:una
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:Considera
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:contrario
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:este
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:físico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:gestionado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:gobierna
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:lógico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:modelo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:85:modelo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:atender
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:esfuerzo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:estas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:hoc
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:información
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:nivel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:requieren
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:reutilizables
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:86:solicitudes
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:91:Cuestionario
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:91:Flexibilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:91:Tiempo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:Cuáles
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:Flexibilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:impacto
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:implementar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:nuevas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:provedores
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:respuesta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:soluciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:Tiempo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:tiempos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:92:tienen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:dentro
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:desarrollo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:Devops
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:equipos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:infraestructura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:interactuar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:organización
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:94:permita
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:95:diseño
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:95:herramientas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:95:propias
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:95:proveedores
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:95:Qué
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:95:utilizan
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:aplicacion
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:Infraestructura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:ligadas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:nube
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:Operativo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:plataforma
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:Servidores
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:96:Sistema
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:accesibilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:aplicaciones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:centradas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:confiabilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:Existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:97:seguridad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Abstraccion
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:acoplamiento
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:aplica
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Autonomia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Bajo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Composición
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Contrato
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Descubrimiento
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:diseño
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:estado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Estandarizacion
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:principios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Reusabilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:Servicio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:98:servicios
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:99:común
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:99:datos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:99:existe
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:99:modelo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:administradas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:datos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:Desarrollo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:distintos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:entre
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:estas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:existen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:gente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:mantenidas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:modelos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:negocio
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:por
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:por
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:reglas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:reglas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:100:transformación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:arquitectura
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:Cómo
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:concurrencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:contingencia
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:Disponibilidad
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:funcionales
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:operativa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:requerimientos
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:soporte
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:101:través
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:105:Diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:105:Herramienta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:105:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:105:Nivel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:105:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:anteriomente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:Descargar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:desde
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:Diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:dimensiones
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:dirección
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:el
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:evaluación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:fórmulas
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:herramienta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:Herramienta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:implementa
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:método
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:Nivel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:partes
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:presentado
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:puntuación
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:siguiente
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:106:sus
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:Descargar
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:Diagnóstico
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:herramienta
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:Imagen
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:Madurez
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:Nivel
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:110:SOA
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:112:elaboración
-content/15.Fase 1 PR1 Presentación del Análisis de Madurez-2.md:112:propia
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:Descripción
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:Entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:información
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:integración
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:integración
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:relacionadas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:1:Tema
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:clave
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:Entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:Integración
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:Palabras
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:SOA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:4:Autor
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:5:Fuente
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:6:Hijo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:6:Secuencia
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:10:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:10:Entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:10:información
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:10:Negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:10:Relacionadas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:bien
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:encontrar
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:entre
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:existe
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:información
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:integración
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:modelos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:operaciones
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:operaciones
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:permiten
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:punto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:punto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:relación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:resultado
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:sobre
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:11:transportan
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:canónicas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:entre
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:inferencia
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:integraciones
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:posible
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:presentamos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:punto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:punto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:relación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:siguiente
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:13:una
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:15:Entidad
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:15:Nivel
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:17:archivo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:17:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:18:aseguramientoProducto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:18:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:19:asesor
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:19:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:20:autorizacionEnvio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:20:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:21:beneficiario
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:21:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:22:bloqueo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:22:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:23:casaCobranza
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:23:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:24:catalogos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:24:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:25:cdp
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:25:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:26:centrocostos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:26:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:27:cesantias
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:27:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:28:clasificacionInmueble
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:28:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:29:clasificacionParqueo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:29:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:30:cliente
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:30:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:31:cobranza
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:31:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:32:cobrojuridico
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:32:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:33:codeudor
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:33:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:34:codigoTipo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:34:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:35:composicionAreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:35:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:36:composicionGeneralInmobiliario
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:36:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:37:composicionNiveles
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:37:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:38:composicionParqueaderos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:38:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:39:composicionSegmentosUnidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:39:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:40:composicionTiposUnidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:40:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:41:conceptoContable
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:41:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:42:consultacentrocostos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:42:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:43:conversionUvr
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:43:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:44:credenciales
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:44:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:45:credito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:45:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:46:cuentaAVC
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:46:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:47:cuentaBancaria
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:47:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:48:cuentacontable
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:48:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:49:cuentaproductocliente
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:49:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:50:cuentaproductocredito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:50:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:51:cuotaCredito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:51:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:52:cuotasMora
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:52:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:53:DatosRegistroInhibitorias
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:53:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:54:definicionEstructura
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:54:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:55:definicionProyecto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:55:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:56:descuentoConceptoPago
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:56:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:57:descuentos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:57:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:58:desembolso
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:58:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:59:destinacionAreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:59:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:60:detalleAreaConstruccion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:60:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:61:detalleAreaLote
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:61:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:62:direccion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:62:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:63:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:64:estadoEspecial
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:64:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:65:estructuras
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:65:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:66:excepciongenerica
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:66:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:67:funcionario
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:67:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:68:garantia
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:68:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:69:identificacion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:69:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:70:infoCentralRiesgo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:70:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:71:informacionCuentaMora
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:71:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:72:informacionEstructuraInmobiliaria
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:72:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:73:informacionfinanciera
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:73:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:74:informacionlaboral
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:74:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:75:informacionProyectoInmobiliario
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:75:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:76:inventarioViviendas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:76:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:77:libranza
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:77:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:78:listasNegras
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:78:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:79:monedaExtranjera
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:79:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:80:niveles
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:80:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:81:ordenPago
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:81:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:82:paginacion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:82:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:83:pagosCredito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:83:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:84:pagosDeuda
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:84:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:85:participante
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:85:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:86:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:87:personajuridica
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:87:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:88:personanatural
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:88:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:89:pignoracion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:89:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:90:pqyr
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:90:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:91:proceso
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:91:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:92:productocliente
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:92:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:93:proyectos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:93:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:94:relacion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:94:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:95:reporteInhibitorias
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:95:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:96:resumenValorAPagar
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:96:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:97:saldodeudacredito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:97:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:98:solicitud
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:98:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:99:telefono
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:99:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:100:tercero
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:100:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:101:tipoafiliacion
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:101:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:102:tramite
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:102:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:103:ubicacionOficinaProducto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:103:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:104:ubicacionProyecto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:104:xsd
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:106:canónicas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:106:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:106:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:106:integraciones
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:106:Nivel
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:108:Canonico
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:108:Inventario
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:bajo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:canónicas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:caso
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:caso
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:costos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:cuyo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:determinar
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:estas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:flexibilidad
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:igual
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:impactarían
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:información
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:integraciones
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:manera
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:mantenimiento
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:modelos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:muy
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:negativas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:nivel
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:Nota
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:operan
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:posible
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:redundancias
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:repositorio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:según
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:112:transportan
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:116:Áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:116:Áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:116:Clasificación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:116:Entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:116:por
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:116:Propietaria
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:actores
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:área
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:área
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:comunicación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:comunicación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:Crédito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:debe
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:encuentran
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:estándar
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:estandarizadas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:indica
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:intensa
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:lista
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:más
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:más
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:más
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:otras
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:otros
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:por
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:qué
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:relación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:siguiente
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:su
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:su
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:tanto
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:117:una
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:120:Cuenta
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:120:Etiquetas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:120:fila
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:120:Negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:120:Unidad
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:122:Unidad
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:123:Crédito
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:124:Cartera
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:125:Clientes
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:126:Contabilidad
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:127:Inmueble
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:128:Jurídico
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:129:Cobranza
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:130:Garantía
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:131:Cesantía
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:132:AVC
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:132:Cuenta
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:135:canónicas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:135:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:135:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:135:integraciones
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:135:Nivel
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:137:elaboración
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:además
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:advierte
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:área
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:atribuíbles
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:canónicas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:canónico
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:conocer
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:el
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:esta
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:estandarización
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:evidencian
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:importante
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:información
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:intercambio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:lenguaje
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:lista
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:mayoría
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:modelos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:negocio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:nivel
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:proceso
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:141:relación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:áreas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:datos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:determinar
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:dichos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:documentos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:entidades
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:entre
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:estas
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:evidencias
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:falta
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:falta
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:FNA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:gobierno
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:implicar
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:integración
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:interoperabilidad
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:más
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:mediante
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:modelo
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:modelos
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:por
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:pueda
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:puede
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:qué
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:relación
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:repositorio
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:requieren
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:SOA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:SOA
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:145:únicas
