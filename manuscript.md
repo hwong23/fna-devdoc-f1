@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T16:23:16+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T16:23:16+00:00" />
+  <meta name="dc.modified" content="2023-01-11T16:45:07+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T16:45:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/75af1d4a99e814aa1c560445945c5a818bde61db/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/75af1d4a99e814aa1c560445945c5a818bde61db/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/75af1d4a99e814aa1c560445945c5a818bde61db/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3c43184056a7e7c797e7cfd79409c113f9138d84/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -1432,6 +1432,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Autor||
 |Fuente||
 |Secuencia|Padre<br>Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
 
@@ -1573,5 +1574,4 @@ _Fuente: elaboración propia_
 La falta de relación entre las entidades y las áreas puede implicar la falta de un modelo de uso y gobierno de datos, de interoperabilidad, y de integración SOA mediante los que se pueda determinar por qué estas entidades son la únicas o se requieren más. En los documentos de repositorio SOA del FNA no hay evidencias de dichos modelos.
 
 <br>
-
 
