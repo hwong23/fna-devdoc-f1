@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-11" />
   <meta name="citation_publication_date" content="2023-01-11" />
   <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T19:54:39+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T19:54:39+00:00" />
+  <meta name="dc.modified" content="2023-01-11T22:17:52+00:00" />
+  <meta property="article:modified_time" content="2023-01-11T22:17:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/659914de8657207114e66de01999e4d253e07913/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/659914de8657207114e66de01999e4d253e07913/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/659914de8657207114e66de01999e4d253e07913/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/3bf858df570c9ff375811a9810540aa3d34f2e41/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3bf858df570c9ff375811a9810540aa3d34f2e41/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/3bf858df570c9ff375811a9810540aa3d34f2e41/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -106,6 +106,70 @@ La arquitectura, organizada por vistas, se convierte en un medio de trabajo com�
 *   Análisis  y diagnóstico del nivel de madurez SOA
 
 *** 
+
+|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Dominio de Información**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Resultados y métricas del diagnóstico de madurez SOA. Dominio Información
+El resultado del nivel de cumplimiento del dominio de información del FNA es **Realizado**. Este resultado proviene de las consideraciones obtenidas en las sesiones de trabajo con los encargados del dominio de datos del Fondo y los siguientes aspectos relacionados al dominio de información: _independencia del proveedor (OBJ1), fortalecimiento SOA (OBJ2) y flexibilidad, tiempo de mercado SOA (OBJ3)_.
+
+![](images/madurezInfo.png)
+
+[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA Información.
+
+_Fuente: elaboración propia_.
+
+>**Nota**. FNA realiza soluciones a la medida para responder a las necesidades y requerimientos de información de las áreas funcionales. El peligro con esto es que hace a la gestión de los datos proclive a la proliferación de silos de datos.
+
+<br>
+
+Teniendo en cuenta la clasificación que propone el modelo OSIMM; el cual define el estado de la organización con respecto a los servicios de integración y la madurez SOA de la organización, concluimos que actualmente el Fondo Nacional del Ahorro, en el dominio de datos, _realiza soluciones a la medida para responder a las necesidades y requerimientos de las áreas funcionales, lo cual ocasiona que la información se gestione de manera aislada por cada dependencia evidenciando silos de información_.
+
+Para obtener este nivel de madurez se tuvieron en cuenta las siguientes consideraciones.
+
+<br>
+
+## Consideraciones y conclusiones respecto a la arquitectura estándar SOA
+El análisis del repositorio SOA del FNA evidencia que existen modelos de datos independientes para las diferentes aplicaciones. Por lo tanto, _no existe un modelo de datos común o canónico para la organización_.
+
+Así mismo, existen inconvenientes en la gestión del ciclo de vida del dato debido a que existen algunas dependencias de algunos los proveedores para incluir reglas de negocio o nuevas entidades de datos.
+
+La carencia de un modelo de datos canónico de datos no permite que exista un lenguaje común en todos los modelos de datos, es decir, un entendimiento a toda la organización (técnico y funcional) que facilite la explotación y toma de decisiones a partir de los datos (la situación actual crea lo contario, dificultad de la explotación de los datos y la realización de proyectos de mejora de toma de decisiones a partir de los datos).
+
+Hay desactualización en los artefactos que conforman la arquitectura de datos: modelo de datos empresarial, diccionario de datos, catálogos, matrices y diagramas. Aunque es importante resaltar que actualmente el equipo de TI se encuentra en el desarrollo de un modelo de datos unificado.
+
+<br>
+
+## Consideraciones y conclusiones respecto de las necesidades de integración
+Existen diccionarios de datos particulares para algunas bases de datos, aunque se requiere un diccionario de datos de forma estandarizada, que permita facilitar el entendimiento de éstos y sus relaciones. Así mismo, una herramienta de arquitectura que permita tener las vistas de los modelos conceptuales, lógicos y físicos y su relación con los diferentes servicios, procesos misionales y aplicaciones.
+
+Es importante identificar cuales datos son maestros y referencias mediante un levantamiento tanto funcional como técnico de estos. Y que permitan a través de una estrategia, tener una vista unificada de los datos que conlleven a la democratización y uso correcto de estos.
+
+<br>
+
+## Consideraciones y conclusiones respecto al gobierno SOA
+Es necesario tener una gestión de los datos más apropiada mediante la incorporación de lineamientos, directrices, indicadores en torno al gobierno de los datos. Esta estrategia permite:
+
+- Definir, aprobar y comunicar las estrategias, políticas, estándares,
+  arquitectura, procedimientos y métricas de los datos.
+
+- Monitoreo y cumplimiento de la políticas, estándares, arquitectura y
+  procedimientos de los datos.
+
+- Promover, monitorear y supervisar los proyectos y servicios
+  relacionados con la Gestión de Datos.
+
+- Gestionar y resolver problemas relacionados con los datos.
+
+- Comprender y promover el valor de los datos como un activo
+
 
 |Tema|Vista de Contexto: **Objetivos del Diagnóstico SOA y Productos, Áreas, y Procesos FNA Objeto del Diagnóstico**|
 |----|---------------------------------------------------------------------------|
@@ -191,6 +255,75 @@ Los procesos de negocio seleccionados por este proyecto SOA son aquellos relacio
 ***
 
 
+|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Dominio de Tecnología**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Resultados y métricas del diagnóstico de madurez SOA. Dominio Tecnología
+El resultado del nivel de cumplimiento del dominio de Tecnología del FNA es **Gestionado**. Este resultado proviene de las consideraciones obtenidas en las sesiones de trabajo con los encargados de la Infraestructura del Fondo y los siguientes aspectos relacionados al dominio de Tecnología: _independencia del proveedor (OBJ1), fortalecimiento SOA (OBJ2) y flexibilidad, tiempo de mercado SOA (OBJ3)_.
+
+![](images/madurezInfo.png)
+
+[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA Tecnología.
+
+_Fuente: elaboración propia_.
+
+>**Nota**. FNA realiza soluciones a la medida para responder a las necesidades y requerimientos de Tecnología de las áreas funcionales. Aunque se evidencia conocimiento y estandarización en las capacidades de computo actuales, falta centralizar la información y estandardizarla para mejorar las toma de decisiones.
+
+<br>
+
+Teniendo en cuenta la clasificación que propone el modelo OSIMM; el cual define el estado de la organización con respecto a los servicios de integración y la madurez SOA de la organización, concluimos que actualmente el Fondo Nacional del Ahorro, en el dominio de infraestructura, realiza soluciones a la medida para responder a las necesidades y requerimientos de las áreas funcionales, sin embargo dichos requerimientos se ejecutan en su mayoría sobre plataformas y tecnologías homogéneas  tales como mismo servidor de aplicaciones o entorno de ejecución  (ej. Java). Se encontrarían problemas en el caso que se quisiera cambiar radicalmente de entorno de ejecución, sistema operativo o arquitectura de procesador.
+
+Para obtener este nivel de madurez se tuvieron en cuenta las siguientes consideraciones.
+
+<br>
+
+## Consideraciones y conclusiones respecto a la arquitectura estándar SOA
+El análisis del repositorio SOA del FNA evidencia que existe una arquitectura y servicios de Infraestructura bien definida que sirve a varias aplicaciones; pero que dependen de unos fabricantes específicos .
+
+La infraestructura actual fue y sigue siendo influenciada por los productos del fabricante IBM, adicional esta infraestructura ha definido el plan de recuperación de desastres y en un futuro podría limitar el uso de tecnologías de otros fabricantes.
+
+<br>
+
+## Consideraciones y conclusiones respecto de las necesidades de integración
+
+Actualmente a nivel de Infraestructura existen elementos adecuados para garantizar integración de componentes/servicios de una forma segura y estandarizada. De todos modos en caso que se quisiera reutilizar los elementos actuales para implementar nuevas tecnologías, se encontrarían limitaciones en caso que impliquen cambio de sistema operativo, arquitectura de CPU, entorno de ejecución o contenerización. 
+
+<br>
+
+## Consideraciones y conclusiones respecto al gobierno SOA
+Los artefactos que conforman la arquitectura de infraestructura describen bien ciertas condiciones y configuraciones actuales. Sin embargo,  no se encuentran todos los elementos en un repositorio centralizado, y en algunos casos no se cuenta con practicas adecuadas que permitan realizar trazas de cambios o evolución de la misma.
+
+Es necesaria una mayor integración del área de Infraestructura con los repositorios de Arquitectura Empresarial para alinearse más con los procesos de negocio y así mismo generar artefactos que le aporten mas valor a la organización.
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos del Alcance
+
+# Producto 2: Estudio de Madurez SOA FNA
+Exponer los resultados y las consideraciones sobresalientes del estudio de madurez SOA del Fondo Nacional del Ahorro (FNA). El resultado de este estudio dará elementos de base para contribuir a la estrategia SOA y construir un modelo inicial, tanto de brechas como de gobierno SOA, que mantengan la alineación con los objetivos de la consultoría y del negocio del Fondo.
+
+## Justificación
+Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandarizada los grados de cumplimiento de disciplinas temáticas.  Para el grado concreto de SOA, el modelo propuesto, permitirá establecer de forma general, el nivel de madurez de la organización en cuanto a la institucionalización, buenas prácticas de proceso y de producto  y el gobierno ;la arquitectura en el FNA. 
+
+## Contenidos
+1. Resultados y métricas del diagnóstico de madurez SOA
+1. Consideraciones y conclusiones respecto a la arquitectura estándar SOA
+1. Consideraciones y conclusiones respecto de las necesidades de integración
+1. Consideraciones y conclusiones respecto al gobierno SOA
+1. Implicaciones a otros proyectos del Fondo
+
+## Criterios de Aceptación
+   * Análisis del nivel de madurez SOA del FNA teniendo en cuenta las definiciones y criterios de evaluación de propuestas por el modelo OSIMM    
+   * Análisis de las necesidades de integración y Gobierno SOA  
+
+
+
 |Tema|Vista de Segmento: Partes de la empresa FNA selecionados por su relación con la Vista de Contexto
 |----|-------------------------------------------|
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
@@ -253,6 +386,85 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 ***
 
 
+|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Todos los Dominios**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Resultados y Métricas del Diagnóstico de Madurez SOA
+Desde la perspectiva de madurez SOA, la rimera iteración del proceso de evaluación de madurez SOA del FNA resulta en que el _FNA es una empresa reactiva_, y este resultado es consistentes en todas las dimensiones diagnósticadas (negocio, org. y gobierno, ...).
+
+El puntaje obtenido en todas las dimensiones es inferior a 40 puntos (gráfico de radar), lo que la ubica como una empresa SOA de nivel **Realizado**. El detalle de los puntajes obtenido en cada dimensión se encuentra en la tabla de resultado junto con el gráfico de resumen.
+
+|||
+|----|------------------------------------|
+|![](images/madurezInfo.png)|![](images/madurezInfo_graf.png)|
+
+[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA. Todos los dominios.
+
+_Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
+
+>**Nota**. SOA responde con esfuerzo a las exigencias de negocio del FNA debido a las dificultades de dependencia a proveedores y la falta de flexibilidad de las respuestas.
+
+<br>
+
+### Puntos de Mejora. Resultado del Primer Diagnóstico
+La dimensión que tuvo puntajes meritorios fue la de Negocio (37 puntos) cuyo valor alcanzó el segundo percentil de eficacia: 37 / 100. Este índice sintetiza el hecho de que operativamente SOA responde a las exigencias de negocio del FNA, pero con esfuerzos altos que seguramente afectan el retorno de inversión SOA. 
+
+Según los resultados internos del diagnóstico, los problemas del alto esfuerzo en la eficacia de la dimensión de negocio es causado por las dificultades siguientes: 
+1. El bajo grado de independencia de proveedor: (ver imagen abajo) _38 puntos / 100 puntos_
+1. Muy baja flexbilidad y tiempos de entrega (time-to-market): _20 / 100 puntos_. 
+
+![](images/analisisSOA-1.png)
+
+[Imagen. ]() Resultados Según los resultados internos del diagnóstico. Dimensión de Negocio.
+
+_Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
+
+>**Nota**. Estas dos problemáticas deben las ser primeras en ser atendidas en un futuro gobierno SOA del Fondo.
+
+<br>
+
+A continuación exponemos otros resultados de este primer resultado del diagnóstico de madurez SOA, y lo que estos significan para la empresa.
+
+<br>
+
+## Consideraciones y Conclusiones Respecto a Adopción SOA
+Este primer diagnóstivo de madurez SOA del FNA, cuyo resultado hoy es el nivel SOA Realizado, _significa que el FNA requiere de 1 a 3 años_ para aumentar el alcance de adopción SOA. El prolongado tiempo se explica porque el cambio debe suceder gradualmente, en varias iteraciones, em donde la cantidad de iteraciones, la longitud y la ubicación dentro de la empresa variarán según los recursos de ejecución que el Fondo le dé a esta problemática.
+
+>**Nota**. El futuro gobierno SOA, en conjunto con el plan de la Dirección de Tecnología del FNA y el próximo plan estratégico (febrero del 2023) debe procurar la ejecución y los recursos necesarios para la realización de estas iteraciones que tienen por objeto mover la adopción SOA del Fondo al siguiente estadio: mayor a 50 puntos de madurez SOA.
+
+<br>
+
+## Consideraciones y Conclusiones Respecto a la Arquitectura SOA
+Si bien existe una arquitectura SOA en el FNA, lo cual es bueno para los objetivos tanto de negocio como de tecnología, _esta no está optimizada para cumplir un objetivo particular_, sea flexibilidad, reutilización, composición; o printicpio SOA, como el de retorno de inversión. Los niveles de las capacidades de arquitectura, según lo muestra el resultado del diagnóstico (_28 / 100. Ver imagen Resultados y métricas del diagnóstico de madurez SOA_), esta existe únicamente para cumplir lo mínimo exigido, pero no para alcanzar un objetivo o tecnológico o de negocio distinto a eso.
+
+>**Nota**. Para aumentar las capacidades de la arquitectura es necesario realizar un análisis de capacidades de la arquitectura que responda a las capacidades del negocio (alineación negocio, arquitectura). Con el mismo nivel de importancia que el caso anterior, esta problemática debe hacer parte de los planes de la Dirección de Tecnología del FNA y del próximo plan estratégico (febrero del 2023).
+
+<br>
+
+## Consideraciones y Conclusiones Respecto al Gobierno SOA
+Vigilancia del costo, efectividad y factibilidad SOA
+
+El gobierno SOA futuro debe lograr, primordialmente, aumentar el índice de independencia de proveedor del Fondo. El resultado interno (ver imagen abajo) en la dimensión de Gobierno obtuvo el puntaje más bajo en este análisis: _35 / 100 puntos_ (los otros análisis, flexibilidad y fortaleza SOA, en esta misma dimensión obtuvieron en promedio 40 puntos).
+
+![](images/analisisSOA-2.png)
+
+[Imagen.]() Resultados Según los resultados internos del diagnóstico. Dimensión de Gobierno.
+
+_Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
+
+>**Nota**. Las consecuencias que usualmente se extraen de este índice deben ser consideradas por el Fondo: costos de monitoreo altos, y la más problemática, inefectividad de costo SOA, que es la relación entre los costos a los que ascienden las tecnologías y las implementaciones de SOA para cubrir únicamente necesidades de integración, que para el caso del Fondo, también son sujeto de mejoras.
+
+<br>
+
+
+
 |Tema|Catálogo de Servicios SOA: **Vista Funcional**
 |----|-------------------------------------------------|
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
@@ -291,6 +503,29 @@ Describimos las características de estos conectores con los siguientes ejemplos
 [Imagen. ]() Conectores que dinamizan la interacción entre los servicios independientes.
 
 _Fuente: elaboración propia._
+
+
+|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Anexos. Todos los Dominios**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
+|Autor||
+|Fuente||
+|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Anexo 1. Resultado Diagnóstico Madurez SOA
+
+![](images/resultadoSOA.png)
+
+## Anexo 2. Diagnóstico Madurez SOA. Todas las Dimensiones
+
+![](images/resultadoSOA-2.png)
+
+## Anexo 3. Diagnóstico Gobierno SOA. Por Desarrollar
+
+![](images/resultadoSOA-3.png)
 
 
 |Tema|Catálogo de Servicios SOA: **Servicios SOA relevantes al diagnóstico**

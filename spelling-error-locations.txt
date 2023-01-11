@@ -233,6 +233,387 @@ content/01.Fase1 PR1 SOA Actual.md:42:diagnóstico
 content/01.Fase1 PR1 SOA Actual.md:42:madurez
 content/01.Fase1 PR1 SOA Actual.md:42:nivel
 content/01.Fase1 PR1 SOA Actual.md:42:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:diagnóstico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:Dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:Información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:métricas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:Resultados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:1:Tema
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:clave
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:Dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:Información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:Madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:Método
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:OSIMM
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:Palabras
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:3:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:4:Autor
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:5:Fuente
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:6:Análisis
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:6:Hijo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:6:Madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:6:Presentación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:6:Secuencia
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Distribución
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:FNA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Integración
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Portafolio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:servicios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Servicios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Servicios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Tipos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:7:Vínculos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:diagnóstico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:Dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:Información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:métricas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:Resultados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:11:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:aspectos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:consideraciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:cumplimiento
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:El
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:encargados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:Este
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:flexibilidad
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:FNA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:Fondo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:fortalecimiento
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:nivel
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:obtenidas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:proveedor
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:proviene
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:Realizado
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:relacionados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:resultado
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:resultado
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:sesiones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:siguientes
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:tiempo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:12:trabajo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:diagnóstico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:Imagen
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:Información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:métricas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:Resultados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:16:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:18:elaboración
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:áreas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:áreas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:El
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:esto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:FNA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:funcionales
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:gestión
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:hace
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:medida
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:necesidades
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:Nota
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:peligro
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:proclive
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:proliferación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:realiza
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:requerimientos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:responder
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:20:soluciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:actualmente
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:Ahorro
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:aislada
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:áreas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:áreas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:cada
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:clasificación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:concluimos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:cual
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:cual
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:cuenta
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:dependencia
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:dominio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:estado
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:evidenciando
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:Fondo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:funcionales
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:gestione
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:información
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:integración
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:manera
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:medida
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:modelo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:Nacional
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:necesidades
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:ocasiona
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:organización
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:organización
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:OSIMM
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:por
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:propone
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:requerimientos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:respecto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:responder
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:servicios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:soluciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:24:Teniendo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:consideraciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:cuenta
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:este
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:madurez
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:nivel
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:obtener
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:siguientes
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:26:tuvieron
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:30:arquitectura
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:30:conclusiones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:30:Consideraciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:30:estándar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:30:respecto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:30:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:análisis
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:aplicaciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:canónico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:común
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:diferentes
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:El
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:evidencia
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:existe
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:existen
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:FNA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:independientes
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:modelo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:modelos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:Por
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:repositorio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:31:tanto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:algunas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:algunos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:Así
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:ciclo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:dato
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:debido
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:dependencias
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:entidades
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:existen
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:existen
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:gestión
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:incluir
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:inconvenientes
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:mismo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:negocio
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:nuevas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:proveedores
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:reglas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:33:vida
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:canónico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:carencia
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:común
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:contario
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:crea
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:decir
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:decisiones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:decisiones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:dificultad
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:entendimiento
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:exista
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:explotación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:explotación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:facilite
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:funcional
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:lenguaje
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:mejora
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:modelo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:modelos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:organización
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:partir
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:partir
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:permite
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:proyectos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:realización
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:situación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:técnico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:toda
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:todos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:toma
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:35:toma
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:actualmente
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:arquitectura
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:artefactos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:Aunque
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:catálogos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:conforman
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:desactualización
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:desarrollo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:diagramas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:diccionario
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:empresarial
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:encuentra
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:equipo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:importante
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:modelo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:modelo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:resaltar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:37:unificado
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:41:conclusiones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:41:Consideraciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:41:integración
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:41:necesidades
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:41:respecto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:algunas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:aplicaciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:arquitectura
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:Así
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:aunque
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:conceptuales
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:diccionario
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:diccionarios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:diferentes
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:entendimiento
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:estandarizada
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:éstos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:Existen
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:facilitar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:físicos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:forma
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:herramienta
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:lógicos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:misionales
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:mismo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:modelos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:particulares
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:permita
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:permita
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:procesos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:relación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:relaciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:requiere
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:servicios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:su
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:sus
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:tener
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:42:una
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:conlleven
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:correcto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:cuales
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:democratización
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:estos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:estos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:estrategia
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:funcional
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:identificar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:importante
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:levantamiento
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:mediante
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:permitan
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:referencias
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:tanto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:técnico
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:tener
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:través
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:una
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:una
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:44:unificada
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:48:conclusiones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:48:Consideraciones
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:48:gobierno
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:48:respecto
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:48:SOA
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:apropiada
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:directrices
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:Esta
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:estrategia
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:gestión
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:gobierno
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:incorporación
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:indicadores
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:lineamientos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:más
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:mediante
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:necesario
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:permite
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:tener
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:torno
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:49:una
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:51:aprobar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:51:comunicar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:51:Definir
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:51:estándares
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:51:estrategias
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:51:políticas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:52:arquitectura
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:52:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:52:métricas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:52:procedimientos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:54:arquitectura
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:54:cumplimiento
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:54:estándares
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:54:Monitoreo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:54:políticas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:55:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:55:procedimientos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:57:monitorear
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:57:Promover
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:57:proyectos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:57:servicios
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:57:supervisar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:58:Datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:58:Gestión
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:58:relacionados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:60:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:60:Gestionar
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:60:problemas
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:60:relacionados
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:62:activo
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:62:Comprender
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:62:datos
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:62:el
+content/01.Fase1 PR2  Estudio de Madurez SOA FNA -1 Informacion.md:62:promover
 content/02.Fase 1 PR1 Vista de Contexto.md:1:Áreas
 content/02.Fase 1 PR1 Vista de Contexto.md:1:Áreas
 content/02.Fase 1 PR1 Vista de Contexto.md:1:Contexto
@@ -544,6 +925,450 @@ content/02.Fase 1 PR1 Vista de Contexto.md:71:Gestión
 content/02.Fase 1 PR1 Vista de Contexto.md:72:Cartera
 content/02.Fase 1 PR1 Vista de Contexto.md:72:Facturación
 content/02.Fase 1 PR1 Vista de Contexto.md:76:Referencia
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:diagnóstico
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:Dominio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:métricas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:Resultados
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:1:Tema
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:clave
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:Dominio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:Madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:Método
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:OSIMM
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:Palabras
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:3:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:4:Autor
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:5:Fuente
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:6:Análisis
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:6:Hijo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:6:Madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:6:Presentación
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:6:Secuencia
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Distribución
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:FNA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Integración
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Portafolio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:servicios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Servicios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Servicios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Tipos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:7:Vínculos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:diagnóstico
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:Dominio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:métricas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:Resultados
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:11:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:aspectos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:consideraciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:cumplimiento
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:dominio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:dominio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:El
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:encargados
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:Este
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:flexibilidad
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:FNA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:Fondo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:fortalecimiento
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:Gestionado
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:Infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:nivel
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:obtenidas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:proveedor
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:proviene
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:relacionados
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:resultado
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:resultado
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:sesiones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:siguientes
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:tiempo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:12:trabajo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:diagnóstico
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:Imagen
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:métricas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:Resultados
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:16:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:18:elaboración
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:actuales
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:áreas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:áreas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:Aunque
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:capacidades
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:centralizar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:computo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:conocimiento
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:decisiones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:estandardizarla
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:estandarización
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:evidencia
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:falta
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:FNA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:funcionales
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:información
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:medida
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:mejorar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:necesidades
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:Nota
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:realiza
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:requerimientos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:responder
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:soluciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:Tecnología
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:20:toma
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:actualmente
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:Ahorro
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:aplicaciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:áreas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:áreas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:arquitectura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:cambiar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:caso
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:clasificación
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:concluimos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:cual
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:cuenta
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:dichos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:dominio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:ej
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:ejecución
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:ejecución
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:ejecutan
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:encontrarían
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:entorno
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:entorno
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:estado
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:Fondo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:funcionales
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:homogéneas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:integración
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:mayoría
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:medida
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:mismo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:modelo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:Nacional
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:necesidades
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:operativo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:organización
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:organización
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:OSIMM
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:plataformas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:problemas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:procesador
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:propone
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:quisiera
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:radicalmente
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:realiza
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:requerimientos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:requerimientos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:respecto
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:responder
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:servicios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:servidor
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:sistema
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:sobre
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:soluciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:su
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:tecnologías
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:24:Teniendo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:consideraciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:cuenta
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:este
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:madurez
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:nivel
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:obtener
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:siguientes
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:26:tuvieron
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:30:arquitectura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:30:conclusiones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:30:Consideraciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:30:estándar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:30:respecto
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:30:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:análisis
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:aplicaciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:arquitectura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:bien
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:definida
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:dependen
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:El
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:específicos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:evidencia
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:existe
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:fabricantes
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:FNA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:Infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:pero
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:repositorio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:servicios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:sirve
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:una
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:unos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:31:varias
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:adicional
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:definido
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:desastres
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:el
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:esta
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:fabricante
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:fabricantes
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:fue
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:futuro
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:influenciada
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:limitar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:otros
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:podría
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:por
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:productos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:recuperación
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:siendo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:sigue
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:33:tecnologías
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:37:conclusiones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:37:Consideraciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:37:integración
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:37:necesidades
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:37:respecto
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:actuales
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:Actualmente
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:adecuados
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:arquitectura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:cambio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:caso
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:caso
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:componentes
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:contenerización
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:ejecución
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:elementos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:elementos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:encontrarían
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:entorno
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:estandarizada
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:existen
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:forma
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:garantizar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:implementar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:impliquen
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:Infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:integración
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:limitaciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:modos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:nivel
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:nuevas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:operativo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:quisiera
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:reutilizar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:segura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:servicios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:sistema
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:tecnologías
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:todos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:39:una
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:43:conclusiones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:43:Consideraciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:43:gobierno
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:43:respecto
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:43:SOA
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:actuales
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:adecuadas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:algunos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:arquitectura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:artefactos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:bien
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:cambios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:casos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:centralizado
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:ciertas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:condiciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:configuraciones
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:conforman
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:cuenta
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:describen
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:elementos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:encuentran
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:evolución
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:misma
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:permitan
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:practicas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:realizar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:repositorio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:todos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:44:trazas
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:alinearse
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:aporten
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:área
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:Arquitectura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:artefactos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:así
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:Empresarial
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:generar
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:Infraestructura
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:integración
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:más
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:mismo
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:necesaria
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:negocio
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:organización
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:procesos
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:repositorios
+content/02.Fase1 PR2  Estudio de Madurez SOA FNA -1 Tecnología.md:46:una
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:1:Estado
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:1:Fase
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:1:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:2:Alcance
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:2:Contenido
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:2:Productos
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:4:Estudio
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:4:FNA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:4:Madurez
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:4:Producto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:4:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:Ahorro
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:alineación
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:brechas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:consideraciones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:construir
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:consultoría
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:contribuir
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:dará
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:El
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:elementos
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:este
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:estrategia
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:estudio
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:estudio
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:Exponer
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:FNA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:Fondo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:Fondo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:gobierno
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:inicial
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:madurez
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:mantengan
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:modelo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:Nacional
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:negocio
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:objetivos
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:resultado
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:resultados
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:sobresalientes
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:5:tanto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:7:Justificación
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:analizar
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:arquitectura
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:buenas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:concreto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:cuanto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:cumplimiento
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:disciplinas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:el
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:establecer
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:estandarizada
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:evaluar
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:FNA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:forma
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:forma
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:gobierno
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:grado
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:grados
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:institucionalización
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:madurez
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:madurez
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:modelo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:modelos
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:nivel
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:objetiva
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:organización
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:permiten
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:permitirá
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:prácticas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:proceso
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:producto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:propuesto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:8:temáticas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:10:Contenidos
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:11:diagnóstico
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:11:madurez
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:11:métricas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:11:Resultados
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:11:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:12:arquitectura
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:12:conclusiones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:12:Consideraciones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:12:estándar
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:12:respecto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:12:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:13:conclusiones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:13:Consideraciones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:13:integración
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:13:necesidades
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:13:respecto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:14:conclusiones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:14:Consideraciones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:14:gobierno
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:14:respecto
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:14:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:15:Fondo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:15:Implicaciones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:15:otros
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:15:proyectos
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:17:Aceptación
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:17:Criterios
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:Análisis
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:criterios
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:cuenta
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:definiciones
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:el
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:evaluación
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:FNA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:madurez
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:modelo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:nivel
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:OSIMM
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:por
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:propuestas
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:SOA
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:18:teniendo
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:19:Análisis
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:19:Gobierno
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:19:integración
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:19:necesidades
+content/02.Fase1 PR2 Estudio Madurez SOA FNA.md:19:SOA
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:Contexto
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:empresa
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:1:FNA
@@ -682,6 +1507,7 @@ content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:diagnóstico
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:el
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:empresa
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:Esto
+content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:explica
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:FNA
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:objeto
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:21:por
@@ -815,6 +1641,496 @@ content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:relación
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:segmento
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:segmento
 content/03.Fase 1 PR1 Vista Segmento SOA FNA.md:58:servicios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:Dominios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:métricas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:Resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:Tema
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:1:Todos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:clave
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:Costos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:Efectividad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:Gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:Madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:Palabras
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:3:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:4:Autor
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:5:Fuente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:6:Análisis
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:6:Hijo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:6:Madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:6:Presentación
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:6:Secuencia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Anexos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Distribución
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Estudio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Portafolio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:servicios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Servicios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Servicios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Tipos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:7:Vínculos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:11:Diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:11:Madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:11:Métricas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:11:Resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:11:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:consistentes
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:Desde
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:diagnósticadas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:dimensiones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:empresa
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:este
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:evaluación
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:iteración
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:perspectiva
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:proceso
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:resulta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:rimera
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:todas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:12:una
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:cada
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:detalle
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:dimensiones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:empresa
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:encuentra
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:gráfico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:gráfico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:junto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:nivel
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:obtenido
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:obtenido
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:puntaje
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:puntajes
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:puntos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:Realizado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:resumen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:todas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:ubica
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:14:una
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:dominios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:Imagen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:métricas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:Resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:20:Todos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:22:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:22:Elaboración
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:22:herramienta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:22:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:22:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:debido
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:dependencia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:dificultades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:esfuerzo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:exigencias
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:falta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:flexibilidad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:Nota
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:proveedores
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:responde
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:respuestas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:24:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:28:Diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:28:Mejora
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:28:Puntos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:28:Resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:afectan
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:alcanzó
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:cuyo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:eficacia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:esfuerzos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:Este
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:exigencias
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:fue
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:hecho
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:índice
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:índice
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:inversión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:meritorios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:Negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:operativamente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:percentil
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:pero
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:puntajes
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:puntos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:responde
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:retorno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:seguramente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:sintetiza
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:29:tuvo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:causado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:dificultades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:eficacia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:esfuerzo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:internos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:por
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:problemas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:Según
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:31:siguientes
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:abajo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:bajo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:grado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:imagen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:independencia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:proveedor
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:puntos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:32:ver
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:33:baja
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:33:entrega
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:33:flexbilidad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:33:Muy
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:33:tiempos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:Dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:Imagen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:internos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:Negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:Resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:37:Según
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:39:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:39:Elaboración
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:39:herramienta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:39:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:39:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:atendidas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:deben
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:Estas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:Fondo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:futuro
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:Nota
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:primeras
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:problemáticas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:ser
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:ser
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:41:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:continuación
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:empresa
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:este
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:estos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:exponemos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:otros
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:significan
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:45:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:49:Adopción
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:49:Conclusiones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:49:Consideraciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:49:Respecto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:49:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:adopción
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:alcance
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:aumentar
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:cambio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:cantidad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:cuyo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:dé
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:debe
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:dentro
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:diagnóstivo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:donde
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:ejecución
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:empresa
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:esta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:Este
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:explica
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:Fondo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:gradualmente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:hoy
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:iteraciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:iteraciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:longitud
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:nivel
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:porque
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:problemática
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:prolongado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:Realizado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:recursos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:requiere
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:según
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:suceder
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:tiempo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:ubicación
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:variarán
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:50:varias
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:adopción
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:conjunto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:debe
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:Dirección
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:ejecución
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:estadio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:estas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:estratégico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:febrero
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:Fondo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:futuro
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:iteraciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:necesarios
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:Nota
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:objeto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:por
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:procurar
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:próximo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:puntos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:realización
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:recursos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:siguiente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:Tecnología
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:52:tienen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:56:Arquitectura
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:56:Conclusiones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:56:Consideraciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:56:Respecto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:56:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:alcanzar
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:arquitectura
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:arquitectura
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:bien
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:bueno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:capacidades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:composición
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:cual
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:cumplir
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:cumplir
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:distinto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:eso
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:esta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:está
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:exigido
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:existe
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:existe
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:flexibilidad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:imagen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:inversión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:métricas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:mínimo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:muestra
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:niveles
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:objetivo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:objetivo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:objetivos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:optimizada
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:pero
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:printicpio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:Resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:retorno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:reutilización
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:según
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:tanto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:tecnología
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:tecnológico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:una
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:únicamente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:57:Ver
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:alineación
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:análisis
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:arquitectura
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:arquitectura
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:arquitectura
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:aumentar
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:capacidades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:capacidades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:capacidades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:caso
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:debe
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:Dirección
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:esta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:estratégico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:febrero
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:FNA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:hacer
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:importancia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:mismo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:necesario
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:negocio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:nivel
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:Nota
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:parte
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:problemática
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:próximo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:realizar
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:responda
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:59:Tecnología
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:63:Conclusiones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:63:Consideraciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:63:Gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:63:Respecto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:63:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:64:costo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:64:efectividad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:64:factibilidad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:64:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:64:Vigilancia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:abajo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:análisis
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:análisis
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:aumentar
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:bajo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:debe
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:El
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:esta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:este
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:flexibilidad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:Fondo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:futuro
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:Gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:imagen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:independencia
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:índice
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:índice
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:interno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:lograr
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:más
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:misma
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:obtuvieron
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:obtuvo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:otros
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:primordialmente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:promedio
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:proveedor
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:puntaje
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:puntos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:resultado
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:66:ver
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:Dimensión
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:Gobierno
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:Imagen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:internos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:Resultados
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:70:Según
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:72:diagnóstico
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:72:Elaboración
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:72:herramienta
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:72:madurez
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:72:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:ascienden
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:caso
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:consecuencias
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:consideradas
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:costo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:costos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:costos
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:cubrir
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:deben
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:el
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:entre
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:este
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:extraen
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:Fondo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:Fondo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:implementaciones
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:índice
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:índice
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:inefectividad
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:integración
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:más
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:mejoras
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:monitoreo
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:necesidades
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:Nota
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:por
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:problemática
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:relación
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:ser
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:SOA
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:sujeto
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:también
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:tecnologías
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:únicamente
+content/03.Fase1 PR2  Estudio de Madurez SOA FNA -2 Arquitectura.md:74:usualmente
 content/04.Fase 1 PR1 Vista funcional.md:1:Catálogo
 content/04.Fase 1 PR1 Vista funcional.md:1:Funcional
 content/04.Fase 1 PR1 Vista funcional.md:1:Servicios
@@ -976,6 +2292,57 @@ content/04.Fase 1 PR1 Vista funcional.md:36:interacción
 content/04.Fase 1 PR1 Vista funcional.md:36:servicios
 content/04.Fase 1 PR1 Vista funcional.md:38:elaboración
 content/04.Fase 1 PR1 Vista funcional.md:38:propia
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:Anexos
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:diagnóstico
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:Dominios
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:madurez
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:métricas
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:Resultados
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:SOA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:Tema
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:1:Todos
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:clave
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:Costos
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:Efectividad
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:Gobierno
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:Madurez
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:Palabras
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:3:SOA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:4:Autor
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:5:Fuente
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:6:Análisis
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:6:Hijo
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:6:Madurez
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:6:Presentación
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:6:Secuencia
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Distribución
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:FNA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Integración
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Portafolio
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:servicios
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Servicios
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Servicios
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:SOA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:SOA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Tipos
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:7:Vínculos
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:11:Anexo
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:11:Diagnóstico
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:11:Madurez
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:11:Resultado
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:11:SOA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:15:Anexo
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:15:Diagnóstico
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:15:Dimensiones
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:15:Madurez
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:15:SOA
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:15:Todas
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Anexo
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Desarrollar
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Diagnóstico
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Gobierno
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:Por
+content/04.Fase1 PR2  Estudio de Madurez SOA FNA -3 Anexos.md:19:SOA
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:Catálogo
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:diagnóstico
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:1:relevantes
@@ -2234,6 +3601,7 @@ content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:información
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:información
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:mantenimiento
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:mediante
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:mismo
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:negocio
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:negocio
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:31:por
