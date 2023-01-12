@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-12" />
   <meta name="citation_publication_date" content="2023-01-12" />
   <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T04:19:32+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T04:19:32+00:00" />
+  <meta name="dc.modified" content="2023-01-12T13:18:26+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T13:18:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,15 +39,15 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <link rel="canonical" href="https://hwong23.github.io/fna-devdoc-f1-1/" />
-  <meta property="og:url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
-  <meta property="twitter:url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
-  <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
-  <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/0b68af26660ae0a9915e6a6e19e1da8e90555e3a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/0b68af26660ae0a9915e6a6e19e1da8e90555e3a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/0b68af26660ae0a9915e6a6e19e1da8e90555e3a/manuscript.pdf" />
+  <link rel="canonical" href="https://hwong23.github.io/fna-devdoc-f1/" />
+  <meta property="og:url" content="https://hwong23.github.io/fna-devdoc-f1/" />
+  <meta property="twitter:url" content="https://hwong23.github.io/fna-devdoc-f1/" />
+  <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
+  <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/3c2add6fafa2fa85463401a31eabc0a5425fbaa1/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/3c2add6fafa2fa85463401a31eabc0a5425fbaa1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/3c2add6fafa2fa85463401a31eabc0a5425fbaa1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
