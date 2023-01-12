@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-12" />
   <meta name="citation_publication_date" content="2023-01-12" />
   <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T14:02:39+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T14:02:39+00:00" />
+  <meta name="dc.modified" content="2023-01-12T19:52:50+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T19:52:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/6cdea78265bd4c72aecaf9c101ced0a91ff3d63d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/6cdea78265bd4c72aecaf9c101ced0a91ff3d63d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/6cdea78265bd4c72aecaf9c101ced0a91ff3d63d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/c338345ec180438433ee46475c8ca02903de2f9d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/c338345ec180438433ee46475c8ca02903de2f9d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/c338345ec180438433ee46475c8ca02903de2f9d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -989,139 +989,139 @@ _Tabla 3 Entidades de Datos_
 
 A continuación, se listan las fuentes de información que son usadas para ingestar o carga cargar datos desde o hacia el ecosistema de integración del FNA:
 
-| **NOMBRE** | **RESPONSABLE** |
-| --- | --- |
-| **FNABOGPROD1**
- SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGFLASH**
- SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGIQPRO1**
- SAP ASE Platform Edition Plataforma 16 SP11
- SAP IQ nodo1 | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGIQPRO2**
- SAP ASE Platform Edition Plataforma 16 SP11
- SAP IQ nodo2 | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGIQPRO**
- CAPE | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPROD1**
- CAPE | SERVICIO BASE DE DATOS : Grupo Base de Datos FNA
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGRSPRO**
- SAP ASE Platform Edition Plataforma 16 SP11
- SAP IQ | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **fna-hanabipro**
- SAP HANA Enterprise Edition Plataforma 1.0 SP12 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPREP1**
- SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **JUPASCANG05BEG01**
- SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPREP1\_TSM**
- SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPRUE**
- SAP Adaptive Server Platform 16.0 SP03 PL06 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGIQPRE**
- SAP ASE Platform Edition Plataforma 16 SP11
- SAP IQ | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGRSPRU**
- SAP ASE Platform Edition Plataforma 16 SP11
- SAP IQ | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **fna-hanabiqa**
- SAP HANA Enterprise Edition Plataforma 1.0 SP12 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGAPP008**
-SAP Data Services 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPAPP005**
-SAP Data Services 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGBOPRO**
-SAP Business Objects Enterprise Premiun 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPBO**
-SAP Business Objects Enterprise Premiun 4.2 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVPPWP018**
- Oracle Database 11g Release 11.2.0.4.0 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGBDOR01**
- Oracle Database 11g Release 11.2.0.4.0 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGGIT-01**
- Oracle Database 12c Standard Edition Release 12.1.0.2.0 - 64bit Production | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVPPWP023** \FVIRTUALCL2008
- SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCL01BD02** \MSSQL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD01WP002** \MSSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD02WP002** \MSSQL2014\_2 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD03WP002** \APMSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| BOGPVBD04WP002\SHAREPOINT
- SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD05WP002** \SMSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD01WP003** \WMSQL2016 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD02WP003** \MSSQL2016\_1 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBDWP013** \RSMSSQL2016 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCOV-03** \SA SQL SERVER 2012 Standard Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGDCL01N6** \CFVIRTUALCL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGDPCL01N1** \CMSSQL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGDCL01N5** \DMSSQL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCCL02BD02** \PMSSQL2014
- SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCCL02BD01** \CMSSQL2014
- SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCCL02BD04** \DMSSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBD01WC002\** PMSSQL2016
- SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCCL04BD02\PFVIRTUAL2016**
- SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| BOGPVBD02WC002\CMSSQL2016 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit) | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **BOGPVBDWC007** \RSCMSSQL2016 SQL SERVER 2016 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGCDBAPP**
- DB2 Enterprise Server Edition 64 bits | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGDBAPP\_68**
- DB2 Enterprise Server Edition 64 bitsFNABOGDBAPP\_68 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGPDBAPP**
- DB2 Enterprise Server Edition 64 bits | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
-| **FNABOGSDBP**
- DB2 9.7.0.11 / 10.5.0.8 | SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura
- SISTEMA OPERATIVO: Proveedor encargado - Infraestructura |
+|**NOMBRE**|**RESPONSABLE**|
+|----------|---------------|
+|FNABOGPROD1||
+|SAP Adaptive Server Platform 16.0 SP03 PL06|SERVICIO BASE DE DATOS : Grupo Base de Datos FNA|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGFLASH**||
+|SAP Adaptive Server Platform 16.0 SP03 PL06|SERVICIO BASE DE DATOS : Grupo Base de Datos FNA|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGIQPRO1**||
+|SAP ASE Platform Edition Plataforma 16 SP11||
+|SAP IQ nodo1|SERVICIO BASE DE DATOS : Grupo Base de Datos FNA|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGIQPRO2**||
+|SAP ASE Platform Edition Plataforma 16 SP11||
+|SAP IQ nodo2|SERVICIO BASE DE DATOS : Grupo Base de Datos FNA|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGIQPRO**||
+|CAPE|SERVICIO BASE DE DATOS : Grupo Base de Datos FNA|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPROD1**||
+|CAPE|SERVICIO BASE DE DATOS : Grupo Base de Datos FNA|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGRSPRO**||
+|SAP ASE Platform Edition Plataforma 16 SP11||
+|SAP IQ|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**fna-hanabipro**||
+|SAP HANA Enterprise Edition Plataforma 1.0 SP12|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPREP1**||
+|SAP Adaptive Server Platform 16.0 SP03 PL06|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**JUPASCANG05BEG01**||
+|SAP Adaptive Server Platform 16.0 SP03 PL06|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPREP1\_TSM**||
+|SAP Adaptive Server Platform 16.0 SP03 PL06|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPRUE**||
+|SAP Adaptive Server Platform 16.0 SP03 PL06|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGIQPRE**||
+|SAP ASE Platform Edition Plataforma 16 SP11||
+|SAP IQ|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGRSPRU**||
+|SAP ASE Platform Edition Plataforma 16 SP11||
+|SAP IQ|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**fna-hanabiqa**||
+|SAP HANA Enterprise Edition Plataforma 1.0 SP12|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGAPP008**||
+|SAP Data Services 4.2|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPAPP005**||
+|SAP Data Services 4.2|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGBOPRO**||
+|SAP Business Objects Enterprise Premiun 4.2|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPBO**||
+|SAP Business Objects Enterprise Premiun 4.2|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVPPWP018**||
+|Oracle Database 11g Release 11.2.0.4.0|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGBDOR01**||
+|Oracle Database 11g Release 11.2.0.4.0|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGGIT-01**||
+|Oracle Database 12c Standard Edition Release 12.1.0.2.0 - 64bit Production|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVPPWP023** \\FVIRTUALCL2008||
+|SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCL01BD02** \\MSSQL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBD01WP002** \\MSSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBD02WP002** \\MSSQL2014\_2 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBD03WP002** \\APMSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|BOGPVBD04WP002\\SHAREPOINT||
+|SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBD05WP002** \\SMSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBD01WP003** \\WMSQL2016 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBD02WP003** \\MSSQL2016\_1 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBDWP013** \\RSMSSQL2016 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCOV-03** \\SA SQL SERVER 2012 Standard Edition (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGDCL01N6** \\CFVIRTUALCL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGDPCL01N1** \\CMSSQL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGDCL01N5** \\DMSSQL2008 SQL SERVER 2008 Microsoft SQL Server Enterprise Edition (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCCL02BD02** \\PMSSQL2014||
+|SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCCL02BD01** \\CMSSQL2014||
+|SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCCL02BD04** \\DMSSQL2014 SQL SERVER 2014 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|\**BOGPVBD01WC002\** PMSSQL2016||
+|SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCCL04BD02\\PFVIRTUAL2016**||
+|SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|BOGPVBD02WC002\\CMSSQL2016 SQL SERVER 2016 Microsoft SQL Server Enterprise: Core-based Licensing (64-bit)|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**BOGPVBDWC007** \\RSCMSSQL2016 SQL SERVER 2016|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGCDBAPP**||
+|DB2 Enterprise Server Edition 64 bits|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGDBAPP\_68**||
+|DB2 Enterprise Server Edition 64 bitsFNABOGDBAPP\_68|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGPDBAPP**||
+|DB2 Enterprise Server Edition 64 bits|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
+|**FNABOGSDBP**||
+|DB2 9.7.0.11 / 10.5.0.8|SERVICIO BASE DE DATOS : Proveedor Encargado - Infraestructura|
+|SISTEMA OPERATIVO: Proveedor encargado - Infraestructura||
 
 _Tabla 4 Inventario de Bases de Datos Activas_
 
@@ -2668,143 +2668,5 @@ Esta Norma Internacional contiene tres partes:
 | N003   | Guía Técnica de Información - Gobierno del dato                                                                                           | 2019    | liena           |
 | N004   | ISO/IEC 18384-1:2016(en)<br>Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA) | 2016    | liena           |
 | n5     | des                                                                                                                                       | 111     | liena           |
-
-
-
-# Fase 1: Estado SOA Actual
-# Contenido de los Productos Contractuales, 181-2020
-
-# Producto 5: PR5. Vigilancia Tecnológica SOA
-Describir y justificar la selección de tecnologías y las técnicas de diseño, implementación y gestión de servicios SOA aplicables al Fondo Nacional del Ahorro (FNA).
-
-**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
-
-<br>
-
-## Justificación
-Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y propuestas de solución SOA para el FNA.
-
-<br>
-
-## Contenidos
-1. Lista tecnologías SOA afines al Fondo
-1. Lista de beneficios al FNA por las tecnologías seleccionadas
-1. Implicaciones para la adquisición y adopción tecnológica
-
-<br>
-
-## Criterios de Aceptación
-
-* Evaluación e Identificación de la tecnología SOA que mejor se alinea con los objetivos del proyecto. 
-* Presentación de una arquitectura de solución de Alto Nivel
-
-
-*** 
-
-
-|Tema|Vigilancia Avances de Industria: **Estrategia de modelado e identificación de servicios**
-|----|-------------------------------------------------|
-|Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
-|Autor||
-|Fuente||
-|Secuencia|Padre \| Hijo|
-|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
-
-<br>
-
-# Estrategia de modelado e identificación de servicios 
-
-## Domain-Driven Design
-Una de las principales estrategias de diseño de arquitecturas orientadas a servicios / microservicios, es la de reemplazar la búsqueda de reutilización por la facilidad de mantenimiento de los servicios.
-
-En SOA es usual propender por servicios que puedan ser reutilizados a lo largo de toda la organización y en diferentes aplicaciones.  El ojetivo es que un servicio pueda solucionar necesidades de diferentes unidades organizacionales y diferentes procesos de negocio, esto implica usualmente servicios que manejan formatos canónicos y tienen reglas de negocio bastante particulares para solucionar casos puntuales y específicos de las unidades de negocio.  Si bien en un principio se veía esta reutilización como algo favorable, normalmente implicaba un desbalance con la facilidad de modificación.  Un cambio en una regla de negocio implica un versionamiento del servicio y afectar a todos los usuarios del servicio.
-
-Una propuesta diferente que se está utilizando actualmente es la de modelar los servicios a partir de estrategias como Domain-Driven Design o DDD. En esta propuesta se busca tener servicios dedicados al dominio así no sean reutilizados
-
-DDD reconoce los dominios y subdominios de negocio como elemento fundamental para la estrategia de servicios. Se busca tener una alineación entre negocio y tecnología, comenzando por los subdominios de negocio de la organización.
-
-
-![](images/vigilancia1.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-Los subdominios pueden ser clasificados en subdominios Core, Soporte y General. El subdominio Core representa lo misional de la organización, los de soporte, representan servicios generales y transversales a las organizaciones y los generales los orientados a las unidades de negocio no core.
-
-![](images/vigilancia2.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-Una vez se identifican los subdominios de la organización se hace una relación entre subdominio y los llamados contexto acotados. Los contexto acotados pueden verse como agrupaciones de servicios asociadas a subdominios de la organización
-
-Es posible que un subdominio de negocio tenga asociados varios contextos acotados, es decir que el subdominio se represente con agrupaciones de servicios separadas pero asociadas a un mismo concepto de negocio.
-
-![](images/vigilancia3.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-Una característica de un contexto acotado es el uso de un lenguaje ubicuo.  Esto quiere decir que conceptos como cliente, producto o servicio, pueden tener significados diferentes en diferentes contextos acotados.
-
-Lo anterior hace que ya no se busque encapsular en un solo servicio, por ejemplo cliente, todas las posibles reglas de negocio de la organización, sino que existan diferentes servicios Cliente, con funcionalidades más pequeñas y acotadas, en cada contexto. Esto hace que se pierda la reutilización pero se gana en mantenimiento de la solución.
-
-![](images/vigilancia4.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-El proceso de identificación de los contextos acotados y sus lenguajes ubicuos se denomina diseño estratégico. Como se ha explicado, el diseño estratégico identifica agrupaciones de servicios.
-
-La siguiente fase es la del diseño táctico. En esta fase, se identifican componentes más pequeños denominados agregados. Los agregados se pueden ver como las unidades de implementación en SOA, es decir los servicios. Un agregado es usualmente un servicio.
-
-![](images/vigilancia6.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-El conjunto de agregados irán conformando el portafolio de servicios de la organización.
-
-![](images/vigilancia7.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-* Entity. Modela un elemento de forma individual Tiene un identificador único.
-* Value Objects. Modela un concepto inmmutable, el cual no tiene identificador único. Usualmente se usa para describir, cuantificar o medir un Entity.
-* \<\<root>> Entity. Da el nombre a la agregación y contiene todos los otros elementos (entidades y values). Es el único punto de entrada a la agregación.
-
-![](images/vigilancia8.png)
-
-[Imagen. ]() Ilustración Domain-Driven Design.
-
-_Fuente: elaboración propia._
-
-<br>
-
-Por último, cada Aggregate, forma una frontera transaccional. Al interior todo las partes son consistentes.
-
-1. Las innvariantes de negocio se protegen dentro de un Aggregate
-1. Propender por diseñar Aggregates pequeños
-1. Solo se referencian otros aggregates por su identificador
-1. Los Aggregates se actualizan mediante la consistencia eventual
 
 
