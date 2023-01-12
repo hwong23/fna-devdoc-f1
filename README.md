@@ -1,8 +1,8 @@
-# Automated scholarly manuscripts on GitHub
+# Automated devdocs manuscripts on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://hwong23.github.io/fna-devdoc-f1-1/)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://hwong23.github.io/fna-devdoc-f1/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/hwong23/fna-devdoc-f1-1/workflows/Manubot/badge.svg)](https://github.com/hwong23/fna-devdoc-f1-1/actions)
 
