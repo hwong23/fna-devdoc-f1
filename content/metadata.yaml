@@ -1,25 +1,25 @@
 ---
-title: "Manuscript Title"
+title: "Diagnóstico SOA Actual FNA"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - SOA
+  - madurez
+  - gobierno
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: hwong23
+    name: Harry Wong
+    initials: HWO
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
-    email: john.doe@something.com
+    email: e_hwong@stefanini.com
     affiliations:
       - Department of Something, University of Whatever
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+  - github: hwong23
+    name: Stefanini.com
+    initials: STF
     orcid: XXXX-XXXX-XXXX-XXXX
     email: jane.roe@whatever.edu
     affiliations:
