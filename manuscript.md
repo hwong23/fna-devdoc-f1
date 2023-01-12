@@ -1,14 +1,14 @@
 ---
-title: Manuscript Title
+title: Diagnóstico SOA Actual FNA
 keywords:
-- markdown
-- publishing
-- manubot
+- SOA
+- madurez
+- gobierno
 lang: en-US
-date-meta: '2023-01-11'
+date-meta: '2023-01-12'
 author-meta:
-- John Doe
-- Jane Roe
+- Harry Wong
+- Stefanini.com
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,26 +16,26 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2023-01-11" />
-  <meta name="citation_publication_date" content="2023-01-11" />
-  <meta property="article:published_time" content="2023-01-11" />
-  <meta name="dc.modified" content="2023-01-11T22:53:29+00:00" />
-  <meta property="article:modified_time" content="2023-01-11T22:53:29+00:00" />
+  <meta name="dc.title" content="Diagnóstico SOA Actual FNA" />
+  <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
+  <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
+  <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
+  <meta name="dc.date" content="2023-01-12" />
+  <meta name="citation_publication_date" content="2023-01-12" />
+  <meta property="article:published_time" content="2023-01-12" />
+  <meta name="dc.modified" content="2023-01-12T03:40:51+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T03:40:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Harry Wong" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Stefanini.com" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1-1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/7126955fb6dbe472adb54289303b158598fc27c9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/7126955fb6dbe472adb54289303b158598fc27c9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/7126955fb6dbe472adb54289303b158598fc27c9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1-1/v/7eead22bde58ce6b820aa98dc7d4a69a85fa702e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/7eead22bde58ce6b820aa98dc7d4a69a85fa702e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1-1/v/7eead22bde58ce6b820aa98dc7d4a69a85fa702e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
