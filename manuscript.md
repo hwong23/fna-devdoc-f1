@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-13" />
   <meta name="citation_publication_date" content="2023-01-13" />
   <meta property="article:published_time" content="2023-01-13" />
-  <meta name="dc.modified" content="2023-01-13T16:43:01+00:00" />
-  <meta property="article:modified_time" content="2023-01-13T16:43:01+00:00" />
+  <meta name="dc.modified" content="2023-01-13T16:47:26+00:00" />
+  <meta property="article:modified_time" content="2023-01-13T16:47:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,7 +112,7 @@ La arquitectura, organizada por vistas, se convierte en un medio de trabajo com�
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|[@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -256,7 +256,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -296,7 +296,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -726,7 +726,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Autor||
 |Fuente||
 |Versión||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13||Vínculos||
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13||Vínculos||
 
 <br>
 
@@ -788,7 +788,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos||
 
 <br>
@@ -1178,7 +1178,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1425,7 +1425,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1575,7 +1575,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1823,7 +1823,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/198dbffd12520ae4bfc04b0e7bc36e6eef327d58/)) [@198dbff](https://github.com/hwong23/fna-devdoc-f1/tree/198dbffd12520ae4bfc04b0e7bc36e6eef327d58) del 2023-01-13|
+|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/ac4168a32642d95f44b5b8094bb4c611fc6c87fc/)) [@ac4168a](https://github.com/hwong23/fna-devdoc-f1/tree/ac4168a32642d95f44b5b8094bb4c611fc6c87fc) del 2023-01-13|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
