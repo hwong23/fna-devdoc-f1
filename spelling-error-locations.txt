@@ -44,7 +44,7 @@ content/01.Fase1 PR1 SOA Actual.md:5:SOA
 content/01.Fase1 PR1 SOA Actual.md:5:SOA
 content/01.Fase1 PR1 SOA Actual.md:5:tanto
 content/01.Fase1 PR1 SOA Actual.md:5:tecnologías
-content/01.Fase1 PR1 SOA Actual.md:5:tecnológoca
+content/01.Fase1 PR1 SOA Actual.md:5:tecnológica
 content/01.Fase1 PR1 SOA Actual.md:7:Justificación
 content/01.Fase1 PR1 SOA Actual.md:8:Adicionalmente
 content/01.Fase1 PR1 SOA Actual.md:8:análisis
@@ -255,8 +255,7 @@ content/02.Fase 1 PR1 Vista de Contexto.md:3:Procesos
 content/02.Fase 1 PR1 Vista de Contexto.md:3:SOA
 content/02.Fase 1 PR1 Vista de Contexto.md:4:Autor
 content/02.Fase 1 PR1 Vista de Contexto.md:5:Fuente
-content/02.Fase 1 PR1 Vista de Contexto.md:6:Hijo
-content/02.Fase 1 PR1 Vista de Contexto.md:6:Secuencia
+content/02.Fase 1 PR1 Vista de Contexto.md:6:Versión
 content/02.Fase 1 PR1 Vista de Contexto.md:7:Ejecución
 content/02.Fase 1 PR1 Vista de Contexto.md:7:FNA
 content/02.Fase 1 PR1 Vista de Contexto.md:7:Negocio
@@ -832,8 +831,7 @@ content/04.Fase 1 PR1 Vista funcional.md:3:Servicios
 content/04.Fase 1 PR1 Vista funcional.md:3:SOA
 content/04.Fase 1 PR1 Vista funcional.md:4:Autor
 content/04.Fase 1 PR1 Vista funcional.md:5:Fuente
-content/04.Fase 1 PR1 Vista funcional.md:6:Hijo
-content/04.Fase 1 PR1 Vista funcional.md:6:Secuencia
+content/04.Fase 1 PR1 Vista funcional.md:6:Versión
 content/04.Fase 1 PR1 Vista funcional.md:7:Catálogo
 content/04.Fase 1 PR1 Vista funcional.md:7:Catálogo
 content/04.Fase 1 PR1 Vista funcional.md:7:FNA
@@ -995,8 +993,7 @@ content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:Servicios
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:3:SOA
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:4:Autor
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:5:Fuente
-content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:6:Hijo
-content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:6:Secuencia
+content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:6:Versión
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Catálogo
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:Catálogo
 content/05.Fase 1 PR1 Catálogo de Servicios FNA-1.md:7:FNA
@@ -2165,8 +2162,7 @@ content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:3:SOA
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:4:Autor
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:5:Fuente
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:6:Versión
-content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:7:Hijo
-content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:7:Secuencia
+content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:7:Versión
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:7:Vínculos
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:11:Catalogación
 content/08.Fase 1 PR1 Catálogo de Servicios FNA-3.md:11:FNA
@@ -2395,8 +2391,7 @@ content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:3:Servicios
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:3:SOA
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:4:Autor
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:5:Fuente
-content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:6:Hijo
-content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:6:Secuencia
+content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:6:Versión
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:7:Vínculos
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:11:Diagnóstico
 content/09.Fase 1 PR1 Catálogo de Servicios FNA-4.md:11:FNA
@@ -3907,8 +3902,7 @@ content/11.Fase 1 PR1 Vista de Integración FNA-1.md:3:Punto
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:3:SOA
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:4:Autor
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:5:Fuente
-content/11.Fase 1 PR1 Vista de Integración FNA-1.md:6:Hijo
-content/11.Fase 1 PR1 Vista de Integración FNA-1.md:6:Secuencia
+content/11.Fase 1 PR1 Vista de Integración FNA-1.md:6:Versión
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:7:FNA
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:7:Integración
 content/11.Fase 1 PR1 Vista de Integración FNA-1.md:7:Vínculos
@@ -4662,8 +4656,7 @@ content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:Palabras
 content/12.Fase 1 PR1 Vista de Integración FNA-2.md:3:SOA
 content/12.Fase 1 PR1 Vista de Integración FNA-2.md:4:Autor
 content/12.Fase 1 PR1 Vista de Integración FNA-2.md:5:Fuente
-content/12.Fase 1 PR1 Vista de Integración FNA-2.md:6:Hijo
-content/12.Fase 1 PR1 Vista de Integración FNA-2.md:6:Secuencia
+content/12.Fase 1 PR1 Vista de Integración FNA-2.md:6:Versión
 content/12.Fase 1 PR1 Vista de Integración FNA-2.md:7:FNA
 content/12.Fase 1 PR1 Vista de Integración FNA-2.md:7:Integración
 content/12.Fase 1 PR1 Vista de Integración FNA-2.md:7:Vínculos
@@ -5064,8 +5057,7 @@ content/13.Fase 1 PR1 Vista de Integración FNA-3.md:3:Palabras
 content/13.Fase 1 PR1 Vista de Integración FNA-3.md:3:SOA
 content/13.Fase 1 PR1 Vista de Integración FNA-3.md:4:Autor
 content/13.Fase 1 PR1 Vista de Integración FNA-3.md:5:Fuente
-content/13.Fase 1 PR1 Vista de Integración FNA-3.md:6:Hijo
-content/13.Fase 1 PR1 Vista de Integración FNA-3.md:6:Secuencia
+content/13.Fase 1 PR1 Vista de Integración FNA-3.md:6:Versión
 content/13.Fase 1 PR1 Vista de Integración FNA-3.md:7:Distribución
 content/13.Fase 1 PR1 Vista de Integración FNA-3.md:7:FNA
 content/13.Fase 1 PR1 Vista de Integración FNA-3.md:7:Integración
@@ -5475,8 +5467,7 @@ content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:3:Procesos
 content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:3:SOA
 content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:4:Autor
 content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:5:Fuente
-content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:6:Hijo
-content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:6:Secuencia
+content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:6:Versión
 content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:7:Distribución
 content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:7:FNA
 content/14.Fase 1 PR1 Presentación del Análisis de Madurez-1.md:7:Integración
