@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-14'
+date-meta: '2023-01-15'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-14" />
-  <meta name="citation_publication_date" content="2023-01-14" />
-  <meta property="article:published_time" content="2023-01-14" />
-  <meta name="dc.modified" content="2023-01-14T02:42:01+00:00" />
-  <meta property="article:modified_time" content="2023-01-14T02:42:01+00:00" />
+  <meta name="dc.date" content="2023-01-15" />
+  <meta name="citation_publication_date" content="2023-01-15" />
+  <meta property="article:published_time" content="2023-01-15" />
+  <meta name="dc.modified" content="2023-01-15T23:29:30+00:00" />
+  <meta property="article:modified_time" content="2023-01-15T23:29:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/0eccb6dc83f5dcf775e6e3564274a55b1aaeda18/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/0eccb6dc83f5dcf775e6e3564274a55b1aaeda18/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/0eccb6dc83f5dcf775e6e3564274a55b1aaeda18/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -114,7 +114,7 @@ SHA ${TRIGGERING_SHA_7}
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Versión | This manuscript ([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) was automatically generated from [hwong23/fna-devdoc-f1@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) on January 14, 2023|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -198,6 +198,7 @@ Los procesos de negocio seleccionados por este proyecto SOA son aquellos relacio
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -258,7 +259,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -298,7 +299,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -479,7 +480,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N003e. Catálogo de Servicios FNA-1](N003e.%20Catálogo%20de%20Servicios%20FNA-1.md)|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -727,8 +728,8 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Versión||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14||Vínculos||
+|Version|$COMMIT del $FECHA_COMPILACION|
+|Vínculos||
 
 <br>
 
@@ -790,7 +791,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -894,6 +895,16 @@ Las siguientes aplicaciones del Fondo no tienen relación con procesos, aparecen
 _Fuente: InventarioAplicacionesFNA.xlsx_
 
 
+
+|Tema|Descripción de la vista de integración actual: **Matriz de intercambio de información crítica del negocio**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Integración, EAI, Punto a punto|
+|Autor||
+|Fuente||
+|Version|$COMMIT del $FECHA_COMPILACION|
+|Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
+
+<br>
 
 ## Descripción de la vista de Información actual
 
@@ -1180,7 +1191,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1427,7 +1438,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1577,7 +1588,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1825,7 +1836,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Versión|([permalink](https://hwong23.github.io/fna-devdoc-f1/v/f749ed66afe53923173f436affa4016264e67b53/)) [@f749ed6](https://github.com/hwong23/fna-devdoc-f1/tree/f749ed66afe53923173f436affa4016264e67b53) del 2023-01-14|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1870,7 +1881,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2006,7 +2017,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2070,7 +2081,7 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2149,7 +2160,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2196,7 +2207,7 @@ Es necesaria una mayor integración del área de Infraestructura con los reposit
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Secuencia|Padre [N007. Presentación del Análisis de Madurez-1](N007.%20Presentación%20del%20Análisis%20de%20Madurez-1) \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2245,7 +2256,7 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Secuencia|Padre \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2302,7 +2313,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Secuencia|Padre \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -2342,7 +2353,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Secuencia|Padre \| Hijo [Resultado Diagnóstico Situación Actual-1b](ResultadoDiagnósticoSituaciónActual-1b.MD) |
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -2382,7 +2393,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Secuencia|Padre \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -2423,7 +2434,7 @@ Según el diagnóstico de la situación actual del FNA, el futuro gobierno SOA, 
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Secuencia|Padre \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -2463,7 +2474,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Secuencia|Padre \| Hijo|
+|Version|$COMMIT del $FECHA_COMPILACION|
 |Vínculos||
 
 <br>
@@ -2580,6 +2591,16 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 * Identificacion de implicaciones positivas (o negativas) para el Fondo
 
 *** 
+
+|Tema|Marcos Regulatorios SOA del FNA
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Situación actual, Tecnología|
+|Autor||
+|Fuente||
+|Version|$COMMIT del $FECHA_COMPILACION|
+|Vínculos||
+
+<br>
 
 ## N001. Marco de interoperabilidad para Gobierno Digital
 ### Año: 2019
