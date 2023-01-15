@@ -22,9 +22,14 @@ BUILD_DOCX="${BUILD_DOCX:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 SPELLCHECK="${SPELLCHECK:-false}"
 MANUBOT_USE_DOCKER="${MANUBOT_USE_DOCKER:-$DOCKER_RUNNING}"
+FECHA_COMPILACION="${COMPILATION_DATE}"
+COMMIT="${TRIGGERING_SHA_7}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
+
+export FECHA_COMPILACION COMMIT
+
 
 # Generate reference information
 echo >&2 "Retrieving and processing reference metadata"
@@ -86,11 +91,15 @@ fi
 
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
 if [ "${BUILD_DOCX}" = "true" ]; then
-  echo >&2 "Exporting Word Docx manuscript"
+  echo >&2 "Exporting Word Docx manuscript" "--fecha ${FECHA_COMPILACION}"
   for f in content/*.md; do
     basenameFILE=${f##*/};
     
-    echo --data-dir="$PANDOC_DATA_DIR" --defaults=common-i.yaml --defaults=docx-i.yaml --output=output/"${basenameFILE%.md}.docx" $f
+    # Add commit hash to the MD
+    envsubst < "$f" > mdfile.hash
+    mv mdfile.hash "$f"
+
+    echo "sustituya < $f > $f.hash"
 
     pandoc --verbose \
       --data-dir="$PANDOC_DATA_DIR" \
