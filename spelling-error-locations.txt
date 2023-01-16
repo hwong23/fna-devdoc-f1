@@ -760,6 +760,32 @@ content/01a3.Vista funcional.md:36:interacción
 content/01a3.Vista funcional.md:36:servicios
 content/01a3.Vista funcional.md:38:elaboración
 content/01a3.Vista funcional.md:38:propia
+content/01a3.Vista funcional.md:40:capacidad
+content/01a3.Vista funcional.md:40:capacidades
+content/01a3.Vista funcional.md:40:cómo
+content/01a3.Vista funcional.md:40:conectores
+content/01a3.Vista funcional.md:40:conexiones
+content/01a3.Vista funcional.md:40:controlar
+content/01a3.Vista funcional.md:40:dificulta
+content/01a3.Vista funcional.md:40:el
+content/01a3.Vista funcional.md:40:entre
+content/01a3.Vista funcional.md:40:Esto
+content/01a3.Vista funcional.md:40:existe
+content/01a3.Vista funcional.md:40:FNA
+content/01a3.Vista funcional.md:40:funcional
+content/01a3.Vista funcional.md:40:impacta
+content/01a3.Vista funcional.md:40:Importante
+content/01a3.Vista funcional.md:40:información
+content/01a3.Vista funcional.md:40:involucradas
+content/01a3.Vista funcional.md:40:manera
+content/01a3.Vista funcional.md:40:muestra
+content/01a3.Vista funcional.md:40:negocio
+content/01a3.Vista funcional.md:40:otra
+content/01a3.Vista funcional.md:40:poca
+content/01a3.Vista funcional.md:40:soporta
+content/01a3.Vista funcional.md:40:tecnologías
+content/01a3.Vista funcional.md:40:una
+content/01a3.Vista funcional.md:40:vez
 content/01.Fase1 PR1 SOA Actual.md:1:Estado
 content/01.Fase1 PR1 SOA Actual.md:1:Fase
 content/01.Fase1 PR1 SOA Actual.md:1:SOA
