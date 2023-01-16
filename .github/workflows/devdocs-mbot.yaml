@@ -69,6 +69,7 @@ jobs:
           echo "DEFAULT_BRANCH=${DEFAULT_BRANCH}" >> $GITHUB_ENV
           echo "DEFAULT_BRANCH_REF=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
           echo "DEFAULT_BRANCH=$DEFAULT_BRANCH"
+          echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
       - name: Cache
         uses: actions/cache@v3
         with:
@@ -101,3 +102,4 @@ jobs:
           CI_BUILD_WEB_URL: https://github.com/${{ github.repository }}/commit/${{ github.sha }}/checks
           CI_JOB_WEB_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: bash ci/deploy.sh
+
