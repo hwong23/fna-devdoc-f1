@@ -274,40 +274,40 @@ content/01a1.Vista de Contexto.md:65:Diagnóstico
 content/01a1.Vista de Contexto.md:65:Negocio
 content/01a1.Vista de Contexto.md:65:Objetos
 content/01a1.Vista de Contexto.md:65:Procesos
-content/01a1.Vista de Contexto.md:67:aquellos
-content/01a1.Vista de Contexto.md:67:consultoría
-content/01a1.Vista de Contexto.md:67:ejemplo
-content/01a1.Vista de Contexto.md:67:esta
-content/01a1.Vista de Contexto.md:67:este
-content/01a1.Vista de Contexto.md:67:negocio
-content/01a1.Vista de Contexto.md:67:negocio
-content/01a1.Vista de Contexto.md:67:objetos
-content/01a1.Vista de Contexto.md:67:por
-content/01a1.Vista de Contexto.md:67:por
-content/01a1.Vista de Contexto.md:67:procesos
-content/01a1.Vista de Contexto.md:67:productos
-content/01a1.Vista de Contexto.md:67:proyecto
-content/01a1.Vista de Contexto.md:67:relacionados
-content/01a1.Vista de Contexto.md:67:seleccionados
-content/01a1.Vista de Contexto.md:67:SOA
-content/01a1.Vista de Contexto.md:69:Administración
-content/01a1.Vista de Contexto.md:69:Cesantías
-content/01a1.Vista de Contexto.md:69:CSNT
-content/01a1.Vista de Contexto.md:69:Cuentas
-content/01a1.Vista de Contexto.md:69:Pago
+content/01a1.Vista de Contexto.md:66:aquellos
+content/01a1.Vista de Contexto.md:66:consultoría
+content/01a1.Vista de Contexto.md:66:ejemplo
+content/01a1.Vista de Contexto.md:66:esta
+content/01a1.Vista de Contexto.md:66:este
+content/01a1.Vista de Contexto.md:66:negocio
+content/01a1.Vista de Contexto.md:66:negocio
+content/01a1.Vista de Contexto.md:66:objetos
+content/01a1.Vista de Contexto.md:66:por
+content/01a1.Vista de Contexto.md:66:por
+content/01a1.Vista de Contexto.md:66:procesos
+content/01a1.Vista de Contexto.md:66:productos
+content/01a1.Vista de Contexto.md:66:proyecto
+content/01a1.Vista de Contexto.md:66:relacionados
+content/01a1.Vista de Contexto.md:66:seleccionados
+content/01a1.Vista de Contexto.md:66:SOA
+content/01a1.Vista de Contexto.md:68:Administración
+content/01a1.Vista de Contexto.md:68:Cesantías
+content/01a1.Vista de Contexto.md:68:CSNT
+content/01a1.Vista de Contexto.md:68:Cuentas
+content/01a1.Vista de Contexto.md:68:Pago
+content/01a1.Vista de Contexto.md:69:Crédito
+content/01a1.Vista de Contexto.md:69:Gestión
 content/01a1.Vista de Contexto.md:70:Crédito
+content/01a1.Vista de Contexto.md:70:Educativo
 content/01a1.Vista de Contexto.md:70:Gestión
 content/01a1.Vista de Contexto.md:71:Crédito
-content/01a1.Vista de Contexto.md:71:Educativo
 content/01a1.Vista de Contexto.md:71:Gestión
+content/01a1.Vista de Contexto.md:71:Hipotecario
 content/01a1.Vista de Contexto.md:72:Crédito
 content/01a1.Vista de Contexto.md:72:Gestión
-content/01a1.Vista de Contexto.md:72:Hipotecario
-content/01a1.Vista de Contexto.md:73:Crédito
-content/01a1.Vista de Contexto.md:73:Gestión
-content/01a1.Vista de Contexto.md:74:Cartera
-content/01a1.Vista de Contexto.md:74:Facturación
-content/01a1.Vista de Contexto.md:78:Referencia
+content/01a1.Vista de Contexto.md:73:Cartera
+content/01a1.Vista de Contexto.md:73:Facturación
+content/01a1.Vista de Contexto.md:77:Referencia
 content/01a2.Vista Segmento SOA FNA.md:1:Contexto
 content/01a2.Vista Segmento SOA FNA.md:1:empresa
 content/01a2.Vista Segmento SOA FNA.md:1:FNA
@@ -377,10 +377,10 @@ content/01a2.Vista Segmento SOA FNA.md:12:sobre
 content/01a2.Vista Segmento SOA FNA.md:12:tanto
 content/01a2.Vista Segmento SOA FNA.md:12:todas
 content/01a2.Vista Segmento SOA FNA.md:12:una
-content/01a2.Vista Segmento SOA FNA.md:14:diagnóstico
+content/01a2.Vista Segmento SOA FNA.md:14:Diagnóstico
 content/01a2.Vista Segmento SOA FNA.md:14:Empresa
 content/01a2.Vista Segmento SOA FNA.md:14:FNA
-content/01a2.Vista Segmento SOA FNA.md:14:objeto
+content/01a2.Vista Segmento SOA FNA.md:14:Objeto
 content/01a2.Vista Segmento SOA FNA.md:14:Partes
 content/01a2.Vista Segmento SOA FNA.md:14:SOA
 content/01a2.Vista Segmento SOA FNA.md:16:alguno
@@ -419,12 +419,10 @@ content/01a2.Vista Segmento SOA FNA.md:18:Cesantías
 content/01a2.Vista Segmento SOA FNA.md:18:Cesantías
 content/01a2.Vista Segmento SOA FNA.md:18:contexto
 content/01a2.Vista Segmento SOA FNA.md:18:cuatro
-content/01a2.Vista Segmento SOA FNA.md:18:directa
 content/01a2.Vista Segmento SOA FNA.md:18:el
 content/01a2.Vista Segmento SOA FNA.md:18:el
 content/01a2.Vista Segmento SOA FNA.md:18:empresa
 content/01a2.Vista Segmento SOA FNA.md:18:FNA
-content/01a2.Vista Segmento SOA FNA.md:18:forma
 content/01a2.Vista Segmento SOA FNA.md:18:Gestión
 content/01a2.Vista Segmento SOA FNA.md:18:negocio
 content/01a2.Vista Segmento SOA FNA.md:18:negocio
@@ -564,10 +562,16 @@ content/01a2.Vista Segmento SOA FNA.md:57:actualizar
 content/01a2.Vista Segmento SOA FNA.md:57:aparezcan
 content/01a2.Vista Segmento SOA FNA.md:57:aplicaciones
 content/01a2.Vista Segmento SOA FNA.md:57:carecen
+content/01a2.Vista Segmento SOA FNA.md:57:cercanía
+content/01a2.Vista Segmento SOA FNA.md:57:debido
+content/01a2.Vista Segmento SOA FNA.md:57:ejemplo
 content/01a2.Vista Segmento SOA FNA.md:57:empresa
 content/01a2.Vista Segmento SOA FNA.md:57:empresa
+content/01a2.Vista Segmento SOA FNA.md:57:estas
 content/01a2.Vista Segmento SOA FNA.md:57:faltan
-content/01a2.Vista Segmento SOA FNA.md:57:hagan
+content/01a2.Vista Segmento SOA FNA.md:57:grado
+content/01a2.Vista Segmento SOA FNA.md:57:hacen
+content/01a2.Vista Segmento SOA FNA.md:57:identificar
 content/01a2.Vista Segmento SOA FNA.md:57:infraestructura
 content/01a2.Vista Segmento SOA FNA.md:57:modelos
 content/01a2.Vista Segmento SOA FNA.md:57:modelos
@@ -576,11 +580,16 @@ content/01a2.Vista Segmento SOA FNA.md:57:necesario
 content/01a2.Vista Segmento SOA FNA.md:57:negocio
 content/01a2.Vista Segmento SOA FNA.md:57:Nota
 content/01a2.Vista Segmento SOA FNA.md:57:partes
+content/01a2.Vista Segmento SOA FNA.md:57:permitan
+content/01a2.Vista Segmento SOA FNA.md:57:por
 content/01a2.Vista Segmento SOA FNA.md:57:procesos
-content/01a2.Vista Segmento SOA FNA.md:57:relación
+content/01a2.Vista Segmento SOA FNA.md:57:relaciones
+content/01a2.Vista Segmento SOA FNA.md:57:repositorio
 content/01a2.Vista Segmento SOA FNA.md:57:segmento
 content/01a2.Vista Segmento SOA FNA.md:57:segmento
 content/01a2.Vista Segmento SOA FNA.md:57:servicios
+content/01a2.Vista Segmento SOA FNA.md:57:su
+content/01a2.Vista Segmento SOA FNA.md:57:tal
 content/01a3.Vista funcional.md:1:Catálogo
 content/01a3.Vista funcional.md:1:Funcional
 content/01a3.Vista funcional.md:1:Servicios
@@ -635,26 +644,37 @@ content/01a3.Vista funcional.md:16:mapa
 content/01a3.Vista funcional.md:16:servicios
 content/01a3.Vista funcional.md:18:elaboración
 content/01a3.Vista funcional.md:18:propia
-content/01a3.Vista funcional.md:20:además
-content/01a3.Vista funcional.md:20:alineados
+content/01a3.Vista funcional.md:20:adelante
+content/01a3.Vista funcional.md:20:alineación
+content/01a3.Vista funcional.md:20:áreas
+content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:claves
+content/01a3.Vista funcional.md:20:controlar
 content/01a3.Vista funcional.md:20:diagnóstico
-content/01a3.Vista funcional.md:20:el
 content/01a3.Vista funcional.md:20:este
 content/01a3.Vista funcional.md:20:FNA
 content/01a3.Vista funcional.md:20:funcional
+content/01a3.Vista funcional.md:20:funcional
 content/01a3.Vista funcional.md:20:importante
 content/01a3.Vista funcional.md:20:independientes
+content/01a3.Vista funcional.md:20:instrumento
+content/01a3.Vista funcional.md:20:más
 content/01a3.Vista funcional.md:20:negocio
 content/01a3.Vista funcional.md:20:objeto
-content/01a3.Vista funcional.md:20:pero
+content/01a3.Vista funcional.md:20:podremos
 content/01a3.Vista funcional.md:20:porque
+content/01a3.Vista funcional.md:20:portafolio
 content/01a3.Vista funcional.md:20:presenta
+content/01a3.Vista funcional.md:20:requerimientos
+content/01a3.Vista funcional.md:20:servicios
+content/01a3.Vista funcional.md:20:Sirve
 content/01a3.Vista funcional.md:20:SOA
-content/01a3.Vista funcional.md:20:también
+content/01a3.Vista funcional.md:20:SOA
+content/01a3.Vista funcional.md:20:soportar
 content/01a3.Vista funcional.md:20:tecnología
+content/01a3.Vista funcional.md:20:vez
 content/01a3.Vista funcional.md:24:arquitectura
 content/01a3.Vista funcional.md:24:clave
 content/01a3.Vista funcional.md:24:colección
@@ -797,10 +817,10 @@ content/01.Fase1 PR1 SOA Actual.md:8:componen
 content/01.Fase1 PR1 SOA Actual.md:8:común
 content/01.Fase1 PR1 SOA Actual.md:8:común
 content/01.Fase1 PR1 SOA Actual.md:8:comunicar
-content/01.Fase1 PR1 SOA Actual.md:8:convierte
 content/01.Fase1 PR1 SOA Actual.md:8:decisiones
 content/01.Fase1 PR1 SOA Actual.md:8:decisiones
 content/01.Fase1 PR1 SOA Actual.md:8:efectiva
+content/01.Fase1 PR1 SOA Actual.md:8:el
 content/01.Fase1 PR1 SOA Actual.md:8:el
 content/01.Fase1 PR1 SOA Actual.md:8:entre
 content/01.Fase1 PR1 SOA Actual.md:8:espacio
