@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-16" />
   <meta name="citation_publication_date" content="2023-01-16" />
   <meta property="article:published_time" content="2023-01-16" />
-  <meta name="dc.modified" content="2023-01-16T21:13:26+00:00" />
-  <meta property="article:modified_time" content="2023-01-16T21:13:26+00:00" />
+  <meta name="dc.modified" content="2023-01-16T21:35:17+00:00" />
+  <meta property="article:modified_time" content="2023-01-16T21:35:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/a05e42119be1592655959fc93f6a4b6b8b953792/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/a05e42119be1592655959fc93f6a4b6b8b953792/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/a05e42119be1592655959fc93f6a4b6b8b953792/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/8fc2e8fb166151a6f29e2a36c3595d924bb02ee6/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/8fc2e8fb166151a6f29e2a36c3595d924bb02ee6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/8fc2e8fb166151a6f29e2a36c3595d924bb02ee6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -107,14 +107,14 @@ La arquitectura, organizada por vistas, es el medio de trabajo común entre nego
 
 *** 
 
-SHA a05e421
+SHA 8fc2e8f
 
 |Tema|Vista de Contexto: **Objetivos del Diagnóstico SOA y Productos, Áreas, y Procesos FNA Objeto del Diagnóstico**|
 |----|---------------------------------------------------------------------------|
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -198,7 +198,7 @@ Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)).
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -259,7 +259,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -301,7 +301,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -401,7 +401,7 @@ _Fuente: arquitectura fna.archimate_
 |Palabras clave|SOA, Áreas de Negocio, Procesos
 |Autor||
 |Fuente|Modelos de arquitectura FNA |
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -483,7 +483,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -731,7 +731,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -794,7 +794,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -904,7 +904,7 @@ _Fuente: InventarioAplicacionesFNA.xlsx_
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1194,7 +1194,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1441,7 +1441,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1591,7 +1591,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1839,7 +1839,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1884,7 +1884,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2020,7 +2020,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2084,7 +2084,7 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2163,7 +2163,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2210,7 +2210,7 @@ Es necesaria una mayor integración del área de Infraestructura con los reposit
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2259,7 +2259,7 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2316,7 +2316,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2356,7 +2356,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2396,7 +2396,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2445,7 +2445,7 @@ Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situaci
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2456,12 +2456,15 @@ Para mejorar las fortalezas SOA es necesario subsanar los problemas de acoplamie
 A continuación, un resumen de las problemática más imporatantes encontradas en el portafolio de servicios SOA de la empresa.
 
 1. Acoplamiento de las capacidades de negocio del FNA a Cobis. _Existen más de 96 relaciones_ entre las capacidades de negocio y las herramientas de software de Cobis (ver [N003e. Catálogo de Servicios FNA-1](N003e.CatálogodeServiciosFNA-1.md), y [N003e. Catálogo de Servicios FNA-2](N003e.CatálogodeServiciosFNA-2.md)). 
+
     * Todo acoplamiento, que en este caso es con el proveedor, produce rigidez. Esta  rigidez es causa de una problemática que afecta, en primer grado a la flexibilidad de negocio, y segundo, al tiempo de mercado.
 
 1. El grado de relación de dependencia de las aplicaciones proveedoras de servicios es alto y requiere de intervención y un gobierno que prevenga y controle su aumento. Esta situación tiene equivalencia en otra rama de la gestión: en la gestión de bases de datos  suce de que la proliferación de índices, que aumentan el desempeño de las operaciones de consulta, degrada el desempeño de las operaciones de modificación. El administrador de base de datos debe impedir que la creación de índices afecte al desempeño de la base. Similar situación ocurre en el portafolio SOA del Fondo. El aumento de la cantidad de relaciones entre los servicios del portafolio causa problemas, no tanto de degradación, sino de mantenimiento y rigidez al cambio. _Aplicaciones como Cobis Clientes y Cobis Cartera suman más de 60 relaciones con otros servicios_ (ver [N003e. Catálogo de Servicios FNA-2.md](N003e.CatálogodeServiciosFNA-2.md)). _En total, el grupo de aplicaciones de Cobis suma más de 100 relaciones a servicios SOA del portafolio del Fondo_. 
+
     * Esto implica que los esfuerzos de realizar cambios evolutivos, optimización, o de mantenimiento se acrecienten: un cambio en una aplicación con alto grado de dependencia requiere asegurar la calidad (QA) de las n-relaciones que esta tenga con los servicios del portafolio SOA. Lo mismo que termina efectando al tiempo de mercado. Ver anexo 1.
 
-1. Por último, y al contrario de la cantidad creciente de relaciones de los servicios por administrar (más de 100 relaciones de aplicaciones a servicios), _el nivel de relación de los servicios con los requerimientos de las vicepresidencias de Crédito y la vicepresidencia de Operaciones que evidencian los modelos del FNA es baja_ (ver [N003e. Catálogo de Servicios FNA-1a](N003e.CatálogodeServicios.md)). 
+1. Por último, y al contrario de la cantidad creciente de relaciones de los servicios por administrar (más de 100 relaciones de aplicaciones a servicios), _el nivel de relación de los servicios con los requerimientos de las vicepresidencias de Crédito y la vicepresidencia de Operaciones evidenciada en los modelos del FNA es baja_ (ver [N003e. Catálogo de Servicios FNA-1a](N003e.CatálogodeServicios.md)). 
+ 
     * La baja relación de los requerimientos con las áreas complica la gestión de las demanda y afecta a la eficacia del portafolio de servicios que empieza a llenarse de servicios de tipo intermediarios o servicios utilitarios, que terminan consumiento  mayores recursos que los servicios de negocio, que son los que responden a las áreas de negocio en sus términos.
 
 <br>
@@ -2485,7 +2488,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2608,7 +2611,7 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
+|Version|8fc2e8f del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2707,16 +2710,14 @@ Esta Norma Internacional contiene tres partes:
 
 |Tema|Diagnóstico SOA FNA: **Conclusiones Relevantes de Fase 1**|
 |----|---------------------------------------------------------------------------|
-|Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
+|Palabras clave|SOA, Conclusiones, Problemas, Objetivos
 |Autor||
 |Fuente||
-|Version|a05e421 del 16 Jan 2023|
-|Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
+|Version|8fc2e8f del 16 Jan 2023|
+|Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one), [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
 <br>
-
-
 
 ## 1. Alineación Mediante la Relación Capacidades-Servicios SOA
 Para conseguir la alineación definitiva de negocio del FNA, de las áreas seleccionadas por este ejercicio, y de los requerimientos funcionales y de mejora con los servicios SOA _es imperativo desarrollar el modelo de capacidades de negocio del FNA_. Desarrollar formalmente el modelo de capacidades, y profundizar en sus relaciones con las demás partes de la empresa, que incluye a los servicios SOA, hace posible el enfocar los esfuerzos, los análisis, asignar recursos y aplicar controles exclusivos en aquellas partes más cercanas a estas capacidades, y que por ende son las tienden a liberan el mayor valor e impacto positivo para el Fondo. Lo contrario a esto sería desarrollar todo basado en la percepción: desarrollar todo lo que sea percibido en su momento como importante, y después cambiar de objetivo cuando surja uno que tenga mejor percepción.
@@ -2773,7 +2774,15 @@ A continuación identificaremos los riesgos que ameritan reforzar el gobierno SO
 ### Riesgo de Inefectividad Tecnológica (versus beneficios SOA)
 Parte importante de la tecnología del Fondo está reflejada en sus aplicaciones y plataforma de software (ver imagen siguiente). Las aplicaciones de proveedor, entre los que se encuentran Transunion, Solusoft, Isolution, y por supuesto, el ERP Cobis, tienen la mayor presencia en el listado de tecnologías, seguido esta de los productos de grandes fabricantes como el bus de IBM, y las bases de datos de Oracle y Sybase.
 
-El Process Server, componente que tiene un nivel de utilización considerable en el FNA no aparece en este corte, dado que no es una aplicación. Aún así, a este componente le aplique de igual manera este riesgo señalado.
+![](images/catalogoaplicaciones.png)
+
+[Imagen. ]() Listado de tecnologías de software del FNA.
+
+_Fuente: catalogo de Aplicaciones URL.xlsx._
+
+<br>
+
+El Process Server, componente que tiene un nivel de utilización considerable en el FNA no aparece en este corte, dado que no es una aplicación. Aún así, a este componente le aplica de igual manera este riesgo señalado.
 
 ### Riesgo de Vigilancia de Soluciones SOA (versus beneficios SOA)
 Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situación Actual-1](ResultadoDiagnósticoSituaciónActual-1), que muestra que el enfoque predominante no es el descendente, si no que, _la implementación de los servicios del portafolio del FNA provienen más de las aplicaciones de los proveedores que desde las vicepresidencia de Crédito o de la de Operaciones_, existe el riesgo (y la oportinidad de reforzar el gobierno SOA) de que las soluciones no sean las que el equipo de arquitectura, TI, o el que haga las veces de gestor de las tecnologías en el Fondo, pueda reforzar la arquitectura de referencia SOA del Fondo.
@@ -2783,7 +2792,7 @@ Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situaci
 ## 6. Análisis de las Fortalezas SOA del FNA
 Para mejorar las fortalezas SOA es necesario subsanar los problemas de acoplamiento del proveedor Cobis a las capacidades de negocio del FNA, y mantener bajo control los grados de dependencia de los servicios SOA que evidenció la revisión del portafolio de servicios SOA del FNA. Pero también existen otras problemáticas de igual importancia.
 
-### Acoplamiento de las capacidades de negocio del FNA a Cobis.
+### Acoplamiento de las capacidades de negocio del FNA a Cobis
 _Existen más de 96 relaciones_ entre las capacidades de negocio y las herramientas de software de Cobis (ver [N003e. Catálogo de Servicios FNA-1](N003e.CatálogodeServiciosFNA-1.md), y [N003e. Catálogo de Servicios FNA-2](N003e.CatálogodeServiciosFNA-2.md)). 
 
     Todo acoplamiento, que en este caso es con el proveedor, produce rigidez. Esta  rigidez es causa de una problemática que afecta, en primer grado a la flexibilidad de negocio, y segundo, al tiempo de mercado.
@@ -2803,14 +2812,14 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 
 <br>
 
-### Débil Relación con Requerimientos de Negocio (VP de crédito y operaciones)
-Por último, y al contrario de la cantidad creciente de relaciones de los servicios por administrar (más de 100 relaciones de aplicaciones a servicios), _el nivel de relación de los servicios con los requerimientos de las vicepresidencias de Crédito y la vicepresidencia de Operaciones que evidencian los modelos del FNA es baja_ (ver [N003e. Catálogo de Servicios FNA-1a](N003e.CatálogodeServicios.md)). 
+### Débil Relación con requerimientos de negocio (VP de Crédito y Operaciones)
+Por último, y al contrario de la cantidad creciente de relaciones de los servicios por administrar (más de 100 relaciones de aplicaciones a servicios), _el nivel de relación de los servicios con los requerimientos de las vicepresidencias de Crédito y la vicepresidencia de Operaciones evidenciada en los modelos del FNA es baja_ (ver [N003e. Catálogo de Servicios FNA-1a](N003e.CatálogodeServicios.md)). 
 
     La baja relación de los requerimientos con las áreas complica la gestión de las demanda y afecta a la eficacia del portafolio de servicios que empieza a llenarse de servicios de tipo intermediarios o servicios utilitarios, que terminan consumiento  mayores recursos que los servicios de negocio, que son los que responden a las áreas de negocio en sus términos.
 
 <br>
 
-## 8. Desarrollo de la Arquitectura de referencia
+## 7. Desarrollo de la Arquitectura de referencia
 Los modelos del FNA carecen de información de los conectores entre las capacidades de negocio del FNA. Esto impacta la manera cómo una capacidad soporta a otra, a la vez que dificulta controlar las tecnologías y estándares involucradas en tales conexiones.
 
 No es evidenciable la relación de capacidades de negocio y los servicios SOA. Esto impacta a la gestión del portafolio de servicios, particularmente, el crecimiento de los tipos de servicios utilitarios a expensas de los de negocio y composición. 

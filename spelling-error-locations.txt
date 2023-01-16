@@ -8684,357 +8684,357 @@ content/20d. Resultado Diagnóstico Situación Actual-2.md:47:tecnologías
 content/20d. Resultado Diagnóstico Situación Actual-2.md:47:veces
 content/20d. Resultado Diagnóstico Situación Actual-2.md:47:ver
 content/20d. Resultado Diagnóstico Situación Actual-2.md:47:vicepresidencia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:Análisis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:Diagnóstico
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:Fortalezas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:Resultado
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:Situación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:1:Tema
-content/20e. Resultado Diagnóstico Situación Actual-3.md:3:clave
-content/20e. Resultado Diagnóstico Situación Actual-3.md:3:Palabras
-content/20e. Resultado Diagnóstico Situación Actual-3.md:3:Situación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:3:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:3:Tecnología
-content/20e. Resultado Diagnóstico Situación Actual-3.md:4:Autor
-content/20e. Resultado Diagnóstico Situación Actual-3.md:5:Fuente
-content/20e. Resultado Diagnóstico Situación Actual-3.md:7:Vínculos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:11:Análisis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:11:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:11:Fortalezas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:11:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:acoplamiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:bajo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:capacidades
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:Cobis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:dependencia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:evidenció
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:existen
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:fortalezas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:grados
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:igual
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:importancia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:mantener
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:mejorar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:necesario
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:negocio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:otras
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:Pero
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:problemas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:problemáticas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:proveedor
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:revisión
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:subsanar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:12:también
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:continuación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:empresa
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:encontradas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:imporatantes
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:más
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:problemática
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:resumen
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:14:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Acoplamiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:capacidades
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:capacidades
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Catálogo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Catálogo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Cobis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Cobis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:entre
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:herramientas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:más
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:negocio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:negocio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:Servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:16:ver
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:acoplamiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:afecta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:caso
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:causa
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:Esta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:este
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:flexibilidad
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:grado
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:negocio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:problemática
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:proveedor
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:rigidez
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:rigidez
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:tiempo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:Todo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:17:una
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:administrador
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:afecte
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:aplicaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:aplicaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:aumentan
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:aumento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:aumento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:cambio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:cantidad
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Cartera
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Catálogo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:causa
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Clientes
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Cobis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Cobis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Cobis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:consulta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:controle
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:creación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:datos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:datos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:debe
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:degrada
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:degradación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:dependencia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:desempeño
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:desempeño
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:desempeño
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:El
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:El
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:El
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:entre
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:equivalencia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Esta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Fondo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:gestión
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:gestión
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:gobierno
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:grado
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:grupo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:impedir
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:índices
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:índices
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:intervención
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:mantenimiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:más
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:más
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:modificación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:ocurre
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:operaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:operaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:otra
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:otros
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:prevenga
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:problemas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:proliferación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:proveedoras
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:relación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:requiere
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:rigidez
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:Servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:sino
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:situación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:situación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:su
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:suce
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:suma
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:suman
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:tanto
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:tiene
-content/20e. Resultado Diagnóstico Situación Actual-3.md:19:ver
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:acrecienten
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:anexo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:aplicación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:asegurar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:calidad
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:cambio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:cambios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:dependencia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:efectando
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:esfuerzos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:esta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:Esto
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:evolutivos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:grado
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:implica
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:mantenimiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:mismo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:optimización
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:realizar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:requiere
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:tenga
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:termina
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:tiempo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:una
-content/20e. Resultado Diagnóstico Situación Actual-3.md:20:Ver
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:administrar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:aplicaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:cantidad
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:Catálogo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:contrario
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:creciente
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:Crédito
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:evidencian
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:más
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:modelos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:nivel
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:Operaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:por
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:Por
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:relación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:requerimientos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:Servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:último
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:ver
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:vicepresidencia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:22:vicepresidencias
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:afecta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:áreas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:áreas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:áreas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:áreas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:baja
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:complica
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:consumiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:demanda
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:eficacia
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:empieza
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:gestión
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:intermediarios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:llenarse
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:mayores
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:negocio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:negocio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:recursos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:relación
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:requerimientos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:responden
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:sus
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:terminan
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:términos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:tipo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:23:utilitarios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:agrava
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:análisis
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:anteriores
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:anteriores
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:arquitectura
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:arquitectura
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:Asesoftw
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:causa
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:causan
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:complican
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:comunicar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:concepto
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:concepto
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:conceptos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:consultorías
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:desactualizaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:desactualizados
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:dificultad
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:difucultades
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:distintos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:el
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:Encontrar
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:ende
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:entender
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:entendimiento
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:entre
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:este
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:esté
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:esté
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:estos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:Fondo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:Heinsohn
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:información
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:manera
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:modelo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:modelos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:modelos
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:nombrado
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:otra
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:Otra
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:por
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:porque
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:presenta
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:problemática
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:quieren
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:realizan
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:redundancias
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:repetido
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:repositorio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:sobre
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:tipo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:todas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:todas
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:una
-content/20e. Resultado Diagnóstico Situación Actual-3.md:27:uno
-content/20e. Resultado Diagnóstico Situación Actual-3.md:31:Anexo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:31:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:31:Interdependencias
-content/20e. Resultado Diagnóstico Situación Actual-3.md:31:Portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:aplicaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:entre
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:Fondo
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:Relaciones
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:servicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:32:SOA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:36:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:36:Imagen
-content/20e. Resultado Diagnóstico Situación Actual-3.md:36:Interdependencias
-content/20e. Resultado Diagnóstico Situación Actual-3.md:36:Portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:38:FNA
-content/20e. Resultado Diagnóstico Situación Actual-3.md:38:Portafolio
-content/20e. Resultado Diagnóstico Situación Actual-3.md:38:Servvicios
-content/20e. Resultado Diagnóstico Situación Actual-3.md:38:Unificado
+content/20e. Analisis fortalezas SOA.md:1:Análisis
+content/20e. Analisis fortalezas SOA.md:1:Diagnóstico
+content/20e. Analisis fortalezas SOA.md:1:FNA
+content/20e. Analisis fortalezas SOA.md:1:FNA
+content/20e. Analisis fortalezas SOA.md:1:Fortalezas
+content/20e. Analisis fortalezas SOA.md:1:Resultado
+content/20e. Analisis fortalezas SOA.md:1:Situación
+content/20e. Analisis fortalezas SOA.md:1:SOA
+content/20e. Analisis fortalezas SOA.md:1:SOA
+content/20e. Analisis fortalezas SOA.md:1:Tema
+content/20e. Analisis fortalezas SOA.md:3:clave
+content/20e. Analisis fortalezas SOA.md:3:Palabras
+content/20e. Analisis fortalezas SOA.md:3:Situación
+content/20e. Analisis fortalezas SOA.md:3:SOA
+content/20e. Analisis fortalezas SOA.md:3:Tecnología
+content/20e. Analisis fortalezas SOA.md:4:Autor
+content/20e. Analisis fortalezas SOA.md:5:Fuente
+content/20e. Analisis fortalezas SOA.md:7:Vínculos
+content/20e. Analisis fortalezas SOA.md:11:Análisis
+content/20e. Analisis fortalezas SOA.md:11:FNA
+content/20e. Analisis fortalezas SOA.md:11:Fortalezas
+content/20e. Analisis fortalezas SOA.md:11:SOA
+content/20e. Analisis fortalezas SOA.md:12:acoplamiento
+content/20e. Analisis fortalezas SOA.md:12:bajo
+content/20e. Analisis fortalezas SOA.md:12:capacidades
+content/20e. Analisis fortalezas SOA.md:12:Cobis
+content/20e. Analisis fortalezas SOA.md:12:dependencia
+content/20e. Analisis fortalezas SOA.md:12:evidenció
+content/20e. Analisis fortalezas SOA.md:12:existen
+content/20e. Analisis fortalezas SOA.md:12:FNA
+content/20e. Analisis fortalezas SOA.md:12:FNA
+content/20e. Analisis fortalezas SOA.md:12:fortalezas
+content/20e. Analisis fortalezas SOA.md:12:grados
+content/20e. Analisis fortalezas SOA.md:12:igual
+content/20e. Analisis fortalezas SOA.md:12:importancia
+content/20e. Analisis fortalezas SOA.md:12:mantener
+content/20e. Analisis fortalezas SOA.md:12:mejorar
+content/20e. Analisis fortalezas SOA.md:12:necesario
+content/20e. Analisis fortalezas SOA.md:12:negocio
+content/20e. Analisis fortalezas SOA.md:12:otras
+content/20e. Analisis fortalezas SOA.md:12:Pero
+content/20e. Analisis fortalezas SOA.md:12:portafolio
+content/20e. Analisis fortalezas SOA.md:12:problemas
+content/20e. Analisis fortalezas SOA.md:12:problemáticas
+content/20e. Analisis fortalezas SOA.md:12:proveedor
+content/20e. Analisis fortalezas SOA.md:12:revisión
+content/20e. Analisis fortalezas SOA.md:12:servicios
+content/20e. Analisis fortalezas SOA.md:12:servicios
+content/20e. Analisis fortalezas SOA.md:12:SOA
+content/20e. Analisis fortalezas SOA.md:12:SOA
+content/20e. Analisis fortalezas SOA.md:12:SOA
+content/20e. Analisis fortalezas SOA.md:12:subsanar
+content/20e. Analisis fortalezas SOA.md:12:también
+content/20e. Analisis fortalezas SOA.md:14:continuación
+content/20e. Analisis fortalezas SOA.md:14:el
+content/20e. Analisis fortalezas SOA.md:14:empresa
+content/20e. Analisis fortalezas SOA.md:14:encontradas
+content/20e. Analisis fortalezas SOA.md:14:imporatantes
+content/20e. Analisis fortalezas SOA.md:14:más
+content/20e. Analisis fortalezas SOA.md:14:portafolio
+content/20e. Analisis fortalezas SOA.md:14:problemática
+content/20e. Analisis fortalezas SOA.md:14:resumen
+content/20e. Analisis fortalezas SOA.md:14:servicios
+content/20e. Analisis fortalezas SOA.md:14:SOA
+content/20e. Analisis fortalezas SOA.md:16:Acoplamiento
+content/20e. Analisis fortalezas SOA.md:16:capacidades
+content/20e. Analisis fortalezas SOA.md:16:capacidades
+content/20e. Analisis fortalezas SOA.md:16:Catálogo
+content/20e. Analisis fortalezas SOA.md:16:Catálogo
+content/20e. Analisis fortalezas SOA.md:16:Cobis
+content/20e. Analisis fortalezas SOA.md:16:Cobis
+content/20e. Analisis fortalezas SOA.md:16:entre
+content/20e. Analisis fortalezas SOA.md:16:FNA
+content/20e. Analisis fortalezas SOA.md:16:FNA
+content/20e. Analisis fortalezas SOA.md:16:FNA
+content/20e. Analisis fortalezas SOA.md:16:herramientas
+content/20e. Analisis fortalezas SOA.md:16:más
+content/20e. Analisis fortalezas SOA.md:16:negocio
+content/20e. Analisis fortalezas SOA.md:16:negocio
+content/20e. Analisis fortalezas SOA.md:16:Servicios
+content/20e. Analisis fortalezas SOA.md:16:Servicios
+content/20e. Analisis fortalezas SOA.md:16:ver
+content/20e. Analisis fortalezas SOA.md:18:acoplamiento
+content/20e. Analisis fortalezas SOA.md:18:afecta
+content/20e. Analisis fortalezas SOA.md:18:caso
+content/20e. Analisis fortalezas SOA.md:18:causa
+content/20e. Analisis fortalezas SOA.md:18:el
+content/20e. Analisis fortalezas SOA.md:18:Esta
+content/20e. Analisis fortalezas SOA.md:18:este
+content/20e. Analisis fortalezas SOA.md:18:flexibilidad
+content/20e. Analisis fortalezas SOA.md:18:grado
+content/20e. Analisis fortalezas SOA.md:18:negocio
+content/20e. Analisis fortalezas SOA.md:18:problemática
+content/20e. Analisis fortalezas SOA.md:18:proveedor
+content/20e. Analisis fortalezas SOA.md:18:rigidez
+content/20e. Analisis fortalezas SOA.md:18:rigidez
+content/20e. Analisis fortalezas SOA.md:18:tiempo
+content/20e. Analisis fortalezas SOA.md:18:Todo
+content/20e. Analisis fortalezas SOA.md:18:una
+content/20e. Analisis fortalezas SOA.md:20:administrador
+content/20e. Analisis fortalezas SOA.md:20:afecte
+content/20e. Analisis fortalezas SOA.md:20:aplicaciones
+content/20e. Analisis fortalezas SOA.md:20:aplicaciones
+content/20e. Analisis fortalezas SOA.md:20:aumentan
+content/20e. Analisis fortalezas SOA.md:20:aumento
+content/20e. Analisis fortalezas SOA.md:20:aumento
+content/20e. Analisis fortalezas SOA.md:20:cambio
+content/20e. Analisis fortalezas SOA.md:20:cantidad
+content/20e. Analisis fortalezas SOA.md:20:Cartera
+content/20e. Analisis fortalezas SOA.md:20:Catálogo
+content/20e. Analisis fortalezas SOA.md:20:causa
+content/20e. Analisis fortalezas SOA.md:20:Clientes
+content/20e. Analisis fortalezas SOA.md:20:Cobis
+content/20e. Analisis fortalezas SOA.md:20:Cobis
+content/20e. Analisis fortalezas SOA.md:20:Cobis
+content/20e. Analisis fortalezas SOA.md:20:consulta
+content/20e. Analisis fortalezas SOA.md:20:controle
+content/20e. Analisis fortalezas SOA.md:20:creación
+content/20e. Analisis fortalezas SOA.md:20:datos
+content/20e. Analisis fortalezas SOA.md:20:datos
+content/20e. Analisis fortalezas SOA.md:20:debe
+content/20e. Analisis fortalezas SOA.md:20:degrada
+content/20e. Analisis fortalezas SOA.md:20:degradación
+content/20e. Analisis fortalezas SOA.md:20:dependencia
+content/20e. Analisis fortalezas SOA.md:20:desempeño
+content/20e. Analisis fortalezas SOA.md:20:desempeño
+content/20e. Analisis fortalezas SOA.md:20:desempeño
+content/20e. Analisis fortalezas SOA.md:20:el
+content/20e. Analisis fortalezas SOA.md:20:el
+content/20e. Analisis fortalezas SOA.md:20:el
+content/20e. Analisis fortalezas SOA.md:20:el
+content/20e. Analisis fortalezas SOA.md:20:El
+content/20e. Analisis fortalezas SOA.md:20:El
+content/20e. Analisis fortalezas SOA.md:20:El
+content/20e. Analisis fortalezas SOA.md:20:entre
+content/20e. Analisis fortalezas SOA.md:20:equivalencia
+content/20e. Analisis fortalezas SOA.md:20:Esta
+content/20e. Analisis fortalezas SOA.md:20:FNA
+content/20e. Analisis fortalezas SOA.md:20:Fondo
+content/20e. Analisis fortalezas SOA.md:20:gestión
+content/20e. Analisis fortalezas SOA.md:20:gestión
+content/20e. Analisis fortalezas SOA.md:20:gobierno
+content/20e. Analisis fortalezas SOA.md:20:grado
+content/20e. Analisis fortalezas SOA.md:20:grupo
+content/20e. Analisis fortalezas SOA.md:20:impedir
+content/20e. Analisis fortalezas SOA.md:20:índices
+content/20e. Analisis fortalezas SOA.md:20:índices
+content/20e. Analisis fortalezas SOA.md:20:intervención
+content/20e. Analisis fortalezas SOA.md:20:mantenimiento
+content/20e. Analisis fortalezas SOA.md:20:más
+content/20e. Analisis fortalezas SOA.md:20:más
+content/20e. Analisis fortalezas SOA.md:20:modificación
+content/20e. Analisis fortalezas SOA.md:20:ocurre
+content/20e. Analisis fortalezas SOA.md:20:operaciones
+content/20e. Analisis fortalezas SOA.md:20:operaciones
+content/20e. Analisis fortalezas SOA.md:20:otra
+content/20e. Analisis fortalezas SOA.md:20:otros
+content/20e. Analisis fortalezas SOA.md:20:portafolio
+content/20e. Analisis fortalezas SOA.md:20:portafolio
+content/20e. Analisis fortalezas SOA.md:20:portafolio
+content/20e. Analisis fortalezas SOA.md:20:prevenga
+content/20e. Analisis fortalezas SOA.md:20:problemas
+content/20e. Analisis fortalezas SOA.md:20:proliferación
+content/20e. Analisis fortalezas SOA.md:20:proveedoras
+content/20e. Analisis fortalezas SOA.md:20:relación
+content/20e. Analisis fortalezas SOA.md:20:relaciones
+content/20e. Analisis fortalezas SOA.md:20:relaciones
+content/20e. Analisis fortalezas SOA.md:20:relaciones
+content/20e. Analisis fortalezas SOA.md:20:requiere
+content/20e. Analisis fortalezas SOA.md:20:rigidez
+content/20e. Analisis fortalezas SOA.md:20:servicios
+content/20e. Analisis fortalezas SOA.md:20:servicios
+content/20e. Analisis fortalezas SOA.md:20:servicios
+content/20e. Analisis fortalezas SOA.md:20:Servicios
+content/20e. Analisis fortalezas SOA.md:20:sino
+content/20e. Analisis fortalezas SOA.md:20:situación
+content/20e. Analisis fortalezas SOA.md:20:situación
+content/20e. Analisis fortalezas SOA.md:20:SOA
+content/20e. Analisis fortalezas SOA.md:20:SOA
+content/20e. Analisis fortalezas SOA.md:20:su
+content/20e. Analisis fortalezas SOA.md:20:suce
+content/20e. Analisis fortalezas SOA.md:20:suma
+content/20e. Analisis fortalezas SOA.md:20:suman
+content/20e. Analisis fortalezas SOA.md:20:tanto
+content/20e. Analisis fortalezas SOA.md:20:tiene
+content/20e. Analisis fortalezas SOA.md:20:ver
+content/20e. Analisis fortalezas SOA.md:22:acrecienten
+content/20e. Analisis fortalezas SOA.md:22:anexo
+content/20e. Analisis fortalezas SOA.md:22:aplicación
+content/20e. Analisis fortalezas SOA.md:22:asegurar
+content/20e. Analisis fortalezas SOA.md:22:calidad
+content/20e. Analisis fortalezas SOA.md:22:cambio
+content/20e. Analisis fortalezas SOA.md:22:cambios
+content/20e. Analisis fortalezas SOA.md:22:dependencia
+content/20e. Analisis fortalezas SOA.md:22:efectando
+content/20e. Analisis fortalezas SOA.md:22:esfuerzos
+content/20e. Analisis fortalezas SOA.md:22:esta
+content/20e. Analisis fortalezas SOA.md:22:Esto
+content/20e. Analisis fortalezas SOA.md:22:evolutivos
+content/20e. Analisis fortalezas SOA.md:22:grado
+content/20e. Analisis fortalezas SOA.md:22:implica
+content/20e. Analisis fortalezas SOA.md:22:mantenimiento
+content/20e. Analisis fortalezas SOA.md:22:mismo
+content/20e. Analisis fortalezas SOA.md:22:optimización
+content/20e. Analisis fortalezas SOA.md:22:portafolio
+content/20e. Analisis fortalezas SOA.md:22:realizar
+content/20e. Analisis fortalezas SOA.md:22:relaciones
+content/20e. Analisis fortalezas SOA.md:22:requiere
+content/20e. Analisis fortalezas SOA.md:22:servicios
+content/20e. Analisis fortalezas SOA.md:22:SOA
+content/20e. Analisis fortalezas SOA.md:22:tenga
+content/20e. Analisis fortalezas SOA.md:22:termina
+content/20e. Analisis fortalezas SOA.md:22:tiempo
+content/20e. Analisis fortalezas SOA.md:22:una
+content/20e. Analisis fortalezas SOA.md:22:Ver
+content/20e. Analisis fortalezas SOA.md:24:administrar
+content/20e. Analisis fortalezas SOA.md:24:aplicaciones
+content/20e. Analisis fortalezas SOA.md:24:cantidad
+content/20e. Analisis fortalezas SOA.md:24:Catálogo
+content/20e. Analisis fortalezas SOA.md:24:contrario
+content/20e. Analisis fortalezas SOA.md:24:creciente
+content/20e. Analisis fortalezas SOA.md:24:Crédito
+content/20e. Analisis fortalezas SOA.md:24:evidenciada
+content/20e. Analisis fortalezas SOA.md:24:FNA
+content/20e. Analisis fortalezas SOA.md:24:FNA
+content/20e. Analisis fortalezas SOA.md:24:más
+content/20e. Analisis fortalezas SOA.md:24:modelos
+content/20e. Analisis fortalezas SOA.md:24:nivel
+content/20e. Analisis fortalezas SOA.md:24:Operaciones
+content/20e. Analisis fortalezas SOA.md:24:por
+content/20e. Analisis fortalezas SOA.md:24:Por
+content/20e. Analisis fortalezas SOA.md:24:relación
+content/20e. Analisis fortalezas SOA.md:24:relaciones
+content/20e. Analisis fortalezas SOA.md:24:relaciones
+content/20e. Analisis fortalezas SOA.md:24:requerimientos
+content/20e. Analisis fortalezas SOA.md:24:servicios
+content/20e. Analisis fortalezas SOA.md:24:servicios
+content/20e. Analisis fortalezas SOA.md:24:servicios
+content/20e. Analisis fortalezas SOA.md:24:Servicios
+content/20e. Analisis fortalezas SOA.md:24:último
+content/20e. Analisis fortalezas SOA.md:24:ver
+content/20e. Analisis fortalezas SOA.md:24:vicepresidencia
+content/20e. Analisis fortalezas SOA.md:24:vicepresidencias
+content/20e. Analisis fortalezas SOA.md:26:afecta
+content/20e. Analisis fortalezas SOA.md:26:áreas
+content/20e. Analisis fortalezas SOA.md:26:áreas
+content/20e. Analisis fortalezas SOA.md:26:áreas
+content/20e. Analisis fortalezas SOA.md:26:áreas
+content/20e. Analisis fortalezas SOA.md:26:baja
+content/20e. Analisis fortalezas SOA.md:26:complica
+content/20e. Analisis fortalezas SOA.md:26:consumiento
+content/20e. Analisis fortalezas SOA.md:26:demanda
+content/20e. Analisis fortalezas SOA.md:26:eficacia
+content/20e. Analisis fortalezas SOA.md:26:empieza
+content/20e. Analisis fortalezas SOA.md:26:gestión
+content/20e. Analisis fortalezas SOA.md:26:intermediarios
+content/20e. Analisis fortalezas SOA.md:26:llenarse
+content/20e. Analisis fortalezas SOA.md:26:mayores
+content/20e. Analisis fortalezas SOA.md:26:negocio
+content/20e. Analisis fortalezas SOA.md:26:negocio
+content/20e. Analisis fortalezas SOA.md:26:portafolio
+content/20e. Analisis fortalezas SOA.md:26:recursos
+content/20e. Analisis fortalezas SOA.md:26:relación
+content/20e. Analisis fortalezas SOA.md:26:requerimientos
+content/20e. Analisis fortalezas SOA.md:26:responden
+content/20e. Analisis fortalezas SOA.md:26:servicios
+content/20e. Analisis fortalezas SOA.md:26:servicios
+content/20e. Analisis fortalezas SOA.md:26:servicios
+content/20e. Analisis fortalezas SOA.md:26:servicios
+content/20e. Analisis fortalezas SOA.md:26:sus
+content/20e. Analisis fortalezas SOA.md:26:terminan
+content/20e. Analisis fortalezas SOA.md:26:términos
+content/20e. Analisis fortalezas SOA.md:26:tipo
+content/20e. Analisis fortalezas SOA.md:26:utilitarios
+content/20e. Analisis fortalezas SOA.md:30:agrava
+content/20e. Analisis fortalezas SOA.md:30:análisis
+content/20e. Analisis fortalezas SOA.md:30:anteriores
+content/20e. Analisis fortalezas SOA.md:30:anteriores
+content/20e. Analisis fortalezas SOA.md:30:arquitectura
+content/20e. Analisis fortalezas SOA.md:30:arquitectura
+content/20e. Analisis fortalezas SOA.md:30:Asesoftw
+content/20e. Analisis fortalezas SOA.md:30:causa
+content/20e. Analisis fortalezas SOA.md:30:causan
+content/20e. Analisis fortalezas SOA.md:30:complican
+content/20e. Analisis fortalezas SOA.md:30:comunicar
+content/20e. Analisis fortalezas SOA.md:30:concepto
+content/20e. Analisis fortalezas SOA.md:30:concepto
+content/20e. Analisis fortalezas SOA.md:30:conceptos
+content/20e. Analisis fortalezas SOA.md:30:consultorías
+content/20e. Analisis fortalezas SOA.md:30:desactualizaciones
+content/20e. Analisis fortalezas SOA.md:30:desactualizados
+content/20e. Analisis fortalezas SOA.md:30:dificultad
+content/20e. Analisis fortalezas SOA.md:30:difucultades
+content/20e. Analisis fortalezas SOA.md:30:distintos
+content/20e. Analisis fortalezas SOA.md:30:el
+content/20e. Analisis fortalezas SOA.md:30:Encontrar
+content/20e. Analisis fortalezas SOA.md:30:ende
+content/20e. Analisis fortalezas SOA.md:30:entender
+content/20e. Analisis fortalezas SOA.md:30:entendimiento
+content/20e. Analisis fortalezas SOA.md:30:entre
+content/20e. Analisis fortalezas SOA.md:30:este
+content/20e. Analisis fortalezas SOA.md:30:esté
+content/20e. Analisis fortalezas SOA.md:30:esté
+content/20e. Analisis fortalezas SOA.md:30:estos
+content/20e. Analisis fortalezas SOA.md:30:FNA
+content/20e. Analisis fortalezas SOA.md:30:Fondo
+content/20e. Analisis fortalezas SOA.md:30:Heinsohn
+content/20e. Analisis fortalezas SOA.md:30:información
+content/20e. Analisis fortalezas SOA.md:30:manera
+content/20e. Analisis fortalezas SOA.md:30:modelo
+content/20e. Analisis fortalezas SOA.md:30:modelos
+content/20e. Analisis fortalezas SOA.md:30:modelos
+content/20e. Analisis fortalezas SOA.md:30:nombrado
+content/20e. Analisis fortalezas SOA.md:30:otra
+content/20e. Analisis fortalezas SOA.md:30:Otra
+content/20e. Analisis fortalezas SOA.md:30:por
+content/20e. Analisis fortalezas SOA.md:30:porque
+content/20e. Analisis fortalezas SOA.md:30:presenta
+content/20e. Analisis fortalezas SOA.md:30:problemática
+content/20e. Analisis fortalezas SOA.md:30:quieren
+content/20e. Analisis fortalezas SOA.md:30:realizan
+content/20e. Analisis fortalezas SOA.md:30:redundancias
+content/20e. Analisis fortalezas SOA.md:30:repetido
+content/20e. Analisis fortalezas SOA.md:30:repositorio
+content/20e. Analisis fortalezas SOA.md:30:sobre
+content/20e. Analisis fortalezas SOA.md:30:tipo
+content/20e. Analisis fortalezas SOA.md:30:todas
+content/20e. Analisis fortalezas SOA.md:30:todas
+content/20e. Analisis fortalezas SOA.md:30:una
+content/20e. Analisis fortalezas SOA.md:30:uno
+content/20e. Analisis fortalezas SOA.md:34:Anexo
+content/20e. Analisis fortalezas SOA.md:34:FNA
+content/20e. Analisis fortalezas SOA.md:34:Interdependencias
+content/20e. Analisis fortalezas SOA.md:34:Portafolio
+content/20e. Analisis fortalezas SOA.md:35:aplicaciones
+content/20e. Analisis fortalezas SOA.md:35:entre
+content/20e. Analisis fortalezas SOA.md:35:Fondo
+content/20e. Analisis fortalezas SOA.md:35:portafolio
+content/20e. Analisis fortalezas SOA.md:35:relaciones
+content/20e. Analisis fortalezas SOA.md:35:Relaciones
+content/20e. Analisis fortalezas SOA.md:35:servicios
+content/20e. Analisis fortalezas SOA.md:35:servicios
+content/20e. Analisis fortalezas SOA.md:35:SOA
+content/20e. Analisis fortalezas SOA.md:39:FNA
+content/20e. Analisis fortalezas SOA.md:39:Imagen
+content/20e. Analisis fortalezas SOA.md:39:Interdependencias
+content/20e. Analisis fortalezas SOA.md:39:Portafolio
+content/20e. Analisis fortalezas SOA.md:41:FNA
+content/20e. Analisis fortalezas SOA.md:41:Portafolio
+content/20e. Analisis fortalezas SOA.md:41:Servvicios
+content/20e. Analisis fortalezas SOA.md:41:Unificado
 content/20e. Resultado Diagnóstico Situación Actual-4.md:1:Beneficios
 content/20e. Resultado Diagnóstico Situación Actual-4.md:1:Diagnóstico
 content/20e. Resultado Diagnóstico Situación Actual-4.md:1:FNA
@@ -10215,13 +10215,11 @@ content/28. Resumen Fase 1.md:1:FNA
 content/28. Resumen Fase 1.md:1:Relevantes
 content/28. Resumen Fase 1.md:1:SOA
 content/28. Resumen Fase 1.md:1:Tema
-content/28. Resumen Fase 1.md:3:Áreas
-content/28. Resumen Fase 1.md:3:Áreas
 content/28. Resumen Fase 1.md:3:clave
-content/28. Resumen Fase 1.md:3:Contexto
+content/28. Resumen Fase 1.md:3:Conclusiones
 content/28. Resumen Fase 1.md:3:Objetivos
 content/28. Resumen Fase 1.md:3:Palabras
-content/28. Resumen Fase 1.md:3:Procesos
+content/28. Resumen Fase 1.md:3:Problemas
 content/28. Resumen Fase 1.md:3:SOA
 content/28. Resumen Fase 1.md:4:Autor
 content/28. Resumen Fase 1.md:5:Fuente
@@ -10236,768 +10234,775 @@ content/28. Resumen Fase 1.md:7:Trabajo
 content/28. Resumen Fase 1.md:7:Trabajo
 content/28. Resumen Fase 1.md:7:Trabajo
 content/28. Resumen Fase 1.md:7:Vínculos
-content/28. Resumen Fase 1.md:14:Alineación
-content/28. Resumen Fase 1.md:14:Capacidades
-content/28. Resumen Fase 1.md:14:Mediante
-content/28. Resumen Fase 1.md:14:Relación
-content/28. Resumen Fase 1.md:14:Servicios
-content/28. Resumen Fase 1.md:14:SOA
-content/28. Resumen Fase 1.md:15:alineación
-content/28. Resumen Fase 1.md:15:análisis
-content/28. Resumen Fase 1.md:15:aplicar
-content/28. Resumen Fase 1.md:15:aquellas
-content/28. Resumen Fase 1.md:15:áreas
-content/28. Resumen Fase 1.md:15:áreas
-content/28. Resumen Fase 1.md:15:asignar
-content/28. Resumen Fase 1.md:15:basado
-content/28. Resumen Fase 1.md:15:cambiar
-content/28. Resumen Fase 1.md:15:capacidades
-content/28. Resumen Fase 1.md:15:capacidades
-content/28. Resumen Fase 1.md:15:capacidades
-content/28. Resumen Fase 1.md:15:cercanas
-content/28. Resumen Fase 1.md:15:conseguir
-content/28. Resumen Fase 1.md:15:contrario
-content/28. Resumen Fase 1.md:15:controles
-content/28. Resumen Fase 1.md:15:cuando
-content/28. Resumen Fase 1.md:15:definitiva
-content/28. Resumen Fase 1.md:15:demás
-content/28. Resumen Fase 1.md:15:desarrollar
-content/28. Resumen Fase 1.md:15:desarrollar
-content/28. Resumen Fase 1.md:15:desarrollar
-content/28. Resumen Fase 1.md:15:Desarrollar
-content/28. Resumen Fase 1.md:15:después
-content/28. Resumen Fase 1.md:15:ejercicio
-content/28. Resumen Fase 1.md:15:el
-content/28. Resumen Fase 1.md:15:el
-content/28. Resumen Fase 1.md:15:el
-content/28. Resumen Fase 1.md:15:el
-content/28. Resumen Fase 1.md:15:el
-content/28. Resumen Fase 1.md:15:empresa
-content/28. Resumen Fase 1.md:15:ende
-content/28. Resumen Fase 1.md:15:enfocar
-content/28. Resumen Fase 1.md:15:esfuerzos
-content/28. Resumen Fase 1.md:15:estas
-content/28. Resumen Fase 1.md:15:este
-content/28. Resumen Fase 1.md:15:esto
-content/28. Resumen Fase 1.md:15:exclusivos
-content/28. Resumen Fase 1.md:15:FNA
-content/28. Resumen Fase 1.md:15:Fondo
-content/28. Resumen Fase 1.md:15:formalmente
-content/28. Resumen Fase 1.md:15:funcionales
-content/28. Resumen Fase 1.md:15:hace
-content/28. Resumen Fase 1.md:15:impacto
-content/28. Resumen Fase 1.md:15:imperativo
-content/28. Resumen Fase 1.md:15:importante
-content/28. Resumen Fase 1.md:15:incluye
-content/28. Resumen Fase 1.md:15:liberan
-content/28. Resumen Fase 1.md:15:más
-content/28. Resumen Fase 1.md:15:mejor
-content/28. Resumen Fase 1.md:15:mejora
-content/28. Resumen Fase 1.md:15:modelo
-content/28. Resumen Fase 1.md:15:modelo
-content/28. Resumen Fase 1.md:15:momento
-content/28. Resumen Fase 1.md:15:negocio
-content/28. Resumen Fase 1.md:15:negocio
-content/28. Resumen Fase 1.md:15:objetivo
-content/28. Resumen Fase 1.md:15:partes
-content/28. Resumen Fase 1.md:15:partes
-content/28. Resumen Fase 1.md:15:percepción
-content/28. Resumen Fase 1.md:15:percepción
-content/28. Resumen Fase 1.md:15:percibido
-content/28. Resumen Fase 1.md:15:por
-content/28. Resumen Fase 1.md:15:por
-content/28. Resumen Fase 1.md:15:posible
-content/28. Resumen Fase 1.md:15:positivo
-content/28. Resumen Fase 1.md:15:profundizar
-content/28. Resumen Fase 1.md:15:recursos
-content/28. Resumen Fase 1.md:15:relaciones
-content/28. Resumen Fase 1.md:15:requerimientos
-content/28. Resumen Fase 1.md:15:seleccionadas
-content/28. Resumen Fase 1.md:15:sería
-content/28. Resumen Fase 1.md:15:servicios
-content/28. Resumen Fase 1.md:15:servicios
-content/28. Resumen Fase 1.md:15:SOA
-content/28. Resumen Fase 1.md:15:SOA
-content/28. Resumen Fase 1.md:15:su
-content/28. Resumen Fase 1.md:15:surja
-content/28. Resumen Fase 1.md:15:sus
-content/28. Resumen Fase 1.md:15:tenga
-content/28. Resumen Fase 1.md:15:tienden
-content/28. Resumen Fase 1.md:15:todo
-content/28. Resumen Fase 1.md:15:todo
-content/28. Resumen Fase 1.md:15:uno
-content/28. Resumen Fase 1.md:18:conclusiones
-content/28. Resumen Fase 1.md:20:capacidades
-content/28. Resumen Fase 1.md:20:capacidades
-content/28. Resumen Fase 1.md:20:Desarrollo
-content/28. Resumen Fase 1.md:20:entre
-content/28. Resumen Fase 1.md:20:Existen
-content/28. Resumen Fase 1.md:20:FNA
-content/28. Resumen Fase 1.md:20:Fondo
-content/28. Resumen Fase 1.md:20:Imagen
-content/28. Resumen Fase 1.md:20:negocio
-content/28. Resumen Fase 1.md:20:pocas
-content/28. Resumen Fase 1.md:20:profundización
-content/28. Resumen Fase 1.md:20:propuestas
-content/28. Resumen Fase 1.md:20:relaciones
-content/28. Resumen Fase 1.md:20:servicios
-content/28. Resumen Fase 1.md:20:SOA
-content/28. Resumen Fase 1.md:24:Alineación
-content/28. Resumen Fase 1.md:24:Clasificación
-content/28. Resumen Fase 1.md:24:FNA
-content/28. Resumen Fase 1.md:24:Mediante
-content/28. Resumen Fase 1.md:24:Portafolio
-content/28. Resumen Fase 1.md:24:Servicios
-content/28. Resumen Fase 1.md:24:SOA
-content/28. Resumen Fase 1.md:25:alineación
-content/28. Resumen Fase 1.md:25:Crédito
-content/28. Resumen Fase 1.md:25:distribución
-content/28. Resumen Fase 1.md:25:el
-content/28. Resumen Fase 1.md:25:El
-content/28. Resumen Fase 1.md:25:encuentra
-content/28. Resumen Fase 1.md:25:esta
-content/28. Resumen Fase 1.md:25:están
-content/28. Resumen Fase 1.md:25:este
-content/28. Resumen Fase 1.md:25:Esto
-content/28. Resumen Fase 1.md:25:Fondo
-content/28. Resumen Fase 1.md:25:grado
-content/28. Resumen Fase 1.md:25:hacia
-content/28. Resumen Fase 1.md:25:inclinada
-content/28. Resumen Fase 1.md:25:indicio
-content/28. Resumen Fase 1.md:25:mano
-content/28. Resumen Fase 1.md:25:necesidades
-content/28. Resumen Fase 1.md:25:negocio
-content/28. Resumen Fase 1.md:25:negocio
-content/28. Resumen Fase 1.md:25:negocio
-content/28. Resumen Fase 1.md:25:Operaciones
-content/28. Resumen Fase 1.md:25:otro
-content/28. Resumen Fase 1.md:25:por
-content/28. Resumen Fase 1.md:25:portafolio
-content/28. Resumen Fase 1.md:25:portafolio
-content/28. Resumen Fase 1.md:25:proceso
-content/28. Resumen Fase 1.md:25:puede
-content/28. Resumen Fase 1.md:25:satisfechas
-content/28. Resumen Fase 1.md:25:servicios
-content/28. Resumen Fase 1.md:25:servicios
-content/28. Resumen Fase 1.md:25:servicios
-content/28. Resumen Fase 1.md:25:servicios
-content/28. Resumen Fase 1.md:25:servicios
-content/28. Resumen Fase 1.md:25:siendo
-content/28. Resumen Fase 1.md:25:significar
-content/28. Resumen Fase 1.md:25:SOA
-content/28. Resumen Fase 1.md:25:sobresale
-content/28. Resumen Fase 1.md:25:tipo
-content/28. Resumen Fase 1.md:25:vez
-content/28. Resumen Fase 1.md:25:vicepresidencias
-content/28. Resumen Fase 1.md:25:viene
-content/28. Resumen Fase 1.md:29:Cantidad
+content/28. Resumen Fase 1.md:12:Alineación
+content/28. Resumen Fase 1.md:12:Capacidades
+content/28. Resumen Fase 1.md:12:Mediante
+content/28. Resumen Fase 1.md:12:Relación
+content/28. Resumen Fase 1.md:12:Servicios
+content/28. Resumen Fase 1.md:12:SOA
+content/28. Resumen Fase 1.md:13:alineación
+content/28. Resumen Fase 1.md:13:análisis
+content/28. Resumen Fase 1.md:13:aplicar
+content/28. Resumen Fase 1.md:13:aquellas
+content/28. Resumen Fase 1.md:13:áreas
+content/28. Resumen Fase 1.md:13:áreas
+content/28. Resumen Fase 1.md:13:asignar
+content/28. Resumen Fase 1.md:13:basado
+content/28. Resumen Fase 1.md:13:cambiar
+content/28. Resumen Fase 1.md:13:capacidades
+content/28. Resumen Fase 1.md:13:capacidades
+content/28. Resumen Fase 1.md:13:capacidades
+content/28. Resumen Fase 1.md:13:cercanas
+content/28. Resumen Fase 1.md:13:conseguir
+content/28. Resumen Fase 1.md:13:contrario
+content/28. Resumen Fase 1.md:13:controles
+content/28. Resumen Fase 1.md:13:cuando
+content/28. Resumen Fase 1.md:13:definitiva
+content/28. Resumen Fase 1.md:13:demás
+content/28. Resumen Fase 1.md:13:desarrollar
+content/28. Resumen Fase 1.md:13:desarrollar
+content/28. Resumen Fase 1.md:13:desarrollar
+content/28. Resumen Fase 1.md:13:Desarrollar
+content/28. Resumen Fase 1.md:13:después
+content/28. Resumen Fase 1.md:13:ejercicio
+content/28. Resumen Fase 1.md:13:el
+content/28. Resumen Fase 1.md:13:el
+content/28. Resumen Fase 1.md:13:el
+content/28. Resumen Fase 1.md:13:el
+content/28. Resumen Fase 1.md:13:el
+content/28. Resumen Fase 1.md:13:empresa
+content/28. Resumen Fase 1.md:13:ende
+content/28. Resumen Fase 1.md:13:enfocar
+content/28. Resumen Fase 1.md:13:esfuerzos
+content/28. Resumen Fase 1.md:13:estas
+content/28. Resumen Fase 1.md:13:este
+content/28. Resumen Fase 1.md:13:esto
+content/28. Resumen Fase 1.md:13:exclusivos
+content/28. Resumen Fase 1.md:13:FNA
+content/28. Resumen Fase 1.md:13:Fondo
+content/28. Resumen Fase 1.md:13:formalmente
+content/28. Resumen Fase 1.md:13:funcionales
+content/28. Resumen Fase 1.md:13:hace
+content/28. Resumen Fase 1.md:13:impacto
+content/28. Resumen Fase 1.md:13:imperativo
+content/28. Resumen Fase 1.md:13:importante
+content/28. Resumen Fase 1.md:13:incluye
+content/28. Resumen Fase 1.md:13:liberan
+content/28. Resumen Fase 1.md:13:más
+content/28. Resumen Fase 1.md:13:mejor
+content/28. Resumen Fase 1.md:13:mejora
+content/28. Resumen Fase 1.md:13:modelo
+content/28. Resumen Fase 1.md:13:modelo
+content/28. Resumen Fase 1.md:13:momento
+content/28. Resumen Fase 1.md:13:negocio
+content/28. Resumen Fase 1.md:13:negocio
+content/28. Resumen Fase 1.md:13:objetivo
+content/28. Resumen Fase 1.md:13:partes
+content/28. Resumen Fase 1.md:13:partes
+content/28. Resumen Fase 1.md:13:percepción
+content/28. Resumen Fase 1.md:13:percepción
+content/28. Resumen Fase 1.md:13:percibido
+content/28. Resumen Fase 1.md:13:por
+content/28. Resumen Fase 1.md:13:por
+content/28. Resumen Fase 1.md:13:posible
+content/28. Resumen Fase 1.md:13:positivo
+content/28. Resumen Fase 1.md:13:profundizar
+content/28. Resumen Fase 1.md:13:recursos
+content/28. Resumen Fase 1.md:13:relaciones
+content/28. Resumen Fase 1.md:13:requerimientos
+content/28. Resumen Fase 1.md:13:seleccionadas
+content/28. Resumen Fase 1.md:13:sería
+content/28. Resumen Fase 1.md:13:servicios
+content/28. Resumen Fase 1.md:13:servicios
+content/28. Resumen Fase 1.md:13:SOA
+content/28. Resumen Fase 1.md:13:SOA
+content/28. Resumen Fase 1.md:13:su
+content/28. Resumen Fase 1.md:13:surja
+content/28. Resumen Fase 1.md:13:sus
+content/28. Resumen Fase 1.md:13:tenga
+content/28. Resumen Fase 1.md:13:tienden
+content/28. Resumen Fase 1.md:13:todo
+content/28. Resumen Fase 1.md:13:todo
+content/28. Resumen Fase 1.md:13:uno
+content/28. Resumen Fase 1.md:16:conclusiones
+content/28. Resumen Fase 1.md:18:capacidades
+content/28. Resumen Fase 1.md:18:capacidades
+content/28. Resumen Fase 1.md:18:Desarrollo
+content/28. Resumen Fase 1.md:18:entre
+content/28. Resumen Fase 1.md:18:Existen
+content/28. Resumen Fase 1.md:18:FNA
+content/28. Resumen Fase 1.md:18:Fondo
+content/28. Resumen Fase 1.md:18:Imagen
+content/28. Resumen Fase 1.md:18:negocio
+content/28. Resumen Fase 1.md:18:pocas
+content/28. Resumen Fase 1.md:18:profundización
+content/28. Resumen Fase 1.md:18:propuestas
+content/28. Resumen Fase 1.md:18:relaciones
+content/28. Resumen Fase 1.md:18:servicios
+content/28. Resumen Fase 1.md:18:SOA
+content/28. Resumen Fase 1.md:22:Alineación
+content/28. Resumen Fase 1.md:22:Clasificación
+content/28. Resumen Fase 1.md:22:FNA
+content/28. Resumen Fase 1.md:22:Mediante
+content/28. Resumen Fase 1.md:22:Portafolio
+content/28. Resumen Fase 1.md:22:Servicios
+content/28. Resumen Fase 1.md:22:SOA
+content/28. Resumen Fase 1.md:23:alineación
+content/28. Resumen Fase 1.md:23:Crédito
+content/28. Resumen Fase 1.md:23:distribución
+content/28. Resumen Fase 1.md:23:el
+content/28. Resumen Fase 1.md:23:El
+content/28. Resumen Fase 1.md:23:encuentra
+content/28. Resumen Fase 1.md:23:esta
+content/28. Resumen Fase 1.md:23:están
+content/28. Resumen Fase 1.md:23:este
+content/28. Resumen Fase 1.md:23:Esto
+content/28. Resumen Fase 1.md:23:Fondo
+content/28. Resumen Fase 1.md:23:grado
+content/28. Resumen Fase 1.md:23:hacia
+content/28. Resumen Fase 1.md:23:inclinada
+content/28. Resumen Fase 1.md:23:indicio
+content/28. Resumen Fase 1.md:23:mano
+content/28. Resumen Fase 1.md:23:necesidades
+content/28. Resumen Fase 1.md:23:negocio
+content/28. Resumen Fase 1.md:23:negocio
+content/28. Resumen Fase 1.md:23:negocio
+content/28. Resumen Fase 1.md:23:Operaciones
+content/28. Resumen Fase 1.md:23:otro
+content/28. Resumen Fase 1.md:23:por
+content/28. Resumen Fase 1.md:23:portafolio
+content/28. Resumen Fase 1.md:23:portafolio
+content/28. Resumen Fase 1.md:23:proceso
+content/28. Resumen Fase 1.md:23:puede
+content/28. Resumen Fase 1.md:23:satisfechas
+content/28. Resumen Fase 1.md:23:servicios
+content/28. Resumen Fase 1.md:23:servicios
+content/28. Resumen Fase 1.md:23:servicios
+content/28. Resumen Fase 1.md:23:servicios
+content/28. Resumen Fase 1.md:23:servicios
+content/28. Resumen Fase 1.md:23:siendo
+content/28. Resumen Fase 1.md:23:significar
+content/28. Resumen Fase 1.md:23:SOA
+content/28. Resumen Fase 1.md:23:sobresale
+content/28. Resumen Fase 1.md:23:tipo
+content/28. Resumen Fase 1.md:23:vez
+content/28. Resumen Fase 1.md:23:vicepresidencias
+content/28. Resumen Fase 1.md:23:viene
+content/28. Resumen Fase 1.md:27:Cantidad
+content/28. Resumen Fase 1.md:27:Servicio
+content/28. Resumen Fase 1.md:27:Tipo
+content/28. Resumen Fase 1.md:28:Información
+content/28. Resumen Fase 1.md:28:Servicio
+content/28. Resumen Fase 1.md:29:Proceso
 content/28. Resumen Fase 1.md:29:Servicio
-content/28. Resumen Fase 1.md:29:Tipo
-content/28. Resumen Fase 1.md:30:Información
+content/28. Resumen Fase 1.md:30:Negocio
 content/28. Resumen Fase 1.md:30:Servicio
-content/28. Resumen Fase 1.md:31:Proceso
-content/28. Resumen Fase 1.md:31:Servicio
-content/28. Resumen Fase 1.md:32:Negocio
-content/28. Resumen Fase 1.md:32:Servicio
-content/28. Resumen Fase 1.md:35:Catalogación
-content/28. Resumen Fase 1.md:35:FNA
-content/28. Resumen Fase 1.md:35:servicios
-content/28. Resumen Fase 1.md:35:SOA
-content/28. Resumen Fase 1.md:35:tipos
-content/28. Resumen Fase 1.md:39:Análisis
-content/28. Resumen Fase 1.md:39:Dependencia
-content/28. Resumen Fase 1.md:39:FNA
-content/28. Resumen Fase 1.md:39:Huella
-content/28. Resumen Fase 1.md:39:SOA
-content/28. Resumen Fase 1.md:39:Tecnologica
-content/28. Resumen Fase 1.md:40:afines
-content/28. Resumen Fase 1.md:40:ámbitos
+content/28. Resumen Fase 1.md:33:Catalogación
+content/28. Resumen Fase 1.md:33:FNA
+content/28. Resumen Fase 1.md:33:servicios
+content/28. Resumen Fase 1.md:33:SOA
+content/28. Resumen Fase 1.md:33:tipos
+content/28. Resumen Fase 1.md:37:Análisis
+content/28. Resumen Fase 1.md:37:Dependencia
+content/28. Resumen Fase 1.md:37:FNA
+content/28. Resumen Fase 1.md:37:Huella
+content/28. Resumen Fase 1.md:37:SOA
+content/28. Resumen Fase 1.md:37:Tecnologica
+content/28. Resumen Fase 1.md:38:afines
+content/28. Resumen Fase 1.md:38:ámbitos
+content/28. Resumen Fase 1.md:38:arquitectura
+content/28. Resumen Fase 1.md:38:Cobis
+content/28. Resumen Fase 1.md:38:dependencia
+content/28. Resumen Fase 1.md:38:El
+content/28. Resumen Fase 1.md:38:empresa
+content/28. Resumen Fase 1.md:38:ERP
+content/28. Resumen Fase 1.md:38:ERP
+content/28. Resumen Fase 1.md:38:este
+content/28. Resumen Fase 1.md:38:extienden
+content/28. Resumen Fase 1.md:38:favorecen
+content/28. Resumen Fase 1.md:38:flexibilidad
+content/28. Resumen Fase 1.md:38:FNA
+content/28. Resumen Fase 1.md:38:Fondo
+content/28. Resumen Fase 1.md:38:fortalezas
+content/28. Resumen Fase 1.md:38:incide
+content/28. Resumen Fase 1.md:38:influye
+content/28. Resumen Fase 1.md:38:más
+content/28. Resumen Fase 1.md:38:objetivos
+content/28. Resumen Fase 1.md:38:otras
+content/28. Resumen Fase 1.md:38:primero
+content/28. Resumen Fase 1.md:38:problema
+content/28. Resumen Fase 1.md:38:procura
+content/28. Resumen Fase 1.md:38:proveedor
+content/28. Resumen Fase 1.md:38:seleccionadas
+content/28. Resumen Fase 1.md:38:SOA
+content/28. Resumen Fase 1.md:38:tanto
+content/28. Resumen Fase 1.md:38:tecnología
+content/28. Resumen Fase 1.md:38:tecnologías
 content/28. Resumen Fase 1.md:40:arquitectura
-content/28. Resumen Fase 1.md:40:Cobis
-content/28. Resumen Fase 1.md:40:dependencia
+content/28. Resumen Fase 1.md:40:beneficios
+content/28. Resumen Fase 1.md:40:capacidades
+content/28. Resumen Fase 1.md:40:capacidades
+content/28. Resumen Fase 1.md:40:composición
+content/28. Resumen Fase 1.md:40:contrario
+content/28. Resumen Fase 1.md:40:dificulta
+content/28. Resumen Fase 1.md:40:el
+content/28. Resumen Fase 1.md:40:el
 content/28. Resumen Fase 1.md:40:El
-content/28. Resumen Fase 1.md:40:empresa
-content/28. Resumen Fase 1.md:40:ERP
-content/28. Resumen Fase 1.md:40:ERP
-content/28. Resumen Fase 1.md:40:este
-content/28. Resumen Fase 1.md:40:extienden
-content/28. Resumen Fase 1.md:40:favorecen
-content/28. Resumen Fase 1.md:40:flexibilidad
+content/28. Resumen Fase 1.md:40:empresarial
+content/28. Resumen Fase 1.md:40:encendidas
+content/28. Resumen Fase 1.md:40:esté
+content/28. Resumen Fase 1.md:40:esto
+content/28. Resumen Fase 1.md:40:evidencias
 content/28. Resumen Fase 1.md:40:FNA
-content/28. Resumen Fase 1.md:40:Fondo
-content/28. Resumen Fase 1.md:40:fortalezas
-content/28. Resumen Fase 1.md:40:incide
-content/28. Resumen Fase 1.md:40:influye
-content/28. Resumen Fase 1.md:40:más
-content/28. Resumen Fase 1.md:40:objetivos
-content/28. Resumen Fase 1.md:40:otras
-content/28. Resumen Fase 1.md:40:primero
-content/28. Resumen Fase 1.md:40:problema
-content/28. Resumen Fase 1.md:40:procura
-content/28. Resumen Fase 1.md:40:proveedor
-content/28. Resumen Fase 1.md:40:seleccionadas
+content/28. Resumen Fase 1.md:40:gestión
+content/28. Resumen Fase 1.md:40:haya
+content/28. Resumen Fase 1.md:40:hecho
+content/28. Resumen Fase 1.md:40:implementación
+content/28. Resumen Fase 1.md:40:monitoreo
+content/28. Resumen Fase 1.md:40:Por
+content/28. Resumen Fase 1.md:40:propicia
+content/28. Resumen Fase 1.md:40:redundancia
+content/28. Resumen Fase 1.md:40:registro
+content/28. Resumen Fase 1.md:40:reutilización
+content/28. Resumen Fase 1.md:40:servicios
+content/28. Resumen Fase 1.md:40:servicios
 content/28. Resumen Fase 1.md:40:SOA
-content/28. Resumen Fase 1.md:40:tanto
-content/28. Resumen Fase 1.md:40:tecnología
-content/28. Resumen Fase 1.md:40:tecnologías
-content/28. Resumen Fase 1.md:42:arquitectura
-content/28. Resumen Fase 1.md:42:beneficios
-content/28. Resumen Fase 1.md:42:capacidades
-content/28. Resumen Fase 1.md:42:capacidades
-content/28. Resumen Fase 1.md:42:composición
-content/28. Resumen Fase 1.md:42:contrario
-content/28. Resumen Fase 1.md:42:dificulta
-content/28. Resumen Fase 1.md:42:el
-content/28. Resumen Fase 1.md:42:el
-content/28. Resumen Fase 1.md:42:El
-content/28. Resumen Fase 1.md:42:empresarial
-content/28. Resumen Fase 1.md:42:encendidas
-content/28. Resumen Fase 1.md:42:esté
-content/28. Resumen Fase 1.md:42:esto
-content/28. Resumen Fase 1.md:42:evidencias
-content/28. Resumen Fase 1.md:42:FNA
-content/28. Resumen Fase 1.md:42:gestión
-content/28. Resumen Fase 1.md:42:haya
-content/28. Resumen Fase 1.md:42:hecho
-content/28. Resumen Fase 1.md:42:implementación
-content/28. Resumen Fase 1.md:42:monitoreo
-content/28. Resumen Fase 1.md:42:Por
-content/28. Resumen Fase 1.md:42:propicia
-content/28. Resumen Fase 1.md:42:redundancia
-content/28. Resumen Fase 1.md:42:registro
-content/28. Resumen Fase 1.md:42:reutilización
-content/28. Resumen Fase 1.md:42:servicios
-content/28. Resumen Fase 1.md:42:servicios
-content/28. Resumen Fase 1.md:42:SOA
-content/28. Resumen Fase 1.md:42:SOA
-content/28. Resumen Fase 1.md:42:SOA
-content/28. Resumen Fase 1.md:42:tecnológicas
-content/28. Resumen Fase 1.md:46:Análisis
-content/28. Resumen Fase 1.md:46:Dependencia
-content/28. Resumen Fase 1.md:46:FNA
-content/28. Resumen Fase 1.md:46:Huella
-content/28. Resumen Fase 1.md:46:SOA
-content/28. Resumen Fase 1.md:46:Tecnológica
-content/28. Resumen Fase 1.md:47:dependencia
-content/28. Resumen Fase 1.md:47:el
-content/28. Resumen Fase 1.md:47:el
-content/28. Resumen Fase 1.md:47:evidencia
-content/28. Resumen Fase 1.md:47:fabricante
-content/28. Resumen Fase 1.md:47:infraestructura
-content/28. Resumen Fase 1.md:47:nivel
-content/28. Resumen Fase 1.md:47:proveedor
-content/28. Resumen Fase 1.md:47:también
-content/28. Resumen Fase 1.md:49:conclusiones
-content/28. Resumen Fase 1.md:51:Catálogo
-content/28. Resumen Fase 1.md:51:FNA
-content/28. Resumen Fase 1.md:51:Imagen
-content/28. Resumen Fase 1.md:51:Infraestructura
-content/28. Resumen Fase 1.md:51:respecto
-content/28. Resumen Fase 1.md:51:servicios
-content/28. Resumen Fase 1.md:51:tecnologías
-content/28. Resumen Fase 1.md:53:arquitectura
-content/28. Resumen Fase 1.md:53:basado
-content/28. Resumen Fase 1.md:53:Composición
-content/28. Resumen Fase 1.md:53:datos
-content/28. Resumen Fase 1.md:53:fna
-content/28. Resumen Fase 1.md:57:actualizar
+content/28. Resumen Fase 1.md:40:SOA
+content/28. Resumen Fase 1.md:40:SOA
+content/28. Resumen Fase 1.md:40:tecnológicas
+content/28. Resumen Fase 1.md:44:Análisis
+content/28. Resumen Fase 1.md:44:Dependencia
+content/28. Resumen Fase 1.md:44:FNA
+content/28. Resumen Fase 1.md:44:Huella
+content/28. Resumen Fase 1.md:44:SOA
+content/28. Resumen Fase 1.md:44:Tecnológica
+content/28. Resumen Fase 1.md:45:dependencia
+content/28. Resumen Fase 1.md:45:el
+content/28. Resumen Fase 1.md:45:el
+content/28. Resumen Fase 1.md:45:evidencia
+content/28. Resumen Fase 1.md:45:fabricante
+content/28. Resumen Fase 1.md:45:infraestructura
+content/28. Resumen Fase 1.md:45:nivel
+content/28. Resumen Fase 1.md:45:proveedor
+content/28. Resumen Fase 1.md:45:también
+content/28. Resumen Fase 1.md:47:conclusiones
+content/28. Resumen Fase 1.md:49:Catálogo
+content/28. Resumen Fase 1.md:49:FNA
+content/28. Resumen Fase 1.md:49:Imagen
+content/28. Resumen Fase 1.md:49:Infraestructura
+content/28. Resumen Fase 1.md:49:respecto
+content/28. Resumen Fase 1.md:49:servicios
+content/28. Resumen Fase 1.md:49:tecnologías
+content/28. Resumen Fase 1.md:51:arquitectura
+content/28. Resumen Fase 1.md:51:basado
+content/28. Resumen Fase 1.md:51:Composición
+content/28. Resumen Fase 1.md:51:datos
+content/28. Resumen Fase 1.md:51:fna
+content/28. Resumen Fase 1.md:55:actualizar
+content/28. Resumen Fase 1.md:55:arquitectura
+content/28. Resumen Fase 1.md:55:caso
+content/28. Resumen Fase 1.md:55:ejecución
+content/28. Resumen Fase 1.md:55:el
+content/28. Resumen Fase 1.md:55:entornos
+content/28. Resumen Fase 1.md:55:esfuerzos
+content/28. Resumen Fase 1.md:55:Esto
+content/28. Resumen Fase 1.md:55:fabricante
+content/28. Resumen Fase 1.md:55:implica
+content/28. Resumen Fase 1.md:55:influenciada
+content/28. Resumen Fase 1.md:55:infraestructura
+content/28. Resumen Fase 1.md:55:nivel
+content/28. Resumen Fase 1.md:55:operativo
+content/28. Resumen Fase 1.md:55:plataformas
+content/28. Resumen Fase 1.md:55:por
+content/28. Resumen Fase 1.md:55:portar
+content/28. Resumen Fase 1.md:55:procesador
+content/28. Resumen Fase 1.md:55:productos
+content/28. Resumen Fase 1.md:55:riesgos
+content/28. Resumen Fase 1.md:55:sido
+content/28. Resumen Fase 1.md:55:sistema
+content/28. Resumen Fase 1.md:55:soluciones
+content/28. Resumen Fase 1.md:55:sustituir
+content/28. Resumen Fase 1.md:55:tanto
+content/28. Resumen Fase 1.md:55:tecnología
+content/28. Resumen Fase 1.md:55:tecnologías
+content/28. Resumen Fase 1.md:57:actualmente
 content/28. Resumen Fase 1.md:57:arquitectura
-content/28. Resumen Fase 1.md:57:caso
-content/28. Resumen Fase 1.md:57:ejecución
+content/28. Resumen Fase 1.md:57:arquitecturas
+content/28. Resumen Fase 1.md:57:asignarle
+content/28. Resumen Fase 1.md:57:cuando
+content/28. Resumen Fase 1.md:57:dentro
+content/28. Resumen Fase 1.md:57:documentación
 content/28. Resumen Fase 1.md:57:el
-content/28. Resumen Fase 1.md:57:entornos
-content/28. Resumen Fase 1.md:57:esfuerzos
-content/28. Resumen Fase 1.md:57:Esto
-content/28. Resumen Fase 1.md:57:fabricante
-content/28. Resumen Fase 1.md:57:implica
-content/28. Resumen Fase 1.md:57:influenciada
-content/28. Resumen Fase 1.md:57:infraestructura
-content/28. Resumen Fase 1.md:57:nivel
-content/28. Resumen Fase 1.md:57:operativo
-content/28. Resumen Fase 1.md:57:plataformas
-content/28. Resumen Fase 1.md:57:por
-content/28. Resumen Fase 1.md:57:portar
-content/28. Resumen Fase 1.md:57:procesador
-content/28. Resumen Fase 1.md:57:productos
-content/28. Resumen Fase 1.md:57:riesgos
-content/28. Resumen Fase 1.md:57:sido
-content/28. Resumen Fase 1.md:57:sistema
-content/28. Resumen Fase 1.md:57:soluciones
-content/28. Resumen Fase 1.md:57:sustituir
-content/28. Resumen Fase 1.md:57:tanto
-content/28. Resumen Fase 1.md:57:tecnología
+content/28. Resumen Fase 1.md:57:elegir
+content/28. Resumen Fase 1.md:57:elemento
+content/28. Resumen Fase 1.md:57:implementar
+content/28. Resumen Fase 1.md:57:importante
+content/28. Resumen Fase 1.md:57:limitar
+content/28. Resumen Fase 1.md:57:lugar
+content/28. Resumen Fase 1.md:57:nuevas
+content/28. Resumen Fase 1.md:57:operación
+content/28. Resumen Fase 1.md:57:pretenda
+content/28. Resumen Fase 1.md:57:proveedores
+content/28. Resumen Fase 1.md:57:puedan
+content/28. Resumen Fase 1.md:57:puede
+content/28. Resumen Fase 1.md:57:solución
 content/28. Resumen Fase 1.md:57:tecnologías
-content/28. Resumen Fase 1.md:59:actualmente
-content/28. Resumen Fase 1.md:59:arquitectura
-content/28. Resumen Fase 1.md:59:arquitecturas
-content/28. Resumen Fase 1.md:59:asignarle
-content/28. Resumen Fase 1.md:59:cuando
-content/28. Resumen Fase 1.md:59:dentro
-content/28. Resumen Fase 1.md:59:documentación
-content/28. Resumen Fase 1.md:59:el
-content/28. Resumen Fase 1.md:59:elegir
-content/28. Resumen Fase 1.md:59:elemento
-content/28. Resumen Fase 1.md:59:implementar
-content/28. Resumen Fase 1.md:59:importante
-content/28. Resumen Fase 1.md:59:limitar
-content/28. Resumen Fase 1.md:59:lugar
-content/28. Resumen Fase 1.md:59:nuevas
-content/28. Resumen Fase 1.md:59:operación
-content/28. Resumen Fase 1.md:59:pretenda
-content/28. Resumen Fase 1.md:59:proveedores
-content/28. Resumen Fase 1.md:59:puedan
-content/28. Resumen Fase 1.md:59:puede
-content/28. Resumen Fase 1.md:59:solución
-content/28. Resumen Fase 1.md:59:tecnologías
-content/28. Resumen Fase 1.md:59:tipo
-content/28. Resumen Fase 1.md:59:transparente
-content/28. Resumen Fase 1.md:63:Análisis
-content/28. Resumen Fase 1.md:63:FNA
-content/28. Resumen Fase 1.md:63:Gobierno
-content/28. Resumen Fase 1.md:63:SOA
-content/28. Resumen Fase 1.md:64:ameritan
-content/28. Resumen Fase 1.md:64:continuación
-content/28. Resumen Fase 1.md:64:el
-content/28. Resumen Fase 1.md:64:Fondo
-content/28. Resumen Fase 1.md:64:gobierno
-content/28. Resumen Fase 1.md:64:identificaremos
-content/28. Resumen Fase 1.md:64:reforzar
-content/28. Resumen Fase 1.md:64:riesgos
+content/28. Resumen Fase 1.md:57:tipo
+content/28. Resumen Fase 1.md:57:transparente
+content/28. Resumen Fase 1.md:61:Análisis
+content/28. Resumen Fase 1.md:61:FNA
+content/28. Resumen Fase 1.md:61:Gobierno
+content/28. Resumen Fase 1.md:61:SOA
+content/28. Resumen Fase 1.md:62:ameritan
+content/28. Resumen Fase 1.md:62:continuación
+content/28. Resumen Fase 1.md:62:el
+content/28. Resumen Fase 1.md:62:Fondo
+content/28. Resumen Fase 1.md:62:gobierno
+content/28. Resumen Fase 1.md:62:identificaremos
+content/28. Resumen Fase 1.md:62:reforzar
+content/28. Resumen Fase 1.md:62:riesgos
+content/28. Resumen Fase 1.md:62:SOA
+content/28. Resumen Fase 1.md:64:beneficios
+content/28. Resumen Fase 1.md:64:Inefectividad
+content/28. Resumen Fase 1.md:64:Riesgo
 content/28. Resumen Fase 1.md:64:SOA
-content/28. Resumen Fase 1.md:66:beneficios
-content/28. Resumen Fase 1.md:66:Inefectividad
-content/28. Resumen Fase 1.md:66:Riesgo
-content/28. Resumen Fase 1.md:66:SOA
-content/28. Resumen Fase 1.md:66:Tecnológica
-content/28. Resumen Fase 1.md:67:aplicaciones
-content/28. Resumen Fase 1.md:67:aplicaciones
-content/28. Resumen Fase 1.md:67:Cobis
-content/28. Resumen Fase 1.md:67:datos
-content/28. Resumen Fase 1.md:67:el
-content/28. Resumen Fase 1.md:67:el
-content/28. Resumen Fase 1.md:67:el
-content/28. Resumen Fase 1.md:67:encuentran
-content/28. Resumen Fase 1.md:67:entre
-content/28. Resumen Fase 1.md:67:ERP
-content/28. Resumen Fase 1.md:67:esta
-content/28. Resumen Fase 1.md:67:está
-content/28. Resumen Fase 1.md:67:fabricantes
-content/28. Resumen Fase 1.md:67:Fondo
-content/28. Resumen Fase 1.md:67:grandes
-content/28. Resumen Fase 1.md:67:imagen
-content/28. Resumen Fase 1.md:67:importante
-content/28. Resumen Fase 1.md:67:Isolution
-content/28. Resumen Fase 1.md:67:listado
-content/28. Resumen Fase 1.md:67:Parte
-content/28. Resumen Fase 1.md:67:plataforma
-content/28. Resumen Fase 1.md:67:por
-content/28. Resumen Fase 1.md:67:presencia
-content/28. Resumen Fase 1.md:67:productos
-content/28. Resumen Fase 1.md:67:proveedor
-content/28. Resumen Fase 1.md:67:reflejada
-content/28. Resumen Fase 1.md:67:seguido
-content/28. Resumen Fase 1.md:67:siguiente
-content/28. Resumen Fase 1.md:67:Solusoft
-content/28. Resumen Fase 1.md:67:supuesto
-content/28. Resumen Fase 1.md:67:sus
-content/28. Resumen Fase 1.md:67:Sybase
-content/28. Resumen Fase 1.md:67:tecnología
-content/28. Resumen Fase 1.md:67:tecnologías
-content/28. Resumen Fase 1.md:67:tienen
-content/28. Resumen Fase 1.md:67:Transunion
-content/28. Resumen Fase 1.md:67:ver
-content/28. Resumen Fase 1.md:69:aparece
-content/28. Resumen Fase 1.md:69:aplicación
-content/28. Resumen Fase 1.md:69:aplique
-content/28. Resumen Fase 1.md:69:así
-content/28. Resumen Fase 1.md:69:Aún
-content/28. Resumen Fase 1.md:69:componente
-content/28. Resumen Fase 1.md:69:componente
-content/28. Resumen Fase 1.md:69:corte
-content/28. Resumen Fase 1.md:69:el
-content/28. Resumen Fase 1.md:69:El
-content/28. Resumen Fase 1.md:69:este
-content/28. Resumen Fase 1.md:69:este
-content/28. Resumen Fase 1.md:69:este
+content/28. Resumen Fase 1.md:64:Tecnológica
+content/28. Resumen Fase 1.md:65:aplicaciones
+content/28. Resumen Fase 1.md:65:aplicaciones
+content/28. Resumen Fase 1.md:65:Cobis
+content/28. Resumen Fase 1.md:65:datos
+content/28. Resumen Fase 1.md:65:el
+content/28. Resumen Fase 1.md:65:el
+content/28. Resumen Fase 1.md:65:el
+content/28. Resumen Fase 1.md:65:encuentran
+content/28. Resumen Fase 1.md:65:entre
+content/28. Resumen Fase 1.md:65:ERP
+content/28. Resumen Fase 1.md:65:esta
+content/28. Resumen Fase 1.md:65:está
+content/28. Resumen Fase 1.md:65:fabricantes
+content/28. Resumen Fase 1.md:65:Fondo
+content/28. Resumen Fase 1.md:65:grandes
+content/28. Resumen Fase 1.md:65:imagen
+content/28. Resumen Fase 1.md:65:importante
+content/28. Resumen Fase 1.md:65:Isolution
+content/28. Resumen Fase 1.md:65:listado
+content/28. Resumen Fase 1.md:65:Parte
+content/28. Resumen Fase 1.md:65:plataforma
+content/28. Resumen Fase 1.md:65:por
+content/28. Resumen Fase 1.md:65:presencia
+content/28. Resumen Fase 1.md:65:productos
+content/28. Resumen Fase 1.md:65:proveedor
+content/28. Resumen Fase 1.md:65:reflejada
+content/28. Resumen Fase 1.md:65:seguido
+content/28. Resumen Fase 1.md:65:siguiente
+content/28. Resumen Fase 1.md:65:Solusoft
+content/28. Resumen Fase 1.md:65:supuesto
+content/28. Resumen Fase 1.md:65:sus
+content/28. Resumen Fase 1.md:65:Sybase
+content/28. Resumen Fase 1.md:65:tecnología
+content/28. Resumen Fase 1.md:65:tecnologías
+content/28. Resumen Fase 1.md:65:tienen
+content/28. Resumen Fase 1.md:65:Transunion
+content/28. Resumen Fase 1.md:65:ver
 content/28. Resumen Fase 1.md:69:FNA
-content/28. Resumen Fase 1.md:69:igual
-content/28. Resumen Fase 1.md:69:manera
-content/28. Resumen Fase 1.md:69:nivel
-content/28. Resumen Fase 1.md:69:riesgo
-content/28. Resumen Fase 1.md:69:señalado
-content/28. Resumen Fase 1.md:69:tiene
-content/28. Resumen Fase 1.md:69:una
-content/28. Resumen Fase 1.md:69:utilización
-content/28. Resumen Fase 1.md:71:beneficios
-content/28. Resumen Fase 1.md:71:Riesgo
-content/28. Resumen Fase 1.md:71:SOA
-content/28. Resumen Fase 1.md:71:SOA
-content/28. Resumen Fase 1.md:71:Soluciones
-content/28. Resumen Fase 1.md:71:Vigilancia
-content/28. Resumen Fase 1.md:72:alineación
-content/28. Resumen Fase 1.md:72:análisis
-content/28. Resumen Fase 1.md:72:aplicaciones
-content/28. Resumen Fase 1.md:72:arquitectura
-content/28. Resumen Fase 1.md:72:arquitectura
-content/28. Resumen Fase 1.md:72:Crédito
-content/28. Resumen Fase 1.md:72:descendente
-content/28. Resumen Fase 1.md:72:desde
-content/28. Resumen Fase 1.md:72:Diagnóstico
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:el
-content/28. Resumen Fase 1.md:72:enfoque
-content/28. Resumen Fase 1.md:72:equipo
-content/28. Resumen Fase 1.md:72:existe
-content/28. Resumen Fase 1.md:72:FNA
-content/28. Resumen Fase 1.md:72:Fondo
-content/28. Resumen Fase 1.md:72:Fondo
-content/28. Resumen Fase 1.md:72:gestor
-content/28. Resumen Fase 1.md:72:gobierno
-content/28. Resumen Fase 1.md:72:haga
-content/28. Resumen Fase 1.md:72:implementación
-content/28. Resumen Fase 1.md:72:más
-content/28. Resumen Fase 1.md:72:muestra
-content/28. Resumen Fase 1.md:72:oportinidad
-content/28. Resumen Fase 1.md:72:portafolio
-content/28. Resumen Fase 1.md:72:predominante
-content/28. Resumen Fase 1.md:72:proveedores
-content/28. Resumen Fase 1.md:72:provienen
-content/28. Resumen Fase 1.md:72:pueda
-content/28. Resumen Fase 1.md:72:referencia
-content/28. Resumen Fase 1.md:72:reforzar
-content/28. Resumen Fase 1.md:72:reforzar
-content/28. Resumen Fase 1.md:72:Resultado
-content/28. Resumen Fase 1.md:72:riesgo
-content/28. Resumen Fase 1.md:72:servicios
-content/28. Resumen Fase 1.md:72:Situación
-content/28. Resumen Fase 1.md:72:SOA
-content/28. Resumen Fase 1.md:72:SOA
-content/28. Resumen Fase 1.md:72:SOA
-content/28. Resumen Fase 1.md:72:soluciones
-content/28. Resumen Fase 1.md:72:tecnologías
-content/28. Resumen Fase 1.md:72:veces
-content/28. Resumen Fase 1.md:72:ver
-content/28. Resumen Fase 1.md:72:vicepresidencia
-content/28. Resumen Fase 1.md:76:Análisis
-content/28. Resumen Fase 1.md:76:FNA
-content/28. Resumen Fase 1.md:76:Fortalezas
-content/28. Resumen Fase 1.md:76:SOA
-content/28. Resumen Fase 1.md:77:acoplamiento
-content/28. Resumen Fase 1.md:77:bajo
-content/28. Resumen Fase 1.md:77:capacidades
-content/28. Resumen Fase 1.md:77:Cobis
-content/28. Resumen Fase 1.md:77:dependencia
-content/28. Resumen Fase 1.md:77:evidenció
-content/28. Resumen Fase 1.md:77:existen
-content/28. Resumen Fase 1.md:77:FNA
-content/28. Resumen Fase 1.md:77:FNA
-content/28. Resumen Fase 1.md:77:fortalezas
-content/28. Resumen Fase 1.md:77:grados
-content/28. Resumen Fase 1.md:77:igual
-content/28. Resumen Fase 1.md:77:importancia
-content/28. Resumen Fase 1.md:77:mantener
-content/28. Resumen Fase 1.md:77:mejorar
-content/28. Resumen Fase 1.md:77:necesario
-content/28. Resumen Fase 1.md:77:negocio
-content/28. Resumen Fase 1.md:77:otras
-content/28. Resumen Fase 1.md:77:Pero
-content/28. Resumen Fase 1.md:77:portafolio
-content/28. Resumen Fase 1.md:77:problemas
-content/28. Resumen Fase 1.md:77:problemáticas
-content/28. Resumen Fase 1.md:77:proveedor
-content/28. Resumen Fase 1.md:77:revisión
-content/28. Resumen Fase 1.md:77:servicios
-content/28. Resumen Fase 1.md:77:servicios
+content/28. Resumen Fase 1.md:69:Imagen
+content/28. Resumen Fase 1.md:69:Listado
+content/28. Resumen Fase 1.md:69:tecnologías
+content/28. Resumen Fase 1.md:71:Aplicaciones
+content/28. Resumen Fase 1.md:71:catalogo
+content/28. Resumen Fase 1.md:71:xlsx
+content/28. Resumen Fase 1.md:75:aparece
+content/28. Resumen Fase 1.md:75:aplica
+content/28. Resumen Fase 1.md:75:aplicación
+content/28. Resumen Fase 1.md:75:así
+content/28. Resumen Fase 1.md:75:Aún
+content/28. Resumen Fase 1.md:75:componente
+content/28. Resumen Fase 1.md:75:componente
+content/28. Resumen Fase 1.md:75:corte
+content/28. Resumen Fase 1.md:75:el
+content/28. Resumen Fase 1.md:75:El
+content/28. Resumen Fase 1.md:75:este
+content/28. Resumen Fase 1.md:75:este
+content/28. Resumen Fase 1.md:75:este
+content/28. Resumen Fase 1.md:75:FNA
+content/28. Resumen Fase 1.md:75:igual
+content/28. Resumen Fase 1.md:75:manera
+content/28. Resumen Fase 1.md:75:nivel
+content/28. Resumen Fase 1.md:75:riesgo
+content/28. Resumen Fase 1.md:75:señalado
+content/28. Resumen Fase 1.md:75:tiene
+content/28. Resumen Fase 1.md:75:una
+content/28. Resumen Fase 1.md:75:utilización
+content/28. Resumen Fase 1.md:77:beneficios
+content/28. Resumen Fase 1.md:77:Riesgo
 content/28. Resumen Fase 1.md:77:SOA
 content/28. Resumen Fase 1.md:77:SOA
-content/28. Resumen Fase 1.md:77:SOA
-content/28. Resumen Fase 1.md:77:subsanar
-content/28. Resumen Fase 1.md:77:también
-content/28. Resumen Fase 1.md:79:Acoplamiento
-content/28. Resumen Fase 1.md:79:capacidades
-content/28. Resumen Fase 1.md:79:Cobis
-content/28. Resumen Fase 1.md:79:FNA
-content/28. Resumen Fase 1.md:79:negocio
-content/28. Resumen Fase 1.md:80:capacidades
-content/28. Resumen Fase 1.md:80:Catálogo
-content/28. Resumen Fase 1.md:80:Catálogo
-content/28. Resumen Fase 1.md:80:Cobis
-content/28. Resumen Fase 1.md:80:entre
-content/28. Resumen Fase 1.md:80:FNA
-content/28. Resumen Fase 1.md:80:FNA
-content/28. Resumen Fase 1.md:80:herramientas
-content/28. Resumen Fase 1.md:80:más
-content/28. Resumen Fase 1.md:80:negocio
-content/28. Resumen Fase 1.md:80:Servicios
-content/28. Resumen Fase 1.md:80:Servicios
-content/28. Resumen Fase 1.md:80:ver
-content/28. Resumen Fase 1.md:82:acoplamiento
-content/28. Resumen Fase 1.md:82:afecta
-content/28. Resumen Fase 1.md:82:caso
-content/28. Resumen Fase 1.md:82:causa
-content/28. Resumen Fase 1.md:82:el
-content/28. Resumen Fase 1.md:82:Esta
-content/28. Resumen Fase 1.md:82:este
-content/28. Resumen Fase 1.md:82:flexibilidad
-content/28. Resumen Fase 1.md:82:grado
-content/28. Resumen Fase 1.md:82:negocio
-content/28. Resumen Fase 1.md:82:problemática
-content/28. Resumen Fase 1.md:82:proveedor
-content/28. Resumen Fase 1.md:82:rigidez
-content/28. Resumen Fase 1.md:82:rigidez
-content/28. Resumen Fase 1.md:82:tiempo
-content/28. Resumen Fase 1.md:82:Todo
-content/28. Resumen Fase 1.md:82:una
-content/28. Resumen Fase 1.md:84:aplicaciones
-content/28. Resumen Fase 1.md:84:dependencia
-content/28. Resumen Fase 1.md:84:proveedoras
-content/28. Resumen Fase 1.md:84:Relación
-content/28. Resumen Fase 1.md:85:administrador
-content/28. Resumen Fase 1.md:85:afecte
-content/28. Resumen Fase 1.md:85:aplicaciones
-content/28. Resumen Fase 1.md:85:aplicaciones
-content/28. Resumen Fase 1.md:85:aumentan
-content/28. Resumen Fase 1.md:85:aumento
-content/28. Resumen Fase 1.md:85:aumento
-content/28. Resumen Fase 1.md:85:cambio
-content/28. Resumen Fase 1.md:85:cantidad
-content/28. Resumen Fase 1.md:85:Cartera
-content/28. Resumen Fase 1.md:85:Catálogo
-content/28. Resumen Fase 1.md:85:causa
-content/28. Resumen Fase 1.md:85:Clientes
+content/28. Resumen Fase 1.md:77:Soluciones
+content/28. Resumen Fase 1.md:77:Vigilancia
+content/28. Resumen Fase 1.md:78:alineación
+content/28. Resumen Fase 1.md:78:análisis
+content/28. Resumen Fase 1.md:78:aplicaciones
+content/28. Resumen Fase 1.md:78:arquitectura
+content/28. Resumen Fase 1.md:78:arquitectura
+content/28. Resumen Fase 1.md:78:Crédito
+content/28. Resumen Fase 1.md:78:descendente
+content/28. Resumen Fase 1.md:78:desde
+content/28. Resumen Fase 1.md:78:Diagnóstico
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:el
+content/28. Resumen Fase 1.md:78:enfoque
+content/28. Resumen Fase 1.md:78:equipo
+content/28. Resumen Fase 1.md:78:existe
+content/28. Resumen Fase 1.md:78:FNA
+content/28. Resumen Fase 1.md:78:Fondo
+content/28. Resumen Fase 1.md:78:Fondo
+content/28. Resumen Fase 1.md:78:gestor
+content/28. Resumen Fase 1.md:78:gobierno
+content/28. Resumen Fase 1.md:78:haga
+content/28. Resumen Fase 1.md:78:implementación
+content/28. Resumen Fase 1.md:78:más
+content/28. Resumen Fase 1.md:78:muestra
+content/28. Resumen Fase 1.md:78:oportinidad
+content/28. Resumen Fase 1.md:78:portafolio
+content/28. Resumen Fase 1.md:78:predominante
+content/28. Resumen Fase 1.md:78:proveedores
+content/28. Resumen Fase 1.md:78:provienen
+content/28. Resumen Fase 1.md:78:pueda
+content/28. Resumen Fase 1.md:78:referencia
+content/28. Resumen Fase 1.md:78:reforzar
+content/28. Resumen Fase 1.md:78:reforzar
+content/28. Resumen Fase 1.md:78:Resultado
+content/28. Resumen Fase 1.md:78:riesgo
+content/28. Resumen Fase 1.md:78:servicios
+content/28. Resumen Fase 1.md:78:Situación
+content/28. Resumen Fase 1.md:78:SOA
+content/28. Resumen Fase 1.md:78:SOA
+content/28. Resumen Fase 1.md:78:SOA
+content/28. Resumen Fase 1.md:78:soluciones
+content/28. Resumen Fase 1.md:78:tecnologías
+content/28. Resumen Fase 1.md:78:veces
+content/28. Resumen Fase 1.md:78:ver
+content/28. Resumen Fase 1.md:78:vicepresidencia
+content/28. Resumen Fase 1.md:82:Análisis
+content/28. Resumen Fase 1.md:82:FNA
+content/28. Resumen Fase 1.md:82:Fortalezas
+content/28. Resumen Fase 1.md:82:SOA
+content/28. Resumen Fase 1.md:83:acoplamiento
+content/28. Resumen Fase 1.md:83:bajo
+content/28. Resumen Fase 1.md:83:capacidades
+content/28. Resumen Fase 1.md:83:Cobis
+content/28. Resumen Fase 1.md:83:dependencia
+content/28. Resumen Fase 1.md:83:evidenció
+content/28. Resumen Fase 1.md:83:existen
+content/28. Resumen Fase 1.md:83:FNA
+content/28. Resumen Fase 1.md:83:FNA
+content/28. Resumen Fase 1.md:83:fortalezas
+content/28. Resumen Fase 1.md:83:grados
+content/28. Resumen Fase 1.md:83:igual
+content/28. Resumen Fase 1.md:83:importancia
+content/28. Resumen Fase 1.md:83:mantener
+content/28. Resumen Fase 1.md:83:mejorar
+content/28. Resumen Fase 1.md:83:necesario
+content/28. Resumen Fase 1.md:83:negocio
+content/28. Resumen Fase 1.md:83:otras
+content/28. Resumen Fase 1.md:83:Pero
+content/28. Resumen Fase 1.md:83:portafolio
+content/28. Resumen Fase 1.md:83:problemas
+content/28. Resumen Fase 1.md:83:problemáticas
+content/28. Resumen Fase 1.md:83:proveedor
+content/28. Resumen Fase 1.md:83:revisión
+content/28. Resumen Fase 1.md:83:servicios
+content/28. Resumen Fase 1.md:83:servicios
+content/28. Resumen Fase 1.md:83:SOA
+content/28. Resumen Fase 1.md:83:SOA
+content/28. Resumen Fase 1.md:83:SOA
+content/28. Resumen Fase 1.md:83:subsanar
+content/28. Resumen Fase 1.md:83:también
+content/28. Resumen Fase 1.md:85:Acoplamiento
+content/28. Resumen Fase 1.md:85:capacidades
 content/28. Resumen Fase 1.md:85:Cobis
-content/28. Resumen Fase 1.md:85:Cobis
-content/28. Resumen Fase 1.md:85:Cobis
-content/28. Resumen Fase 1.md:85:consulta
-content/28. Resumen Fase 1.md:85:controle
-content/28. Resumen Fase 1.md:85:creación
-content/28. Resumen Fase 1.md:85:datos
-content/28. Resumen Fase 1.md:85:datos
-content/28. Resumen Fase 1.md:85:debe
-content/28. Resumen Fase 1.md:85:degrada
-content/28. Resumen Fase 1.md:85:degradación
-content/28. Resumen Fase 1.md:85:dependencia
-content/28. Resumen Fase 1.md:85:desempeño
-content/28. Resumen Fase 1.md:85:desempeño
-content/28. Resumen Fase 1.md:85:desempeño
-content/28. Resumen Fase 1.md:85:el
-content/28. Resumen Fase 1.md:85:el
-content/28. Resumen Fase 1.md:85:el
-content/28. Resumen Fase 1.md:85:el
-content/28. Resumen Fase 1.md:85:El
-content/28. Resumen Fase 1.md:85:El
-content/28. Resumen Fase 1.md:85:El
-content/28. Resumen Fase 1.md:85:entre
-content/28. Resumen Fase 1.md:85:equivalencia
-content/28. Resumen Fase 1.md:85:Esta
 content/28. Resumen Fase 1.md:85:FNA
-content/28. Resumen Fase 1.md:85:Fondo
-content/28. Resumen Fase 1.md:85:gestión
-content/28. Resumen Fase 1.md:85:gestión
-content/28. Resumen Fase 1.md:85:gobierno
-content/28. Resumen Fase 1.md:85:grado
-content/28. Resumen Fase 1.md:85:grupo
-content/28. Resumen Fase 1.md:85:impedir
-content/28. Resumen Fase 1.md:85:índices
-content/28. Resumen Fase 1.md:85:índices
-content/28. Resumen Fase 1.md:85:intervención
-content/28. Resumen Fase 1.md:85:mantenimiento
-content/28. Resumen Fase 1.md:85:más
-content/28. Resumen Fase 1.md:85:más
-content/28. Resumen Fase 1.md:85:modificación
-content/28. Resumen Fase 1.md:85:ocurre
-content/28. Resumen Fase 1.md:85:operaciones
-content/28. Resumen Fase 1.md:85:operaciones
-content/28. Resumen Fase 1.md:85:otra
-content/28. Resumen Fase 1.md:85:otros
-content/28. Resumen Fase 1.md:85:portafolio
-content/28. Resumen Fase 1.md:85:portafolio
-content/28. Resumen Fase 1.md:85:portafolio
-content/28. Resumen Fase 1.md:85:prevenga
-content/28. Resumen Fase 1.md:85:problemas
-content/28. Resumen Fase 1.md:85:proliferación
-content/28. Resumen Fase 1.md:85:proveedoras
-content/28. Resumen Fase 1.md:85:relación
-content/28. Resumen Fase 1.md:85:relaciones
-content/28. Resumen Fase 1.md:85:relaciones
-content/28. Resumen Fase 1.md:85:relaciones
-content/28. Resumen Fase 1.md:85:requiere
-content/28. Resumen Fase 1.md:85:rigidez
-content/28. Resumen Fase 1.md:85:servicios
-content/28. Resumen Fase 1.md:85:servicios
-content/28. Resumen Fase 1.md:85:servicios
-content/28. Resumen Fase 1.md:85:Servicios
-content/28. Resumen Fase 1.md:85:sino
-content/28. Resumen Fase 1.md:85:situación
-content/28. Resumen Fase 1.md:85:situación
-content/28. Resumen Fase 1.md:85:SOA
-content/28. Resumen Fase 1.md:85:SOA
-content/28. Resumen Fase 1.md:85:su
-content/28. Resumen Fase 1.md:85:suce
-content/28. Resumen Fase 1.md:85:suma
-content/28. Resumen Fase 1.md:85:suman
-content/28. Resumen Fase 1.md:85:tanto
-content/28. Resumen Fase 1.md:85:tiene
-content/28. Resumen Fase 1.md:85:ver
-content/28. Resumen Fase 1.md:87:acrecienten
-content/28. Resumen Fase 1.md:87:aplicación
-content/28. Resumen Fase 1.md:87:asegurar
-content/28. Resumen Fase 1.md:87:calidad
-content/28. Resumen Fase 1.md:87:cambio
-content/28. Resumen Fase 1.md:87:cambios
-content/28. Resumen Fase 1.md:87:dependencia
-content/28. Resumen Fase 1.md:87:efectando
-content/28. Resumen Fase 1.md:87:esfuerzos
-content/28. Resumen Fase 1.md:87:esta
-content/28. Resumen Fase 1.md:87:Esto
-content/28. Resumen Fase 1.md:87:evolutivos
-content/28. Resumen Fase 1.md:87:grado
-content/28. Resumen Fase 1.md:87:implica
-content/28. Resumen Fase 1.md:87:mantenimiento
-content/28. Resumen Fase 1.md:87:mismo
-content/28. Resumen Fase 1.md:87:optimización
-content/28. Resumen Fase 1.md:87:portafolio
-content/28. Resumen Fase 1.md:87:realizar
-content/28. Resumen Fase 1.md:87:relaciones
-content/28. Resumen Fase 1.md:87:requiere
-content/28. Resumen Fase 1.md:87:servicios
-content/28. Resumen Fase 1.md:87:SOA
-content/28. Resumen Fase 1.md:87:tenga
-content/28. Resumen Fase 1.md:87:termina
-content/28. Resumen Fase 1.md:87:tiempo
-content/28. Resumen Fase 1.md:87:una
-content/28. Resumen Fase 1.md:89:aplicaciones
-content/28. Resumen Fase 1.md:89:entre
-content/28. Resumen Fase 1.md:89:Fondo
-content/28. Resumen Fase 1.md:89:portafolio
-content/28. Resumen Fase 1.md:89:relaciones
-content/28. Resumen Fase 1.md:89:Relaciones
-content/28. Resumen Fase 1.md:89:servicios
-content/28. Resumen Fase 1.md:89:servicios
-content/28. Resumen Fase 1.md:89:SOA
-content/28. Resumen Fase 1.md:93:FNA
-content/28. Resumen Fase 1.md:93:Imagen
-content/28. Resumen Fase 1.md:93:Interdependencias
-content/28. Resumen Fase 1.md:93:Portafolio
-content/28. Resumen Fase 1.md:95:FNA
-content/28. Resumen Fase 1.md:95:Portafolio
-content/28. Resumen Fase 1.md:95:Servvicios
-content/28. Resumen Fase 1.md:95:Unificado
-content/28. Resumen Fase 1.md:99:crédito
-content/28. Resumen Fase 1.md:99:Débil
-content/28. Resumen Fase 1.md:99:Negocio
-content/28. Resumen Fase 1.md:99:operaciones
-content/28. Resumen Fase 1.md:99:Relación
-content/28. Resumen Fase 1.md:99:Requerimientos
-content/28. Resumen Fase 1.md:100:administrar
-content/28. Resumen Fase 1.md:100:aplicaciones
-content/28. Resumen Fase 1.md:100:cantidad
-content/28. Resumen Fase 1.md:100:Catálogo
-content/28. Resumen Fase 1.md:100:contrario
-content/28. Resumen Fase 1.md:100:creciente
-content/28. Resumen Fase 1.md:100:Crédito
-content/28. Resumen Fase 1.md:100:evidencian
-content/28. Resumen Fase 1.md:100:FNA
-content/28. Resumen Fase 1.md:100:FNA
-content/28. Resumen Fase 1.md:100:más
-content/28. Resumen Fase 1.md:100:modelos
-content/28. Resumen Fase 1.md:100:nivel
-content/28. Resumen Fase 1.md:100:Operaciones
-content/28. Resumen Fase 1.md:100:por
-content/28. Resumen Fase 1.md:100:Por
-content/28. Resumen Fase 1.md:100:relación
-content/28. Resumen Fase 1.md:100:relaciones
-content/28. Resumen Fase 1.md:100:relaciones
-content/28. Resumen Fase 1.md:100:requerimientos
-content/28. Resumen Fase 1.md:100:servicios
-content/28. Resumen Fase 1.md:100:servicios
-content/28. Resumen Fase 1.md:100:servicios
-content/28. Resumen Fase 1.md:100:Servicios
-content/28. Resumen Fase 1.md:100:último
-content/28. Resumen Fase 1.md:100:ver
-content/28. Resumen Fase 1.md:100:vicepresidencia
-content/28. Resumen Fase 1.md:100:vicepresidencias
-content/28. Resumen Fase 1.md:102:afecta
-content/28. Resumen Fase 1.md:102:áreas
-content/28. Resumen Fase 1.md:102:áreas
-content/28. Resumen Fase 1.md:102:áreas
-content/28. Resumen Fase 1.md:102:áreas
-content/28. Resumen Fase 1.md:102:baja
-content/28. Resumen Fase 1.md:102:complica
-content/28. Resumen Fase 1.md:102:consumiento
-content/28. Resumen Fase 1.md:102:demanda
-content/28. Resumen Fase 1.md:102:eficacia
-content/28. Resumen Fase 1.md:102:empieza
-content/28. Resumen Fase 1.md:102:gestión
-content/28. Resumen Fase 1.md:102:intermediarios
-content/28. Resumen Fase 1.md:102:llenarse
-content/28. Resumen Fase 1.md:102:mayores
-content/28. Resumen Fase 1.md:102:negocio
-content/28. Resumen Fase 1.md:102:negocio
-content/28. Resumen Fase 1.md:102:portafolio
-content/28. Resumen Fase 1.md:102:recursos
-content/28. Resumen Fase 1.md:102:relación
-content/28. Resumen Fase 1.md:102:requerimientos
-content/28. Resumen Fase 1.md:102:responden
-content/28. Resumen Fase 1.md:102:servicios
-content/28. Resumen Fase 1.md:102:servicios
-content/28. Resumen Fase 1.md:102:servicios
-content/28. Resumen Fase 1.md:102:servicios
-content/28. Resumen Fase 1.md:102:sus
-content/28. Resumen Fase 1.md:102:terminan
-content/28. Resumen Fase 1.md:102:términos
-content/28. Resumen Fase 1.md:102:tipo
-content/28. Resumen Fase 1.md:102:utilitarios
-content/28. Resumen Fase 1.md:106:Arquitectura
-content/28. Resumen Fase 1.md:106:Desarrollo
-content/28. Resumen Fase 1.md:106:referencia
-content/28. Resumen Fase 1.md:107:capacidad
-content/28. Resumen Fase 1.md:107:capacidades
-content/28. Resumen Fase 1.md:107:carecen
-content/28. Resumen Fase 1.md:107:cómo
-content/28. Resumen Fase 1.md:107:conectores
-content/28. Resumen Fase 1.md:107:conexiones
-content/28. Resumen Fase 1.md:107:controlar
-content/28. Resumen Fase 1.md:107:dificulta
-content/28. Resumen Fase 1.md:107:entre
-content/28. Resumen Fase 1.md:107:estándares
-content/28. Resumen Fase 1.md:107:Esto
-content/28. Resumen Fase 1.md:107:FNA
-content/28. Resumen Fase 1.md:107:FNA
-content/28. Resumen Fase 1.md:107:impacta
-content/28. Resumen Fase 1.md:107:información
-content/28. Resumen Fase 1.md:107:involucradas
-content/28. Resumen Fase 1.md:107:manera
-content/28. Resumen Fase 1.md:107:modelos
-content/28. Resumen Fase 1.md:107:negocio
-content/28. Resumen Fase 1.md:107:otra
-content/28. Resumen Fase 1.md:107:soporta
-content/28. Resumen Fase 1.md:107:tecnologías
-content/28. Resumen Fase 1.md:107:una
-content/28. Resumen Fase 1.md:107:vez
-content/28. Resumen Fase 1.md:109:capacidades
-content/28. Resumen Fase 1.md:109:composición
-content/28. Resumen Fase 1.md:109:crecimiento
-content/28. Resumen Fase 1.md:109:el
-content/28. Resumen Fase 1.md:109:Esto
-content/28. Resumen Fase 1.md:109:evidenciable
-content/28. Resumen Fase 1.md:109:expensas
-content/28. Resumen Fase 1.md:109:gestión
-content/28. Resumen Fase 1.md:109:impacta
-content/28. Resumen Fase 1.md:109:negocio
-content/28. Resumen Fase 1.md:109:negocio
-content/28. Resumen Fase 1.md:109:particularmente
-content/28. Resumen Fase 1.md:109:portafolio
-content/28. Resumen Fase 1.md:109:relación
-content/28. Resumen Fase 1.md:109:servicios
-content/28. Resumen Fase 1.md:109:servicios
-content/28. Resumen Fase 1.md:109:servicios
-content/28. Resumen Fase 1.md:109:SOA
-content/28. Resumen Fase 1.md:109:tipos
-content/28. Resumen Fase 1.md:109:utilitarios
+content/28. Resumen Fase 1.md:85:negocio
+content/28. Resumen Fase 1.md:86:capacidades
+content/28. Resumen Fase 1.md:86:Catálogo
+content/28. Resumen Fase 1.md:86:Catálogo
+content/28. Resumen Fase 1.md:86:Cobis
+content/28. Resumen Fase 1.md:86:entre
+content/28. Resumen Fase 1.md:86:FNA
+content/28. Resumen Fase 1.md:86:FNA
+content/28. Resumen Fase 1.md:86:herramientas
+content/28. Resumen Fase 1.md:86:más
+content/28. Resumen Fase 1.md:86:negocio
+content/28. Resumen Fase 1.md:86:Servicios
+content/28. Resumen Fase 1.md:86:Servicios
+content/28. Resumen Fase 1.md:86:ver
+content/28. Resumen Fase 1.md:88:acoplamiento
+content/28. Resumen Fase 1.md:88:afecta
+content/28. Resumen Fase 1.md:88:caso
+content/28. Resumen Fase 1.md:88:causa
+content/28. Resumen Fase 1.md:88:el
+content/28. Resumen Fase 1.md:88:Esta
+content/28. Resumen Fase 1.md:88:este
+content/28. Resumen Fase 1.md:88:flexibilidad
+content/28. Resumen Fase 1.md:88:grado
+content/28. Resumen Fase 1.md:88:negocio
+content/28. Resumen Fase 1.md:88:problemática
+content/28. Resumen Fase 1.md:88:proveedor
+content/28. Resumen Fase 1.md:88:rigidez
+content/28. Resumen Fase 1.md:88:rigidez
+content/28. Resumen Fase 1.md:88:tiempo
+content/28. Resumen Fase 1.md:88:Todo
+content/28. Resumen Fase 1.md:88:una
+content/28. Resumen Fase 1.md:90:aplicaciones
+content/28. Resumen Fase 1.md:90:dependencia
+content/28. Resumen Fase 1.md:90:proveedoras
+content/28. Resumen Fase 1.md:90:Relación
+content/28. Resumen Fase 1.md:91:administrador
+content/28. Resumen Fase 1.md:91:afecte
+content/28. Resumen Fase 1.md:91:aplicaciones
+content/28. Resumen Fase 1.md:91:aplicaciones
+content/28. Resumen Fase 1.md:91:aumentan
+content/28. Resumen Fase 1.md:91:aumento
+content/28. Resumen Fase 1.md:91:aumento
+content/28. Resumen Fase 1.md:91:cambio
+content/28. Resumen Fase 1.md:91:cantidad
+content/28. Resumen Fase 1.md:91:Cartera
+content/28. Resumen Fase 1.md:91:Catálogo
+content/28. Resumen Fase 1.md:91:causa
+content/28. Resumen Fase 1.md:91:Clientes
+content/28. Resumen Fase 1.md:91:Cobis
+content/28. Resumen Fase 1.md:91:Cobis
+content/28. Resumen Fase 1.md:91:Cobis
+content/28. Resumen Fase 1.md:91:consulta
+content/28. Resumen Fase 1.md:91:controle
+content/28. Resumen Fase 1.md:91:creación
+content/28. Resumen Fase 1.md:91:datos
+content/28. Resumen Fase 1.md:91:datos
+content/28. Resumen Fase 1.md:91:debe
+content/28. Resumen Fase 1.md:91:degrada
+content/28. Resumen Fase 1.md:91:degradación
+content/28. Resumen Fase 1.md:91:dependencia
+content/28. Resumen Fase 1.md:91:desempeño
+content/28. Resumen Fase 1.md:91:desempeño
+content/28. Resumen Fase 1.md:91:desempeño
+content/28. Resumen Fase 1.md:91:el
+content/28. Resumen Fase 1.md:91:el
+content/28. Resumen Fase 1.md:91:el
+content/28. Resumen Fase 1.md:91:el
+content/28. Resumen Fase 1.md:91:El
+content/28. Resumen Fase 1.md:91:El
+content/28. Resumen Fase 1.md:91:El
+content/28. Resumen Fase 1.md:91:entre
+content/28. Resumen Fase 1.md:91:equivalencia
+content/28. Resumen Fase 1.md:91:Esta
+content/28. Resumen Fase 1.md:91:FNA
+content/28. Resumen Fase 1.md:91:Fondo
+content/28. Resumen Fase 1.md:91:gestión
+content/28. Resumen Fase 1.md:91:gestión
+content/28. Resumen Fase 1.md:91:gobierno
+content/28. Resumen Fase 1.md:91:grado
+content/28. Resumen Fase 1.md:91:grupo
+content/28. Resumen Fase 1.md:91:impedir
+content/28. Resumen Fase 1.md:91:índices
+content/28. Resumen Fase 1.md:91:índices
+content/28. Resumen Fase 1.md:91:intervención
+content/28. Resumen Fase 1.md:91:mantenimiento
+content/28. Resumen Fase 1.md:91:más
+content/28. Resumen Fase 1.md:91:más
+content/28. Resumen Fase 1.md:91:modificación
+content/28. Resumen Fase 1.md:91:ocurre
+content/28. Resumen Fase 1.md:91:operaciones
+content/28. Resumen Fase 1.md:91:operaciones
+content/28. Resumen Fase 1.md:91:otra
+content/28. Resumen Fase 1.md:91:otros
+content/28. Resumen Fase 1.md:91:portafolio
+content/28. Resumen Fase 1.md:91:portafolio
+content/28. Resumen Fase 1.md:91:portafolio
+content/28. Resumen Fase 1.md:91:prevenga
+content/28. Resumen Fase 1.md:91:problemas
+content/28. Resumen Fase 1.md:91:proliferación
+content/28. Resumen Fase 1.md:91:proveedoras
+content/28. Resumen Fase 1.md:91:relación
+content/28. Resumen Fase 1.md:91:relaciones
+content/28. Resumen Fase 1.md:91:relaciones
+content/28. Resumen Fase 1.md:91:relaciones
+content/28. Resumen Fase 1.md:91:requiere
+content/28. Resumen Fase 1.md:91:rigidez
+content/28. Resumen Fase 1.md:91:servicios
+content/28. Resumen Fase 1.md:91:servicios
+content/28. Resumen Fase 1.md:91:servicios
+content/28. Resumen Fase 1.md:91:Servicios
+content/28. Resumen Fase 1.md:91:sino
+content/28. Resumen Fase 1.md:91:situación
+content/28. Resumen Fase 1.md:91:situación
+content/28. Resumen Fase 1.md:91:SOA
+content/28. Resumen Fase 1.md:91:SOA
+content/28. Resumen Fase 1.md:91:su
+content/28. Resumen Fase 1.md:91:suce
+content/28. Resumen Fase 1.md:91:suma
+content/28. Resumen Fase 1.md:91:suman
+content/28. Resumen Fase 1.md:91:tanto
+content/28. Resumen Fase 1.md:91:tiene
+content/28. Resumen Fase 1.md:91:ver
+content/28. Resumen Fase 1.md:93:acrecienten
+content/28. Resumen Fase 1.md:93:aplicación
+content/28. Resumen Fase 1.md:93:asegurar
+content/28. Resumen Fase 1.md:93:calidad
+content/28. Resumen Fase 1.md:93:cambio
+content/28. Resumen Fase 1.md:93:cambios
+content/28. Resumen Fase 1.md:93:dependencia
+content/28. Resumen Fase 1.md:93:efectando
+content/28. Resumen Fase 1.md:93:esfuerzos
+content/28. Resumen Fase 1.md:93:esta
+content/28. Resumen Fase 1.md:93:Esto
+content/28. Resumen Fase 1.md:93:evolutivos
+content/28. Resumen Fase 1.md:93:grado
+content/28. Resumen Fase 1.md:93:implica
+content/28. Resumen Fase 1.md:93:mantenimiento
+content/28. Resumen Fase 1.md:93:mismo
+content/28. Resumen Fase 1.md:93:optimización
+content/28. Resumen Fase 1.md:93:portafolio
+content/28. Resumen Fase 1.md:93:realizar
+content/28. Resumen Fase 1.md:93:relaciones
+content/28. Resumen Fase 1.md:93:requiere
+content/28. Resumen Fase 1.md:93:servicios
+content/28. Resumen Fase 1.md:93:SOA
+content/28. Resumen Fase 1.md:93:tenga
+content/28. Resumen Fase 1.md:93:termina
+content/28. Resumen Fase 1.md:93:tiempo
+content/28. Resumen Fase 1.md:93:una
+content/28. Resumen Fase 1.md:95:aplicaciones
+content/28. Resumen Fase 1.md:95:entre
+content/28. Resumen Fase 1.md:95:Fondo
+content/28. Resumen Fase 1.md:95:portafolio
+content/28. Resumen Fase 1.md:95:relaciones
+content/28. Resumen Fase 1.md:95:Relaciones
+content/28. Resumen Fase 1.md:95:servicios
+content/28. Resumen Fase 1.md:95:servicios
+content/28. Resumen Fase 1.md:95:SOA
+content/28. Resumen Fase 1.md:99:FNA
+content/28. Resumen Fase 1.md:99:Imagen
+content/28. Resumen Fase 1.md:99:Interdependencias
+content/28. Resumen Fase 1.md:99:Portafolio
+content/28. Resumen Fase 1.md:101:FNA
+content/28. Resumen Fase 1.md:101:Portafolio
+content/28. Resumen Fase 1.md:101:Servvicios
+content/28. Resumen Fase 1.md:101:Unificado
+content/28. Resumen Fase 1.md:105:Crédito
+content/28. Resumen Fase 1.md:105:Débil
+content/28. Resumen Fase 1.md:105:negocio
+content/28. Resumen Fase 1.md:105:Operaciones
+content/28. Resumen Fase 1.md:105:Relación
+content/28. Resumen Fase 1.md:105:requerimientos
+content/28. Resumen Fase 1.md:106:administrar
+content/28. Resumen Fase 1.md:106:aplicaciones
+content/28. Resumen Fase 1.md:106:cantidad
+content/28. Resumen Fase 1.md:106:Catálogo
+content/28. Resumen Fase 1.md:106:contrario
+content/28. Resumen Fase 1.md:106:creciente
+content/28. Resumen Fase 1.md:106:Crédito
+content/28. Resumen Fase 1.md:106:evidenciada
+content/28. Resumen Fase 1.md:106:FNA
+content/28. Resumen Fase 1.md:106:FNA
+content/28. Resumen Fase 1.md:106:más
+content/28. Resumen Fase 1.md:106:modelos
+content/28. Resumen Fase 1.md:106:nivel
+content/28. Resumen Fase 1.md:106:Operaciones
+content/28. Resumen Fase 1.md:106:por
+content/28. Resumen Fase 1.md:106:Por
+content/28. Resumen Fase 1.md:106:relación
+content/28. Resumen Fase 1.md:106:relaciones
+content/28. Resumen Fase 1.md:106:relaciones
+content/28. Resumen Fase 1.md:106:requerimientos
+content/28. Resumen Fase 1.md:106:servicios
+content/28. Resumen Fase 1.md:106:servicios
+content/28. Resumen Fase 1.md:106:servicios
+content/28. Resumen Fase 1.md:106:Servicios
+content/28. Resumen Fase 1.md:106:último
+content/28. Resumen Fase 1.md:106:ver
+content/28. Resumen Fase 1.md:106:vicepresidencia
+content/28. Resumen Fase 1.md:106:vicepresidencias
+content/28. Resumen Fase 1.md:108:afecta
+content/28. Resumen Fase 1.md:108:áreas
+content/28. Resumen Fase 1.md:108:áreas
+content/28. Resumen Fase 1.md:108:áreas
+content/28. Resumen Fase 1.md:108:áreas
+content/28. Resumen Fase 1.md:108:baja
+content/28. Resumen Fase 1.md:108:complica
+content/28. Resumen Fase 1.md:108:consumiento
+content/28. Resumen Fase 1.md:108:demanda
+content/28. Resumen Fase 1.md:108:eficacia
+content/28. Resumen Fase 1.md:108:empieza
+content/28. Resumen Fase 1.md:108:gestión
+content/28. Resumen Fase 1.md:108:intermediarios
+content/28. Resumen Fase 1.md:108:llenarse
+content/28. Resumen Fase 1.md:108:mayores
+content/28. Resumen Fase 1.md:108:negocio
+content/28. Resumen Fase 1.md:108:negocio
+content/28. Resumen Fase 1.md:108:portafolio
+content/28. Resumen Fase 1.md:108:recursos
+content/28. Resumen Fase 1.md:108:relación
+content/28. Resumen Fase 1.md:108:requerimientos
+content/28. Resumen Fase 1.md:108:responden
+content/28. Resumen Fase 1.md:108:servicios
+content/28. Resumen Fase 1.md:108:servicios
+content/28. Resumen Fase 1.md:108:servicios
+content/28. Resumen Fase 1.md:108:servicios
+content/28. Resumen Fase 1.md:108:sus
+content/28. Resumen Fase 1.md:108:terminan
+content/28. Resumen Fase 1.md:108:términos
+content/28. Resumen Fase 1.md:108:tipo
+content/28. Resumen Fase 1.md:108:utilitarios
+content/28. Resumen Fase 1.md:112:Arquitectura
+content/28. Resumen Fase 1.md:112:Desarrollo
+content/28. Resumen Fase 1.md:112:referencia
+content/28. Resumen Fase 1.md:113:capacidad
+content/28. Resumen Fase 1.md:113:capacidades
+content/28. Resumen Fase 1.md:113:carecen
+content/28. Resumen Fase 1.md:113:cómo
+content/28. Resumen Fase 1.md:113:conectores
+content/28. Resumen Fase 1.md:113:conexiones
+content/28. Resumen Fase 1.md:113:controlar
+content/28. Resumen Fase 1.md:113:dificulta
+content/28. Resumen Fase 1.md:113:entre
+content/28. Resumen Fase 1.md:113:estándares
+content/28. Resumen Fase 1.md:113:Esto
+content/28. Resumen Fase 1.md:113:FNA
+content/28. Resumen Fase 1.md:113:FNA
+content/28. Resumen Fase 1.md:113:impacta
+content/28. Resumen Fase 1.md:113:información
+content/28. Resumen Fase 1.md:113:involucradas
+content/28. Resumen Fase 1.md:113:manera
+content/28. Resumen Fase 1.md:113:modelos
+content/28. Resumen Fase 1.md:113:negocio
+content/28. Resumen Fase 1.md:113:otra
+content/28. Resumen Fase 1.md:113:soporta
+content/28. Resumen Fase 1.md:113:tecnologías
+content/28. Resumen Fase 1.md:113:una
+content/28. Resumen Fase 1.md:113:vez
+content/28. Resumen Fase 1.md:115:capacidades
+content/28. Resumen Fase 1.md:115:composición
+content/28. Resumen Fase 1.md:115:crecimiento
+content/28. Resumen Fase 1.md:115:el
+content/28. Resumen Fase 1.md:115:Esto
+content/28. Resumen Fase 1.md:115:evidenciable
+content/28. Resumen Fase 1.md:115:expensas
+content/28. Resumen Fase 1.md:115:gestión
+content/28. Resumen Fase 1.md:115:impacta
+content/28. Resumen Fase 1.md:115:negocio
+content/28. Resumen Fase 1.md:115:negocio
+content/28. Resumen Fase 1.md:115:particularmente
+content/28. Resumen Fase 1.md:115:portafolio
+content/28. Resumen Fase 1.md:115:relación
+content/28. Resumen Fase 1.md:115:servicios
+content/28. Resumen Fase 1.md:115:servicios
+content/28. Resumen Fase 1.md:115:servicios
+content/28. Resumen Fase 1.md:115:SOA
+content/28. Resumen Fase 1.md:115:tipos
+content/28. Resumen Fase 1.md:115:utilitarios
