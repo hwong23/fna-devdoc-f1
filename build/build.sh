@@ -27,9 +27,7 @@ COMMIT="${TRIGGERING_SHA_7}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
-
 export FECHA_COMPILACION COMMIT
-
 
 # Generate reference information
 echo >&2 "Retrieving and processing reference metadata"
@@ -42,6 +40,10 @@ manubot process \
 
 # Make output directory
 mkdir -p output
+
+# Add commit hash to the manuscript
+envsubst < output/manuscript.md > output/manuscript.hash
+mv output/manuscript.hash output/manuscript.md
 
 # Create HTML output
 # https://pandoc.org/MANUAL.html
