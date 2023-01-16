@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-16" />
   <meta name="citation_publication_date" content="2023-01-16" />
   <meta property="article:published_time" content="2023-01-16" />
-  <meta name="dc.modified" content="2023-01-16T15:45:56+00:00" />
-  <meta property="article:modified_time" content="2023-01-16T15:45:56+00:00" />
+  <meta name="dc.modified" content="2023-01-16T19:42:31+00:00" />
+  <meta property="article:modified_time" content="2023-01-16T19:42:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/90c0809b89f5981b00d8257301bcd0474267cc42/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/90c0809b89f5981b00d8257301bcd0474267cc42/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/90c0809b89f5981b00d8257301bcd0474267cc42/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/f01c3ce8443db672c10311a6c598c08de92f25f6/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/f01c3ce8443db672c10311a6c598c08de92f25f6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/f01c3ce8443db672c10311a6c598c08de92f25f6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -107,14 +107,14 @@ La arquitectura, organizada por vistas, es el medio de trabajo común entre nego
 
 *** 
 
-SHA 90c0809
+SHA f01c3ce
 
 |Tema|Vista de Contexto: **Objetivos del Diagnóstico SOA y Productos, Áreas, y Procesos FNA Objeto del Diagnóstico**|
 |----|---------------------------------------------------------------------------|
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -146,7 +146,6 @@ Estos objetivos fueron seleccionados según la relación valor entregado y tiemp
 Estos objetivos también son imporatntes porque sirven a la vez como los objetos de los diagnósticos que realizaremos en este poryecto de consultoría. 
 
 ## Productos del FNA Objetos del Diagnóstico
-
 Esta consultoría considera como entradas para los diagnósticos a los productos de negocio del FNA siguientes:
 
 1. Cuenta AVC (ahorro voluntario)
@@ -157,7 +156,6 @@ Esta consultoría considera como entradas para los diagnósticos a los productos
 Los demás productos de negocio del FNA serán tratados únicamente cuando su relación con estos los haga relevantes según los requiera o bien un diagnóstico, o bien los objetivos de esta consultoría y del Fondo.
 
 ## Áreas de Negocio del FNA Objetos del Diagnóstico
-
 Con base a los productos de negocio de la FNA seleccionados, las áreas del FNA que competen a esta consultoría y a los objetivos de los diagnósticos son: 
 
 1. Vicepresidencia de Crédito
@@ -165,25 +163,28 @@ Con base a los productos de negocio de la FNA seleccionados, las áreas del FNA 
 
 La áreas debajo de estas, como por ejemplo, la Gerencia de Crédito Individual para el caso de la primera, o la Gerencia de Cartera, serán relacionadas en tanto se vean impactadas por un diagnóstico en marcha, o los objetivos de este consultoría y del Fondo.
 
-### Referencia
+<br>
 
+### Referencia 1
+ 
 ![](images/OrganigramaFNA27julio.jpg)
 
-
+<br>
 
 ## Procesos de Negocio Objetos del Diagnóstico
 Los procesos de negocio seleccionados por este proyecto SOA son aquellos relacionados con los productos de negocio objetos de esta consultoría, por ejemplo,
 
 1. PROC1. Administración de Cuentas y Pago de Cesantías (CSNT)
-2. PROC2. Gestión Crédito
+1. PROC2. Gestión Crédito
     - PROC2.1. Gestión Crédito Educativo
     - PROC2.2. Gestión Crédito Hipotecario
     - PROC2.3. Gestión Crédito Constructor
-3. PROC3. Facturación y Cartera
+1. PROC3. Facturación y Cartera
+Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)).
 
+<br>
 
-
-### Referencia
+### Referencia 2
 
 ![](images/image_2.370ae998.png)
 
@@ -197,7 +198,7 @@ Los procesos de negocio seleccionados por este proyecto SOA son aquellos relacio
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -258,7 +259,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -272,13 +273,13 @@ La vista funcional presenta los servicios que deben hacer parte del portafolio d
 
 _Fuente: elaboración propia._
 
->La vista funcional es importante porque presenta los _servicios SOA independientes de la tecnología y de proveedor_. Sirve a la vez como instrumento para controlar la alineación del portafolio de servicios con las áreas de negocio objeto de este diagnóstico. Con la vista funcional SOA podremos más adelante soportar a las áreas y a los requerimientos claves del FNA.
+>La vista funcional es importante porque presenta los _servicios SOA independientes de la tecnología y de proveedor_ que soportan a las áreas del FNA objeto de este diagnóstico. Por esta razón, esta vista sirve también como instrumento para _controlar la alineación del portafolio de servicios con las áreas de negocio de la empresa FNA_ objeto de este diagnóstico. Con la vista funcional SOA podremos más adelante soportar a las áreas y a los requerimientos claves del FNA.
 
 <br>
 
-Resaltamos que a partir de esta vista es necesario establecer las relaciones internas de esta arquitectura de referencia con las partes de la empresa que hacen parte de la vista de segmento (ver [N003a Vista Segmento SOA FNA](N003a%20Vista.md)) que es una colección de las partes clave de la empresa y que a la vez son relevantes para este diagnóstico. 
+Resaltamos que a partir de esta vista es necesario establecer las relaciones internas de esta arquitectura de referencia con las partes de la empresa que hacen parte de la vista de segmento (ver [N003a Vista Segmento SOA FNA](N003a%20Vista.md)), que es una colección de las partes clave de la empresa y que a la vez son relevantes para este diagnóstico. 
 
-El ejercicio siguiente listar los conectores necesarios para conectar estas capacidades e intersectar la vista funcional con la de segmento para desarrollar el segmento de partes del FNA que le van a dar cumplimiento a esta arquitectura de referencia.
+Una vez mostramos las capacidades SOA que soportan a las áreas de negocio objeto de este diagnóstico, el ejercicio siguiente es listar los conectores necesarios para articular estas capacidades. Esta vista debemos intersectarla con la vista de segmento de la empresa ([01a2.Vista Segmento SOA FNA](01a2.Vista Segmento SOA FNA)) para desarrollar las partes del FNA con la que vamos a dar cumplimiento a esta arquitectura de referencia.
 
 <br>
 
@@ -292,7 +293,7 @@ Describimos las características de estos conectores con los siguientes ejemplos
 
 _Fuente: elaboración propia._
 
-**Importante**. La vista funcional muestra que existe poca información de los conectores entre las capacidades de negocio del FNA. Esto impacta la manera cómo una capacidad soporta a otra, a la vez que dificulta el controlar las tecnologías involucradas en tales conexiones.
+**Importante**. Los modelos del FNA carecen de información de los conectores entre las capacidades de negocio del FNA. Esto impacta la manera cómo una capacidad soporta a otra, a la vez que dificulta controlar las tecnologías y estándares involucradas en tales conexiones.
 
 
 |Tema|Catálogo de Servicios SOA: **Servicios SOA relevantes al diagnóstico**
@@ -300,7 +301,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -400,7 +401,7 @@ _Fuente: arquitectura fna.archimate_
 |Palabras clave|SOA, Áreas de Negocio, Procesos
 |Autor||
 |Fuente|Modelos de arquitectura FNA |
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -482,7 +483,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -730,7 +731,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -793,7 +794,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -903,7 +904,7 @@ _Fuente: InventarioAplicacionesFNA.xlsx_
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1193,7 +1194,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1440,7 +1441,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1590,7 +1591,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1838,7 +1839,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1883,7 +1884,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2019,7 +2020,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2083,7 +2084,7 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2162,7 +2163,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2209,7 +2210,7 @@ Es necesaria una mayor integración del área de Infraestructura con los reposit
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2258,16 +2259,16 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Análisis de Alineación con Negocio FNA
-El nivel de alineación tecnología, negocio lo evidenciamos en dos vías. La primera, mediante la relación de las capacidades de negocio con los servicios SOA, y la segunda, por medio del tipo de población de servicios del portafolio del FNA.
+El nivel de alineación tecnología-negocio lo evidenciamos en dos vías. La primera, mediante la relación de las capacidades de negocio con los servicios SOA. La segunda, por medio de la sistribución de población de servicios en el portafolio del FNA, esto es, la cuenta de servicios por tipo.
 
 ### Alineación Mediante la Relación Capacidades-Servicios SOA
-Para conseguir la alineación definitiva de negocio del FNA, de las áreas seleccionadas por este ejercicio, y de los requerimientos funcionales y de mejora con los servicios SOA _es imperativo desarrollar el modelo de capacidades de negocio del FNA_. Desarrollar formalmente el modelo de capacidades, y profundizar en sus relaciones con las demás partes de la empresa, que incluye a los servicios SOA, hace posible enfocar los esfuerzos, los análisis, asignar recursos y aplicar controles únicamente en aquellas partes más cercanas a estas capacidades, que por ende deben ser las tiene liberan el mayor positivo para el Fondo. Lo contrario a esto sería desarrollar todo lo que sea percibido en su momento como lo importante, y cambiar de objetivo cuando surja uno que tenga mejor percepción.
+Para conseguir la alineación definitiva de negocio del FNA, de las áreas seleccionadas por este ejercicio, y de los requerimientos funcionales y de mejora con los servicios SOA _es imperativo desarrollar el modelo de capacidades de negocio del FNA_. Desarrollar formalmente el modelo de capacidades, y profundizar en sus relaciones con las demás partes de la empresa, que incluye a los servicios SOA, hace posible el enfocar los esfuerzos, los análisis, asignar recursos y aplicar controles exclusivos en aquellas partes más cercanas a estas capacidades, y que por ende son las tienden a liberan el mayor valor e impacto positivo para el Fondo. Lo contrario a esto sería desarrollar todo basado en la percepción: desarrollar todo lo que sea percibido en su momento como importante, y después cambiar de objetivo cuando surja uno que tenga mejor percepción.
 
 Desarrollar las capacidades de negocio del FNA beneficia también al desarrollo y selección de las tecnologías del FNA; particularmente a la arquitectura SOA que es objeto de este diagnóstico. Una vez el cuente con las capacidades de negocio tanto de la vicepresidencia de Crédito como con la de Operaciones es fácil gestionar las capacidades y los requerimientos de los servicios SOA, y describir con ello más detalles de una posibilidad de la arquitectura de referencia que sirva como hoja de ruta para seguir mejorando la empresa.
 
@@ -2286,7 +2287,7 @@ _Fuente: elaboración propia_.
 <br>
 
 ### Alineación Mediante Clasificación del Portafolio de Servicios SOA del FNA
-El otro indicio de alineación SOa con el negocio viene esta vez de mano del portafolio de servicios del Fondo. _Viendo la tabla de la distribución actual de los servicios del portafolio es notable que se encuentra inclinada hacia los servicios de información_. Esto puede significar que las necesidades de negocio de las vicepresidencias de Crédito y de Operaciones están siendo satisfechas en mayor grado por este tipo de servicios, que con servicios de negocio o de proceso.
+El otro indicio de alineación SOA con el negocio viene esta vez de mano del portafolio de servicios del Fondo. _Viendo la tabla de la distribución actual de los servicios del portafolio sobresale que se encuentra inclinada hacia los servicios de información_. Esto puede significar que las necesidades de negocio de las vicepresidencias de Crédito y de Operaciones están siendo satisfechas en mayor grado por este tipo de servicios, que con servicios de negocio o de proceso.
 
 |||
 |---------------|:--:|
@@ -2306,7 +2307,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 
 <br>
 
->**Nota**. Los requerimientos de servicios de las áreas vicepresidencias de Crédito y de Operaciones son en mayoría de transporte, integración y consulta de datos cuando la flexibilidad de negocio está más centrada en los servicios de proceso y de negocio.
+>**Nota**. Los requerimientos de servicios de las áreas vicepresidencias de Crédito y de Operaciones son en mayoría de transporte, integración y consulta de datos cuando la flexibilidad de negocio está más basada en los servicios de proceso y de negocio.
 
 
 
@@ -2315,7 +2316,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2355,7 +2356,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2395,7 +2396,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2436,7 +2437,7 @@ Según el diagnóstico de la situación actual del FNA, el futuro gobierno SOA, 
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2476,7 +2477,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2599,7 +2600,7 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|90c0809 del 16 Jan 2023|
+|Version|f01c3ce del 16 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2693,5 +2694,56 @@ Esta Norma Internacional contiene tres partes:
 | N003   | Guía Técnica de Información - Gobierno del dato                                                                                           | 2019    | liena           |
 | N004   | ISO/IEC 18384-1:2016(en)<br>Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA) | 2016    | liena           |
 | n5     | des                                                                                                                                       | 111     | liena           |
+
+
+
+Relación servicios - procesos del FNA
+[Procesos de Negocio Objetos del Diagnóstico](01a1.VistadeContexto.docx). 
+
+
+## Alineación Mediante la Relación Capacidades-Servicios SOA
+Para conseguir la alineación definitiva de negocio del FNA, de las áreas seleccionadas por este ejercicio, y de los requerimientos funcionales y de mejora con los servicios SOA _es imperativo desarrollar el modelo de capacidades de negocio del FNA_. Desarrollar formalmente el modelo de capacidades, y profundizar en sus relaciones con las demás partes de la empresa, que incluye a los servicios SOA, hace posible el enfocar los esfuerzos, los análisis, asignar recursos y aplicar controles exclusivos en aquellas partes más cercanas a estas capacidades, y que por ende son las tienden a liberan el mayor valor e impacto positivo para el Fondo. Lo contrario a esto sería desarrollar todo basado en la percepción: desarrollar todo lo que sea percibido en su momento como importante, y después cambiar de objetivo cuando surja uno que tenga mejor percepción.
+
+
+![](images/conclusiones-2.png)
+
+[Imagen.]() Desarrollo y profundización de las capacidades del FNA propuestas. Existen pocas las relaciones entre las capacidades de negocio y los servicios SOA del Fondo.
+
+<br>
+
+## Alineación Mediante Clasificación del Portafolio de Servicios SOA del FNA
+El otro indicio de alineación SOA con el negocio viene esta vez de mano del portafolio de servicios del Fondo. _Viendo la tabla de la distribución actual de los servicios del portafolio sobresale que se encuentra inclinada hacia los servicios de información_. Esto puede significar que las necesidades de negocio de las vicepresidencias de Crédito y de Operaciones están siendo satisfechas en mayor grado por este tipo de servicios, que con servicios de negocio o de proceso.
+
+|||
+|---------------|:--:|
+|**Tipo Servicio**|**Cantidad**|
+|Servicio Información|**55**|
+|Servicio Proceso|18|
+|Servicio Negocio|14|
+|**Total general**|**87**|
+
+[Tabla.]() Catalogación de los tipos de servicios SOA del FNA.
+
+<br>
+
+
+
+*** 
+## Procesos de Negocio Objetos del Diagnóstico
+No es evidenciable en los modelos del FNA la trazabilidad de implementación, ni la trazabilidad de cambios en los servicios con los procesos de negocio elegidos por este diagnóstico (PROC1. Administración de Cuentas y Pago de Cesantías, PROC2. Gestión Crédito, PROC3. Facturación y Cartera. Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)). Esto impacta la gestión y nivel de utilización de la infraestructura SOA del FNA, como es el caso de los componentes Process Server y del bus.
+
+1. PROC1. Administración de Cuentas y Pago de Cesantías (CSNT)
+2. PROC2. Gestión Crédito
+    - PROC2.1. Gestión Crédito Educativo
+    - PROC2.2. Gestión Crédito Hipotecario
+    - PROC2.3. Gestión Crédito Constructor
+3. PROC3. Facturación y Cartera
+
+
+## Vista Funcional (arquitectura de referencia)
+Los modelos del FNA carecen de información de los conectores entre las capacidades de negocio del FNA. Esto impacta la manera cómo una capacidad soporta a otra, a la vez que dificulta controlar las tecnologías y estándares involucradas en tales conexiones.
+
+No es evidenciable la relación de capacidades de negocio y los servicios SOA. Esto impacta a la gestión del portafolio de servicios, particularmente, el crecimiento de los tipos de servicios utilitarios a expensas de los de negocio y composición. 
+
 
 

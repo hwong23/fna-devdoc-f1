@@ -184,91 +184,91 @@ content/01a1.Vista de Contexto.md:39:Diagnóstico
 content/01a1.Vista de Contexto.md:39:FNA
 content/01a1.Vista de Contexto.md:39:Objetos
 content/01a1.Vista de Contexto.md:39:Productos
-content/01a1.Vista de Contexto.md:41:considera
-content/01a1.Vista de Contexto.md:41:consultoría
-content/01a1.Vista de Contexto.md:41:diagnósticos
-content/01a1.Vista de Contexto.md:41:entradas
-content/01a1.Vista de Contexto.md:41:Esta
-content/01a1.Vista de Contexto.md:41:FNA
-content/01a1.Vista de Contexto.md:41:negocio
-content/01a1.Vista de Contexto.md:41:productos
-content/01a1.Vista de Contexto.md:41:siguientes
-content/01a1.Vista de Contexto.md:43:ahorro
-content/01a1.Vista de Contexto.md:43:AVC
-content/01a1.Vista de Contexto.md:43:Cuenta
-content/01a1.Vista de Contexto.md:43:voluntario
-content/01a1.Vista de Contexto.md:44:Cesantías
-content/01a1.Vista de Contexto.md:45:Crédito
-content/01a1.Vista de Contexto.md:46:Cartera
-content/01a1.Vista de Contexto.md:48:bien
-content/01a1.Vista de Contexto.md:48:bien
-content/01a1.Vista de Contexto.md:48:consultoría
-content/01a1.Vista de Contexto.md:48:cuando
-content/01a1.Vista de Contexto.md:48:demás
-content/01a1.Vista de Contexto.md:48:diagnóstico
-content/01a1.Vista de Contexto.md:48:esta
-content/01a1.Vista de Contexto.md:48:estos
-content/01a1.Vista de Contexto.md:48:FNA
-content/01a1.Vista de Contexto.md:48:Fondo
-content/01a1.Vista de Contexto.md:48:haga
-content/01a1.Vista de Contexto.md:48:negocio
-content/01a1.Vista de Contexto.md:48:objetivos
-content/01a1.Vista de Contexto.md:48:productos
-content/01a1.Vista de Contexto.md:48:relación
-content/01a1.Vista de Contexto.md:48:relevantes
-content/01a1.Vista de Contexto.md:48:requiera
-content/01a1.Vista de Contexto.md:48:según
-content/01a1.Vista de Contexto.md:48:serán
-content/01a1.Vista de Contexto.md:48:su
-content/01a1.Vista de Contexto.md:48:tratados
-content/01a1.Vista de Contexto.md:48:únicamente
-content/01a1.Vista de Contexto.md:50:Áreas
-content/01a1.Vista de Contexto.md:50:Áreas
-content/01a1.Vista de Contexto.md:50:Diagnóstico
+content/01a1.Vista de Contexto.md:40:considera
+content/01a1.Vista de Contexto.md:40:consultoría
+content/01a1.Vista de Contexto.md:40:diagnósticos
+content/01a1.Vista de Contexto.md:40:entradas
+content/01a1.Vista de Contexto.md:40:Esta
+content/01a1.Vista de Contexto.md:40:FNA
+content/01a1.Vista de Contexto.md:40:negocio
+content/01a1.Vista de Contexto.md:40:productos
+content/01a1.Vista de Contexto.md:40:siguientes
+content/01a1.Vista de Contexto.md:42:ahorro
+content/01a1.Vista de Contexto.md:42:AVC
+content/01a1.Vista de Contexto.md:42:Cuenta
+content/01a1.Vista de Contexto.md:42:voluntario
+content/01a1.Vista de Contexto.md:43:Cesantías
+content/01a1.Vista de Contexto.md:44:Crédito
+content/01a1.Vista de Contexto.md:45:Cartera
+content/01a1.Vista de Contexto.md:47:bien
+content/01a1.Vista de Contexto.md:47:bien
+content/01a1.Vista de Contexto.md:47:consultoría
+content/01a1.Vista de Contexto.md:47:cuando
+content/01a1.Vista de Contexto.md:47:demás
+content/01a1.Vista de Contexto.md:47:diagnóstico
+content/01a1.Vista de Contexto.md:47:esta
+content/01a1.Vista de Contexto.md:47:estos
+content/01a1.Vista de Contexto.md:47:FNA
+content/01a1.Vista de Contexto.md:47:Fondo
+content/01a1.Vista de Contexto.md:47:haga
+content/01a1.Vista de Contexto.md:47:negocio
+content/01a1.Vista de Contexto.md:47:objetivos
+content/01a1.Vista de Contexto.md:47:productos
+content/01a1.Vista de Contexto.md:47:relación
+content/01a1.Vista de Contexto.md:47:relevantes
+content/01a1.Vista de Contexto.md:47:requiera
+content/01a1.Vista de Contexto.md:47:según
+content/01a1.Vista de Contexto.md:47:serán
+content/01a1.Vista de Contexto.md:47:su
+content/01a1.Vista de Contexto.md:47:tratados
+content/01a1.Vista de Contexto.md:47:únicamente
+content/01a1.Vista de Contexto.md:49:Áreas
+content/01a1.Vista de Contexto.md:49:Áreas
+content/01a1.Vista de Contexto.md:49:Diagnóstico
+content/01a1.Vista de Contexto.md:49:FNA
+content/01a1.Vista de Contexto.md:49:Negocio
+content/01a1.Vista de Contexto.md:49:Objetos
+content/01a1.Vista de Contexto.md:50:áreas
+content/01a1.Vista de Contexto.md:50:áreas
+content/01a1.Vista de Contexto.md:50:competen
+content/01a1.Vista de Contexto.md:50:consultoría
+content/01a1.Vista de Contexto.md:50:diagnósticos
+content/01a1.Vista de Contexto.md:50:esta
 content/01a1.Vista de Contexto.md:50:FNA
-content/01a1.Vista de Contexto.md:50:Negocio
-content/01a1.Vista de Contexto.md:50:Objetos
-content/01a1.Vista de Contexto.md:52:áreas
-content/01a1.Vista de Contexto.md:52:áreas
-content/01a1.Vista de Contexto.md:52:competen
-content/01a1.Vista de Contexto.md:52:consultoría
-content/01a1.Vista de Contexto.md:52:diagnósticos
-content/01a1.Vista de Contexto.md:52:esta
-content/01a1.Vista de Contexto.md:52:FNA
-content/01a1.Vista de Contexto.md:52:FNA
-content/01a1.Vista de Contexto.md:52:negocio
-content/01a1.Vista de Contexto.md:52:objetivos
-content/01a1.Vista de Contexto.md:52:productos
-content/01a1.Vista de Contexto.md:52:seleccionados
-content/01a1.Vista de Contexto.md:54:Crédito
-content/01a1.Vista de Contexto.md:54:Vicepresidencia
-content/01a1.Vista de Contexto.md:55:Operaciones
-content/01a1.Vista de Contexto.md:55:Vicepresidencia
-content/01a1.Vista de Contexto.md:57:áreas
-content/01a1.Vista de Contexto.md:57:áreas
-content/01a1.Vista de Contexto.md:57:Cartera
-content/01a1.Vista de Contexto.md:57:caso
-content/01a1.Vista de Contexto.md:57:consultoría
-content/01a1.Vista de Contexto.md:57:Crédito
-content/01a1.Vista de Contexto.md:57:debajo
-content/01a1.Vista de Contexto.md:57:diagnóstico
-content/01a1.Vista de Contexto.md:57:ejemplo
-content/01a1.Vista de Contexto.md:57:el
-content/01a1.Vista de Contexto.md:57:estas
-content/01a1.Vista de Contexto.md:57:este
-content/01a1.Vista de Contexto.md:57:Fondo
-content/01a1.Vista de Contexto.md:57:Gerencia
-content/01a1.Vista de Contexto.md:57:Gerencia
-content/01a1.Vista de Contexto.md:57:impactadas
-content/01a1.Vista de Contexto.md:57:marcha
-content/01a1.Vista de Contexto.md:57:objetivos
-content/01a1.Vista de Contexto.md:57:por
-content/01a1.Vista de Contexto.md:57:por
-content/01a1.Vista de Contexto.md:57:primera
-content/01a1.Vista de Contexto.md:57:relacionadas
-content/01a1.Vista de Contexto.md:57:serán
-content/01a1.Vista de Contexto.md:57:tanto
-content/01a1.Vista de Contexto.md:57:vean
+content/01a1.Vista de Contexto.md:50:FNA
+content/01a1.Vista de Contexto.md:50:negocio
+content/01a1.Vista de Contexto.md:50:objetivos
+content/01a1.Vista de Contexto.md:50:productos
+content/01a1.Vista de Contexto.md:50:seleccionados
+content/01a1.Vista de Contexto.md:52:Crédito
+content/01a1.Vista de Contexto.md:52:Vicepresidencia
+content/01a1.Vista de Contexto.md:53:Operaciones
+content/01a1.Vista de Contexto.md:53:Vicepresidencia
+content/01a1.Vista de Contexto.md:55:áreas
+content/01a1.Vista de Contexto.md:55:áreas
+content/01a1.Vista de Contexto.md:55:Cartera
+content/01a1.Vista de Contexto.md:55:caso
+content/01a1.Vista de Contexto.md:55:consultoría
+content/01a1.Vista de Contexto.md:55:Crédito
+content/01a1.Vista de Contexto.md:55:debajo
+content/01a1.Vista de Contexto.md:55:diagnóstico
+content/01a1.Vista de Contexto.md:55:ejemplo
+content/01a1.Vista de Contexto.md:55:el
+content/01a1.Vista de Contexto.md:55:estas
+content/01a1.Vista de Contexto.md:55:este
+content/01a1.Vista de Contexto.md:55:Fondo
+content/01a1.Vista de Contexto.md:55:Gerencia
+content/01a1.Vista de Contexto.md:55:Gerencia
+content/01a1.Vista de Contexto.md:55:impactadas
+content/01a1.Vista de Contexto.md:55:marcha
+content/01a1.Vista de Contexto.md:55:objetivos
+content/01a1.Vista de Contexto.md:55:por
+content/01a1.Vista de Contexto.md:55:por
+content/01a1.Vista de Contexto.md:55:primera
+content/01a1.Vista de Contexto.md:55:relacionadas
+content/01a1.Vista de Contexto.md:55:serán
+content/01a1.Vista de Contexto.md:55:tanto
+content/01a1.Vista de Contexto.md:55:vean
 content/01a1.Vista de Contexto.md:59:Referencia
 content/01a1.Vista de Contexto.md:65:Diagnóstico
 content/01a1.Vista de Contexto.md:65:Negocio
@@ -307,7 +307,9 @@ content/01a1.Vista de Contexto.md:72:Crédito
 content/01a1.Vista de Contexto.md:72:Gestión
 content/01a1.Vista de Contexto.md:73:Cartera
 content/01a1.Vista de Contexto.md:73:Facturación
-content/01a1.Vista de Contexto.md:77:Referencia
+content/01a1.Vista de Contexto.md:74:Contexto
+content/01a1.Vista de Contexto.md:74:Ver
+content/01a1.Vista de Contexto.md:78:Referencia
 content/01a2.Vista Segmento SOA FNA.md:1:Contexto
 content/01a2.Vista Segmento SOA FNA.md:1:empresa
 content/01a2.Vista Segmento SOA FNA.md:1:FNA
@@ -650,10 +652,17 @@ content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:áreas
+content/01a3.Vista funcional.md:20:áreas
+content/01a3.Vista funcional.md:20:áreas
 content/01a3.Vista funcional.md:20:claves
-content/01a3.Vista funcional.md:20:controlar
 content/01a3.Vista funcional.md:20:diagnóstico
+content/01a3.Vista funcional.md:20:diagnóstico
+content/01a3.Vista funcional.md:20:empresa
+content/01a3.Vista funcional.md:20:esta
+content/01a3.Vista funcional.md:20:esta
 content/01a3.Vista funcional.md:20:este
+content/01a3.Vista funcional.md:20:este
+content/01a3.Vista funcional.md:20:FNA
 content/01a3.Vista funcional.md:20:FNA
 content/01a3.Vista funcional.md:20:funcional
 content/01a3.Vista funcional.md:20:funcional
@@ -663,18 +672,22 @@ content/01a3.Vista funcional.md:20:instrumento
 content/01a3.Vista funcional.md:20:más
 content/01a3.Vista funcional.md:20:negocio
 content/01a3.Vista funcional.md:20:objeto
+content/01a3.Vista funcional.md:20:objeto
 content/01a3.Vista funcional.md:20:podremos
+content/01a3.Vista funcional.md:20:Por
 content/01a3.Vista funcional.md:20:porque
 content/01a3.Vista funcional.md:20:portafolio
 content/01a3.Vista funcional.md:20:presenta
+content/01a3.Vista funcional.md:20:razón
 content/01a3.Vista funcional.md:20:requerimientos
 content/01a3.Vista funcional.md:20:servicios
-content/01a3.Vista funcional.md:20:Sirve
+content/01a3.Vista funcional.md:20:sirve
 content/01a3.Vista funcional.md:20:SOA
 content/01a3.Vista funcional.md:20:SOA
+content/01a3.Vista funcional.md:20:soportan
 content/01a3.Vista funcional.md:20:soportar
+content/01a3.Vista funcional.md:20:también
 content/01a3.Vista funcional.md:20:tecnología
-content/01a3.Vista funcional.md:20:vez
 content/01a3.Vista funcional.md:24:arquitectura
 content/01a3.Vista funcional.md:24:clave
 content/01a3.Vista funcional.md:24:colección
@@ -703,27 +716,45 @@ content/01a3.Vista funcional.md:24:SOA
 content/01a3.Vista funcional.md:24:una
 content/01a3.Vista funcional.md:24:ver
 content/01a3.Vista funcional.md:24:vez
+content/01a3.Vista funcional.md:26:áreas
+content/01a3.Vista funcional.md:26:áreas
 content/01a3.Vista funcional.md:26:arquitectura
 content/01a3.Vista funcional.md:26:capacidades
-content/01a3.Vista funcional.md:26:conectar
+content/01a3.Vista funcional.md:26:capacidades
 content/01a3.Vista funcional.md:26:conectores
 content/01a3.Vista funcional.md:26:cumplimiento
+content/01a3.Vista funcional.md:26:debemos
 content/01a3.Vista funcional.md:26:desarrollar
+content/01a3.Vista funcional.md:26:diagnóstico
 content/01a3.Vista funcional.md:26:ejercicio
 content/01a3.Vista funcional.md:26:el
-content/01a3.Vista funcional.md:26:El
+content/01a3.Vista funcional.md:26:empresa
 content/01a3.Vista funcional.md:26:esta
+content/01a3.Vista funcional.md:26:Esta
 content/01a3.Vista funcional.md:26:estas
+content/01a3.Vista funcional.md:26:este
 content/01a3.Vista funcional.md:26:FNA
-content/01a3.Vista funcional.md:26:funcional
-content/01a3.Vista funcional.md:26:intersectar
+content/01a3.Vista funcional.md:26:FNA
+content/01a3.Vista funcional.md:26:FNA
+content/01a3.Vista funcional.md:26:intersectarla
 content/01a3.Vista funcional.md:26:listar
+content/01a3.Vista funcional.md:26:mostramos
 content/01a3.Vista funcional.md:26:necesarios
+content/01a3.Vista funcional.md:26:negocio
+content/01a3.Vista funcional.md:26:objeto
 content/01a3.Vista funcional.md:26:partes
 content/01a3.Vista funcional.md:26:referencia
 content/01a3.Vista funcional.md:26:segmento
-content/01a3.Vista funcional.md:26:segmento
+content/01a3.Vista funcional.md:26:Segmento
+content/01a3.Vista funcional.md:26:Segmento
 content/01a3.Vista funcional.md:26:siguiente
+content/01a3.Vista funcional.md:26:SOA
+content/01a3.Vista funcional.md:26:SOA
+content/01a3.Vista funcional.md:26:SOA
+content/01a3.Vista funcional.md:26:soportan
+content/01a3.Vista funcional.md:26:Una
+content/01a3.Vista funcional.md:26:vamos
+content/01a3.Vista funcional.md:26:vez
 content/01a3.Vista funcional.md:30:arquitectura
 content/01a3.Vista funcional.md:30:Capacidades
 content/01a3.Vista funcional.md:30:Conectores
@@ -762,26 +793,25 @@ content/01a3.Vista funcional.md:38:elaboración
 content/01a3.Vista funcional.md:38:propia
 content/01a3.Vista funcional.md:40:capacidad
 content/01a3.Vista funcional.md:40:capacidades
+content/01a3.Vista funcional.md:40:carecen
 content/01a3.Vista funcional.md:40:cómo
 content/01a3.Vista funcional.md:40:conectores
 content/01a3.Vista funcional.md:40:conexiones
 content/01a3.Vista funcional.md:40:controlar
 content/01a3.Vista funcional.md:40:dificulta
-content/01a3.Vista funcional.md:40:el
 content/01a3.Vista funcional.md:40:entre
+content/01a3.Vista funcional.md:40:estándares
 content/01a3.Vista funcional.md:40:Esto
-content/01a3.Vista funcional.md:40:existe
 content/01a3.Vista funcional.md:40:FNA
-content/01a3.Vista funcional.md:40:funcional
+content/01a3.Vista funcional.md:40:FNA
 content/01a3.Vista funcional.md:40:impacta
 content/01a3.Vista funcional.md:40:Importante
 content/01a3.Vista funcional.md:40:información
 content/01a3.Vista funcional.md:40:involucradas
 content/01a3.Vista funcional.md:40:manera
-content/01a3.Vista funcional.md:40:muestra
+content/01a3.Vista funcional.md:40:modelos
 content/01a3.Vista funcional.md:40:negocio
 content/01a3.Vista funcional.md:40:otra
-content/01a3.Vista funcional.md:40:poca
 content/01a3.Vista funcional.md:40:soporta
 content/01a3.Vista funcional.md:40:tecnologías
 content/01a3.Vista funcional.md:40:una
@@ -7836,7 +7866,10 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:11:FNA
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:11:Negocio
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:alineación
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:capacidades
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:cuenta
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:el
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:El
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:esto
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:evidenciamos
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:FNA
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:mediante
@@ -7846,12 +7879,15 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:negocio
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:nivel
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:población
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:por
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:por
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:portafolio
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:primera
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:relación
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:segunda
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:servicios
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:servicios
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:sistribución
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:SOA
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:tecnología
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:12:tipo
@@ -7869,6 +7905,7 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:aquellas
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:áreas
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:áreas
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:asignar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:basado
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:cambiar
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:capacidades
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:capacidades
@@ -7878,13 +7915,15 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:consegui
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:contrario
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:controles
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:cuando
-content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:deben
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:definitiva
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:demás
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:desarrollar
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:desarrollar
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:Desarrollar
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:después
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:ejercicio
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:el
@@ -7896,11 +7935,13 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:esfuerzo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:estas
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:este
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:esto
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:exclusivos
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:FNA
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:Fondo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:formalmente
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:funcionales
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:hace
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:impacto
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:imperativo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:importante
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:incluye
@@ -7917,6 +7958,7 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:objetivo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:partes
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:partes
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:percepción
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:percepción
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:percibido
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:por
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:por
@@ -7927,7 +7969,6 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:recursos
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:relaciones
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:requerimientos
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:seleccionadas
-content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:ser
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:sería
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:servicios
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:servicios
@@ -7937,9 +7978,9 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:su
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:surja
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:sus
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:tenga
-content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:tiene
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:tienden
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:todo
-content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:únicamente
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:todo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:15:uno
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:arquitectura
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:17:arquitectura
@@ -8114,7 +8155,8 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicio
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:servicios
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:siendo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:significar
-content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:SOa
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:SOA
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:sobresale
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:tipo
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:vez
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:34:vicepresidencias
@@ -8169,7 +8211,7 @@ content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:tareas
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:50:una
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:áreas
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:áreas
-content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:centrada
+content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:basada
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:consulta
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:Crédito
 content/21. Fase 1 PR3 Resultado Diagnóstico Situación Actual-1.md:54:cuando
@@ -10067,3 +10109,282 @@ content/27b.Fase 1 PR4 SOA Normatividad SOA.md:98:SOA
 content/27b.Fase 1 PR4 SOA Normatividad SOA.md:98:Tecnología
 content/27b.Fase 1 PR4 SOA Normatividad SOA.md:99:des
 content/27b.Fase 1 PR4 SOA Normatividad SOA.md:99:liena
+content/28. Resumen Fase 1.md:1:FNA
+content/28. Resumen Fase 1.md:1:procesos
+content/28. Resumen Fase 1.md:1:Relación
+content/28. Resumen Fase 1.md:1:servicios
+content/28. Resumen Fase 1.md:2:Diagnóstico
+content/28. Resumen Fase 1.md:2:Negocio
+content/28. Resumen Fase 1.md:2:Objetos
+content/28. Resumen Fase 1.md:2:Procesos
+content/28. Resumen Fase 1.md:5:Alineación
+content/28. Resumen Fase 1.md:5:Capacidades
+content/28. Resumen Fase 1.md:5:Mediante
+content/28. Resumen Fase 1.md:5:Relación
+content/28. Resumen Fase 1.md:5:Servicios
+content/28. Resumen Fase 1.md:5:SOA
+content/28. Resumen Fase 1.md:6:alineación
+content/28. Resumen Fase 1.md:6:análisis
+content/28. Resumen Fase 1.md:6:aplicar
+content/28. Resumen Fase 1.md:6:aquellas
+content/28. Resumen Fase 1.md:6:áreas
+content/28. Resumen Fase 1.md:6:áreas
+content/28. Resumen Fase 1.md:6:asignar
+content/28. Resumen Fase 1.md:6:basado
+content/28. Resumen Fase 1.md:6:cambiar
+content/28. Resumen Fase 1.md:6:capacidades
+content/28. Resumen Fase 1.md:6:capacidades
+content/28. Resumen Fase 1.md:6:capacidades
+content/28. Resumen Fase 1.md:6:cercanas
+content/28. Resumen Fase 1.md:6:conseguir
+content/28. Resumen Fase 1.md:6:contrario
+content/28. Resumen Fase 1.md:6:controles
+content/28. Resumen Fase 1.md:6:cuando
+content/28. Resumen Fase 1.md:6:definitiva
+content/28. Resumen Fase 1.md:6:demás
+content/28. Resumen Fase 1.md:6:desarrollar
+content/28. Resumen Fase 1.md:6:desarrollar
+content/28. Resumen Fase 1.md:6:desarrollar
+content/28. Resumen Fase 1.md:6:Desarrollar
+content/28. Resumen Fase 1.md:6:después
+content/28. Resumen Fase 1.md:6:ejercicio
+content/28. Resumen Fase 1.md:6:el
+content/28. Resumen Fase 1.md:6:el
+content/28. Resumen Fase 1.md:6:el
+content/28. Resumen Fase 1.md:6:el
+content/28. Resumen Fase 1.md:6:el
+content/28. Resumen Fase 1.md:6:empresa
+content/28. Resumen Fase 1.md:6:ende
+content/28. Resumen Fase 1.md:6:enfocar
+content/28. Resumen Fase 1.md:6:esfuerzos
+content/28. Resumen Fase 1.md:6:estas
+content/28. Resumen Fase 1.md:6:este
+content/28. Resumen Fase 1.md:6:esto
+content/28. Resumen Fase 1.md:6:exclusivos
+content/28. Resumen Fase 1.md:6:FNA
+content/28. Resumen Fase 1.md:6:Fondo
+content/28. Resumen Fase 1.md:6:formalmente
+content/28. Resumen Fase 1.md:6:funcionales
+content/28. Resumen Fase 1.md:6:hace
+content/28. Resumen Fase 1.md:6:impacto
+content/28. Resumen Fase 1.md:6:imperativo
+content/28. Resumen Fase 1.md:6:importante
+content/28. Resumen Fase 1.md:6:incluye
+content/28. Resumen Fase 1.md:6:liberan
+content/28. Resumen Fase 1.md:6:más
+content/28. Resumen Fase 1.md:6:mejor
+content/28. Resumen Fase 1.md:6:mejora
+content/28. Resumen Fase 1.md:6:modelo
+content/28. Resumen Fase 1.md:6:modelo
+content/28. Resumen Fase 1.md:6:momento
+content/28. Resumen Fase 1.md:6:negocio
+content/28. Resumen Fase 1.md:6:negocio
+content/28. Resumen Fase 1.md:6:objetivo
+content/28. Resumen Fase 1.md:6:partes
+content/28. Resumen Fase 1.md:6:partes
+content/28. Resumen Fase 1.md:6:percepción
+content/28. Resumen Fase 1.md:6:percepción
+content/28. Resumen Fase 1.md:6:percibido
+content/28. Resumen Fase 1.md:6:por
+content/28. Resumen Fase 1.md:6:por
+content/28. Resumen Fase 1.md:6:posible
+content/28. Resumen Fase 1.md:6:positivo
+content/28. Resumen Fase 1.md:6:profundizar
+content/28. Resumen Fase 1.md:6:recursos
+content/28. Resumen Fase 1.md:6:relaciones
+content/28. Resumen Fase 1.md:6:requerimientos
+content/28. Resumen Fase 1.md:6:seleccionadas
+content/28. Resumen Fase 1.md:6:sería
+content/28. Resumen Fase 1.md:6:servicios
+content/28. Resumen Fase 1.md:6:servicios
+content/28. Resumen Fase 1.md:6:SOA
+content/28. Resumen Fase 1.md:6:SOA
+content/28. Resumen Fase 1.md:6:su
+content/28. Resumen Fase 1.md:6:surja
+content/28. Resumen Fase 1.md:6:sus
+content/28. Resumen Fase 1.md:6:tenga
+content/28. Resumen Fase 1.md:6:tienden
+content/28. Resumen Fase 1.md:6:todo
+content/28. Resumen Fase 1.md:6:todo
+content/28. Resumen Fase 1.md:6:uno
+content/28. Resumen Fase 1.md:9:conclusiones
+content/28. Resumen Fase 1.md:11:capacidades
+content/28. Resumen Fase 1.md:11:capacidades
+content/28. Resumen Fase 1.md:11:Desarrollo
+content/28. Resumen Fase 1.md:11:entre
+content/28. Resumen Fase 1.md:11:Existen
+content/28. Resumen Fase 1.md:11:FNA
+content/28. Resumen Fase 1.md:11:Fondo
+content/28. Resumen Fase 1.md:11:Imagen
+content/28. Resumen Fase 1.md:11:negocio
+content/28. Resumen Fase 1.md:11:pocas
+content/28. Resumen Fase 1.md:11:profundización
+content/28. Resumen Fase 1.md:11:propuestas
+content/28. Resumen Fase 1.md:11:relaciones
+content/28. Resumen Fase 1.md:11:servicios
+content/28. Resumen Fase 1.md:11:SOA
+content/28. Resumen Fase 1.md:15:Alineación
+content/28. Resumen Fase 1.md:15:Clasificación
+content/28. Resumen Fase 1.md:15:FNA
+content/28. Resumen Fase 1.md:15:Mediante
+content/28. Resumen Fase 1.md:15:Portafolio
+content/28. Resumen Fase 1.md:15:Servicios
+content/28. Resumen Fase 1.md:15:SOA
+content/28. Resumen Fase 1.md:16:alineación
+content/28. Resumen Fase 1.md:16:Crédito
+content/28. Resumen Fase 1.md:16:distribución
+content/28. Resumen Fase 1.md:16:el
+content/28. Resumen Fase 1.md:16:El
+content/28. Resumen Fase 1.md:16:encuentra
+content/28. Resumen Fase 1.md:16:esta
+content/28. Resumen Fase 1.md:16:están
+content/28. Resumen Fase 1.md:16:este
+content/28. Resumen Fase 1.md:16:Esto
+content/28. Resumen Fase 1.md:16:Fondo
+content/28. Resumen Fase 1.md:16:grado
+content/28. Resumen Fase 1.md:16:hacia
+content/28. Resumen Fase 1.md:16:inclinada
+content/28. Resumen Fase 1.md:16:indicio
+content/28. Resumen Fase 1.md:16:mano
+content/28. Resumen Fase 1.md:16:necesidades
+content/28. Resumen Fase 1.md:16:negocio
+content/28. Resumen Fase 1.md:16:negocio
+content/28. Resumen Fase 1.md:16:negocio
+content/28. Resumen Fase 1.md:16:Operaciones
+content/28. Resumen Fase 1.md:16:otro
+content/28. Resumen Fase 1.md:16:por
+content/28. Resumen Fase 1.md:16:portafolio
+content/28. Resumen Fase 1.md:16:portafolio
+content/28. Resumen Fase 1.md:16:proceso
+content/28. Resumen Fase 1.md:16:puede
+content/28. Resumen Fase 1.md:16:satisfechas
+content/28. Resumen Fase 1.md:16:servicios
+content/28. Resumen Fase 1.md:16:servicios
+content/28. Resumen Fase 1.md:16:servicios
+content/28. Resumen Fase 1.md:16:servicios
+content/28. Resumen Fase 1.md:16:servicios
+content/28. Resumen Fase 1.md:16:siendo
+content/28. Resumen Fase 1.md:16:significar
+content/28. Resumen Fase 1.md:16:SOA
+content/28. Resumen Fase 1.md:16:sobresale
+content/28. Resumen Fase 1.md:16:tipo
+content/28. Resumen Fase 1.md:16:vez
+content/28. Resumen Fase 1.md:16:vicepresidencias
+content/28. Resumen Fase 1.md:16:viene
+content/28. Resumen Fase 1.md:20:Cantidad
+content/28. Resumen Fase 1.md:20:Servicio
+content/28. Resumen Fase 1.md:20:Tipo
+content/28. Resumen Fase 1.md:21:Información
+content/28. Resumen Fase 1.md:21:Servicio
+content/28. Resumen Fase 1.md:22:Proceso
+content/28. Resumen Fase 1.md:22:Servicio
+content/28. Resumen Fase 1.md:23:Negocio
+content/28. Resumen Fase 1.md:23:Servicio
+content/28. Resumen Fase 1.md:26:Catalogación
+content/28. Resumen Fase 1.md:26:FNA
+content/28. Resumen Fase 1.md:26:servicios
+content/28. Resumen Fase 1.md:26:SOA
+content/28. Resumen Fase 1.md:26:tipos
+content/28. Resumen Fase 1.md:33:Diagnóstico
+content/28. Resumen Fase 1.md:33:Negocio
+content/28. Resumen Fase 1.md:33:Objetos
+content/28. Resumen Fase 1.md:33:Procesos
+content/28. Resumen Fase 1.md:34:Administración
+content/28. Resumen Fase 1.md:34:cambios
+content/28. Resumen Fase 1.md:34:Cartera
+content/28. Resumen Fase 1.md:34:caso
+content/28. Resumen Fase 1.md:34:Cesantías
+content/28. Resumen Fase 1.md:34:componentes
+content/28. Resumen Fase 1.md:34:Contexto
+content/28. Resumen Fase 1.md:34:Crédito
+content/28. Resumen Fase 1.md:34:Cuentas
+content/28. Resumen Fase 1.md:34:diagnóstico
+content/28. Resumen Fase 1.md:34:el
+content/28. Resumen Fase 1.md:34:elegidos
+content/28. Resumen Fase 1.md:34:este
+content/28. Resumen Fase 1.md:34:Esto
+content/28. Resumen Fase 1.md:34:evidenciable
+content/28. Resumen Fase 1.md:34:Facturación
+content/28. Resumen Fase 1.md:34:FNA
+content/28. Resumen Fase 1.md:34:FNA
+content/28. Resumen Fase 1.md:34:gestión
+content/28. Resumen Fase 1.md:34:Gestión
+content/28. Resumen Fase 1.md:34:impacta
+content/28. Resumen Fase 1.md:34:implementación
+content/28. Resumen Fase 1.md:34:infraestructura
+content/28. Resumen Fase 1.md:34:modelos
+content/28. Resumen Fase 1.md:34:negocio
+content/28. Resumen Fase 1.md:34:nivel
+content/28. Resumen Fase 1.md:34:Pago
+content/28. Resumen Fase 1.md:34:por
+content/28. Resumen Fase 1.md:34:procesos
+content/28. Resumen Fase 1.md:34:servicios
+content/28. Resumen Fase 1.md:34:SOA
+content/28. Resumen Fase 1.md:34:trazabilidad
+content/28. Resumen Fase 1.md:34:trazabilidad
+content/28. Resumen Fase 1.md:34:utilización
+content/28. Resumen Fase 1.md:34:Ver
+content/28. Resumen Fase 1.md:36:Administración
+content/28. Resumen Fase 1.md:36:Cesantías
+content/28. Resumen Fase 1.md:36:CSNT
+content/28. Resumen Fase 1.md:36:Cuentas
+content/28. Resumen Fase 1.md:36:Pago
+content/28. Resumen Fase 1.md:37:Crédito
+content/28. Resumen Fase 1.md:37:Gestión
+content/28. Resumen Fase 1.md:38:Crédito
+content/28. Resumen Fase 1.md:38:Educativo
+content/28. Resumen Fase 1.md:38:Gestión
+content/28. Resumen Fase 1.md:39:Crédito
+content/28. Resumen Fase 1.md:39:Gestión
+content/28. Resumen Fase 1.md:39:Hipotecario
+content/28. Resumen Fase 1.md:40:Crédito
+content/28. Resumen Fase 1.md:40:Gestión
+content/28. Resumen Fase 1.md:41:Cartera
+content/28. Resumen Fase 1.md:41:Facturación
+content/28. Resumen Fase 1.md:44:arquitectura
+content/28. Resumen Fase 1.md:44:Funcional
+content/28. Resumen Fase 1.md:44:referencia
+content/28. Resumen Fase 1.md:45:capacidad
+content/28. Resumen Fase 1.md:45:capacidades
+content/28. Resumen Fase 1.md:45:carecen
+content/28. Resumen Fase 1.md:45:cómo
+content/28. Resumen Fase 1.md:45:conectores
+content/28. Resumen Fase 1.md:45:conexiones
+content/28. Resumen Fase 1.md:45:controlar
+content/28. Resumen Fase 1.md:45:dificulta
+content/28. Resumen Fase 1.md:45:entre
+content/28. Resumen Fase 1.md:45:estándares
+content/28. Resumen Fase 1.md:45:Esto
+content/28. Resumen Fase 1.md:45:FNA
+content/28. Resumen Fase 1.md:45:FNA
+content/28. Resumen Fase 1.md:45:impacta
+content/28. Resumen Fase 1.md:45:información
+content/28. Resumen Fase 1.md:45:involucradas
+content/28. Resumen Fase 1.md:45:manera
+content/28. Resumen Fase 1.md:45:modelos
+content/28. Resumen Fase 1.md:45:negocio
+content/28. Resumen Fase 1.md:45:otra
+content/28. Resumen Fase 1.md:45:soporta
+content/28. Resumen Fase 1.md:45:tecnologías
+content/28. Resumen Fase 1.md:45:una
+content/28. Resumen Fase 1.md:45:vez
+content/28. Resumen Fase 1.md:47:capacidades
+content/28. Resumen Fase 1.md:47:composición
+content/28. Resumen Fase 1.md:47:crecimiento
+content/28. Resumen Fase 1.md:47:el
+content/28. Resumen Fase 1.md:47:Esto
+content/28. Resumen Fase 1.md:47:evidenciable
+content/28. Resumen Fase 1.md:47:expensas
+content/28. Resumen Fase 1.md:47:gestión
+content/28. Resumen Fase 1.md:47:impacta
+content/28. Resumen Fase 1.md:47:negocio
+content/28. Resumen Fase 1.md:47:negocio
+content/28. Resumen Fase 1.md:47:particularmente
+content/28. Resumen Fase 1.md:47:portafolio
+content/28. Resumen Fase 1.md:47:relación
+content/28. Resumen Fase 1.md:47:servicios
+content/28. Resumen Fase 1.md:47:servicios
+content/28. Resumen Fase 1.md:47:servicios
+content/28. Resumen Fase 1.md:47:SOA
+content/28. Resumen Fase 1.md:47:tipos
+content/28. Resumen Fase 1.md:47:utilitarios
