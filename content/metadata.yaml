@@ -8,25 +8,25 @@ keywords:
 lang: en-US
 authors:
   - github: e_hwong
-    name: Harry Wong
+    name: Harry Wong, ing.
     initials: HWO
     email: e_hwong@stefanini.com
     affiliations:
       - Arquitecto SOA, Stefanini
   - github: e_ehernandez
-    name: Eddie Hernandez
+    name: Eddie Hernandez, ing.
     initials: EHE
     email: e_ehernandez@stefanini.com
     affiliations:
       - Datos, Stefanini
   - github: e_fsuarez
-    name: Federico Suárez
+    name: Federico Suárez, ing.
     initials: FSU
     email: e_fsuarezg@stefanini.com
     affiliations:
       - Infraestructura, Stefanini
   - github: e_dcorreal
-    name: Darío Correal
+    name: Darío Correal, ing.
     initials: DCO
     email: e_dcorreal@stefanini.com
     affiliations:
