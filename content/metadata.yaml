@@ -7,22 +7,27 @@ keywords:
   - gobierno
 lang: en-US
 authors:
-  - github: hwong23
+  - github: e_hwong
     name: Harry Wong
     initials: HWO
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
     email: e_hwong@stefanini.com
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: hwong23
-    name: Stefanini.com
-    initials: STF
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Arquitecto SOA, Stefanini
+  - github: e_ehernandez
+    name: Eddie Hernandez
+    initials: EHE
+    email: e_ehernandez@stefanini.com
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-    corresponding: true
+      - Datos, Stefanini
+  - github: e_fsuarez
+    name: Federico Suárez
+    initials: FSU
+    email: e_fsuarezg@stefanini.com
+    affiliations:
+      - Infraestructura, Stefanini
+  - github: e_dcorreal
+    name: Darío Correal
+    initials: DCO
+    email: e_dcorreal@stefanini.com
+    affiliations:
+      - Arquitecto TI, Stefanini
