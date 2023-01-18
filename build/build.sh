@@ -37,6 +37,7 @@ manubot process \
   --cache-directory=ci/cache \
   --skip-citations \
   --log-level=INFO
+  --toc
 
 # Make output directory
 mkdir -p output
