@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-17'
+date-meta: '2023-01-18'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-17" />
-  <meta name="citation_publication_date" content="2023-01-17" />
-  <meta property="article:published_time" content="2023-01-17" />
-  <meta name="dc.modified" content="2023-01-17T19:27:19+00:00" />
-  <meta property="article:modified_time" content="2023-01-17T19:27:19+00:00" />
+  <meta name="dc.date" content="2023-01-18" />
+  <meta name="citation_publication_date" content="2023-01-18" />
+  <meta property="article:published_time" content="2023-01-18" />
+  <meta name="dc.modified" content="2023-01-18T17:18:43+00:00" />
+  <meta property="article:modified_time" content="2023-01-18T17:18:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/34a7bb75397aa73486693bf57cbe79b5deee8695/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/34a7bb75397aa73486693bf57cbe79b5deee8695/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/34a7bb75397aa73486693bf57cbe79b5deee8695/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/b2349dd9ad359b038fa97cab6c4b22f5c4284797/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/b2349dd9ad359b038fa97cab6c4b22f5c4284797/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/b2349dd9ad359b038fa97cab6c4b22f5c4284797/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f1/v/34a7bb75397aa73486693bf57cbe79b5deee8695/))
+([permalink](https://hwong23.github.io/fna-devdoc-f1/v/b2349dd9ad359b038fa97cab6c4b22f5c4284797/))
 versión indicada a continuación, se encuentra en 
-[34a7bb7](https://github.com/hwong23/fna-devdoc-f1/tree/34a7bb75397aa73486693bf57cbe79b5deee8695)
-on January 17, 2023.
+[b2349dd](https://github.com/hwong23/fna-devdoc-f1/tree/b2349dd9ad359b038fa97cab6c4b22f5c4284797)
+on January 18, 2023.
 
 
 
@@ -171,7 +171,7 @@ La arquitectura, organizada por vistas, es el medio de trabajo común entre nego
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -255,7 +255,7 @@ Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)).
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -316,7 +316,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -358,7 +358,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -458,7 +458,7 @@ _Fuente: arquitectura fna.archimate_
 |Palabras clave|SOA, Áreas de Negocio, Procesos
 |Autor||
 |Fuente|Modelos de arquitectura FNA |
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -540,7 +540,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -788,7 +788,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -851,7 +851,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -961,7 +961,7 @@ _Fuente: InventarioAplicacionesFNA.xlsx_
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1251,7 +1251,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1498,7 +1498,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1648,7 +1648,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1896,7 +1896,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1941,7 +1941,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2077,7 +2077,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2136,12 +2136,59 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 - Comprender y promover el valor de los datos como un activo
 
 
+|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Dominio de Tecnología**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
+|Autor||
+|Fuente||
+|Version|b2349dd del 18 Jan 2023|
+|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
+
+<br>
+
+## Resultados y métricas del diagnóstico de madurez SOA. Dominio Tecnología
+El resultado del nivel de cumplimiento del dominio de Tecnología del FNA es **Gestionado**. Este resultado proviene de las consideraciones obtenidas en las sesiones de trabajo con los encargados de la Infraestructura del Fondo y los siguientes aspectos relacionados al dominio de Tecnología: _independencia del proveedor (OBJ1), fortalecimiento SOA (OBJ2) y flexibilidad, tiempo de mercado SOA (OBJ3)_.
+
+![](images/madurezInfo.png)
+
+[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA Tecnología.
+
+_Fuente: elaboración propia_.
+
+>**Nota**. FNA realiza soluciones a la medida para responder a las necesidades y requerimientos de Tecnología de las áreas funcionales. Aunque se evidencia conocimiento y estandarización en las capacidades de computo actuales, falta centralizar la información y estandardizarla para mejorar las toma de decisiones.
+
+<br>
+
+Teniendo en cuenta la clasificación que propone el modelo OSIMM; el cual define el estado de la organización con respecto a los servicios de integración y la madurez SOA de la organización, concluimos que actualmente el Fondo Nacional del Ahorro, en el dominio de infraestructura, realiza soluciones a la medida para responder a las necesidades y requerimientos de las áreas funcionales, sin embargo dichos requerimientos se ejecutan en su mayoría sobre plataformas y tecnologías homogéneas  tales como mismo servidor de aplicaciones o entorno de ejecución  (ej. Java). Se encontrarían problemas en el caso que se quisiera cambiar radicalmente de entorno de ejecución, sistema operativo o arquitectura de procesador.
+
+Para obtener este nivel de madurez se tuvieron en cuenta las siguientes consideraciones.
+
+<br>
+
+## Consideraciones y conclusiones respecto a la arquitectura estándar SOA
+El análisis del repositorio SOA del FNA evidencia que existe una arquitectura y servicios de Infraestructura bien definida que sirve a varias aplicaciones; pero que dependen de unos fabricantes específicos .
+
+La infraestructura actual fue y sigue siendo influenciada por los productos del fabricante IBM, adicional esta infraestructura ha definido el plan de recuperación de desastres y en un futuro podría limitar el uso de tecnologías de otros fabricantes.
+
+<br>
+
+## Consideraciones y conclusiones respecto de las necesidades de integración
+
+Actualmente a nivel de Infraestructura existen elementos adecuados para garantizar integración de componentes/servicios de una forma segura y estandarizada. De todos modos en caso que se quisiera reutilizar los elementos actuales para implementar nuevas tecnologías, se encontrarían limitaciones en caso que impliquen cambio de sistema operativo, arquitectura de CPU, entorno de ejecución o contenerización. 
+
+<br>
+
+## Consideraciones y conclusiones respecto al gobierno SOA
+Los artefactos que conforman la arquitectura de infraestructura describen bien ciertas condiciones y configuraciones actuales. Sin embargo,  no se encuentran todos los elementos en un repositorio centralizado, y en algunos casos no se cuenta con practicas adecuadas que permitan realizar trazas de cambios o evolución de la misma.
+
+Es necesaria una mayor integración del área de Infraestructura con los repositorios de Arquitectura Empresarial para alinearse más con los procesos de negocio y así mismo generar artefactos que le aporten mas valor a la organización.
+
 |Tema|Resultados y métricas del diagnóstico de madurez SOA: **Todos los Dominios**
 |----|-------------------------------------------------|
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2215,59 +2262,12 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 
 
 
-|Tema|Resultados y métricas del diagnóstico de madurez SOA: **Dominio de Tecnología**
-|----|-------------------------------------------------|
-|Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
-|Autor||
-|Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
-|Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
-
-<br>
-
-## Resultados y métricas del diagnóstico de madurez SOA. Dominio Tecnología
-El resultado del nivel de cumplimiento del dominio de Tecnología del FNA es **Gestionado**. Este resultado proviene de las consideraciones obtenidas en las sesiones de trabajo con los encargados de la Infraestructura del Fondo y los siguientes aspectos relacionados al dominio de Tecnología: _independencia del proveedor (OBJ1), fortalecimiento SOA (OBJ2) y flexibilidad, tiempo de mercado SOA (OBJ3)_.
-
-![](images/madurezInfo.png)
-
-[Imagen. ]() Resultados y métricas del diagnóstico de madurez SOA Tecnología.
-
-_Fuente: elaboración propia_.
-
->**Nota**. FNA realiza soluciones a la medida para responder a las necesidades y requerimientos de Tecnología de las áreas funcionales. Aunque se evidencia conocimiento y estandarización en las capacidades de computo actuales, falta centralizar la información y estandardizarla para mejorar las toma de decisiones.
-
-<br>
-
-Teniendo en cuenta la clasificación que propone el modelo OSIMM; el cual define el estado de la organización con respecto a los servicios de integración y la madurez SOA de la organización, concluimos que actualmente el Fondo Nacional del Ahorro, en el dominio de infraestructura, realiza soluciones a la medida para responder a las necesidades y requerimientos de las áreas funcionales, sin embargo dichos requerimientos se ejecutan en su mayoría sobre plataformas y tecnologías homogéneas  tales como mismo servidor de aplicaciones o entorno de ejecución  (ej. Java). Se encontrarían problemas en el caso que se quisiera cambiar radicalmente de entorno de ejecución, sistema operativo o arquitectura de procesador.
-
-Para obtener este nivel de madurez se tuvieron en cuenta las siguientes consideraciones.
-
-<br>
-
-## Consideraciones y conclusiones respecto a la arquitectura estándar SOA
-El análisis del repositorio SOA del FNA evidencia que existe una arquitectura y servicios de Infraestructura bien definida que sirve a varias aplicaciones; pero que dependen de unos fabricantes específicos .
-
-La infraestructura actual fue y sigue siendo influenciada por los productos del fabricante IBM, adicional esta infraestructura ha definido el plan de recuperación de desastres y en un futuro podría limitar el uso de tecnologías de otros fabricantes.
-
-<br>
-
-## Consideraciones y conclusiones respecto de las necesidades de integración
-
-Actualmente a nivel de Infraestructura existen elementos adecuados para garantizar integración de componentes/servicios de una forma segura y estandarizada. De todos modos en caso que se quisiera reutilizar los elementos actuales para implementar nuevas tecnologías, se encontrarían limitaciones en caso que impliquen cambio de sistema operativo, arquitectura de CPU, entorno de ejecución o contenerización. 
-
-<br>
-
-## Consideraciones y conclusiones respecto al gobierno SOA
-Los artefactos que conforman la arquitectura de infraestructura describen bien ciertas condiciones y configuraciones actuales. Sin embargo,  no se encuentran todos los elementos en un repositorio centralizado, y en algunos casos no se cuenta con practicas adecuadas que permitan realizar trazas de cambios o evolución de la misma.
-
-Es necesaria una mayor integración del área de Infraestructura con los repositorios de Arquitectura Empresarial para alinearse más con los procesos de negocio y así mismo generar artefactos que le aporten mas valor a la organización.
-
 |Tema|Resultados y métricas del diagnóstico de madurez SOA: **Anexos. Todos los Dominios**
 |----|-------------------------------------------------|
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2316,7 +2316,7 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2373,7 +2373,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2413,7 +2413,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2453,7 +2453,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2502,7 +2502,7 @@ Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situaci
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2545,7 +2545,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2584,21 +2584,23 @@ La oportunidad de monitorear el desarrollo SOA con la arquitectura de referencia
 <br>
 
 ## Oportunidad 2. Mayor Utilización de la Tecnología SOA del FNA
-(...)
+Hay un campo grande de análisis para determinar con exactitud lo que señalamos en este diagnóstico inicial SOA del Fondo. Se trata del nivel de utilización de cada uno de las características de las plataformas, soluciones y productos de proveedor en los que el FNA invierte. 
+
+Al momento no hay tal información en el repositorio del FNA
 
 <br>
 
 ## Oportunidad 3. Gestión de la Tecnología (gobierno) por Medio de Arquitectura
 Existe la oportunidad de impulsar la evolución de la alineación de la tecnología con las áreas misionales del Fondo dado a que el repositorio de arquitectura del FNA contiene información inicial para este objetivo (ver la tabla siguiente, clasificación de información del repositorio del Fondo). 
 
-|**Contenidos FNA**||
-|------------------|-|
-|Servicios|**543**|
-|Arquitectura|352|
-|Información|248|
-|Aplicación|107|
-|Funcional|61|
-|**Total Contenidos FNA revisados**|**1311**|
+| **Contenidos FNA**                 |          |
+|------------------------------------|----------|
+| Servicios                          | **543**  |
+| Arquitectura                       | 352      |
+| Información                        | 248      |
+| Aplicación                         | 107      |
+| Funcional                          | 61       |
+| **Total Contenidos FNA revisados** | **1311** |
 
 
 [Tabla. ]() Clasificación de información del repositorio del FNA.
@@ -2661,20 +2663,22 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 * Correspondencia entre las marcos regulatorios, normas y referencias seleccionadas con los aspectos operativos o misionales del FNA
 * Identificacion de implicaciones positivas (o negativas) para el Fondo
 
-*** 
+***
 
-|Tema|Marcos Regulatorios SOA del FNA
-|----|-------------------------------------------------|
-|Palabras clave|SOA, Situación actual, Tecnología|
-|Autor||
-|Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
-|Vínculos||
+
+| Tema           | Marcos Regulatorios SOA del FNA                    |
+|----------------|----------------------------------------------------|
+| Palabras clave | SOA, Normas, Regulaciones, Referencias, Tecnología |
+| Autor          |                                                    |
+| Fuente         |                                                    |
+| Version        | b2349dd del 18 Jan 2023                     |
+| Vínculos       |                                                    |
 
 <br>
 
 ## N001. Marco de interoperabilidad para Gobierno Digital
 ### Año: 2019
+### Emisor
 
 <br>
 
@@ -2688,6 +2692,7 @@ El Marco de Interoperabilidad de Gobierno Digital es la herramienta que acompañ
 
 ## N002. Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales
 ### Año: 2019
+### Emisor
 
 <br>
 
@@ -2701,6 +2706,7 @@ El Lenguaje Común de Intercambio de Información les sirve a las entidades para
 
 ## N003. Guía Técnica de Información - Gobierno del dato
 ### Año: 2019
+### Emisor
 
 <br>
 
@@ -2718,6 +2724,7 @@ Explicar el gobierno del dato como un proceso de mejora del conocimiento de la i
 
 ## N004. ISO/IEC 18384-1
 ### Año: 2016
+### Emisor
 
 <br>
 
@@ -2733,36 +2740,25 @@ Esta Norma Internacional contiene tres partes:
 * ISO/IEC 18384-2 que define las capas detalladas de la arquitectura de referencia SOA, incluido un metamodelo, capacidades, bloques de construcción arquitectónicos, así como tipos de servicios en soluciones SOA
 * c) ISO/IEC 18384-3 que define los conceptos centrales de SOA y sus relaciones en la Ontología.
 
-
 <br>
 
-## N005. XXXXX
-### Año: YYYY
+## Anexo 1. Resumen de Normas, Referencias y Tecnologías SOA del FNA
+| **ID** | **Número** | **Año** | **Descripción** |
+|--------|------------|---------|-----------------|
+| N001   | Marco de interoperabilidad para Gobierno Digital                                                                                          | 2019    | El Marco de interoperabilidad de Gobierno Digital surge con el propósito de contribuir en la entrega de servicios digitales, de manera completa, adecuada, minimizando los pasos y evitando el desplazamiento del ciudadano a diversas entidades para obtener la información necesaria de una entidad y acceder así a sus derechos y obligaciones con el Estado. La interoperabilidad permite fortalecer la visión de unidad del Estado, al tener una mayor capacidad de comunicación, entrega y uso de servicios digitales de valor para mejorar la calidad de vida de los ciudadanos.                                        |
+| N002   | Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales                                                        | 2019    | Esta guía contiene el conjunto de pautas que se deben tener en cuenta en el momento de hacer uso del Lenguaje Común de Intercambio de Información, explicando de una manera clara su definición y cuáles son los requisitos y pasos que se deben cumplir, dependiendo de las necesidades de cada entidad. De esta manera pretendemos que el lector conozca cómo utilizar el Lenguaje Común de Intercambio en los sistemas de información y los servicios de interoperabilidad que soporten su negocio.                                                                                                                         |
+| N003   | Guía Técnica de Información - Gobierno del dato                                                                                           | 2019    | Esta guía técnica del Gobierno del Dato apoya la implementación de los lineamientos asociados a: registro y mantenimiento de información de proveedores de COM-INF, establecimiento de los mecanismos de actualización de los COM-INF, la creación y mantenimiento del repositorio unificado de estructuración de los COM-INF, la clasificación para los COM-INF de intercambio y consolidación de los COM-INF a nivel sectorial; para presentar los Componentes que pueden ser aplicados por las instituciones para el buen gobierno del dato, desde la perspectiva del dominio de Información del Marco de Referencia de AE. |
+| N004   | ISO/IEC 18384-1:2016(en)<br>Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA) | 2016    | Esta parte de ISO/IEC 18384 establece el vocabulario, las directrices y los principios técnicos generales que subyacen a la arquitectura orientada a servicios (SOA), incluidos los principios relacionados con el diseño funcional, el rendimiento, el desarrollo, la implementación y la gestión.                                                                                                                                                                                                                                                                                                                            |
+| N005   | Acuerdo 2492 de 2022                                                                                                                    | 2022    | "Por el cual se adopta una nueva versión del Manual de Políticas de Seguridad de la Información en el Fondo Nacional del Ahorro"                                                                                                                                                     |
+| N006   | Ley 2152 de 2021                                                                                                                        | 2021    | “Por medio de la cual se modifica y adiciona la Ley Estatutaria 1266 de 2008, y se dictan disposiciones generales del habeas data con relación a la información financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones” |
+| N007   | Ley 1712 de 2014                                                                                                                        | 2014    | "Por medio de la cual se crea la Ley de Transparencia y del Derecho de acceso a la información pública nacional y se dictan otras disposiciones"                                                                                                                                     |
+| N008   | Circular                                                                                                                                | 2022    | Circular Única Super Intendencia de Industria y Comercio Protección de Datos Personales de octubre de 2022                                                                                                                                                                           |
+| N009   | Acuerdo 2296 de 2020                                                                                                                    | 2020    | “Por el cual se expide una nueva versión del Reglamento de Cesantías en el Fondo Nacional del Ahorro Carlos Lleras Restrepo”                                                                                                                                                         |
+| N010   | Acuerdo 2473 de 2022                                                                                                                    | 2022    | “Por el cual se adopta una nueva versión del Manual de Administración del Riesgo de Lavado de Activos y Financiación del Terrorismo – SARLAFT en el Fondo Nacional del Ahorro"                                                                                                       |
 
-<br>
-
-### Justificación
-...
-
-### Implicaciones para el Fondo
-...
-
-...
 
 
 ***
-
-
-
-## Anexo 1. Resumen de Normas, Referencias y Tecnologías SOA del FNA
-| **ID** | **Número**                                                                                                                                | **Año** | **Descripción** |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------|---------|-----------------|
-| N001   | Marco de interoperabilidad para Gobierno Digital                                                                                          | 2019    | linea           |
-| N002   | Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales                                                        | 2019    | linea           |
-| N003   | Guía Técnica de Información - Gobierno del dato                                                                                           | 2019    | liena           |
-| N004   | ISO/IEC 18384-1:2016(en)<br>Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA) | 2016    | liena           |
-| n5     | des                                                                                                                                       | 111     | liena           |
-
 
 
 |Tema|Diagnóstico SOA FNA: **Conclusiones Relevantes de Fase 1**|
@@ -2770,7 +2766,7 @@ Esta Norma Internacional contiene tres partes:
 |Palabras clave|SOA, Conclusiones, Problemas, Objetivos
 |Autor||
 |Fuente||
-|Version|34a7bb7 del 17 Jan 2023|
+|Version|b2349dd del 18 Jan 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one), [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
