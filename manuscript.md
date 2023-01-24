@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-18'
+date-meta: '2023-01-24'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-18" />
-  <meta name="citation_publication_date" content="2023-01-18" />
-  <meta property="article:published_time" content="2023-01-18" />
-  <meta name="dc.modified" content="2023-01-18T17:57:27+00:00" />
-  <meta property="article:modified_time" content="2023-01-18T17:57:27+00:00" />
+  <meta name="dc.date" content="2023-01-24" />
+  <meta name="citation_publication_date" content="2023-01-24" />
+  <meta property="article:published_time" content="2023-01-24" />
+  <meta name="dc.modified" content="2023-01-24T19:25:53+00:00" />
+  <meta property="article:modified_time" content="2023-01-24T19:25:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/6e0d697cb464705bb1594ae1b5d279dacb99b619/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/6e0d697cb464705bb1594ae1b5d279dacb99b619/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/6e0d697cb464705bb1594ae1b5d279dacb99b619/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/e69131c14a34de6629f62beb3b9dcdc0f787f380/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/e69131c14a34de6629f62beb3b9dcdc0f787f380/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/e69131c14a34de6629f62beb3b9dcdc0f787f380/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f1/v/6e0d697cb464705bb1594ae1b5d279dacb99b619/))
+([permalink](https://hwong23.github.io/fna-devdoc-f1/v/e69131c14a34de6629f62beb3b9dcdc0f787f380/))
 versión indicada a continuación, se encuentra en 
-[6e0d697](https://github.com/hwong23/fna-devdoc-f1/tree/6e0d697cb464705bb1594ae1b5d279dacb99b619)
-on January 18, 2023.
+[e69131c](https://github.com/hwong23/fna-devdoc-f1/tree/e69131c14a34de6629f62beb3b9dcdc0f787f380)
+on January 24, 2023.
 
 
 
@@ -171,7 +171,7 @@ La arquitectura, organizada por vistas, es el medio de trabajo común entre nego
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -255,7 +255,7 @@ Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)).
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -316,7 +316,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -358,7 +358,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -458,7 +458,7 @@ _Fuente: arquitectura fna.archimate_
 |Palabras clave|SOA, Áreas de Negocio, Procesos
 |Autor||
 |Fuente|Modelos de arquitectura FNA |
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -540,7 +540,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -788,7 +788,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -851,7 +851,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -961,7 +961,7 @@ _Fuente: InventarioAplicacionesFNA.xlsx_
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1251,7 +1251,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1498,7 +1498,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1648,7 +1648,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1896,7 +1896,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1941,7 +1941,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2077,7 +2077,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2141,7 +2141,7 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2188,7 +2188,7 @@ Es necesaria una mayor integración del área de Infraestructura con los reposit
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2267,7 +2267,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2316,7 +2316,7 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2373,7 +2373,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2413,7 +2413,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2453,7 +2453,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2502,7 +2502,7 @@ Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situaci
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2545,7 +2545,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos||
 
 <br>
@@ -2671,7 +2671,7 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 | Palabras clave | SOA, Normas, Regulaciones, Referencias, Tecnología |
 | Autor          |                                                    |
 | Fuente         |                                                    |
-| Version        | 6e0d697 del 18 Jan 2023                     |
+| Version        | e69131c del 24 Jan 2023                     |
 | Vínculos       |                                                    |
 
 <br>
@@ -2784,7 +2784,7 @@ Esta ley busca apertura y acceso a la información pública nacional que es de i
 
 <br>
 
-## N008. Circular
+## N008. Circular Única Superintendencia de Industria y Comercio 
 ### Año: 2022
 ### Emisor
 
@@ -2826,22 +2826,55 @@ Acuerdo paraadoptar una nueva versión del Manual SARLAFT con el fin de actualiz
 
 <br>
 
+## N011. Circular Externa 052 Capítulo decimo segundo
+### Año: 2007
+### Emisor
+
+<br>
+
+### Justificación
+
+Requerimientos mínimos de seguridad y calidad en el manejo de información a través de medios y canales de distribución de productos y servicios
+
+### Implicaciones para el Fondo
+Es de obligatorio cumplimiento y define el mínimo cumplimiento por Ley para evitar sanciones por parte de la Superintendencia Financiera de Colombia (SFC).
+
+<br>
+
+<br>
+
+## N012. Circular Externa 005 Capítulo seis
+### Año: 2019
+### Emisor
+
+<br>
+
+### Justificación
+Es necesario conocer las reglas relativas al uso de servicios de computación en la nube, ya que estas condiciones pueden limitar la elección de ciertos tipo de tecnologías.
+
+### Implicaciones para el Fondo
+En el caso de considerar soluciones basadas en computación en la nube que lleguen a soportar procesos y actividades de tipo misional es necesario cumplir los lineamientos establecidos por la Superintendencia Financiera de Colombia (SFC)
+
+
+<br>
+
+
 
 ## Anexo 1. Resumen de Normas, Referencias y Tecnologías SOA del FNA
 | **ID** | **Número** | **Año** | **Descripción** |
 |--------|------------|---------|-----------------|
-| N001   | Marco de interoperabilidad para Gobierno Digital                                                                                        | 2019    | El Marco de interoperabilidad de Gobierno Digital surge con el propósito de contribuir en la entrega de servicios digitales, de manera completa, adecuada, minimizando los pasos y evitando el desplazamiento del ciudadano a diversas entidades para obtener la información necesaria de una entidad y acceder así a sus derechos y obligaciones con el Estado. La interoperabilidad permite fortalecer la visión de unidad del Estado, al tener una mayor capacidad de comunicación, entrega y uso de servicios digitales de valor para mejorar la calidad de vida de los ciudadanos.                                        |
-| N002   | Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales                                                      | 2019    | Esta guía contiene el conjunto de pautas que se deben tener en cuenta en el momento de hacer uso del Lenguaje Común de Intercambio de Información, explicando de una manera clara su definición y cuáles son los requisitos y pasos que se deben cumplir, dependiendo de las necesidades de cada entidad. De esta manera pretendemos que el lector conozca cómo utilizar el Lenguaje Común de Intercambio en los sistemas de información y los servicios de interoperabilidad que soporten su negocio.                                                                                                                         |
-| N003   | Guía Técnica de Información - Gobierno del dato                                                                                         | 2019    | Esta guía técnica del Gobierno del Dato apoya la implementación de los lineamientos asociados a: registro y mantenimiento de información de proveedores de COM-INF, establecimiento de los mecanismos de actualización de los COM-INF, la creación y mantenimiento del repositorio unificado de estructuración de los COM-INF, la clasificación para los COM-INF de intercambio y consolidación de los COM-INF a nivel sectorial; para presentar los Componentes que pueden ser aplicados por las instituciones para el buen gobierno del dato, desde la perspectiva del dominio de Información del Marco de Referencia de AE. |
-| N004   | ISO/IEC 18384-1:2016(en) Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA)  | 2016    | Esta parte de ISO/IEC 18384 establece el vocabulario, las directrices y los principios técnicos generales que subyacen a la arquitectura orientada a servicios (SOA), incluidos los principios relacionados con el diseño funcional, el rendimiento, el desarrollo, la implementación y la gestión.                                                                                                                                                                                                                                                                                                                            |
+| N001   | Marco de interoperabilidad para Gobierno Digital                                                                                        | 2019    | Conjunto de principios, políticas y recomendaciones que busca facilitar y optimizar el ejercicio de colaboración entre organizaciones para intercambiar información y conocimiento, en el marco de sus procesos de negocio.                                       |
+| N002   | Guía de Uso del Lenguaje Común de Intercambio de Información y Conceptos Generales                                                      | 2019    | Conjunto de pautas para hacer uso del Lenguaje Común de Intercambio de Información, donde se encuentra la definición, requisitos y pasos a cumplir.                                                                                                                         |
+| N003   | Guía Técnica de Información - Gobierno del dato                                                                                         | 2019    | Define los aspectos que deben tener en cuenta las instituciones del sector público para realizar un adecuado gobierno del dato. |
+| N004   | ISO/IEC 18384-1:2016(en) Tecnología de la información — Arquitectura de referencia para la arquitectura orientada a servicios (SOA RA)  | 2016    | Establece el vocabulario, las directrices y los principios técnicos generales que subyacen a la arquitectura orientada a servicios (SOA).                                                                                                                                                                                                                                                                                                                           |
 | N005   | Acuerdo 2492 de 2022                                                                                                                    | 2022    | "Por el cual se adopta una nueva versión del Manual de Políticas de Seguridad de la Información en el Fondo Nacional del Ahorro"                                                                                                                                                     |
 | N006   | Ley 2152 de 2021                                                                                                                        | 2021    | “Por medio de la cual se modifica y adiciona la Ley Estatutaria 1266 de 2008, y se dictan disposiciones generales del habeas data con relación a la información financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones” |
 | N007   | Ley 1712 de 2014                                                                                                                        | 2014    | "Por medio de la cual se crea la Ley de Transparencia y del Derecho de acceso a la información pública nacional y se dictan otras disposiciones"                                                                                                                                     |
-| N008   | Circular                                                                                                                                | 2022    | Circular Única Super Intendencia de Industria y Comercio Protección de Datos Personales de octubre de 2022                                                                                                                                                                           |
+| N008   | Circular Única Superintendencia de Industria y Comercio                                                                                                                                | 2022    | Circular Única Super Intendencia de Industria y Comercio Protección de Datos Personales de octubre de 2022                                                                                                                                                                           |
 | N009   | Acuerdo 2296 de 2020                                                                                                                    | 2020    | “Por el cual se expide una nueva versión del Reglamento de Cesantías en el Fondo Nacional del Ahorro Carlos Lleras Restrepo”                                                                                                                                                         |
 | N010   | Acuerdo 2473 de 2022                                                                                                                    | 2022    | “Por el cual se adopta una nueva versión del Manual de Administración del Riesgo de Lavado de Activos y Financiación del Terrorismo – SARLAFT en el Fondo Nacional del Ahorro"                                                                                                       |
-
-
+| N011   | Circular Externa 052 Capitulo decimo segundo                                                                                                                    | 2007    | “Requerimientos mínimos de seguridad y calidad en el manejo de información a través de medios y canales de distribución de productos y servicios"    
+| N012   | Circular Externa 005 Capítulo seis                                                                                                                    | 2019    | “Reglas relativas al uso de servicios de computación en la nube"  
 
 ***
 
@@ -2851,7 +2884,7 @@ Acuerdo paraadoptar una nueva versión del Manual SARLAFT con el fin de actualiz
 |Palabras clave|SOA, Conclusiones, Problemas, Objetivos
 |Autor||
 |Fuente||
-|Version|6e0d697 del 18 Jan 2023|
+|Version|e69131c del 24 Jan 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one), [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
