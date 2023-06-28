@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-06-02'
+date-meta: '2023-06-28'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-06-02" />
-  <meta name="citation_publication_date" content="2023-06-02" />
-  <meta property="article:published_time" content="2023-06-02" />
-  <meta name="dc.modified" content="2023-06-02T17:09:45+00:00" />
-  <meta property="article:modified_time" content="2023-06-02T17:09:45+00:00" />
+  <meta name="dc.date" content="2023-06-28" />
+  <meta name="citation_publication_date" content="2023-06-28" />
+  <meta property="article:published_time" content="2023-06-28" />
+  <meta name="dc.modified" content="2023-06-28T11:37:42+00:00" />
+  <meta property="article:modified_time" content="2023-06-28T11:37:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/61d8c2479969a2db321139369cc653d0b510f41b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/61d8c2479969a2db321139369cc653d0b510f41b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/61d8c2479969a2db321139369cc653d0b510f41b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/24629e82b90d3bde67f00a9179d378b3861f280c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/24629e82b90d3bde67f00a9179d378b3861f280c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/24629e82b90d3bde67f00a9179d378b3861f280c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f1/v/61d8c2479969a2db321139369cc653d0b510f41b/))
+([permalink](https://hwong23.github.io/fna-devdoc-f1/v/24629e82b90d3bde67f00a9179d378b3861f280c/))
 versión indicada a continuación, se encuentra en 
-[61d8c24](https://github.com/hwong23/fna-devdoc-f1/tree/61d8c2479969a2db321139369cc653d0b510f41b)
-on June 2, 2023.
+[24629e8](https://github.com/hwong23/fna-devdoc-f1/tree/24629e82b90d3bde67f00a9179d378b3861f280c)
+on June 28, 2023.
 
 
 
@@ -171,7 +171,7 @@ La arquitectura, organizada por vistas, es el medio de trabajo común entre nego
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -255,7 +255,7 @@ Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)).
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -316,13 +316,13 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
 
 ## Descripción de la Vista Funcional (arquitectura de referencia)
-La vista funcional presenta los servicios que deben hacer parte del portafolio de servicios SOA del Fondo, por tanto, funciona a la vez como una arquitectura de referencia a la que hay que fortalecer, comparar y desarrollar y vigilar.
+La vista funcional presenta los servicios que deben hacer parte del portafolio SOA del Fondo Nacional del Ahorro (en adelante FNA). Por tanto, funciona a la vez como una arquitectura de referencia a la que hay que fortalecer, comparar, desarrollar y vigilar.
 
 ![](images/vistafuncional.png)
 
@@ -330,7 +330,7 @@ La vista funcional presenta los servicios que deben hacer parte del portafolio d
 
 _Fuente: elaboración propia._
 
->La vista funcional es importante porque presenta los _servicios SOA independientes de la tecnología y de proveedor_ que soportan a las áreas del FNA objeto de este diagnóstico. Por esta razón, esta vista sirve también como instrumento para _controlar la alineación del portafolio de servicios con las áreas de negocio de la empresa FNA_ objeto de este diagnóstico. Con la vista funcional SOA podremos más adelante soportar a las áreas y a los requerimientos claves del FNA.
+>La vista funcional es importante porque presenta los _servicios SOA independientes de la tecnología y del proveedor_ que soportan a las áreas del FNA objeto de este diagnóstico. Por esta razón, esta vista sirve también como instrumento para _controlar la alineación del portafolio de servicios con las áreas de negocio de la empresa FNA_ objeto de este diagnóstico. Con la vista funcional SOA podremos más adelante soportar a las áreas y a los requerimientos claves del FNA.
 
 <br>
 
@@ -358,7 +358,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -458,7 +458,7 @@ _Fuente: arquitectura fna.archimate_
 |Palabras clave|SOA, Áreas de Negocio, Procesos
 |Autor||
 |Fuente|Modelos de arquitectura FNA |
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -540,7 +540,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -788,13 +788,12 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
 
 ## Catalogación de los Tipos de Servicios del Portafolio SOA, FNA
-
 De la clasificación de servicios que dimos en la vista de contexto (servicios de información, proceso y negocio), y filtrando los servicios únicamente a los objeto de esta consultoría (vista de segmento), tenemos que la mayor cantidad de servicios del portafolio son de información. 
 
 La tabla siguiente muestra la población de servicios del portafolio FNA.
@@ -823,7 +822,7 @@ _Fuente: elaboración propia, FNA_PortafolioServiciosFinal+ConsumidoresyProveedo
 <br>
 
 ### Lista de Detalle de los Servicios de Proceso
-Presentamos a continuación el detalle de una de las catalogaciones presentadas en la tabla anterior: los servicios de proceso.
+Presentamos a continuación el detalle de una de las catalogaciones listadas en la tabla anterior: los servicios de proceso.
 
 |**Nombre Servicio**|**Proveedor**|**Consumidor**|**Tipo Servicio**|
 |-------------------|-------------|--------------|-----------------|
@@ -851,7 +850,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -961,7 +960,7 @@ _Fuente: InventarioAplicacionesFNA.xlsx_
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1251,7 +1250,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1498,7 +1497,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1648,7 +1647,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1896,7 +1895,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1941,7 +1940,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2077,7 +2076,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2141,7 +2140,7 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2188,7 +2187,7 @@ Es necesaria una mayor integración del área de Infraestructura con los reposit
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2269,7 +2268,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2318,7 +2317,7 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2375,7 +2374,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -2415,7 +2414,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -2455,7 +2454,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -2468,7 +2467,7 @@ Parte importante de la tecnología del Fondo está reflejada en sus aplicaciones
 
 ![](images/catalogoaplicaciones.png)
 
-[Imagen. ]() Listado de tecnologías de software del FNA.
+[Imagen. ]() Listado de tecnologías de software del FNA por proveedor tecnológico. Presencia de proveedor en el FNA.
 
 _Fuente: catalogo de Aplicaciones URL.xlsx._
 
@@ -2504,7 +2503,7 @@ Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situaci
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -2547,7 +2546,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos||
 
 <br>
@@ -2573,7 +2572,7 @@ La oportunidad de monitorear el desarrollo SOA con la arquitectura de referencia
 
 <br>
 
-## Oportunidad 3. Mayor Utilización de la Tecnología SOA del FNA
+## Oportunidad 3. Utilización de la Tecnología SOA del FNA
 En el FNA hay un campo grande de análisis para determinar con exactitud lo que señalamos en este diagnóstico inicial SOA del Fondo. Se trata del nivel de utilización de cada uno de las características de las plataformas, soluciones y productos de proveedor en los que el FNA invierte. 
 
 Al momento no hay tal información en el repositorio del FNA
@@ -2661,7 +2660,7 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 | Palabras clave | SOA, Normas, Regulaciones, Referencias, Tecnología |
 | Autor          |                                                    |
 | Fuente         |                                                    |
-| Version        | 61d8c24 del 02 Jun 2023                     |
+| Version        | 24629e8 del 28 Jun 2023                     |
 | Vínculos       |                                                    |
 
 <br>
@@ -2874,7 +2873,7 @@ En el caso de considerar soluciones basadas en computación en la nube que llegu
 |Palabras clave|SOA, Conclusiones, Problemas, Objetivos
 |Autor||
 |Fuente||
-|Version|61d8c24 del 02 Jun 2023|
+|Version|24629e8 del 28 Jun 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one), [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
