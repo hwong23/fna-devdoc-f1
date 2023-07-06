@@ -11,8 +11,8 @@
 ## Integración de Contenidos
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
-+ **HTML manuscript** at https://hwong23.github.io/fna-devdoc-f1-1/
-+ **PDF manuscript** at https://hwong23.github.io/fna-devdoc-f1-1/manuscript.pdf
++ **HTML manuscript** at https://hwong23.github.io/fna-devdoc-f1/
++ **PDF manuscript** at https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf
 
 ## License
 
