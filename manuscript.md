@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-12" />
   <meta name="citation_publication_date" content="2023-07-12" />
   <meta property="article:published_time" content="2023-07-12" />
-  <meta name="dc.modified" content="2023-07-12T20:06:05+00:00" />
-  <meta property="article:modified_time" content="2023-07-12T20:06:05+00:00" />
+  <meta name="dc.modified" content="2023-07-12T20:14:09+00:00" />
+  <meta property="article:modified_time" content="2023-07-12T20:14:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdoc-f1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdoc-f1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/17924376bd5c507df4eff49c94967cac5b305505/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/17924376bd5c507df4eff49c94967cac5b305505/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/17924376bd5c507df4eff49c94967cac5b305505/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdoc-f1/v/6083fcb36f06dde334d983d49ee1d8bb509d95a4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/6083fcb36f06dde334d983d49ee1d8bb509d95a4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdoc-f1/v/6083fcb36f06dde334d983d49ee1d8bb509d95a4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdoc-f1/v/17924376bd5c507df4eff49c94967cac5b305505/))
+([permalink](https://hwong23.github.io/fna-devdoc-f1/v/6083fcb36f06dde334d983d49ee1d8bb509d95a4/))
 versión indicada a continuación, se encuentra en 
-[1792437](https://github.com/hwong23/fna-devdoc-f1/tree/17924376bd5c507df4eff49c94967cac5b305505)
+[6083fcb](https://github.com/hwong23/fna-devdoc-f1/tree/6083fcb36f06dde334d983d49ee1d8bb509d95a4)
 on July 12, 2023.
 
 
@@ -171,7 +171,7 @@ La arquitectura, organizada por vistas, es el medio de trabajo común entre nego
 |Palabras clave|SOA, Contexto, Áreas, Procesos, Objetivos
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)<br>[N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -255,7 +255,7 @@ Ver [01a1.Vista de Contexto](01a1.VistadeContexto.md)).
 |Palabras clave|SOA, Contexto, Segmento FNA, Áreas, Procesos, Aplicaciones, Servicios
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -316,7 +316,7 @@ Las partes de la empresa que conforman el segmento FNA a diagnosticar.
 |Palabras clave|SOA, Áreas, Capacidades, Servicios, Conectores|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -358,7 +358,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Áreas, Capacidades, Servicios|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N003e. Catálogo de Servicios FNA-1a](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EXsxpcx6LllArdNIqf_wo4gBA0ZcHltkYlP5tJ4NAMNOhw?e=fRnq01); [N003e. Catálogo de Servicios FNA-4](https://stefaninilatam.sharepoint.com/:t:/s/PROYECTOARQUITECTURAE-SERVICEFNA/EQuW5UeV26lCryG3lpR68f4BxFCRNCKRKngm6dc4sRjGgQ?e=ZaFIcn)|
 
 <br>
@@ -458,7 +458,7 @@ _Fuente: arquitectura fna.archimate_
 |Palabras clave|SOA, Áreas de Negocio, Procesos
 |Autor||
 |Fuente|Modelos de arquitectura FNA |
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[Vista de Contexto](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
@@ -540,7 +540,7 @@ Las áreas de negocio que sí están modeladas (Anexo 1) no son representativas.
 |Palabras clave|SOA, Servicios, Sistemas, Aplicaciones, Dependencia, Niveles de uso|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -788,7 +788,7 @@ Los 39 servicios SOA asociados con la aplicación Cobis-Clientes son los siguien
 |Palabras clave|SOA, Servicios, Distribución de servicios|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -850,7 +850,7 @@ _Fuente: elaboración propia. Catalogo_FNA.xlsx_
 |Palabras clave|SOA, Servicios, Procesos|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -960,7 +960,7 @@ _Fuente: InventarioAplicacionesFNA.xlsx_
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1250,7 +1250,7 @@ A continuación, se listan observaciones realizadas en este diagnóstico inicial
 |Palabras clave|SOA, Integración, EAI, Punto a punto|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-2](N005a.%20Vista%20de%20Integración%20FNA-2.md)|
 
 <br>
@@ -1260,25 +1260,25 @@ La integraciones FNA las entendemos como interacción punto a punto, o integraci
 
 La siguiente lista muestra la cantidad de integraiones del FNA y los cuidados que hay que tener tanto en las cantidades de integraciones punto a punto (_330 integraciones_), como con los casos de uso de integraciones no identificados, que asicenden a _273 integraciones sin caso_, según los modelos analizados.
 
-|**Caso de Integración**|**Integraciones**|
-|-----------------------|-----------------|
-|**(en blanco)**|**273**|
-|CU0016 - Radicar solicitud de retiro AVC|11|
-|CU0020 - Radicar solicitud de retiro de Cesantías|11|
-|CU0006 - Radicar solicitud de retiro de cesantías|11|
-|CU0002 - Radicar solicitud de retiro AVC|8|
-|CU0018 - Enviar cartas de aprobación de crédito de una junta|3|
-|CU0017 - Enviar carta de aprobación de crédito al consumidor financiero|3|
-|CU0003 - Consultar solicitud de retiro AVC|2|
-|CU0013 - Generar cartas de aprobación de crédito de una junta|1|
-|CU0075 - Generar archivo de comprobantes contables titularizados|1|
-|CU0071 - Generar archivo plano de órdenes de pago no procesadas por ERP|1|
-|CU0072 - Procesar archivo de respuesta de órdenes pago por contingencia ERP|1|
-|CU0014 - Consultar trámites de crédito de consumidor financiero|1|
-|CU0004 - Eliminar solicitud de retiro AVC|1|
-|CU0015 - Consultar detalle de trámite de crédito de consumidor financiero|1|
-|CU0016 - Generar carta de aprobación de crédito|1|
-|**Total general**|**330**|
+| **Caso de Integración**                                                     | **Integraciones** |
+|-----------------------------------------------------------------------------|-------------------|
+| **(en blanco)**                                                             | **273**           |
+| CU0016 - Radicar solicitud de retiro AVC                                    | 11                |
+| CU0020 - Radicar solicitud de retiro de Cesantías                           | 11                |
+| CU0006 - Radicar solicitud de retiro de cesantías                           | 11                |
+| CU0002 - Radicar solicitud de retiro AVC                                    | 8                 |
+| CU0018 - Enviar cartas de aprobación de crédito de una junta                | 3                 |
+| CU0017 - Enviar carta de aprobación de crédito al consumidor financiero     | 3                 |
+| CU0003 - Consultar solicitud de retiro AVC                                  | 2                 |
+| CU0013 - Generar cartas de aprobación de crédito de una junta               | 1                 |
+| CU0075 - Generar archivo de comprobantes contables titularizados            | 1                 |
+| CU0071 - Generar archivo plano de órdenes de pago no procesadas por ERP     | 1                 |
+| CU0072 - Procesar archivo de respuesta de órdenes pago por contingencia ERP | 1                 |
+| CU0014 - Consultar trámites de crédito de consumidor financiero             | 1                 |
+| CU0004 - Eliminar solicitud de retiro AVC                                   | 1                 |
+| CU0015 - Consultar detalle de trámite de crédito de consumidor financiero   | 1                 |
+| CU0016 - Generar carta de aprobación de crédito                             | 1                 |
+| **Total general**                                                           | **330**           |
 
 [Tabla. ]() Integraciones del FNA. Caso de Integración
 
@@ -1294,27 +1294,27 @@ _Fuente: pt-inge-028-inventariointegraciones_v1.0.xlsx_
 Las integraciones (más de 300, mostradas en la tabla de integraciones anterior) del FNA están descritas en términos de las aplicaciones que las usan. De acuerdo con esto, tenemos los dos extremos de cada integración. La primera tabla muestra las integraciones de las aplicaciones cuanto estas son el origen de la integración, mientras que la segunda tabla muestra las aplicaciones cuando son el destino.
 
 Basado en lo anterior, las integraciones del FNA están descritas de la siguiente manera.
-|**Aplicación Origen**|**Integraciones Salientes**|
-|---------------------|---------------------------|
-|AA074 - Fondo En Línea Personal|**60**|
-|AA006 - COBIS Trámites|**33**|
-|AA085 - Aplicación Movil CX|**27**|
-|AA071 - Kioscos|**22**|
-|AA002 - COBIS Ahorro Voluntario|**20**|
-|AA003 - COBIS Cesantias|14|
-|AA005 - COBIS Cartera|14|
-|AA021 - Fondo En Línea|13|
-|AA015 - COBIS Clientes|13|
-|AA010 - COBIS Caja y Bancos Operativo|13|
-|AA083 - CRM Salesforce|9|
-|AA084 - ERP SAP|9|
-|AA059 - Aplicación GEL|7|
-|AA011 - Visual Batch|7|
-|AA013 - COBIS Entidades|7|
-|AA020 - Banca Virtual|6|
-|AA012 - COBIS Contabilidad|5|
-|...||
-|**Total general**|**330**|
+| **Aplicación Origen**                 | **Integraciones Salientes** |
+|---------------------------------------|-----------------------------|
+| AA074 - Fondo En Línea Personal       | **60**                      |
+| AA006 - COBIS Trámites                | **33**                      |
+| AA085 - Aplicación Movil CX           | **27**                      |
+| AA071 - Kioscos                       | **22**                      |
+| AA002 - COBIS Ahorro Voluntario       | **20**                      |
+| AA003 - COBIS Cesantias               | 14                          |
+| AA005 - COBIS Cartera                 | 14                          |
+| AA021 - Fondo En Línea                | 13                          |
+| AA015 - COBIS Clientes                | 13                          |
+| AA010 - COBIS Caja y Bancos Operativo | 13                          |
+| AA083 - CRM Salesforce                | 9                           |
+| AA084 - ERP SAP                       | 9                           |
+| AA059 - Aplicación GEL                | 7                           |
+| AA011 - Visual Batch                  | 7                           |
+| AA013 - COBIS Entidades               | 7                           |
+| AA020 - Banca Virtual                 | 6                           |
+| AA012 - COBIS Contabilidad            | 5                           |
+| ...                                   |                             |
+| **Total general**                     | **330**                     |
 
 [Tabla. ]() Integraciones del FNA. Aplicaciones origen de la integración.
 
@@ -1330,27 +1330,27 @@ El anexo 1 incluido abajo es una muestra del detalle de las integraciones salien
 
 <br>
 
-|**Aplicación Destino**|**Integraciones Entrantes**|
-|----------------------|---------------------------|
-|AA003 - COBIS Cesantias|**51**|
-|AA002 - COBIS Ahorro Voluntario|**40**|
-|AA015 - COBIS Clientes|**30**|
-|AA038 - COBIS Admin Referencias|**25**|
-|AA005 - COBIS Cartera|**24**|
-|AA012 - COBIS Contabilidad|**22**|
-|AA006 - COBIS Trámites|17|
-|AA010 - COBIS Caja y Bancos Operativo|12|
-|AA082 - Identificación Biométrica|11|
-|AA084 - ERP SAP|10|
-|AA017 - COBIS Presupuesto|9|
-|AA069 - CONFRONTA|8|
-|AA045 - Adminfo Cobro Juridico|8|
-|AA097 - Signal Andes|8|
-|AA070 - WorkManager|6|
-|AA013 - COBIS Entidades|6|
-|AA021 - Fondo En Línea|5|
-|...||
-|**Total general**|**330**|
+| **Aplicación Destino**                | **Integraciones Entrantes** |
+|---------------------------------------|-----------------------------|
+| AA003 - COBIS Cesantias               | **51**                      |
+| AA002 - COBIS Ahorro Voluntario       | **40**                      |
+| AA015 - COBIS Clientes                | **30**                      |
+| AA038 - COBIS Admin Referencias       | **25**                      |
+| AA005 - COBIS Cartera                 | **24**                      |
+| AA012 - COBIS Contabilidad            | **22**                      |
+| AA006 - COBIS Trámites                | 17                          |
+| AA010 - COBIS Caja y Bancos Operativo | 12                          |
+| AA082 - Identificación Biométrica     | 11                          |
+| AA084 - ERP SAP                       | 10                          |
+| AA017 - COBIS Presupuesto             | 9                           |
+| AA069 - CONFRONTA                     | 8                           |
+| AA045 - Adminfo Cobro Juridico        | 8                           |
+| AA097 - Signal Andes                  | 8                           |
+| AA070 - WorkManager                   | 6                           |
+| AA013 - COBIS Entidades               | 6                           |
+| AA021 - Fondo En Línea                | 5                           |
+| ...                                   |                             |
+| **Total general**                     | **330**                     |
 
 [Tabla. ]() Integraciones del FNA. Aplicaciones destino de la integración.
 
@@ -1371,20 +1371,20 @@ Otro ejercicio de clasificación de las integraciones de FNA es por el rol de la
 
 <br>
 
-|**Aplicación Consumidora**|**Nivel Consumo**|
-|--------------------------|-----------------|
-|BUS|**15**|
-|SF,CRM|**8**|
-|Móviles|7|
-|IVR,(37)|7|
-|CX|6|
-|ADMINFO|3|
-|PQYR,(41)|3|
-|Kactus,(44)|2|
-|Atención,Cli|2|
-|Libranza|2|
-|CuadroVentas|2|
-|Asig,Claves|2|
+| **Aplicación Consumidora** | **Nivel Consumo** |
+|----------------------------|-------------------|
+| BUS                        | **15**            |
+| SF,CRM                     | **8**             |
+| Móviles                    | 7                 |
+| IVR,(37)                   | 7                 |
+| CX                         | 6                 |
+| ADMINFO                    | 3                 |
+| PQYR,(41)                  | 3                 |
+| Kactus,(44)                | 2                 |
+| Atención,Cli               | 2                 |
+| Libranza                   | 2                 |
+| CuadroVentas               | 2                 |
+| Asig,Claves                | 2                 |
 
 [Tabla. ]() Clasificación de integraciones del FNA. Aplicación más consumidora: ESB de FNA.
 
@@ -1392,18 +1392,18 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 
 <br>
 
-|**Aplicación Proveedora**|**Nivel de Participación**|
-|-------------------------|--------------------------|
-|Clientes,(015)|**21**|
-|BUS|5|
-|Cartera,(005)|5|
-|Cuadro Ventas|4|
-|Cifin|3|
-|2FA|3|
-|PQYR,(41)|2|
-|ADMINFO|2|
-|AVC,(002)|2|
-|Cesantías,(003)|2|
+| **Aplicación Proveedora** | **Nivel de Participación** |
+|---------------------------|----------------------------|
+| Clientes,(015)            | **21**                     |
+| BUS                       | 5                          |
+| Cartera,(005)             | 5                          |
+| Cuadro Ventas             | 4                          |
+| Cifin                     | 3                          |
+| 2FA                       | 3                          |
+| PQYR,(41)                 | 2                          |
+| ADMINFO                   | 2                          |
+| AVC,(002)                 | 2                          |
+| Cesantías,(003)           | 2                          |
 
 [Tabla. ]() Clasificación de integraciones del FNA. Aplicación más proveedora: **Cobis Clientes**.
 
@@ -1418,78 +1418,78 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 
 ## Anexos
 ### Anexo 1. Muestra de Integraciones Salientes. Aplicación AA003 - COBIS Cesantias del FNA
-|**Código**|**Aplicación Origen**|**Aplicación Destino**|
-|----------|---------------------|----------------------|
-|AI0232|AA003 - COBIS Cesantias|AA084 - ERP SAP|
-|AI0178|AA003 - COBIS Cesantias|AA005 - COBIS Cartera|
-|AI0177|AA003 - COBIS Cesantias|AA017 - COBIS Presupuesto|
-|AI0176|AA003 - COBIS Cesantias|AA017 - COBIS Presupuesto|
-|AI0175|AA003 - COBIS Cesantias|AA012 - COBIS Contabilidad|
-|AI0174|AA003 - COBIS Cesantias|AA012 - COBIS Contabilidad|
-|AI0173|AA003 - COBIS Cesantias|AA010 - COBIS Caja y Bancos Operativo|
-|AI0172|AA003 - COBIS Cesantias|AA010 - COBIS Caja y Bancos Operativo|
-|AI0171|AA003 - COBIS Cesantias|AA010 - COBIS Caja y Bancos Operativo|
-|AI0169|AA003 - COBIS Cesantias|AA005 - COBIS Cartera|
-|AI0139|AA003 - COBIS Cesantias|AA038 - COBIS Admin Referencias|
-|AI0122|AA003 - COBIS Cesantias|AA012 - COBIS Contabilidad|
-|AI0060|AA003 - COBIS Cesantias|AA082 - Identificación Biométrica|
-|AI0055|AA003 - COBIS Cesantias|AA082 - Identificación Biométrica|
+| **Código** | **Aplicación Origen**   | **Aplicación Destino**                |
+|------------|-------------------------|---------------------------------------|
+| AI0232     | AA003 - COBIS Cesantias | AA084 - ERP SAP                       |
+| AI0178     | AA003 - COBIS Cesantias | AA005 - COBIS Cartera                 |
+| AI0177     | AA003 - COBIS Cesantias | AA017 - COBIS Presupuesto             |
+| AI0176     | AA003 - COBIS Cesantias | AA017 - COBIS Presupuesto             |
+| AI0175     | AA003 - COBIS Cesantias | AA012 - COBIS Contabilidad            |
+| AI0174     | AA003 - COBIS Cesantias | AA012 - COBIS Contabilidad            |
+| AI0173     | AA003 - COBIS Cesantias | AA010 - COBIS Caja y Bancos Operativo |
+| AI0172     | AA003 - COBIS Cesantias | AA010 - COBIS Caja y Bancos Operativo |
+| AI0171     | AA003 - COBIS Cesantias | AA010 - COBIS Caja y Bancos Operativo |
+| AI0169     | AA003 - COBIS Cesantias | AA005 - COBIS Cartera                 |
+| AI0139     | AA003 - COBIS Cesantias | AA038 - COBIS Admin Referencias       |
+| AI0122     | AA003 - COBIS Cesantias | AA012 - COBIS Contabilidad            |
+| AI0060     | AA003 - COBIS Cesantias | AA082 - Identificación Biométrica     |
+| AI0055     | AA003 - COBIS Cesantias | AA082 - Identificación Biométrica     |
 
 
 ### Anexo 2. Muestra de Integraciones Entrantes. Aplicación AA003 - COBIS Cesantias del FNA
-|**Código**|**Aplicación Origen**|**Aplicación Destino**|
-|----------|---------------------|----------------------|
-|AI0333|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0332|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0331|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0330|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0329|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0328|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0327|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0326|AA071 - Kioscos|AA003 - COBIS Cesantias|
-|AI0322|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0321|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0320|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0319|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0318|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0317|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0316|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0314|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0310|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0309|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0308|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0307|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0306|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0305|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0304|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0303|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0250|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0249|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0248|AA085 - Aplicación Movil CX|AA003 - COBIS Cesantias|
-|AI0241|AA084 - ERP SAP|AA003 - COBIS Cesantias|
-|AI0035|AA059 - Aplicación GEL|AA003 - COBIS Cesantias|
-|AI0036|AA059 - Aplicación GEL|AA003 - COBIS Cesantias|
-|AI0037|AA059 - Aplicación GEL|AA003 - COBIS Cesantias|
-|AI0038|AA059 - Aplicación GEL|AA003 - COBIS Cesantias|
-|AI0239|AA084 - ERP SAP|AA003 - COBIS Cesantias|
-|AI0218|AA015 - COBIS Clientes|AA003 - COBIS Cesantias|
-|AI0212|AA013 - COBIS Entidades|AA003 - COBIS Cesantias|
-|AI0042|AA060 - Aplicación WAP|AA003 - COBIS Cesantias|
-|AI0203|AA010 - COBIS Caja y Bancos Operativo|AA003 - COBIS Cesantias|
-|AI0202|AA010 - COBIS Caja y Bancos Operativo|AA003 - COBIS Cesantias|
-|AI0187|AA006 - COBIS Trámites|AA003 - COBIS Cesantias|
-|AI0170|AA006 - COBIS Trámites|AA003 - COBIS Cesantias|
-|AI0095|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0093|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0092|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0091|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0090|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0089|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0088|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0087|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0085|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0084|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
-|AI0082|AA074 - Fondo En Línea Personal|AA003 - COBIS Cesantias|
+| **Código** | **Aplicación Origen**                 | **Aplicación Destino**  |
+|------------|---------------------------------------|-------------------------|
+| AI0333     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0332     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0331     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0330     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0329     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0328     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0327     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0326     | AA071 - Kioscos                       | AA003 - COBIS Cesantias |
+| AI0322     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0321     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0320     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0319     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0318     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0317     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0316     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0314     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0310     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0309     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0308     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0307     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0306     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0305     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0304     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0303     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0250     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0249     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0248     | AA085 - Aplicación Movil CX           | AA003 - COBIS Cesantias |
+| AI0241     | AA084 - ERP SAP                       | AA003 - COBIS Cesantias |
+| AI0035     | AA059 - Aplicación GEL                | AA003 - COBIS Cesantias |
+| AI0036     | AA059 - Aplicación GEL                | AA003 - COBIS Cesantias |
+| AI0037     | AA059 - Aplicación GEL                | AA003 - COBIS Cesantias |
+| AI0038     | AA059 - Aplicación GEL                | AA003 - COBIS Cesantias |
+| AI0239     | AA084 - ERP SAP                       | AA003 - COBIS Cesantias |
+| AI0218     | AA015 - COBIS Clientes                | AA003 - COBIS Cesantias |
+| AI0212     | AA013 - COBIS Entidades               | AA003 - COBIS Cesantias |
+| AI0042     | AA060 - Aplicación WAP                | AA003 - COBIS Cesantias |
+| AI0203     | AA010 - COBIS Caja y Bancos Operativo | AA003 - COBIS Cesantias |
+| AI0202     | AA010 - COBIS Caja y Bancos Operativo | AA003 - COBIS Cesantias |
+| AI0187     | AA006 - COBIS Trámites                | AA003 - COBIS Cesantias |
+| AI0170     | AA006 - COBIS Trámites                | AA003 - COBIS Cesantias |
+| AI0095     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0093     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0092     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0091     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0090     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0089     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0088     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0087     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0085     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0084     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
+| AI0082     | AA074 - Fondo En Línea Personal       | AA003 - COBIS Cesantias |
 
 
 |Tema|Descripción de la vista de integración actual: **Entidades de negocio (información y datos) relacionadas en la integración**
@@ -1497,7 +1497,7 @@ _Fuente: Catalogo de integraciones 1.0.8.xlsx_
 |Palabras clave|SOA, Integración, Entidades de datos|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integracion%2FNA-1.md)|
 
 <br>
@@ -1647,7 +1647,7 @@ La falta de relación entre las entidades y las áreas puede implicar la falta d
 |Palabras clave|SOA, Integración, Modelo de integración, Adaptadores|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1895,7 +1895,7 @@ Tema relacionado: [Portafolio de Servicios SOA, Tipos de Servicios y Distribuci�
 |Palabras clave|SOA, Madurez, OSIMM, Efectividad, Arquitectura, Procesos|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -1940,7 +1940,7 @@ Las partes resultantes de la evaluación, sean listas, matrices, conclusiones, d
 |Palabras clave|SOA, Madurez, Método, OSIMM, Adaptación|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA por Tipo](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2076,7 +2076,7 @@ Los modelos de madurez permiten analizar y evaluar de forma objetiva y estandari
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Información|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2140,7 +2140,7 @@ Es necesario tener una gestión de los datos más apropiada mediante la incorpor
 |Palabras clave|SOA, Madurez, Método, OSIMM, Dominio, Tecnología|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2187,7 +2187,7 @@ Es necesaria una mayor integración del área de Infraestructura con los reposit
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N011. Estudio de Madurez SOA FNA -3 Anexos](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2268,7 +2268,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Madurez, Gobierno, Efectividad, Costos|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N005a. Vista de Integración FNA-1](N005a.%20Vista%2de%2Integración%2FNA-1.md) \| [Portafolio de Servicios SOA, Tipos de Servicios y Distribución de servicios SOA](N003e.%20Catálogo%20de%20Servicios%20FNA-3.md)|
 
 <br>
@@ -2317,7 +2317,7 @@ El diagnóstico permitirá establecer valoraciones tanto cuantitativas como cual
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2374,7 +2374,7 @@ _Información adicional_. Los servicios de negocio son los que elaboran una resp
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -2414,7 +2414,7 @@ _Fuente: portafolio_aplicaciones_fna.pptx_
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -2454,7 +2454,7 @@ _Fuente: CAPE.pdf_
 |Palabras clave|SOA, Situación actual, Tecnología, Gobierno, Efectividad|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -2503,7 +2503,7 @@ Con base en el análisis de alineación SOA (ver [Resultado Diagnóstico Situaci
 |Palabras clave|SOA, Situación actual, Tecnología|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -2546,7 +2546,7 @@ _Fuente: Portafolio Unificado Servvicios FNA 0.0.1.xlsx_
 |Palabras clave|SOA, Situación actual, Tecnología, Oportunidades, Proyectos|
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos||
 
 <br>
@@ -2660,7 +2660,7 @@ Identificar restricciones que modifiquen o afecten a las iniciativas y propuesta
 | Palabras clave | SOA, Normas, Regulaciones, Referencias, Tecnología |
 | Autor          |                                                    |
 | Fuente         |                                                    |
-| Version        | 1792437 del 12 Jul 2023                     |
+| Version        | 6083fcb del 12 Jul 2023                     |
 | Vínculos       |                                                    |
 
 <br>
@@ -2873,7 +2873,7 @@ En el caso de considerar soluciones basadas en computación en la nube que llegu
 |Palabras clave|SOA, Conclusiones, Problemas, Objetivos
 |Autor||
 |Fuente||
-|Version|1792437 del 12 Jul 2023|
+|Version|6083fcb del 12 Jul 2023|
 |Vínculos|[N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.%20Ejecución%20Plan%20de%20Trabajo%20SOA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={45CC9047-3DB4-4CFD-BCA1-D9619F4A0C4D}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one), [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section-id={F3AC64B8-D6FF-47C7-ABBE-A2B4B6510F0F}&page-id={DAE4ECE3-B936-461D-A468-83492014F7F7}&end&base-path=https://uniandes-my.sharepoint.com/personal/ha_wong10_uniandes_edu_co/Documents/Blocs%20de%20notas/Harry%20Alfredo%20@%20Work/SOA/Trabajo%20SOA.one)|
 |||
 
