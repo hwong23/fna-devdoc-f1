@@ -9541,7 +9541,7 @@ content/04a.Normatividad SOA.md:4:Autor
 content/04a.Normatividad SOA.md:5:Fuente
 content/04a.Normatividad SOA.md:7:Vínculos
 content/04a.Normatividad SOA.md:11:Gobierno
-content/04a.Normatividad SOA.md:11:interoperabilidad
+content/04a.Normatividad SOA.md:11:interoperatividad
 content/04a.Normatividad SOA.md:12:Año
 content/04a.Normatividad SOA.md:13:Emisor
 content/04a.Normatividad SOA.md:17:Justificación
@@ -9574,8 +9574,8 @@ content/04a.Normatividad SOA.md:18:evitando
 content/04a.Normatividad SOA.md:18:fortalecer
 content/04a.Normatividad SOA.md:18:Gobierno
 content/04a.Normatividad SOA.md:18:información
-content/04a.Normatividad SOA.md:18:interoperabilidad
-content/04a.Normatividad SOA.md:18:interoperabilidad
+content/04a.Normatividad SOA.md:18:interoperatividad
+content/04a.Normatividad SOA.md:18:interoperatividad
 content/04a.Normatividad SOA.md:18:manera
 content/04a.Normatividad SOA.md:18:mejorar
 content/04a.Normatividad SOA.md:18:minimizando
@@ -9649,9 +9649,9 @@ content/04a.Normatividad SOA.md:21:información
 content/04a.Normatividad SOA.md:21:intercambiar
 content/04a.Normatividad SOA.md:21:intercambio
 content/04a.Normatividad SOA.md:21:intercambio
-content/04a.Normatividad SOA.md:21:interoperabilidad
-content/04a.Normatividad SOA.md:21:interoperabilidad
-content/04a.Normatividad SOA.md:21:Interoperabilidad
+content/04a.Normatividad SOA.md:21:interoperatividad
+content/04a.Normatividad SOA.md:21:interoperatividad
+content/04a.Normatividad SOA.md:21:interoperatividad
 content/04a.Normatividad SOA.md:21:lineamientos
 content/04a.Normatividad SOA.md:21:lineamientos
 content/04a.Normatividad SOA.md:21:madurez
@@ -9710,7 +9710,7 @@ content/04a.Normatividad SOA.md:32:información
 content/04a.Normatividad SOA.md:32:Información
 content/04a.Normatividad SOA.md:32:Intercambio
 content/04a.Normatividad SOA.md:32:Intercambio
-content/04a.Normatividad SOA.md:32:interoperabilidad
+content/04a.Normatividad SOA.md:32:interoperatividad
 content/04a.Normatividad SOA.md:32:lector
 content/04a.Normatividad SOA.md:32:Lenguaje
 content/04a.Normatividad SOA.md:32:Lenguaje
@@ -10510,7 +10510,7 @@ content/04a.Normatividad SOA.md:198:facilitar
 content/04a.Normatividad SOA.md:198:Gobierno
 content/04a.Normatividad SOA.md:198:información
 content/04a.Normatividad SOA.md:198:intercambiar
-content/04a.Normatividad SOA.md:198:interoperabilidad
+content/04a.Normatividad SOA.md:198:interoperatividad
 content/04a.Normatividad SOA.md:198:negocio
 content/04a.Normatividad SOA.md:198:optimizar
 content/04a.Normatividad SOA.md:198:organizaciones
