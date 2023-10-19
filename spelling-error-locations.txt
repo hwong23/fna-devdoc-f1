@@ -8126,7 +8126,7 @@ content/03b.Resultado Diagnóstico Situación Actual-1a.md:11:Dependencia
 content/03b.Resultado Diagnóstico Situación Actual-1a.md:11:FNA
 content/03b.Resultado Diagnóstico Situación Actual-1a.md:11:Huella
 content/03b.Resultado Diagnóstico Situación Actual-1a.md:11:SOA
-content/03b.Resultado Diagnóstico Situación Actual-1a.md:11:Tecnologica
+content/03b.Resultado Diagnóstico Situación Actual-1a.md:11:Tecnológica
 content/03b.Resultado Diagnóstico Situación Actual-1a.md:13:abajo
 content/03b.Resultado Diagnóstico Situación Actual-1a.md:13:allá
 content/03b.Resultado Diagnóstico Situación Actual-1a.md:13:arriba
@@ -8763,7 +8763,7 @@ content/03e.Analisis fortalezas SOA.md:14:continuación
 content/03e.Analisis fortalezas SOA.md:14:el
 content/03e.Analisis fortalezas SOA.md:14:empresa
 content/03e.Analisis fortalezas SOA.md:14:encontradas
-content/03e.Analisis fortalezas SOA.md:14:imporatantes
+content/03e.Analisis fortalezas SOA.md:14:importantes
 content/03e.Analisis fortalezas SOA.md:14:más
 content/03e.Analisis fortalezas SOA.md:14:portafolio
 content/03e.Analisis fortalezas SOA.md:14:problemática
@@ -8776,7 +8776,7 @@ content/03e.Analisis fortalezas SOA.md:16:capacidades
 content/03e.Analisis fortalezas SOA.md:16:Catálogo
 content/03e.Analisis fortalezas SOA.md:16:Catálogo
 content/03e.Analisis fortalezas SOA.md:16:Cobis
-content/03e.Analisis fortalezas SOA.md:16:Cobis
+content/03e.Analisis fortalezas SOA.md:16:COBIS
 content/03e.Analisis fortalezas SOA.md:16:entre
 content/03e.Analisis fortalezas SOA.md:16:FNA
 content/03e.Analisis fortalezas SOA.md:16:FNA
@@ -8956,7 +8956,7 @@ content/03e.Analisis fortalezas SOA.md:26:áreas
 content/03e.Analisis fortalezas SOA.md:26:áreas
 content/03e.Analisis fortalezas SOA.md:26:baja
 content/03e.Analisis fortalezas SOA.md:26:complica
-content/03e.Analisis fortalezas SOA.md:26:consumiento
+content/03e.Analisis fortalezas SOA.md:26:consumiendo
 content/03e.Analisis fortalezas SOA.md:26:demanda
 content/03e.Analisis fortalezas SOA.md:26:eficacia
 content/03e.Analisis fortalezas SOA.md:26:empieza
@@ -8995,10 +8995,10 @@ content/03e.Analisis fortalezas SOA.md:30:concepto
 content/03e.Analisis fortalezas SOA.md:30:concepto
 content/03e.Analisis fortalezas SOA.md:30:conceptos
 content/03e.Analisis fortalezas SOA.md:30:consultorías
+content/03e.Analisis fortalezas SOA.md:30:desacralizados
 content/03e.Analisis fortalezas SOA.md:30:desactualizaciones
-content/03e.Analisis fortalezas SOA.md:30:desactualizados
 content/03e.Analisis fortalezas SOA.md:30:dificultad
-content/03e.Analisis fortalezas SOA.md:30:difucultades
+content/03e.Analisis fortalezas SOA.md:30:dificultades
 content/03e.Analisis fortalezas SOA.md:30:distintos
 content/03e.Analisis fortalezas SOA.md:30:el
 content/03e.Analisis fortalezas SOA.md:30:Encontrar
@@ -9055,7 +9055,7 @@ content/03e.Analisis fortalezas SOA.md:39:Interdependencias
 content/03e.Analisis fortalezas SOA.md:39:Portafolio
 content/03e.Analisis fortalezas SOA.md:41:FNA
 content/03e.Analisis fortalezas SOA.md:41:Portafolio
-content/03e.Analisis fortalezas SOA.md:41:Servvicios
+content/03e.Analisis fortalezas SOA.md:41:Servicios
 content/03e.Analisis fortalezas SOA.md:41:Unificado
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:1:Estado
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:1:Fase
@@ -9273,7 +9273,7 @@ content/03f.Resultado Diagnóstico Situación Actual-4.md:12:portafolio
 content/03f.Resultado Diagnóstico Situación Actual-4.md:12:prevalencia
 content/03f.Resultado Diagnóstico Situación Actual-4.md:12:problemática
 content/03f.Resultado Diagnóstico Situación Actual-4.md:12:producción
-content/03f.Resultado Diagnóstico Situación Actual-4.md:12:provedor
+content/03f.Resultado Diagnóstico Situación Actual-4.md:12:proveedor
 content/03f.Resultado Diagnóstico Situación Actual-4.md:12:proveedor
 content/03f.Resultado Diagnóstico Situación Actual-4.md:12:pueden
 content/03f.Resultado Diagnóstico Situación Actual-4.md:12:reglas
@@ -11503,7 +11503,6 @@ content/04b.Resumen Fase 1.md:122:áreas
 content/04b.Resumen Fase 1.md:122:áreas
 content/04b.Resumen Fase 1.md:122:baja
 content/04b.Resumen Fase 1.md:122:complica
-content/04b.Resumen Fase 1.md:122:consumiento
 content/04b.Resumen Fase 1.md:122:demanda
 content/04b.Resumen Fase 1.md:122:eficacia
 content/04b.Resumen Fase 1.md:122:empieza
