@@ -9073,7 +9073,7 @@ content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:análisis
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:brechas
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:conclusiones
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:conclusiones
-content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:constrastadas
+content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:contrastadas
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:darán
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:el
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:elementos
@@ -9086,7 +9086,7 @@ content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:futuras
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:futuras
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:gobierno
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:hojas
-content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:iniciaticas
+content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:iniciativas
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:insumo
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:lugar
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:5:oportunidades
@@ -9143,7 +9143,6 @@ content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:10:resultado
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:10:SOA
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:10:sobre
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:10:tanto
-content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:10:TOBE
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:10:valoraciones
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:12:Contenidos
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:13:alineación
@@ -9156,7 +9155,7 @@ content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:14:dependencia
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:14:FNA
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:14:huella
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:14:SOA
-content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:14:tecnologica
+content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:14:tecnológica
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:15:Análisis
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:15:FNA
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:15:fortalezas
