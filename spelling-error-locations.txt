@@ -9181,7 +9181,6 @@ content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:dependencia
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:desde
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:dominios
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:el
-content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:forataleza
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:información
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:información
 content/03.Fase 1 PR3 Resultado Diagnóstico Situación Actual.md:21:infraestructura
