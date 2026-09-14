@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="es" class="h-full bg-slate-950 text-slate-100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación Ejecutivo: Proceso de Aceptación TOGAF</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        slateDark: '#0f172a',
+                        cardBg: '#1e293b',
+                        cardBorder: '#334155',
+                        brandBlue: '#2563eb',
+                        cyanAccent: '#06b6d4',
+                        amberAlert: '#f59e0b',
+                        emeraldSuccess: '#10b981',
+                        roseDanger: '#f43f5e'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .slide {
+            display: none;
+            opacity: 0;
+            transition: opacity 0.4s ease-in-out;
+        }
+        .slide.active {
+            display: flex;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body class="h-full flex flex-col font-sans select-none overflow-hidden bg-slate-950 text-slate-100">
+
+    <header class="h-16 border-b border-cardBorder bg-slateDark/90 px-6 flex items-center justify-between shrink-0">
+        <div class="flex items-center space-x-3">
+            <span class="text-2xl">🏛️</span>
+            <div>
+                <h1 class="text-base font-bold text-white tracking-wide">Marco de Aceptación de Arquitectura Externa</h1>
+                <p class="text-xs text-cyanAccent font-medium">Gobernanza e Implementación TOGAF ADM</p>
+            </div>
+        </div>
+        <div class="flex items-center space-x-4">
+            <span id="slideCounter" class="text-xs font-mono font-bold bg-slate-800 text-cyanAccent px-3 py-1.5 rounded-full border border-cardBorder">
+                1 / 4
+            </span>
+            <button id="fullscreenBtn" onclick="toggleFullscreen()" class="text-xs bg-cardBg hover:bg-brandBlue text-white font-semibold px-3 py-1.5 rounded-lg border border-cardBorder transition">
+                🖥️ Pantalla Completa
+            </button>
+        </div>
+    </header>
+
+    <div class="w-full bg-slate-800 h-1">
+        <div id="progressBar" class="bg-cyanAccent h-1 w-1/4 transition-all duration-300"></div>
+    </div>
+
+    <main class="flex-1 relative overflow-hidden p-4 sm:p-8 flex items-center justify-center">
+
+        <section id="slide-1" class="slide active w-full max-w-6xl h-full flex-col justify-between space-y-6">
+            <div class="space-y-2 border-b border-cardBorder pb-4">
+                <div class="flex items-center justify-between">
+                    <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-brandBlue/20 text-cyanAccent border border-brandBlue/30">
+                        DIAPOSITIVA 1 • FASES B, C y D
+                    </span>
+                    <span class="text-xs text-slate-400 font-mono">Artefactos de Diseño Conceptual y Detallado</span>
+                </div>
+                <h2 class="text-3xl font-extrabold text-white tracking-tight">1. Definición Técnica y Diseño de la Solución</h2>
+                <p class="text-sm text-cyanAccent">Entregables obligatorios para validar el diseño conceptual y detallado del proveedor.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 flex-1">
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl hover:border-cyanAccent transition">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-brandBlue/20 border border-brandBlue/40 flex items-center justify-center text-xl">
+                            📐
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Documento de Definición de Arquitectura (ADD)</h3>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-cyanAccent font-bold">•</span>
+                                <span><strong>Estructura de Dominios:</strong> Descripción del estado actual (<em>As-Is</em>) y estado objetivo (<em>To-Be</em>) en Negocio, Datos, Aplicaciones y Tecnología.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-cyanAccent font-bold">•</span>
+                                <span><strong>Vistas de Software:</strong> Diagramas de Comunicación de Aplicaciones y Realización de Componentes (modelos ArchiMate).</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-slate-700 text-[11px] text-slate-400 font-mono">
+                        Fases: B (Business), C (Systems), D (Tech)
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl hover:border-cyanAccent transition">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-brandBlue/20 border border-brandBlue/40 flex items-center justify-center text-xl">
+                            📋
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Especificación de Requerimientos de Arquitectura</h3>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-cyanAccent font-bold">•</span>
+                                <span><strong>Requerimientos No Funcionales (NFRs):</strong> Mapeo cuantitativo de desempeño, escalabilidad, disponibilidad y seguridad.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-cyanAccent font-bold">•</span>
+                                <span><strong>Matriz de Interoperabilidad:</strong> Especificación de interfaces, contratos API e integración con el ecosistema existente.</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-slate-700 text-[11px] text-slate-400 font-mono">
+                        Validación: SLA & API Contracts
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl hover:border-cyanAccent transition">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-brandBlue/20 border border-brandBlue/40 flex items-center justify-center text-xl">
+                            🧩
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Catálogo de Componentes y Estándares</h3>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-cyanAccent font-bold">•</span>
+                                <span><strong>Software Building Blocks (SBB):</strong> Lista explícita de componentes reutilizables, frameworks y librerías autorizadas.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-cyanAccent font-bold">•</span>
+                                <span><strong>Estándares Tecnológicos:</strong> Homologación con las políticas de tecnología y seguridad corporativas.</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-slate-700 text-[11px] text-slate-400 font-mono">
+                        Control: SBBs Autorizados
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-slateDark/80 p-4 rounded-xl border border-cyanAccent/40 flex items-center gap-4">
+                <span class="text-2xl">🎯</span>
+                <div>
+                    <h4 class="text-xs font-bold text-cyanAccent uppercase tracking-wider">Objetivo de Aceptación</h4>
+                    <p class="text-xs text-slate-200">
+                        Garantizar que el diseño técnico responde a las necesidades del negocio y respeta la arquitectura de referencia de la empresa antes de iniciar el desarrollo intensivo.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="slide-2" class="slide w-full max-w-6xl h-full flex-col justify-between space-y-6">
+            <div class="space-y-2 border-b border-cardBorder pb-4">
+                <div class="flex items-center justify-between">
+                    <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-amberAlert/20 text-amberAlert border border-amberAlert/30">
+                        DIAPOSITIVA 2 • FASES E y F
+                    </span>
+                    <span class="text-xs text-slate-400 font-mono">Planificación de Transición y Despliegue</span>
+                </div>
+                <h2 class="text-3xl font-extrabold text-white tracking-tight">2. Planeación de la Transición e Impacto Operativo</h2>
+                <p class="text-sm text-amberAlert">Entregables para asegurar la viabilidad de la implementación y despliegue del software.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 flex-1">
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl hover:border-amberAlert transition">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-amberAlert/20 border border-amberAlert/40 flex items-center justify-center text-xl">
+                            🗺️
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Hoja de Ruta de Arquitectura</h3>
+                        <p class="text-xs font-mono text-amberAlert">Architecture Roadmap</p>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-amberAlert font-bold">•</span>
+                                <span>Definición formal de los estados de transición (<em>Plateaus</em>).</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-amberAlert font-bold">•</span>
+                                <span>Planificación de entregas incrementales de valor sin comprometer la operación contínua.</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-slate-700 text-[11px] text-slate-400 font-mono">
+                        Entregas: Plateaus & Value Increments
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl hover:border-amberAlert transition">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-amberAlert/20 border border-amberAlert/40 flex items-center justify-center text-xl">
+                            ⚙️
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Plan de Implementación y Migración</h3>
+                        <p class="text-xs font-mono text-amberAlert">Migration & Coexistence</p>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-amberAlert font-bold">•</span>
+                                <span>Estrategia de transición de datos y convivencia temporal de sistemas legados.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-amberAlert font-bold">•</span>
+                                <span>Definición de paquetes de trabajo (<em>Work Packages</em>) y dependencias críticas identificadas.</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-slate-700 text-[11px] text-slate-400 font-mono">
+                        Estrategia: Data Transition & Work Packages
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl hover:border-amberAlert transition">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-amberAlert/20 border border-amberAlert/40 flex items-center justify-center text-xl">
+                            📊
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Matriz de Análisis de Brechas</h3>
+                        <p class="text-xs font-mono text-amberAlert">Gap Analysis Matrix</p>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-amberAlert font-bold">•</span>
+                                <span>Deducción clara e inventariada de componentes eliminados, modificados, reemplazados o creados.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-amberAlert font-bold">•</span>
+                                <span>Evaluación de impacto en la infraestructura y procesos del negocio.</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-slate-700 text-[11px] text-slate-400 font-mono">
+                        Alcance: Removed / Retained / New Gaps
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-slateDark/80 p-4 rounded-xl border border-amberAlert/40 flex items-center gap-4">
+                <span class="text-2xl">🎯</span>
+                <div>
+                    <h4 class="text-xs font-bold text-amberAlert uppercase tracking-wider">Objetivo de Aceptación</h4>
+                    <p class="text-xs text-slate-200">
+                        Validar que el proveedor entrega una estrategia de despliegue clara, minimizando riesgos operativos, interrupciones de servicio o costos ocultos durante la migración.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="slide-3" class="slide w-full max-w-6xl h-full flex-col justify-between space-y-6">
+            <div class="space-y-2 border-b border-cardBorder pb-4">
+                <div class="flex items-center justify-between">
+                    <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-emeraldSuccess/20 text-emeraldSuccess border border-emeraldSuccess/30">
+                        DIAPOSITIVA 3 • FASE G
+                    </span>
+                    <span class="text-xs text-slate-400 font-mono">Gobierno y Protocolo de Evaluación ARB</span>
+                </div>
+                <h2 class="text-3xl font-extrabold text-white tracking-tight">3. Evaluación de Conformidad y Gobierno (Fase G)</h2>
+                <p class="text-sm text-emeraldSuccess">Proceso formal de aprobación mediante el Architecture Review Board (ARB).</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 flex-1">
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-brandBlue/20 border border-brandBlue/40 flex items-center justify-center text-xl">
+                            🔎
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Revisión de Conformidad</h3>
+                        <p class="text-xs font-mono text-cyanAccent">Architecture Compliance Review</p>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            Validación exhaustiva del software frente a listas de verificación (<em>checklists</em>) por capas especializadas:
+                        </p>
+                        <div class="space-y-1.5 text-xs text-slate-300">
+                            <div class="p-2 rounded bg-slateDark border border-slate-700 flex justify-between">
+                                <span>Seguridad & Cifrado</span>
+                                <span class="text-emeraldSuccess font-bold">Auditado</span>
+                            </div>
+                            <div class="p-2 rounded bg-slateDark border border-slate-700 flex justify-between">
+                                <span>Integración & APIs</span>
+                                <span class="text-emeraldSuccess font-bold">Auditado</span>
+                            </div>
+                            <div class="p-2 rounded bg-slateDark border border-slate-700 flex justify-between">
+                                <span>Calidad de Código & NFR</span>
+                                <span class="text-emeraldSuccess font-bold">Auditado</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-emeraldSuccess/20 border border-emeraldSuccess/40 flex items-center justify-center text-xl">
+                            ⚖️
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Estados de Conformidad</h3>
+                        <p class="text-xs font-mono text-emeraldSuccess">Matriz de Resultado ARB</p>
+                        <div class="space-y-2 text-xs">
+                            <div class="p-2.5 rounded-lg bg-emeraldSuccess/10 border border-emeraldSuccess/30">
+                                <div class="font-bold text-emeraldSuccess">Conforme</div>
+                                <div class="text-[11px] text-slate-300">Cumplimiento total de lineamientos técnicos.</div>
+                            </div>
+                            <div class="p-2.5 rounded-lg bg-amberAlert/10 border border-amberAlert/30">
+                                <div class="font-bold text-amberAlert">Conforme con Dispensa</div>
+                                <div class="text-[11px] text-slate-300">Desviación justificada con compromiso de remediación.</div>
+                            </div>
+                            <div class="p-2.5 rounded-lg bg-roseDanger/10 border border-roseDanger/30">
+                                <div class="font-bold text-roseDanger">No Conforme</div>
+                                <div class="text-[11px] text-slate-300">Desviación crítica. Bloquea paso a producción.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-6 rounded-2xl border border-cardBorder flex flex-col justify-between shadow-xl">
+                    <div class="space-y-3">
+                        <div class="w-10 h-10 rounded-xl bg-brandBlue/20 border border-brandBlue/40 flex items-center justify-center text-xl">
+                            ✍️
+                        </div>
+                        <h3 class="text-lg font-bold text-white">Contrato de Arquitectura</h3>
+                        <p class="text-xs font-mono text-cyanAccent">Architecture Contract</p>
+                        <p class="text-xs text-slate-300 leading-relaxed">
+                            Acuerdo formal firmado entre los Arquitectos de la Empresa y el Proveedor Externo.
+                        </p>
+                        <ul class="space-y-2 text-xs text-slate-300">
+                            <li class="flex items-start gap-2">
+                                <span class="text-emeraldSuccess font-bold">✓</span>
+                                <span>Sella formalmente la entrega de arquitectura.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-emeraldSuccess font-bold">✓</span>
+                                <span>Habilita formalmente las fases de QA y Despliegue.</span>
+                            </li>
+                            <li class="flex items-start gap-2">
+                                <span class="text-emeraldSuccess font-bold">✓</span>
+                                <span>Autoriza la liberación de hitos de pago contractuales.</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-slateDark/80 p-4 rounded-xl border border-emeraldSuccess/40 flex items-center gap-4">
+                <span class="text-2xl">🎯</span>
+                <div>
+                    <h4 class="text-xs font-bold text-emeraldSuccess uppercase tracking-wider">Objetivo de Aceptación</h4>
+                    <p class="text-xs text-slate-200">
+                        Formalizar el cierre técnico y otorgar el aval del Comité de Arquitectura (ARB) para autorizar el paso a producción o la liberación de pagos contractuales.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="slide-4" class="slide w-full max-w-6xl h-full flex-col justify-between space-y-6">
+            <div class="space-y-2 border-b border-cardBorder pb-4">
+                <div class="flex items-center justify-between">
+                    <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-cyanAccent/20 text-cyanAccent border border-cyanAccent/30">
+                        DIAPOSITIVA 4 • CICLO DE VIDA E2E
+                    </span>
+                    <span class="text-xs text-slate-400 font-mono">Flujo de Trabajo Operativo de Aceptación</span>
+                </div>
+                <h2 class="text-3xl font-extrabold text-white tracking-tight">4. Flujo Operativo del Proceso de Aceptación</h2>
+                <p class="text-sm text-cyanAccent">Paso a paso desde la recepción de la arquitectura hasta la aprobación formal.</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-5 gap-3 flex-1 items-stretch">
+                <div class="bg-cardBg p-4 rounded-xl border border-cardBorder flex flex-col justify-between hover:border-cyanAccent transition space-y-3">
+                    <div class="space-y-2">
+                        <span class="w-7 h-7 rounded-full bg-brandBlue text-white font-bold text-xs flex items-center justify-center">1</span>
+                        <h3 class="text-xs font-bold text-white">Entrega Formal</h3>
+                        <p class="text-[11px] text-slate-300 leading-normal">
+                            El proveedor remite formalmente el conjunto de entregables (ADD, NFRs, Roadmap, Plan de Migración y Gaps).
+                        </p>
+                    </div>
+                    <div class="text-[10px] text-cyanAccent font-mono bg-slateDark p-2 rounded border border-slate-700">
+                        Input: Paquete Completo
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-4 rounded-xl border border-cardBorder flex flex-col justify-between hover:border-cyanAccent transition space-y-3">
+                    <div class="space-y-2">
+                        <span class="w-7 h-7 rounded-full bg-brandBlue text-white font-bold text-xs flex items-center justify-center">2</span>
+                        <h3 class="text-xs font-bold text-white">Pre-Check Técnico</h3>
+                        <p class="text-[11px] text-slate-300 leading-normal">
+                            Arquitectura de la Empresa evalúa con listas de verificación en seguridad, integración y estándares.
+                        </p>
+                    </div>
+                    <div class="text-[10px] text-cyanAccent font-mono bg-slateDark p-2 rounded border border-slate-700">
+                        Acción: Audit Checklist
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-4 rounded-xl border border-cardBorder flex flex-col justify-between hover:border-amberAlert transition space-y-3">
+                    <div class="space-y-2">
+                        <span class="w-7 h-7 rounded-full bg-amberAlert text-slateDark font-bold text-xs flex items-center justify-center">3</span>
+                        <h3 class="text-xs font-bold text-white">Gestión Hallazgos</h3>
+                        <p class="text-[11px] text-slate-300 leading-normal">
+                            Clasificación de observaciones. El proveedor remedia No Conformidades o gestiona solicitudes de Dispensa.
+                        </p>
+                    </div>
+                    <div class="text-[10px] text-amberAlert font-mono bg-slateDark p-2 rounded border border-slate-700">
+                        Acción: Remediación
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-4 rounded-xl border border-cardBorder flex flex-col justify-between hover:border-emeraldSuccess transition space-y-3">
+                    <div class="space-y-2">
+                        <span class="w-7 h-7 rounded-full bg-brandBlue text-white font-bold text-xs flex items-center justify-center">4</span>
+                        <h3 class="text-xs font-bold text-white">Resultado ARB</h3>
+                        <p class="text-[11px] text-slate-300 leading-normal">
+                            Presentación formal ante el Architecture Review Board para la emisión del veredicto final.
+                        </p>
+                    </div>
+                    <div class="text-[10px] text-emeraldSuccess font-mono bg-slateDark p-2 rounded border border-slate-700">
+                        Resultado: Veredicto Board
+                    </div>
+                </div>
+
+                <div class="bg-cardBg p-4 rounded-xl border border-cardBorder flex flex-col justify-between hover:border-emeraldSuccess transition space-y-3">
+                    <div class="space-y-2">
+                        <span class="w-7 h-7 rounded-full bg-emeraldSuccess text-slateDark font-bold text-xs flex items-center justify-center">5</span>
+                        <h3 class="text-xs font-bold text-white">Firma & Cierre</h3>
+                        <p class="text-[11px] text-slate-300 leading-normal">
+                            Emisión del Sign-off, firma del Architecture Contract y autorización para pruebas QA y liberación de pagos.
+                        </p>
+                    </div>
+                    <div class="text-[10px] text-emeraldSuccess font-mono bg-slateDark p-2 rounded border border-slate-700">
+                        Output: Contract Sign-Off
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-slateDark/80 p-4 rounded-xl border border-cyanAccent/40 flex items-center gap-4">
+                <span class="text-2xl">🎯</span>
+                <div>
+                    <h4 class="text-xs font-bold text-cyanAccent uppercase tracking-wider">Objetivo de Aceptación</h4>
+                    <p class="text-xs text-slate-200">
+                        Asegurar un flujo transparente y auditable que garantice que ninguna solución externa sea aceptada sin la debida validación técnica y de gobierno.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="h-16 border-t border-cardBorder bg-slateDark/90 px-6 flex items-center justify-between shrink-0">
+        <button id="prevBtn" onclick="prevSlide()" class="px-5 py-2 rounded-xl bg-cardBg hover:bg-brandBlue text-white font-bold text-xs border border-cardBorder transition flex items-center gap-2 disabled:opacity-30 disabled:hover:bg-cardBg">
+            ← Anterior
+        </button>
+
+        <div class="flex items-center space-x-2" id="dotsContainer">
+            <button onclick="goToSlide(0)" class="w-3 h-3 rounded-full bg-cyanAccent transition-all"></button>
+            <button onclick="goToSlide(1)" class="w-3 h-3 rounded-full bg-slate-700 hover:bg-slate-500 transition-all"></button>
+            <button onclick="goToSlide(2)" class="w-3 h-3 rounded-full bg-slate-700 hover:bg-slate-500 transition-all"></button>
+            <button onclick="goToSlide(3)" class="w-3 h-3 rounded-full bg-slate-700 hover:bg-slate-500 transition-all"></button>
+        </div>
+
+        <button id="nextBtn" onclick="nextSlide()" class="px-5 py-2 rounded-xl bg-brandBlue hover:bg-blue-600 text-white font-bold text-xs transition flex items-center gap-2">
+            Siguiente →
+        </button>
+    </footer>
+
+    <script>
+        let currentSlide = 0;
+        const totalSlides = 4;
+
+        function updateSlide() {
+            for (let i = 0; i < totalSlides; i++) {
+                const slide = document.getElementById(`slide-${i + 1}`);
+                if (i === currentSlide) {
+                    slide.classList.add('active');
+                } else {
+                    slide.classList.remove('active');
+                }
+            }
+
+            document.getElementById('slideCounter').innerText = `${currentSlide + 1} / ${totalSlides}`;
+            document.getElementById('progressBar').style.width = `${((currentSlide + 1) / totalSlides) * 100}%`;
+
+            document.getElementById('prevBtn').disabled = currentSlide === 0;
+            const nextBtn = document.getElementById('nextBtn');
+            if (currentSlide === totalSlides - 1) {
+                nextBtn.innerText = 'Reiniciar 🔄';
+            } else {
+                nextBtn.innerText = 'Siguiente →';
+            }
+
+            const dots = document.getElementById('dotsContainer').children;
+            for (let i = 0; i < dots.length; i++) {
+                if (i === currentSlide) {
+                    dots[i].className = 'w-3 h-3 rounded-full bg-cyanAccent transition-all';
+                } else {
+                    dots[i].className = 'w-3 h-3 rounded-full bg-slate-700 hover:bg-slate-500 transition-all';
+                }
+            }
+        }
+
+        function nextSlide() {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+            } else {
+                currentSlide = 0;
+            }
+            updateSlide();
+        }
+
+        function prevSlide() {
+            if (currentSlide > 0) {
+                currentSlide--;
+                updateSlide();
+            }
+        }
+
+        function goToSlide(index) {
+            currentSlide = index;
+            updateSlide();
+        }
+
+        function toggleFullscreen() {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen().catch(err => {});
+            } else {
+                if (document.exitFullscreen) {
+                    document.exitFullscreen();
+                }
+            }
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === 'Space') {
+                nextSlide();
+            } else if (e.key === 'ArrowLeft') {
+                prevSlide();
+            }
+        });
+
+        updateSlide();
+    </script>
+</body>
+</html>

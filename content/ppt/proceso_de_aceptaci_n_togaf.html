@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proceso de Aceptación de Arquitectura Externa (TOGAF)</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        slateDark: '#0f172a',
+                        cardBg: '#1e293b',
+                        cardBorder: '#334155',
+                        brandBlue: '#2563eb',
+                        cyanAccent: '#06b6d4',
+                        amberAlert: '#f59e0b',
+                        emeraldSuccess: '#10b981',
+                        roseDanger: '#f43f5e'
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 650px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 320px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 360px;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slateDark text-slate-100 font-sans leading-relaxed min-h-screen">
+
+<!--
+PALETTE: Brilliant Blues & Vibrant Amber (Slate Dark, Royal Blue, Electric Cyan, Vibrant Amber, Emerald Green, Rose Red)
+
+NARRATIVE & STRUCTURE PLAN:
+1. Executive Header & Core KPIs: High-level metrics defining the TOGAF ADM acceptance framework scope.
+2. Phase Alignment & Deliverables (Phases B, C, D): Technical definition package breakdown (ADD, NFRs, Interoperability, SBB).
+3. Transformation & Transition Planning (Phases E, F): Architecture Roadmap, Implementation/Migration plan, Gap Analysis.
+4. Architectural Compliance & ARB Governance (Phase G): Distribution of compliance verdicts (Conforme, Conforme con Dispensa, No Conforme) & Domain Radar.
+5. End-to-End Operational Workflow: 5-step lifecycle timeline built with structured HTML/CSS components (No SVG/Mermaid).
+6. Non-Functional Requirements (NFR) Performance Metrics: Target benchmarks vs baseline targets.
+7. RACI Governance Matrix: Explicit stakeholder authority assignment across ARB, CIO, EA, and External Vendors.
+
+VISUALIZATION SELECTION MATRIX:
+- Deliverable Weight per ADM Phase -> Goal: Compare -> Chart Type: Stacked/Grouped Bar (Chart.js) -> Justification: Clearly displays required artifacts across TOGAF domains -> Method: Canvas (No SVG).
+- Compliance Verdict Distribution -> Goal: Inform/Composition -> Chart Type: Doughnut Chart (Chart.js) -> Justification: Ideal for categorical breakdown of ARB compliance verdicts -> Method: Canvas (No SVG).
+- Domain Maturity & Gap Analysis -> Goal: Relationships/Compare -> Chart Type: Radar Chart (Chart.js) -> Justification: Evaluates multi-variable readiness across Business, Data, Application, and Technology domains -> Method: Canvas (No SVG).
+- NFR Target Metrics -> Goal: Compare -> Chart Type: Horizontal Bar Chart (Chart.js) -> Justification: Directly compares technical compliance benchmarks -> Method: Canvas (No SVG).
+- End-to-End Lifecycle Process Flow -> Goal: Organize -> Method: Custom Tailwind CSS Step Cards with Unicode Icons -> Justification: Completely avoids SVG and Mermaid JS as strictly required.
+
+CONFIRMATION:
+Neither Mermaid JS nor SVG graphics have been used anywhere in this file. All visual elements are generated via Chart.js Canvas or pure HTML/CSS with Tailwind CSS.
+-->
+
+    <!-- Sticky Header Navigation -->
+    <header class="sticky top-0 z-50 bg-slateDark/90 backdrop-blur border-b border-cardBorder px-6 py-4">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="flex items-center space-x-3">
+                <span class="text-2xl">🏛️</span>
+                <div>
+                    <h1 class="text-xl font-bold text-white tracking-wide">Gobernanza de Arquitectura Externa</h1>
+                    <p class="text-xs text-cyanAccent font-medium">Marco de Aceptación TOGAF ADM (Fases B, C, D, E, F, G)</p>
+                </div>
+            </div>
+            <nav class="flex flex-wrap gap-2 text-xs font-semibold text-slate-300">
+                <a href="#kpi-overview" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">KPIs</a>
+                <a href="#fases-bcd" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">Fases B, C, D</a>
+                <a href="#fases-ef" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">Fases E, F</a>
+                <a href="#fase-g" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">Fase G (ARB)</a>
+                <a href="#nfr-metrics" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">NFRs</a>
+                <a href="#workflow" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">Flujo E2E</a>
+                <a href="#raci" class="px-3 py-1.5 rounded-md bg-cardBg hover:bg-brandBlue hover:text-white transition">Matriz RACI</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 py-8 space-y-12">
+
+        <!-- HERO & KPI SUMMARY -->
+        <section id="kpi-overview" class="space-y-6">
+            <div class="bg-gradient-to-r from-cardBg via-slate-800 to-cardBg p-8 rounded-2xl border border-cardBorder shadow-2xl relative overflow-hidden">
+                <div class="relative z-10 max-w-3xl">
+                    <span class="inline-block px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-brandBlue/20 text-cyanAccent mb-3 border border-brandBlue/30">
+                        Estándar TOGAF 9.1 / 9.2
+                    </span>
+                    <h2 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight mb-4">
+                        Proceso Formal de Aceptación de Soluciones Externas
+                    </h2>
+                    <p class="text-slate-300 text-sm sm:text-base leading-relaxed">
+                        Este portal interactivo resume la metodología de validación, gobierno y conformidad para componentes de software entregados por proveedores externos. Garantiza una transición ordenada desde el diseño conceptual (*As-Is / To-Be*) hasta el dictamen final del **Architecture Review Board (ARB)**.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Metric Cards -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-cardBg p-6 rounded-xl border border-cardBorder shadow-lg hover:border-cyanAccent transition">
+                    <div class="flex justify-between items-start mb-2">
+                        <span class="text-xs uppercase font-bold text-slate-400">Fases ADM Activas</span>
+                        <span class="text-xl">📐</span>
+                    </div>
+                    <div class="text-3xl font-extrabold text-white mb-1">6 Fases</div>
+                    <p class="text-xs text-slate-400">Cubriendo B, C, D (Diseño), E, F (Planes) y G (Gobierno).</p>
+                </div>
+                <div class="bg-cardBg p-6 rounded-xl border border-cardBorder shadow-lg hover:border-amberAlert transition">
+                    <div class="flex justify-between items-start mb-2">
+                        <span class="text-xs uppercase font-bold text-slate-400">Entregables Obligatorios</span>
+                        <span class="text-xl">📦</span>
+                    </div>
+                    <div class="text-3xl font-extrabold text-amberAlert mb-1">7 Artefactos</div>
+                    <p class="text-xs text-slate-400">ADD, NFRs, Interoperabilidad, SBBs, Roadmap, Migración y Gaps.</p>
+                </div>
+                <div class="bg-cardBg p-6 rounded-xl border border-cardBorder shadow-lg hover:border-emeraldSuccess transition">
+                    <div class="flex justify-between items-start mb-2">
+                        <span class="text-xs uppercase font-bold text-slate-400">Dictamen de Conformidad</span>
+                        <span class="text-xl">⚖️</span>
+                    </div>
+                    <div class="text-3xl font-extrabold text-emeraldSuccess mb-1">3 Estados</div>
+                    <p class="text-xs text-slate-400">Conforme, Conforme con Dispensa o No Conforme (Bloqueante).</p>
+                </div>
+                <div class="bg-cardBg p-6 rounded-xl border border-cardBorder shadow-lg hover:border-brandBlue transition">
+                    <div class="flex justify-between items-start mb-2">
+                        <span class="text-xs uppercase font-bold text-slate-400">Ciclo Operativo End-to-End</span>
+                        <span class="text-xl">🔄</span>
+                    </div>
+                    <div class="text-3xl font-extrabold text-cyanAccent mb-1">5 Pasos</div>
+                    <p class="text-xs text-slate-400">Desde la recepción técnica hasta la firma del Contrato final.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 1: FASES B, C, D (DISEÑO TÉCNICO Y SOLUCIÓN) -->
+        <section id="fases-bcd" class="bg-cardBg rounded-2xl p-6 sm:p-8 border border-cardBorder shadow-xl space-y-6">
+            <div class="border-b border-cardBorder pb-4">
+                <span class="text-xs font-bold text-cyanAccent uppercase tracking-widest">Paquete de Definición de Solución</span>
+                <h3 class="text-2xl font-bold text-white mt-1">1. Fases B, C y D: Arquitectura de Negocio, Sistemas y Tecnología</h3>
+                <p class="text-slate-300 text-sm mt-2">
+                    Las Fases B (Negocio), C (Datos/Aplicaciones) y D (Tecnología) imponen la obligación al proveedor de entregar especificaciones arquitectónicas detalladas. Estas validan que el software se ajuste a la Arquitectura de Referencia corporativa antes de iniciar desarrollos intensivos.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+                <!-- Text Details -->
+                <div class="space-y-4 text-sm">
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder">
+                        <h4 class="font-bold text-white flex items-center gap-2 mb-1">
+                            <span class="text-cyanAccent font-mono">01.</span> Documento de Definición de Arquitectura (ADD)
+                        </h4>
+                        <p class="text-slate-300 text-xs leading-relaxed">
+                            Mapea el estado actual (*As-Is*) vs estado objetivo (*To-Be*) en los 4 dominios. Requiere vistas formales ArchiMate para la comunicación entre aplicaciones y realización de componentes.
+                        </p>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder">
+                        <h4 class="font-bold text-white flex items-center gap-2 mb-1">
+                            <span class="text-cyanAccent font-mono">02.</span> Requerimientos No Funcionales (NFRs) e Interoperabilidad
+                        </h4>
+                        <p class="text-slate-300 text-xs leading-relaxed">
+                            Especificación explícita de SLA de disponibilidad, latencia, escalabilidad y la matriz de contratos API obligatorios para la integración en el ecosistema.
+                        </p>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder">
+                        <h4 class="font-bold text-white flex items-center gap-2 mb-1">
+                            <span class="text-cyanAccent font-mono">03.</span> Catálogo SBB (Software Building Blocks)
+                        </h4>
+                        <p class="text-slate-300 text-xs leading-relaxed">
+                            Registro de módulos reutilizables, librerías y marcos de trabajo expresamente autorizados por la organización para evitar vulnerabilidades de software no homologado.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Visualization -->
+                <div class="bg-slateDark p-4 rounded-xl border border-cardBorder flex flex-col items-center">
+                    <h4 class="text-xs font-bold text-slate-300 mb-4 text-center">Distribución de Artefactos Requeridos por Dominio TOGAF</h4>
+                    <div class="chart-container">
+                        <canvas id="chartFasesBCD"></canvas>
+                    </div>
+                    <p class="text-xs text-slate-400 mt-3 text-center px-4">
+                        El gráfico muestra el nivel relativo de esfuerzo y documentación exigido al proveedor para cada dominio arquitectónico.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 2: FASES E & F (TRANSICIÓN Y HOJAS DE RUTA) -->
+        <section id="fases-ef" class="bg-cardBg rounded-2xl p-6 sm:p-8 border border-cardBorder shadow-xl space-y-6">
+            <div class="border-b border-cardBorder pb-4">
+                <span class="text-xs font-bold text-amberAlert uppercase tracking-widest">Gobierno de Transformación</span>
+                <h3 class="text-2xl font-bold text-white mt-1">2. Fases E y F: Oportunidades, Soluciones y Planeación de Migración</h3>
+                <p class="text-slate-300 text-sm mt-2">
+                    Las Fases E y F aseguran la viabilidad práctica del despliegue del software. Se analiza el impacto operativo, la secuencia de entregas de valor incrementales (*Plateaus*) y el plan de convivencia/migración de datos legados.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+                <!-- Chart First -->
+                <div class="bg-slateDark p-4 rounded-xl border border-cardBorder flex flex-col items-center order-2 lg:order-1">
+                    <h4 class="text-xs font-bold text-slate-300 mb-4 text-center">Evaluación de Madurez y Análisis de Brechas (Gap Analysis)</h4>
+                    <div class="chart-container">
+                        <canvas id="chartGapAnalysis"></canvas>
+                    </div>
+                    <p class="text-xs text-slate-400 mt-3 text-center px-4">
+                        Evaluación del nivel de brecha técnica identificada entre la arquitectura actual y la propuesta del proveedor.
+                    </p>
+                </div>
+
+                <!-- Details Second -->
+                <div class="space-y-4 text-sm order-1 lg:order-2">
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder">
+                        <h4 class="font-bold text-white flex items-center gap-2 mb-1">
+                            <span class="text-amberAlert font-mono">A.</span> Hoja de Ruta de Arquitectura (*Architecture Roadmap*)
+                        </h4>
+                        <p class="text-slate-300 text-xs leading-relaxed">
+                            Define las etapas intermedias (*Plateaus*) de desarrollo, asegurando valor de negocio tangible en cada iteración y minimizando dependencias críticas no planificadas.
+                        </p>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder">
+                        <h4 class="font-bold text-white flex items-center gap-2 mb-1">
+                            <span class="text-amberAlert font-mono">B.</span> Plan de Implementación y Migración
+                        </h4>
+                        <p class="text-slate-300 text-xs leading-relaxed">
+                            Estrategia detallada para la migración de datos, coexistencia con sistemas legados y contingencias operativas durante la transición de servicio.
+                        </p>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder">
+                        <h4 class="font-bold text-white flex items-center gap-2 mb-1">
+                            <span class="text-amberAlert font-mono">C.</span> Matriz de Análisis de Brechas (*Gap Analysis*)
+                        </h4>
+                        <p class="text-slate-300 text-xs leading-relaxed">
+                            Deducción formal e inventariada de componentes eliminados, modificados, reemplazados o creados desde cero en el nuevo diseño.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 3: FASE G (CONFORMIDAD Y DICTAMEN ARB) -->
+        <section id="fase-g" class="bg-cardBg rounded-2xl p-6 sm:p-8 border border-cardBorder shadow-xl space-y-6">
+            <div class="border-b border-cardBorder pb-4">
+                <span class="text-xs font-bold text-emeraldSuccess uppercase tracking-widest">Protocolo de Evaluación</span>
+                <h3 class="text-2xl font-bold text-white mt-1">3. Fase G: Gobernanza de Implementación y Dictamen del ARB</h3>
+                <p class="text-slate-300 text-sm mt-2">
+                    La Fase G formaliza la revisión técnica efectuada por el **Architecture Review Board (ARB)**. Ninguna solución externa puede avanzar a fase de despliegue ni liberar hitos de pago sin obtener una resolución válida.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                <!-- State 1 -->
+                <div class="bg-slateDark p-6 rounded-xl border-t-4 border-t-emeraldSuccess border-x border-b border-cardBorder space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-xs font-bold uppercase text-emeraldSuccess">Estado 1</span>
+                        <span class="text-lg">✔</span>
+                    </div>
+                    <h4 class="text-lg font-bold text-white">Conforme</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Cumplimiento total con los lineamientos, estándares de seguridad, patrones de diseño y matrices de interoperabilidad corporativas.
+                    </p>
+                    <div class="pt-2 text-xs font-semibold text-emeraldSuccess">
+                        Acción: Aprobación directa para QA / Producción.
+                    </div>
+                </div>
+
+                <!-- State 2 -->
+                <div class="bg-slateDark p-6 rounded-xl border-t-4 border-t-amberAlert border-x border-b border-cardBorder space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-xs font-bold uppercase text-amberAlert">Estado 2</span>
+                        <span class="text-lg">⚠️</span>
+                    </div>
+                    <h4 class="text-lg font-bold text-white">Conforme con Dispensa</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Existe una desviación técnica justificada por necesidad prioritaria del negocio. Exige un plan firmado de remediación técnica a futuro.
+                    </p>
+                    <div class="pt-2 text-xs font-semibold text-amberAlert">
+                        Acción: Aprobación temporal sujeta a compromiso.
+                    </div>
+                </div>
+
+                <!-- State 3 -->
+                <div class="bg-slateDark p-6 rounded-xl border-t-4 border-t-roseDanger border-x border-b border-cardBorder space-y-3">
+                    <div class="flex justify-between items-center">
+                        <span class="text-xs font-bold uppercase text-roseDanger">Estado 3</span>
+                        <span class="text-lg">✖</span>
+                    </div>
+                    <h4 class="text-lg font-bold text-white">No Conforme</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        Desviación crítica en seguridad, arquitectura de integración o estándares no autorizados. Bloquea el avance del proyecto.
+                    </p>
+                    <div class="pt-2 text-xs font-semibold text-roseDanger">
+                        Acción: Rechazo y rediseño obligatorio por el proveedor.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Doughnut Chart for Verdict Distribution -->
+            <div class="bg-slateDark p-6 rounded-xl border border-cardBorder mt-6 grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
+                <div class="space-y-3">
+                    <h4 class="text-base font-bold text-white">Proporción Objetivo de Dictámenes de Arquitectura</h4>
+                    <p class="text-xs text-slate-300 leading-relaxed">
+                        El gobierno corporativo busca maximizar el porcentaje de soluciones totalmente conformes en la primera revisión, limitando las dispensas técnicas a casos estrictamente excepcionales.
+                    </p>
+                    <div class="space-y-2 text-xs">
+                        <div class="flex justify-between items-center border-b border-slate-700 py-1">
+                            <span class="text-slate-300">Target Conforme:</span>
+                            <span class="font-bold text-emeraldSuccess">75% - 85%</span>
+                        </div>
+                        <div class="flex justify-between items-center border-b border-slate-700 py-1">
+                            <span class="text-slate-300">Tolerancia Dispensa:</span>
+                            <span class="font-bold text-amberAlert">&lt; 15%</span>
+                        </div>
+                        <div class="flex justify-between items-center py-1">
+                            <span class="text-slate-300">No Conforme (Rechazos):</span>
+                            <span class="font-bold text-roseDanger">&lt; 5%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex flex-col items-center">
+                    <div class="chart-container">
+                        <canvas id="chartCompliancePie"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 4: REQUERIMIENTOS NO FUNCIONALES (NFRs) -->
+        <section id="nfr-metrics" class="bg-cardBg rounded-2xl p-6 sm:p-8 border border-cardBorder shadow-xl space-y-6">
+            <div class="border-b border-cardBorder pb-4">
+                <span class="text-xs font-bold text-cyanAccent uppercase tracking-widest">Métricas y Acuerdos NFR</span>
+                <h3 class="text-2xl font-bold text-white mt-1">4. Evaluación de Requerimientos No Funcionales</h3>
+                <p class="text-slate-300 text-sm mt-2">
+                    Comparación entre las métricas de rendimiento exigidas por la empresa frente al desempeño garantizado en la arquitectura del proveedor.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
+                <div class="bg-slateDark p-4 rounded-xl border border-cardBorder flex flex-col items-center">
+                    <h4 class="text-xs font-bold text-slate-300 mb-4 text-center">Benchmark de Cumplimiento Técnico (%)</h4>
+                    <div class="chart-container">
+                        <canvas id="chartNFRBar"></canvas>
+                    </div>
+                </div>
+
+                <div class="space-y-4 text-xs">
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder flex items-start gap-3">
+                        <span class="text-xl">⚡</span>
+                        <div>
+                            <h5 class="font-bold text-white">Desempeño y Tiempo de Respuesta</h5>
+                            <p class="text-slate-400 mt-1">Pruebas de latencia API en caliente (&lt; 200ms en el percentil 95) y soporte para picos transaccionales.</p>
+                        </div>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder flex items-start gap-3">
+                        <span class="text-xl">📈</span>
+                        <div>
+                            <h5 class="font-bold text-white">Escalabilidad Horizontal</h5>
+                            <p class="text-slate-400 mt-1">Capacidad de auto-escalado dinámico en entornos cloud sin requerir reinicios de servicio.</p>
+                        </div>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder flex items-start gap-3">
+                        <span class="text-xl">🔒</span>
+                        <div>
+                            <h5 class="font-bold text-white">Seguridad y Cifrado</h5>
+                            <p class="text-slate-400 mt-1">Cifrado de datos en reposo (AES-256) y en tránsito (TLS 1.3), integración con IAM institucional.</p>
+                        </div>
+                    </div>
+
+                    <div class="p-4 rounded-lg bg-slateDark/60 border border-cardBorder flex items-start gap-3">
+                        <span class="text-xl">🔄</span>
+                        <div>
+                            <h5 class="font-bold text-white">Disponibilidad Sistemática (SLA)</h5>
+                            <p class="text-slate-400 mt-1">Garantía contractual de 99.9% de uptime con arquitecturas multi-zona resilientes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 5: CICLO DE VIDA OPERATIVO END-TO-END (WORKFLOW WITH HTML/CSS ONLY) -->
+        <section id="workflow" class="bg-cardBg rounded-2xl p-6 sm:p-8 border border-cardBorder shadow-xl space-y-6">
+            <div class="border-b border-cardBorder pb-4">
+                <span class="text-xs font-bold text-cyanAccent uppercase tracking-widest">Flujo de Trabajo Operativo</span>
+                <h3 class="text-2xl font-bold text-white mt-1">5. Ciclo de Vida End-to-End del Proceso de Aceptación</h3>
+                <p class="text-slate-300 text-sm mt-2">
+                    Secuencia paso a paso desde que el proveedor remite el paquete técnico hasta la formalización contractual.
+                </p>
+            </div>
+
+            <!-- Horizontal Step Process built with pure CSS/Tailwind (NO SVG / NO MERMAID) -->
+            <div class="grid grid-cols-1 md:grid-cols-5 gap-4 relative">
+                <!-- Step 1 -->
+                <div class="bg-slateDark p-5 rounded-xl border border-cardBorder flex flex-col justify-between space-y-3 relative hover:border-cyanAccent transition">
+                    <div class="flex items-center justify-between">
+                        <span class="w-8 h-8 rounded-full bg-brandBlue text-white font-bold text-sm flex items-center justify-center">1</span>
+                        <span class="text-xs font-mono text-cyanAccent">Paso 01</span>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Entrega Formal</h4>
+                        <p class="text-xs text-slate-400 mt-2">El proveedor remite los entregables obligatorios (ADD, NFRs, Roadmap, Gaps).</p>
+                    </div>
+                    <div class="pt-2 text-[10px] text-slate-500 font-mono">Input: Deliverables Package</div>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="bg-slateDark p-5 rounded-xl border border-cardBorder flex flex-col justify-between space-y-3 relative hover:border-cyanAccent transition">
+                    <div class="flex items-center justify-between">
+                        <span class="w-8 h-8 rounded-full bg-brandBlue text-white font-bold text-sm flex items-center justify-center">2</span>
+                        <span class="text-xs font-mono text-cyanAccent">Paso 02</span>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Pre-Check Técnico</h4>
+                        <p class="text-xs text-slate-400 mt-2">Revisión mediante checklists de seguridad, integración y estándares.</p>
+                    </div>
+                    <div class="pt-2 text-[10px] text-slate-500 font-mono">Action: Checklist Audit</div>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="bg-slateDark p-5 rounded-xl border border-cardBorder flex flex-col justify-between space-y-3 relative hover:border-amberAlert transition">
+                    <div class="flex items-center justify-between">
+                        <span class="w-8 h-8 rounded-full bg-amberAlert text-slateDark font-bold text-sm flex items-center justify-center">3</span>
+                        <span class="text-xs font-mono text-amberAlert">Paso 03</span>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Gestión Hallazgos</h4>
+                        <p class="text-xs text-slate-400 mt-2">Remediación de No Conformidades o trámite formal de Dispensas justificadas.</p>
+                    </div>
+                    <div class="pt-2 text-[10px] text-slate-500 font-mono">Action: Remediation / Waiver</div>
+                </div>
+
+                <!-- Step 4 -->
+                <div class="bg-slateDark p-5 rounded-xl border border-cardBorder flex flex-col justify-between space-y-3 relative hover:border-emeraldSuccess transition">
+                    <div class="flex items-center justify-between">
+                        <span class="w-8 h-8 rounded-full bg-brandBlue text-white font-bold text-sm flex items-center justify-center">4</span>
+                        <span class="text-xs font-mono text-cyanAccent">Paso 04</span>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Dictamen ARB</h4>
+                        <p class="text-xs text-slate-400 mt-2">Sometimiento al comité. Veredicto: Conforme, Dispensa o Rechazo.</p>
+                    </div>
+                    <div class="pt-2 text-[10px] text-slate-500 font-mono">Decision: Board Verdict</div>
+                </div>
+
+                <!-- Step 5 -->
+                <div class="bg-slateDark p-5 rounded-xl border border-cardBorder flex flex-col justify-between space-y-3 relative hover:border-emeraldSuccess transition">
+                    <div class="flex items-center justify-between">
+                        <span class="w-8 h-8 rounded-full bg-emeraldSuccess text-slateDark font-bold text-sm flex items-center justify-center">5</span>
+                        <span class="text-xs font-mono text-emeraldSuccess">Paso 05</span>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Firma & Cierre</h4>
+                        <p class="text-xs text-slate-400 mt-2">Firma del *Architecture Contract*, habilitación de QA y pago de hitos.</p>
+                    </div>
+                    <div class="pt-2 text-[10px] text-slate-500 font-mono">Output: Signed Contract</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECTION 6: MATRIZ DE GOBIERNO Y ROLES (RACI) -->
+        <section id="raci" class="bg-cardBg rounded-2xl p-6 sm:p-8 border border-cardBorder shadow-xl space-y-6">
+            <div class="border-b border-cardBorder pb-4">
+                <span class="text-xs font-bold text-cyanAccent uppercase tracking-widest">Matriz de Responsabilidades</span>
+                <h3 class="text-2xl font-bold text-white mt-1">6. Gobernanza de Roles y Responsabilidades (RACI)</h3>
+                <p class="text-slate-300 text-sm mt-2">
+                    Asignación explícita de autoridad entre el equipo interno de Arquitectura y los representantes del proveedor externo.
+                </p>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-left text-xs text-slate-300">
+                    <thead class="bg-slateDark text-slate-200 uppercase font-bold border-b border-cardBorder">
+                        <tr>
+                            <th class="p-3">Entregable / Actividad</th>
+                            <th class="p-3 text-center">Proveedor Exclusivo</th>
+                            <th class="p-3 text-center">Arquitecto de Empresa</th>
+                            <th class="p-3 text-center">Comité ARB</th>
+                            <th class="p-3 text-center">CIO / PMO</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-cardBorder">
+                        <tr class="hover:bg-slateDark/40">
+                            <td class="p-3 font-semibold text-white">Elaboración Paquete ADD / NFRs</td>
+                            <td class="p-3 text-center font-bold text-emeraldSuccess">R (Responsible)</td>
+                            <td class="p-3 text-center font-bold text-amberAlert">C (Consulted)</td>
+                            <td class="p-3 text-center text-slate-500">I (Informed)</td>
+                            <td class="p-3 text-center text-slate-500">I (Informed)</td>
+                        </tr>
+                        <tr class="hover:bg-slateDark/40">
+                            <td class="p-3 font-semibold text-white">Pre-Check de Conformidad Técnica</td>
+                            <td class="p-3 text-center font-bold text-amberAlert">C (Consulted)</td>
+                            <td class="p-3 text-center font-bold text-emeraldSuccess">R (Responsible)</td>
+                            <td class="p-3 text-center font-bold text-cyanAccent">A (Accountable)</td>
+                            <td class="p-3 text-center text-slate-500">I (Informed)</td>
+                        </tr>
+                        <tr class="hover:bg-slateDark/40">
+                            <td class="p-3 font-semibold text-white">Dictamen y Emisión de Dispensas</td>
+                            <td class="p-3 text-center font-bold text-slate-500">I (Informed)</td>
+                            <td class="p-3 text-center font-bold text-amberAlert">C (Consulted)</td>
+                            <td class="p-3 text-center font-bold text-emeraldSuccess">A / R (Accountable)</td>
+                            <td class="p-3 text-center font-bold text-amberAlert">C (Consulted)</td>
+                        </tr>
+                        <tr class="hover:bg-slateDark/40">
+                            <td class="p-3 font-semibold text-white">Firma de Contrato de Arquitectura</td>
+                            <td class="p-3 text-center font-bold text-emeraldSuccess">R (Responsible)</td>
+                            <td class="p-3 text-center font-bold text-emeraldSuccess">R (Responsible)</td>
+                            <td class="p-3 text-center font-bold text-cyanAccent">A (Accountable)</td>
+                            <td class="p-3 text-center font-bold text-emeraldSuccess">A (Sign-Off)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="flex flex-wrap gap-4 text-[11px] text-slate-400 pt-2 border-t border-cardBorder">
+                <span><strong>R:</strong> Responsible (Ejecuta)</span>
+                <span><strong>A:</strong> Accountable (Aprueba/Responde)</span>
+                <span><strong>C:</strong> Consulted (Asesora)</span>
+                <span><strong>I:</strong> Informed (Notificado)</span>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-cardBorder bg-slateDark py-6 text-center text-xs text-slate-400">
+        <p>Gobernanza de Arquitectura Empresarial basada en el estándar TOGAF ADM.</p>
+        <p class="mt-1 text-slate-500">Diseño Single-Page Infographic sin dependencias SVG ni Mermaid JS.</p>
+    </footer>
+
+    <!-- Chart.js Logic Scripting -->
+    <script>
+        // Label wrapping helper for labels longer than 16 characters
+        function wrapLabel(str, maxLen = 16) {
+            if (typeof str !== 'string' || str.length <= maxLen) return str;
+            const words = str.split(' ');
+            const lines = [];
+            let currentLine = '';
+            words.forEach(word => {
+                if ((currentLine + ' ' + word).trim().length > maxLen) {
+                    if (currentLine) lines.push(currentLine.trim());
+                    currentLine = word;
+                } else {
+                    currentLine = (currentLine + ' ' + word).trim();
+                }
+            });
+            if (currentLine) lines.push(currentLine.trim());
+            return lines;
+        }
+
+        // Standard Mandatory Tooltip Title Callback Configuration
+        const mandatoryTooltipConfig = {
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        title: function(tooltipItems) {
+                            const item = tooltipItems[0];
+                            let label = item.chart.data.labels[item.dataIndex];
+                            if (Array.isArray(label)) {
+                                return label.join(' ');
+                            } else {
+                                return label;
+                            }
+                        }
+                    }
+                }
+            }
+        };
+
+        // Chart 1: Fases BCD Deliverable Weights
+        const labelsBCD = [
+            'Arquitectura de Negocio',
+            'Arquitectura de Datos',
+            'Arquitectura de Aplicaciones',
+            'Arquitectura de Tecnologia'
+        ].map(l => wrapLabel(l));
+
+        new Chart(document.getElementById('chartFasesBCD'), {
+            type: 'bar',
+            data: {
+                labels: labelsBCD,
+                datasets: [
+                    {
+                        label: 'ADD & Vistas ArchiMate',
+                        data: [85, 90, 95, 80],
+                        backgroundColor: '#2563eb'
+                    },
+                    {
+                        label: 'NFRs e Interoperabilidad',
+                        data: [60, 85, 90, 95],
+                        backgroundColor: '#06b6d4'
+                    },
+                    {
+                        label: 'Catálogo SBB',
+                        data: [40, 70, 85, 90],
+                        backgroundColor: '#f59e0b'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { color: '#334155' } },
+                    y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' }, max: 100 }
+                },
+                plugins: {
+                    ...mandatoryTooltipConfig.plugins,
+                    legend: { labels: { color: '#e2e8f0', font: { size: 11 } } }
+                }
+            }
+        });
+
+        // Chart 2: Gap Analysis Radar Chart
+        const labelsGap = [
+            'Seguridad & IAM',
+            'Interoperabilidad API',
+            'Escalabilidad Cloud',
+            'Conformidad Negocio',
+            'Mantenibilidad Code'
+        ].map(l => wrapLabel(l));
+
+        new Chart(document.getElementById('chartGapAnalysis'), {
+            type: 'radar',
+            data: {
+                labels: labelsGap,
+                datasets: [
+                    {
+                        label: 'Estado Actual (Baseline)',
+                        data: [60, 50, 45, 70, 55],
+                        borderColor: '#f59e0b',
+                        backgroundColor: 'rgba(245, 158, 11, 0.2)',
+                        borderWidth: 2
+                    },
+                    {
+                        label: 'Propuesta Proveedor (Target)',
+                        data: [95, 90, 85, 95, 90],
+                        borderColor: '#10b981',
+                        backgroundColor: 'rgba(16, 185, 129, 0.2)',
+                        borderWidth: 2
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    r: {
+                        angleLines: { color: '#334155' },
+                        grid: { color: '#334155' },
+                        pointLabels: { color: '#94a3b8', font: { size: 10 } },
+                        ticks: { backdropColor: 'transparent', color: '#64748b' }
+                    }
+                },
+                plugins: {
+                    ...mandatoryTooltipConfig.plugins,
+                    legend: { labels: { color: '#e2e8f0', font: { size: 11 } } }
+                }
+            }
+        });
+
+        // Chart 3: ARB Compliance Pie / Doughnut Chart
+        const labelsCompliance = [
+            'Totalmente Conforme',
+            'Conforme con Dispensa',
+            'No Conforme (Rechazado)'
+        ].map(l => wrapLabel(l));
+
+        new Chart(document.getElementById('chartCompliancePie'), {
+            type: 'doughnut',
+            data: {
+                labels: labelsCompliance,
+                datasets: [{
+                    data: [80, 15, 5],
+                    backgroundColor: ['#10b981', '#f59e0b', '#f43f5e'],
+                    borderWidth: 2,
+                    borderColor: '#1e293b'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    ...mandatoryTooltipConfig.plugins,
+                    legend: { position: 'bottom', labels: { color: '#e2e8f0', font: { size: 11 } } }
+                }
+            }
+        });
+
+        // Chart 4: NFR Horizontal Bar Chart
+        const labelsNFR = [
+            'Disponibilidad SLA (99.9%)',
+            'Tiempo Respuesta (<200ms)',
+            'Cobertura Seguridad IAM',
+            'Interoperabilidad Contratos'
+        ].map(l => wrapLabel(l));
+
+        new Chart(document.getElementById('chartNFRBar'), {
+            type: 'bar',
+            data: {
+                labels: labelsNFR,
+                datasets: [
+                    {
+                        label: 'Requerido Corporativo',
+                        data: [99.9, 95, 100, 100],
+                        backgroundColor: '#2563eb'
+                    },
+                    {
+                        label: 'Validado Proveedor',
+                        data: [99.5, 90, 98, 95],
+                        backgroundColor: '#06b6d4'
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' }, max: 100 },
+                    y: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { color: '#334155' } }
+                },
+                plugins: {
+                    ...mandatoryTooltipConfig.plugins,
+                    legend: { labels: { color: '#e2e8f0', font: { size: 11 } } }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
