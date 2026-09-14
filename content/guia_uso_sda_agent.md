@@ -1,7 +1,7 @@
-# Guia de inicio y uso operativo de SDA-agent
+# Guía de inicio y uso operativo de SDA-agent
 
 ## 1. Objetivo de esta guía
-Esta guia explica como empezar a usar SDA-agent para revisar documentos técnicos de arquitectura bajo lineamientos SDA/TOGAF.
+Esta guía explica como empezar a usar SDA-agent para revisar y generar documentación técnica de arquitectura bajo lineamientos SDA/TOGAF.
 
 Incluye:
 - Como preparar insumos.
@@ -12,7 +12,9 @@ Incluye:
 ---
 
 ## 2. Que hace SDA-agent
-SDA-agent revisa documentos técnicos contra plantillas validadoras del sistema documental.
+SDA-agent opera en dos modos:
+- Revision: evalua documentación técnica contra plantillas validadoras del sistema documental.
+- Generacion: analiza documentación de entrada y crea archivos documentales por plantilla asociada.
 
 Reglas clave del agente:
 - Solo usa plantillas en la carpeta `plantillas`.
@@ -41,15 +43,17 @@ Decision formal:
 - `.github/prompts/sda-revision-por-fase.prompt.md`
 - `.github/prompts/sda-revision-integral.prompt.md`
 - `.github/prompts/sda-trazabilidad-gap.prompt.md`
+- `.github/prompts/sda-generacion-desde-entrada.prompt.md`
 
 ---
 
-## 4. Requisitos minimos antes de ejecutar
-1. Tener una carpeta raiz por caso de revision.
-2. Incluir carpeta `plantillas` en esa raiz.
-3. Verificar que las plantillas de validacion sean solo `*_puntoycoma.csv`.
-4. Incluir subcarpetas obligatorias segun modalidad.
-5. Definir el objetivo de la revision (fase, integral o trazabilidad).
+## 4. Requisitos mínimos antes de ejecutar
+1. Tener una carpeta raíz por caso de revision.
+2. Incluir carpeta `plantillas` en esa raíz.
+3. Verificar que las plantillas de validación sean solo `*_puntoycoma.csv`.
+4. Incluir subcarpetas obligatorias según modalidad.
+5. Si el modo es generación, incluir carpeta `entrada` y carpeta `salida`.
+6. Definir el objetivo de la revision o de la generación.
 
 ---
 
@@ -77,7 +81,7 @@ Estructura minima:
 ```
 
 Uso recomendado:
-- Cuando solo se audita un tramo del proyecto (ejemplo: certificacion o produccion).
+- Cuando solo se audita un tramo del proyecto (ejemplo: certificación o producción).
 
 ## 5.2 Revision integral
 Estructura minima:
@@ -112,25 +116,43 @@ Estructura minima:
 Uso recomendado:
 - Cuando se quiere encontrar quiebres de trazabilidad y brechas priorizadas.
 
+## 5.4 Generación documental desde entrada técnica
+Estructura minima:
+
+```text
+<raiz-caso>/
+  entrada/
+  plantillas/
+    *_puntoycoma.csv
+  salida/
+```
+
+Uso recomendado:
+- Cuando existe uno o varios documentos técnicos fuente y se necesita construir la documentación SDA pertinente por plantilla.
+
 ---
 
 ## 6. Como ejecutar el agente en VS Code
 
-## 6.1 Opcion recomendada: usar prompts
+## 6.1 Opción recomendada: usar prompts
 En el chat de VS Code:
 1. Escribe `/`.
 2. Selecciona uno de los prompts SDA.
-3. Completa los campos solicitados (ruta raiz, contexto, enfoque).
+3. Completa los campos solicitados (ruta raíz, contexto, enfoque).
 4. Ejecuta.
 
 ## 6.2 Que prompt usar
 - `Revision SDA por Fase`: para alcance parcial por etapa.
 - `Revision SDA Integral`: para auditoria completa.
 - `Trazabilidad y GAP SDA`: para enfoque en cadena y brechas.
+- `Generacion SDA desde Entrada`: para crear archivos documentales desde documentos técnicos fuente.
 
 ---
 
 ## 7. Como interpretar la salida
+El formato de salida depende del modo ejecutado.
+
+## 7.1 Salida en modo Revision
 SDA-agent devuelve 5 bloques:
 
 1. Resumen Ejecutivo
@@ -160,6 +182,28 @@ SDA-agent devuelve 5 bloques:
 5. Checklist de Cierre
 - Acciones en orden sugerido de ejecucion
 
+## 7.2 Salida en modo Generacion
+SDA-agent devuelve 4 bloques:
+
+1. Resumen de Generacion
+- Carpeta de entrada analizada
+- Plantillas candidatas detectadas
+- Plantillas efectivamente generadas
+
+2. Archivos Creados
+- Ruta de cada archivo en `salida/`
+- Plantilla origen asociada
+- Estado (`Completo`, `Parcial`, `PENDIENTE_VALIDAR`)
+
+3. Mapeo Evidencia a Campos
+- Documento fuente
+- Campo poblado
+- Evidencia textual breve
+
+4. Vacios y Validaciones Pendientes
+- Campos sin evidencia suficiente
+- Datos pendientes de confirmacion humana
+
 ---
 
 ## 8. Criterio de aprobacion y manejo de alcance parcial
@@ -172,6 +216,11 @@ SDA-agent devuelve 5 bloques:
 - El agente evalua solo lo declarado en alcance.
 - No penaliza plantillas fuera del alcance.
 - Debe quedar explicito que se evaluo y que se excluyo.
+
+## 8.3 Criterio en modo Generacion
+- El agente no inventa datos.
+- Si falta evidencia, deja el campo vacio o marca `PENDIENTE_VALIDAR`.
+- Solo genera archivos para plantillas realmente asociadas al contenido de `entrada/`.
 
 ---
 
@@ -191,17 +240,24 @@ SDA-agent devuelve 5 bloques:
 5. Error: interpretar aprobado parcial como aprobado total.
 - Solucion: revisar el perimetro evaluado en el Resumen Ejecutivo.
 
+6. Error: esperar que el agente genere todo sin carpeta de salida.
+- Solucion: crear `salida/` antes de ejecutar el prompt de generacion.
+
+7. Error: generar archivos para plantillas no relacionadas con el contenido.
+- Solucion: revisar el bloque "Plantillas candidatas detectadas" y mantener solo las asociadas a evidencia.
+
 ---
 
 ## 10. Flujo recomendado de adopcion en equipo
 1. Definir una convencion de nombre para carpetas de caso (ejemplo: `caso-YYYYMMDD-proveedor`).
 2. Crear estructura base segun modalidad.
 3. Copiar plantillas `*_puntoycoma.csv` en `plantillas`.
-4. Cargar evidencias tecnicas en subcarpetas correspondientes.
-5. Ejecutar prompt SDA.
-6. Corregir hallazgos Critico y Alto.
-7. Reejecutar hasta alcanzar umbral.
-8. Presentar resultado en comite de arquitectura.
+4. Cargar evidencias tecnicas en subcarpetas correspondientes o en `entrada/` para generacion.
+5. Ejecutar el prompt SDA adecuado.
+6. Si fue revision: corregir hallazgos Critico y Alto.
+7. Si fue generacion: validar campos `PENDIENTE_VALIDAR` con responsables funcionales/tecnicos.
+8. Reejecutar hasta alcanzar umbral (revision) o completar calidad documental (generacion).
+9. Presentar resultado en comite de arquitectura.
 
 ---
 
@@ -213,9 +269,10 @@ Puedes usar este checklist antes de cada corrida:
 [ ] Inclui carpeta plantillas
 [ ] Solo tengo *_puntoycoma.csv en plantillas
 [ ] Cree subcarpetas obligatorias segun modalidad
-[ ] Defini alcance (si aplica)
+[ ] Defini alcance (si aplica) o criterio de generacion
 [ ] Ejecute el prompt correcto
-[ ] Revise decision formal y severidades
+[ ] Revise decision formal y severidades (modo revision)
+[ ] Revise archivos creados y PENDIENTE_VALIDAR (modo generacion)
 [ ] Defini plan de cierre
 ```
 
