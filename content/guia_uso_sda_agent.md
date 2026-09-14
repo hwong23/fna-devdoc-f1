@@ -167,7 +167,7 @@ En el chat de VS Code:
 - `Generacion SDA desde Entrada`: para generar en modo multiple o individual (si se indica plantilla objetivo).
 - `Generacion Individual por Plantilla SDA`: para forzar la generación de un único archivo por plantilla objetivo.
 
-Regla de seleccion de plantilla en generación individual:
+Regla de selección de plantilla en generación individual:
 - Si el prompt trae plantilla objetivo valida, el agente genera directamente.
 - Si el prompt trae `AUTO` o no indica plantilla, el agente pregunta cual plantilla usar antes de generar.
 
