@@ -1,5 +1,5 @@
 # Guia Metodologica del Sistema Documental de Arquitectura (SDA) Extendido
-**Basado en TOGAF 9.2 (Architecture Content Framework & Repository) y ArchiMate 3.1**
+Marco de trabajo basado en TOGAF 9.2 (Architecture Content Framework & Repository) y ArchiMate 3.1.
 
 ---
 
