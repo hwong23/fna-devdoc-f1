@@ -183,7 +183,7 @@ SDA-agent devuelve 5 bloques:
 - Cumplimiento porcentual
 - Decision formal (Aprobado/No Aprobado)
 - Riesgo global
-- Validacion de estructura de entrada
+- Validación de estructura de entrada
 - Plantillas efectivamente usadas
 
 2. Matriz de Cumplimiento por Plantilla
