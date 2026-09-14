@@ -13,9 +13,9 @@ Incluye:
 
 ## 2. Que hace SDA-agent
 SDA-agent opera en tres modos:
-- Revision: evalua documentación técnica contra plantillas validadoras del sistema documental.
+- Revision: evalúa documentación técnica contra plantillas validadoras del sistema documental.
 - Generacion-Multiple: analiza documentación de entrada y crea archivos documentales por cada plantilla asociada.
-- Generacion-Individual: analiza documentación de entrada y crea un unico archivo para una plantilla objetivo.
+- Generacion-Individual: analiza documentación de entrada y crea un único archivo para una plantilla objetivo.
 
 Reglas clave del agente:
 - Solo usa plantillas en la carpeta `plantillas`.
@@ -55,7 +55,7 @@ Decision formal:
 3. Verificar que las plantillas de validación sean solo `*_puntoycoma.csv`.
 4. Incluir subcarpetas obligatorias según modalidad.
 5. Si el modo es generación, incluir carpeta `entrada` y carpeta `salida`.
-6. Si el modo es Generacion-Individual, indicar la plantilla objetivo por prompt o en `alcance/plantilla_objetivo.md`.
+6. Si el modo es Generación-Individual, indicar la plantilla objetivo por prompt o en `alcance/plantilla_objetivo.md`.
 7. Definir el objetivo de la revision o de la generación.
 
 ---
@@ -165,9 +165,9 @@ En el chat de VS Code:
 - `Revision SDA Integral`: para auditoria completa.
 - `Trazabilidad y GAP SDA`: para enfoque en cadena y brechas.
 - `Generacion SDA desde Entrada`: para generar en modo multiple o individual (si se indica plantilla objetivo).
-- `Generacion Individual por Plantilla SDA`: para forzar la generacion de un unico archivo por plantilla objetivo.
+- `Generacion Individual por Plantilla SDA`: para forzar la generación de un único archivo por plantilla objetivo.
 
-Regla de seleccion de plantilla en generacion individual:
+Regla de seleccion de plantilla en generación individual:
 - Si el prompt trae plantilla objetivo valida, el agente genera directamente.
 - Si el prompt trae `AUTO` o no indica plantilla, el agente pregunta cual plantilla usar antes de generar.
 
