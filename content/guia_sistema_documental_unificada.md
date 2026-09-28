@@ -17,13 +17,13 @@ Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tre
    - `catalogo_tecnologia_plantilla.csv`: Plataformas de software, servidores, redes y hardware.
    - `catalogo_requerimientos_plantilla.csv`: Requerimientos funcionales, no funcionales y restricciones.
 
-2. **Matrices de Relacion e Integracion** (Interacciones y dinamica de datos):
+2. **Matrices de Relación e Integracion** (Interacciones y dinámica de datos):
    - `matriz_integraciones_plantilla.csv`: Mapeo de interfaces de comunicación, protocolos (SOAP/REST/ETL) y endpoints salientes/entrantes.
    - `matriz_flujos_datos_plantilla.csv`: Trazabilidad del flujo de información, operaciones CRUD, mecanismos de carga e intercambios entre sistemas.
 
 3. **Vistas de Cambio, Transicion y Gobierno** (Trazabilidad temporal y cumplimiento):
-   - `matriz_transicion_arquitectura_plantilla.csv`: Evolucion incremental estado por estado (*Baseline*, *Transicion 1*, *Transicion 2*, *Target*) con acciones de cambio (*New*, *Retain*, *Replace*, *Retire*).
-   - `matriz_brechas_soluciones_gobierno_plantilla.csv`: Trazabilidad entre brechas (*Gaps*), soluciones (*SBBs*), paquetes de trabajo (*Work Packages*) y comites de gobierno (*Architecture Board*).
+   - `matriz_transicion_arquitectura_plantilla.csv`: Evolución incremental estado por estado (*Baseline*, *Transicion 1*, *Transicion 2*, *Target*) con acciones de cambio (*New*, *Retain*, *Replace*, *Retire*).
+   - `matriz_brechas_soluciones_gobierno_plantilla.csv`: Trazabilidad entre brechas (*Gaps*), soluciones (*SBBs*), paquetes de trabajo (*Work Packages*) y comités de gobierno (*Architecture Board*).
 
 ---
 
@@ -171,8 +171,8 @@ La combinación de catálogos y matrices permite:
 - `Propietario_Negocio`
 - `Lider_Tecnico`
 - `Servicios_Negocio_Soportados`
-- `Entidades_Datos_Consumidas`
-- `Entidades_Datos_Creadas`
+- `Entidades_Datos_Consumidas ->`
+- `Entidades_Datos_Creadas ->`
 
 **Uso**:
 - documentar portfolios de aplicaciones,
@@ -221,7 +221,7 @@ La combinación de catálogos y matrices permite:
 - `Estado_Actual`
 - `Origen_Solicitante`
 - `Objetivo_Negocio_Relacionado`
-- `Componentes_Sistemas_Afectados`
+- `Componentes_Sistemas_Afectados ->`
 - `Metricas_De_Cumplimiento`
 
 **Uso**:
@@ -238,8 +238,8 @@ La combinación de catálogos y matrices permite:
 **Campos principales**:
 - `ID_Integracion`
 - `Nombre_Integracion`
-- `Sistema_Origen_ABB` / `Sistema_Origen_SBB`
-- `Sistema_Destino_ABB` / `Sistema_Destino_SBB`
+- `Sistema_Origen_ABB ->` / `Sistema_Origen_SBB ->`
+- `Sistema_Destino_ABB ->` / `Sistema_Destino_SBB ->`
 - `Tipo_Integracion`
 - `Patron_Sincronia`
 - `Endpoint_Origen_Exposicion`
@@ -262,7 +262,7 @@ La combinación de catálogos y matrices permite:
 - `Entidad_Dato_Logica`
 - `Componente_Dato_Fisico`
 - `Rol_Dato`
-- `Sistema_Emisor_Origen` / `Sistema_Receptor_Destino`
+- `Sistema_Emisor_Origen ->` / `Sistema_Receptor_Destino ->`
 - `Operacion_CRUD`
 - `Tipo_Carga_Mecanismo`
 - `Transformacion_Homologacion`
@@ -279,7 +279,7 @@ La combinación de catálogos y matrices permite:
 
 **Campos principales**:
 - `ID_Elemento`
-- `Nombre_Elemento`
+- `Nombre_Elemento ->`
 - `Dominio_Arquitectura`
 - `Estado_Baseline_AsIs`
 - `Estado_Transicion_1_Cert`

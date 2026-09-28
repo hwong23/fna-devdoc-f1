@@ -68,7 +68,7 @@ Basada en el *Transition Architecture State Evolution Table* y la tabla de *Incr
 
 * **Campos Principales**:
   - `ID_Elemento`: Identificador del componente o servicio afectado.
-  - `Nombre_Elemento`: Nombre del artefacto de arquitectura.
+  - `Nombre_Elemento ->`: Nombre del artefacto de arquitectura.
   - `Dominio_Arquitectura`: Negocio, Datos, Aplicacion, Tecnología.
   - `Estado_Baseline_AsIs`: Estado en la operación previa / legacy.
   - `Estado_Transicion_1_Cert`: Estado en el primer hito de entrega (ej. Certificacion/Sandbox).
