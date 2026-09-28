@@ -334,7 +334,7 @@ La entrega, diligenciamiento y carga del SDA sigue un ciclo claro:
    - Verifica versiones, clasificación de estándares, riesgos y cumplimiento de métricas.
 
 4. **Carga e integración al repositorio**
-   - Los archivos sont importados al repositorio de arquitectura.
+   - Los archivos son importados al repositorio de arquitectura.
    - Los SBBs son vinculados con los ABBs definidos por la organización.
 
 5. **Gobernanza y trazabilidad**
@@ -347,15 +347,15 @@ Este flujo asegura una trazabilidad de extremo a extremo, útil para auditoría 
 ## 6.1. Flujo Operativo para Proveedores Tecnológicos y Gobierno
 
 ```
- [1. Asignacion]           [2. Diligenciamiento]         [3. Evaluacion Compliance]         [4. Carga Repositorio]
- Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comite de Arquitectura       -->  Modelado EA / Archi
- plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalua estandares y riesgos         Trazabilidad End-to-End
+ [1. Asignación]            [2. Diligenciamiento]         [3. Evaluación Compliance]         [4. Carga Repositorio]
+ Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comité de Arquitectura       -->   Modelado EA / Archi
+ plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalúa estándares y riesgos        Trazabilidad End-to-End
 ```
 
-1. **Entrega de Plantillas**: El equipo de arquitectura entrega el kit de las 8 plantillas CSV al proveedor al inicio de la fase de disenio o construccion.
-2. **Diligenciamiento por el Proveedor**: El proveedor completa la información tecnica detallando componentes físicos, integraciones, endpoints reales, flujos de datos y la matriz de transición de sós entregables.
-3. **Validacion de Gobierno (Architecture Board)**: Se verifica la conformidad contra la Base de Estandares (*Standards Information Base - SIB*) de la empresa y se evaluan los criterios de salida (*Gates*) de la matriz de transición.
-4. **Carga en el Repositorio de Arquitectura**: Los archivos CSV planos se importan en la herramienta de modelado (ej. ArchiMate via CSV Importer / Enterprise Architect / iServer) para generar automaticamente los diagramas de interaccion, diagramas de despliegue y matrices de trazabilidad de cambios.
+1. **Entrega de Plantillas**: El equipo de arquitectura entrega el kit de las 8 plantillas CSV al proveedor al inicio de la fase de diseño o construcción.
+2. **Diligenciamiento por el Proveedor**: El proveedor completa la información técnica detallando componentes físicos, integraciones, endpoints reales, flujos de datos y la matriz de transición de sós entregables.
+3. **Validacion de Gobierno (Architecture Board)**: Se verifica la conformidad contra la Base de Estándares (*Standards Information Base - SIB*) de la empresa y se evalúan los criterios de salida (*Gates*) de la matriz de transición.
+4. **Carga en el Repositorio de Arquitectura**: Los archivos CSV planos se importan en la herramienta de modelado (ej. ArchiMate via CSV Importer / Enterprise Architect / iServer) para generar automaticamente los diagramas de interacción, diagramas de despliegue y matrices de trazabilidad de cambios.
 
 ---
 

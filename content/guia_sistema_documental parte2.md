@@ -59,7 +59,7 @@ Inspirada en el *Data Dissemination Diagram* y la *Information Exchange Matrix* 
   - `Tipo_Carga_Mecanismo`: Push por registro, Carga Masiva (DataLoader), Delta Batch.
   - `Transformacion_Homologacion`: Reglas de mapeo o tablas de homologación aplicadas en el trayecto.
   - `Frecuencia_Ejecucion`: Tiempo real, Diario nocturno, Event-Driven.
-  - `Sensibilidad_Seguridad`: Clasificacion de seguridad (PII, Confidencial, Publico).
+  - `Sensibilidad_Seguridad`: Clasificación de seguridad (PII, Confidencial, Publico).
 
 ---
 
@@ -70,12 +70,12 @@ Basada en el *Transition Architecture State Evolution Table* y la tabla de *Incr
   - `ID_Elemento`: Identificador del componente o servicio afectado.
   - `Nombre_Elemento`: Nombre del artefacto de arquitectura.
   - `Dominio_Arquitectura`: Negocio, Datos, Aplicacion, Tecnología.
-  - `Estado_Baseline_AsIs`: Estado en la operacion previa / legacy.
+  - `Estado_Baseline_AsIs`: Estado en la operación previa / legacy.
   - `Estado_Transicion_1_Cert`: Estado en el primer hito de entrega (ej. Certificacion/Sandbox).
   - `Estado_Transicion_2_Pilot`: Estado en el segundo hito (ej. Piloto/Go-Live Remediation).
-  - `Estado_Target_ToBe`: Estado final deseado en produccion.
+  - `Estado_Target_ToBe`: Estado final deseado en producción.
   - `Tipo_Accion_Cambio`: Taxonomia TOGAF/ArchiMate: *New* (Nuevo), *Retain* (Mantener), *Replace* (Reemplazar), *Retire* (Retirar), *Transition* (En transición).
-  - `Paquete_Trabajo_Proyecto`: Work Package o proyecto responsable del cambio.
+  - `Paquete_Trabajo_Proyecto ->`: Work Package o proyecto responsable del cambio.
   - `Justificacion_Brecha_Gap`: Brecha o necesidad técnica/de negocio que motiva el cambio.
   - `Criterio_Salida_Gate`: Gate de calidad/KPI para aprobar la salida a la siguiente fase.
   - `Riesgo_Asociado`: Riesgo operativo durante la transición.
@@ -83,7 +83,7 @@ Basada en el *Transition Architecture State Evolution Table* y la tabla de *Incr
 ---
 
 ### D. Matriz de Brechas, Soluciones y Gobierno (`matriz_brechas_soluciones_gobierno_plantilla.csv`)
-Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Governance Log* de TOGAF, permite auditar que cada brecha identificada tenga una solución tecnologica concreta (SBB), un ROI claro y la aprobacion del Comite de Arquitectura.
+Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Governance Log* de TOGAF, permite auditar que cada brecha identificada tenga una solución tecnologica concreta (SBB), un ROI claro y la aprobación del Comité de Arquitectura.
 
 * **Campos Principales**:
   - `ID_Brecha_Gap`: Identificador de la brecha (ej. `GAP-DAT-01`).
@@ -94,7 +94,7 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
   - `Dependencias_Tecnicas`: Requisitos previos o bloqueos con otros componentes.
   - `Prioridad_Negocio`: Alta, Media, Baja.
   - `Valor_Negocio_ROI`: Beneficio cuantificable o cualitativo.
-  - `Mecanismo_Gobierno_Compliance`: Instancia de aprobacion (Architecture Board, Compliance Review, SLA Audit).
+  - `Mecanismo_Gobierno_Compliance`: Instancia de aprobación (Architecture Board, Compliance Review, SLA Audit).
   - `Estado_Aprobacion`: Propuesto, En Revision, Aprobado, Exceptuado.
 
 ---
@@ -102,9 +102,9 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
 ## 3. Flujo Operativo para Proveedores Tecnológicos y Gobierno
 
 ```
- [1. Asignacion]           [2. Diligenciamiento]         [3. Evaluacion Compliance]         [4. Carga Repositorio]
- Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comite de Arquitectura       -->  Modelado EA / Archi
- plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalua estandares y riesgos         Trazabilidad End-to-End
+ [1. Asignación]           [2. Diligenciamiento]         [3. Evaluación Compliance]         [4. Carga Repositorio]
+ Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comité de Arquitectura       -->  Modelado EA / Archi
+ plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalúa estándares y riesgos         Trazabilidad End-to-End
 ```
 
 1. **Entrega de Plantillas**: El equipo de arquitectura entrega el kit de las 8 plantillas CSV al proveedor al inicio de la fase de disenio o construccion.
