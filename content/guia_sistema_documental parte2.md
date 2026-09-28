@@ -19,8 +19,8 @@ Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tre
    - `matriz_integraciones_plantilla.csv`: Mapeo de interfaces de comunicación, protocolos (SOAP/REST/ETL) y endpoints salientes/entrantes.
    - `matriz_flujos_datos_plantilla.csv`: Trazabilidad del flujo de información, operaciones CRUD, mecanismos de carga e intercambios entre sistemas.
 
-3. **Vistas de Cambio, Transicion y Gobierno** (Trazabilidad temporal y cumplimiento):
-   - `matriz_transicion_arquitectura_plantilla.csv`: Evolucion incremental estado por estado (*Baseline*, *Transicion 1*, *Transicion 2*, *Target*) con acciones de cambio (*New*, *Retain*, *Replace*, *Retire*).
+3. **Vistas de Cambio, Transición y Gobierno** (Trazabilidad temporal y cumplimiento):
+   - `matriz_transicion_arquitectura_plantilla.csv`: Evolucion incremental estado por estado (*Baseline*, *Transición 1*, *Transición 2*, *Target*) con acciones de cambio (*New*, *Retain*, *Replace*, *Retire*).
    - `matriz_brechas_soluciones_gobierno_plantilla.csv`: Trazabilidad entre brechas (*Gaps*), soluciones (*SBBs*), paquetes de trabajo (*Work Packages*) y comites de gobierno (*Architecture Board*).
 
 ---
@@ -33,8 +33,8 @@ Esta matriz documenta el inventario de servicios y canales de comunicación entr
 * **Campos Principales**:
   - `ID_Integracion`: Identificador unico (ej. `INT-001`).
   - `Nombre_Integracion`: Nombre funcional del servicio o interaccion.
-  - `Sistema_Origen_ABB` / `Sistema_Origen_SBB`: Componente emisor (logico y fisico).
-  - `Sistema_Destino_ABB` / `Sistema_Destino_SBB`: Componente receptor / backend (logico y fisico).
+  - `Sistema_Origen_ABB ->` / `Sistema_Origen_SBB ->`: Componente emisor (lógico y físico).
+  - `Sistema_Destino_ABB ->` / `Sistema_Destino_SBB ->`: Componente receptor / backend (lógico y físico).
   - `Tipo_Integracion`: Protocolo o formato (SOAP, REST, ETL, Batch, Event-Driven/Platform Event).
   - `Patron_Sincronia`: Sincronico (Req-Reply), Asincronico, Publish-Subscribe.
   - `Endpoint_Origen_Exposicion`: URL o recurso expuesto por el origen.
@@ -51,32 +51,32 @@ Inspirada en el *Data Dissemination Diagram* y la *Information Exchange Matrix* 
 * **Campos Principales**:
   - `ID_Flujo_Datos`: Identificador unico del flujo (ej. `DFLOW-001`).
   - `Nombre_Flujo`: Descripcion del proceso de transferencia.
-  - `Entidad_Dato_Logica`: Entidad conceptual/lógica (ej. *Cliente / Afiliado*, *Transaccion*).
+  - `Entidad_Dato_Logica ->`: Entidad conceptual/lógica (ej. *Cliente / Afiliado*, *Transaccion*).
   - `Componente_Dato_Fisico`: Tabla, vista, objeto CRM o BigObject donde se materializa.
-  - `Rol_Dato`: Maestro (Familia A), Transaccional (Familia B), Log/Historico (Familia C).
+  - `Rol_Dato`: Maestro (Familia A), Transaccional (Familia B), Log/Histórico (Familia C).
   - `Sistema_Emisor_Origen` / `Sistema_Receptor_Destino`: Aplicaciones origen y destino.
   - `Operacion_CRUD`: Create, Read, Update, Delete.
   - `Tipo_Carga_Mecanismo`: Push por registro, Carga Masiva (DataLoader), Delta Batch.
-  - `Transformacion_Homologacion`: Reglas de mapeo o tablas de homologacion aplicadas en el trayecto.
+  - `Transformacion_Homologacion`: Reglas de mapeo o tablas de homologación aplicadas en el trayecto.
   - `Frecuencia_Ejecucion`: Tiempo real, Diario nocturno, Event-Driven.
   - `Sensibilidad_Seguridad`: Clasificacion de seguridad (PII, Confidencial, Publico).
 
 ---
 
-### C. Matriz de Transicion de Arquitectura y Trazabilidad (`matriz_transicion_arquitectura_plantilla.csv`)
+### C. Matriz de Transición de Arquitectura y Trazabilidad (`matriz_transicion_arquitectura_plantilla.csv`)
 Basada en el *Transition Architecture State Evolution Table* y la tabla de *Increments* de TOGAF E/F, permite llevar el control estricto de la evolucion de los artefactos a lo largo de los *Plateaus* o estados temporales de transición.
 
 * **Campos Principales**:
   - `ID_Elemento`: Identificador del componente o servicio afectado.
   - `Nombre_Elemento`: Nombre del artefacto de arquitectura.
-  - `Dominio_Arquitectura`: Negocio, Datos, Aplicacion, Tecnologia.
+  - `Dominio_Arquitectura`: Negocio, Datos, Aplicacion, Tecnología.
   - `Estado_Baseline_AsIs`: Estado en la operacion previa / legacy.
   - `Estado_Transicion_1_Cert`: Estado en el primer hito de entrega (ej. Certificacion/Sandbox).
   - `Estado_Transicion_2_Pilot`: Estado en el segundo hito (ej. Piloto/Go-Live Remediation).
   - `Estado_Target_ToBe`: Estado final deseado en produccion.
   - `Tipo_Accion_Cambio`: Taxonomia TOGAF/ArchiMate: *New* (Nuevo), *Retain* (Mantener), *Replace* (Reemplazar), *Retire* (Retirar), *Transition* (En transición).
   - `Paquete_Trabajo_Proyecto`: Work Package o proyecto responsable del cambio.
-  - `Justificacion_Brecha_Gap`: Brecha o necesidad tecnica/de negocio que motiva el cambio.
+  - `Justificacion_Brecha_Gap`: Brecha o necesidad técnica/de negocio que motiva el cambio.
   - `Criterio_Salida_Gate`: Gate de calidad/KPI para aprobar la salida a la siguiente fase.
   - `Riesgo_Asociado`: Riesgo operativo durante la transición.
 
@@ -87,10 +87,10 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
 
 * **Campos Principales**:
   - `ID_Brecha_Gap`: Identificador de la brecha (ej. `GAP-DAT-01`).
-  - `Dominio_Afectado`: Negocio, Datos, Aplicacion, Tecnologia, Gobierno.
+  - `Dominio_Afectado`: Negocio, Datos, Aplicacion, Tecnología, Gobierno.
   - `Descripcion_Brecha`: Deficiencia o diferencia entre el estado actual y el objetivo.
   - `Solucion_Propuesta_SBB`: Componente especifico o producto que resuelve la brecha.
-  - `Paquete_Trabajo_Asociado`: Proyecto encargado de la implementacion.
+  - `Paquete_Trabajo_Asociado`: Proyecto encargado de la implementación.
   - `Dependencias_Tecnicas`: Requisitos previos o bloqueos con otros componentes.
   - `Prioridad_Negocio`: Alta, Media, Baja.
   - `Valor_Negocio_ROI`: Beneficio cuantificable o cualitativo.
@@ -108,7 +108,7 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
 ```
 
 1. **Entrega de Plantillas**: El equipo de arquitectura entrega el kit de las 8 plantillas CSV al proveedor al inicio de la fase de disenio o construccion.
-2. **Diligenciamiento por el Proveedor**: El proveedor completa la información tecnica detallando componentes físicos, integraciones, endpoints reales, flujos de datos y la matriz de transición de sós entregables.
+2. **Diligenciamiento por el Proveedor**: El proveedor completa la información técnica detallando componentes físicos, integraciones, endpoints reales, flujos de datos y la matriz de transición de sós entregables.
 3. **Validacion de Gobierno (Architecture Board)**: Se verifica la conformidad contra la Base de Estandares (*Standards Information Base - SIB*) de la empresa y se evaluan los criterios de salida (*Gates*) de la matriz de transición.
 4. **Carga en el Repositorio de Arquitectura**: Los archivos CSV planos se importan en la herramienta de modelado (ej. ArchiMate via CSV Importer / Enterprise Architect / iServer) para generar automaticamente los diagramas de interaccion, diagramas de despliegue y matrices de trazabilidad de cambios.
 
@@ -124,5 +124,5 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
 | **Catalogos** | `catalogo_requerimientos_plantilla.csv` | Requerimientos de arquitectura y restricciones tecnicas. |
 | **Matrices** | `matriz_integraciones_plantilla.csv` | Interfaces, protocolos, endpoints y autenticacion. |
 | **Matrices** | `matriz_flujos_datos_plantilla.csv` | Intercambio de datos, operaciones CRUD y mecanismos de carga. |
-| **Transicion**| `matriz_transicion_arquitectura_plantilla.csv` | Evolucion temporal estado por estado (*Baseline* a *Target*). |
+| **Transición**| `matriz_transicion_arquitectura_plantilla.csv` | Evolucion temporal estado por estado (*Baseline* a *Target*). |
 | **Gobierno**  | `matriz_brechas_soluciones_gobierno_plantilla.csv` | Trazabilidad de brechas (*Gaps*), soluciones (*SBBs*) y cumplimiento. |
