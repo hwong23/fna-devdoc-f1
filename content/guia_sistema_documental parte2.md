@@ -46,15 +46,15 @@ Esta matriz documenta el inventario de servicios y canales de comunicación entr
 ---
 
 ### B. Matriz de Flujos de Datos (`matriz_flujos_datos_plantilla.csv`)
-Inspirada en el *Data Dissemination Diagram* y la *Information Exchange Matrix* de TOGAF, especifica qué datos de negocio se mueven, con qué frecuencia, bajo qué operaciones y con qué nivel de seguridad.
+Con base en el *Data Dissemination Diagram* y la *Information Exchange Matrix* de TOGAF, especifica qué datos de negocio se mueven, con qué frecuencia, bajo qué operaciones y con qué nivel de seguridad.
 
 * **Campos Principales**:
   - `ID_Flujo_Datos`: Identificador unico del flujo (ej. `DFLOW-001`).
   - `Nombre_Flujo`: Descripcion del proceso de transferencia.
   - `Entidad_Dato_Logica ->`: Entidad conceptual/lógica (ej. *Cliente / Afiliado*, *Transaccion*).
-  - `Componente_Dato_Fisico`: Tabla, vista, objeto CRM o BigObject donde se materializa.
+  - `Componente_Dato_Fisico ->`: Tabla, vista, objeto CRM o BigObject donde se materializa.
   - `Rol_Dato`: Maestro (Familia A), Transaccional (Familia B), Log/Histórico (Familia C).
-  - `Sistema_Emisor_Origen` / `Sistema_Receptor_Destino`: Aplicaciones origen y destino.
+  - `Sistema_Emisor_Origen ->` / `Sistema_Receptor_Destino ->`: Aplicaciones origen y destino.
   - `Operacion_CRUD`: Create, Read, Update, Delete.
   - `Tipo_Carga_Mecanismo`: Push por registro, Carga Masiva (DataLoader), Delta Batch.
   - `Transformacion_Homologacion`: Reglas de mapeo o tablas de homologación aplicadas en el trayecto.
@@ -89,8 +89,8 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
   - `ID_Brecha_Gap`: Identificador de la brecha (ej. `GAP-DAT-01`).
   - `Dominio_Afectado`: Negocio, Datos, Aplicacion, Tecnología, Gobierno.
   - `Descripcion_Brecha`: Deficiencia o diferencia entre el estado actual y el objetivo.
-  - `Solucion_Propuesta_SBB`: Componente especifico o producto que resuelve la brecha.
-  - `Paquete_Trabajo_Asociado`: Proyecto encargado de la implementación.
+  - `Solucion_Propuesta_SBB ->`: Componente especifico o producto que resuelve la brecha.
+  - `Paquete_Trabajo_Asociado ->`: Proyecto encargado de la implementación.
   - `Dependencias_Tecnicas`: Requisitos previos o bloqueos con otros componentes.
   - `Prioridad_Negocio`: Alta, Media, Baja.
   - `Valor_Negocio_ROI`: Beneficio cuantificable o cualitativo.
@@ -102,9 +102,9 @@ Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Go
 ## 3. Flujo Operativo para Proveedores Tecnológicos y Gobierno
 
 ```
- [1. Asignación]           [2. Diligenciamiento]         [3. Evaluación Compliance]         [4. Carga Repositorio]
- Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comité de Arquitectura       -->  Modelado EA / Archi
- plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalúa estándares y riesgos         Trazabilidad End-to-End
+ [1. Asignación]            [2. Diligenciamiento]         [3. Evaluación Compliance]         [4. Carga Repositorio]
+ Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comité de Arquitectura       -->   Modelado EA / Archi
+ plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalúa estándares y riesgos        Trazabilidad End-to-End
 ```
 
 1. **Entrega de Plantillas**: El equipo de arquitectura entrega el kit de las 8 plantillas CSV al proveedor al inicio de la fase de disenio o construccion.

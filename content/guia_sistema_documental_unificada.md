@@ -7,9 +7,14 @@
 
 ## Vision General del SDA
 
-El **Sistema Documental de Arquitectura (SDA)** constituye la estructura central del **Repositorio de Arquitectura** de la organización. Su objetivo es gobernar, visibilizar y mantener la trazabilidad de los componentes de negocio, datos, aplicaciones e infraestructura, integrando tanto la vision lógica (**Architecture Building Blocks - ABBs**) como la solución física entregada por los proveedores tecnológicos (**Solution Building Blocks - SBBs**).
+El **Sistema Documental de Arquitectura (SDA)** constituye la estructura central del 
+**Repositorio de Arquitectura** de la organización. Su objetivo es gobernar, visibilizar y 
+mantener la trazabilidad de los componentes de negocio, datos, aplicaciones e infraestructura, 
+integrando tanto la vision lógica (**Architecture Building Blocks - ABBs**) como la solución física 
+entregada por los proveedores tecnológicos (**Solution Building Blocks - SBB**).
 
-Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tres capas de plantillas estandarizadoras en formato CSV:
+Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tres capas de plantillas 
+estandarizadoras en formato CSV:
 
 1. **Catalogos de Inventario Base** (Poblacion de elementos unicos):
    - `catalogo_datos_plantilla.csv`: Entidades de datos lógicas y componentes de almacenamiento físicos.
@@ -23,7 +28,7 @@ Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tre
 
 3. **Vistas de Cambio, Transicion y Gobierno** (Trazabilidad temporal y cumplimiento):
    - `matriz_transicion_arquitectura_plantilla.csv`: Evolución incremental estado por estado (*Baseline*, *Transicion 1*, *Transicion 2*, *Target*) con acciones de cambio (*New*, *Retain*, *Replace*, *Retire*).
-   - `matriz_brechas_soluciones_gobierno_plantilla.csv`: Trazabilidad entre brechas (*Gaps*), soluciones (*SBBs*), paquetes de trabajo (*Work Packages*) y comités de gobierno (*Architecture Board*).
+   - `matriz_brechas_soluciones_gobierno_plantilla.csv`: Trazabilidad entre brechas (*Gaps*), soluciones (*SBB*), paquetes de trabajo (*Work Packages*) y comités de gobierno (*Architecture Board*).
 
 ---
 
@@ -66,15 +71,16 @@ La relación entre ambos es clave para la gobernanza: los ABB definen la necesid
 
 ### 2.2 Repositorio de arquitectura
 
-El repositorio de arquitectura centraliza conocimiento de la organización en las siguientes áreas:
+El Repositorio de Arquitectura de la empresa actúa como un archivo centralizado gobernado bajo las siguientes 
+áreas (TOGAF):
 
-1. **Metamodelo de arquitectura**: taxonomía de elementos y relaciones.
-2. **Panorama de arquitectura**: visión actual y futura del negocio, sistema y tecnología.
-3. **Base de información de estándares (SIB)**: tecnologías aprobadas, estándares y su estado de ciclo de vida.
-4. **Biblioteca de referencia**: plantillas, directrices, estándares y patrones reutilizables.
-5. **Repositorio de requerimientos**: necesidades técnicas, funcionales y no funcionales.
-6. **Panorama de soluciones**: soluciones físicas implementadas y operadas.
-7. **Bitácora de gobierno**: decisiones, aprobaciones y auditorías.
+1.  **Metamodelo de Arquitectura (Architecture Metamodel)**: El esquema maestro que define la taxonomía de los elementos lógicos y físicos y sus interrelaciones.
+2.  **Panorama de Arquitectura (Architecture Landscape)**: El estado actual y objetivo de los activos (lógicos e implementados) de la empresa a niveles Estratégico, de Segmento y de Capacidad.
+3.  **Base de Información de Estándares (SIB - Standards Information Base)**: Define las tecnologías aprobadas, estándares de la industria y la clasificación de ciclo de vida (estándar, provisorio, retirado, en obsolescencia) con las que las soluciones de los proveedores deben cumplir.
+4.  **Biblioteca de Referencia (Reference Library)**: Contiene plantillas, directrices y patrones reutilizables.
+5.  **Repositorio de Requerimientos (Requirements Repository)**: Centraliza los requerimientos de arquitectura, técnicos y no funcionales que guían los proyectos.
+6.  **Panorama de Soluciones (Solutions Landscape)**: Registro de los SBB implementados y desplegados por los proveedores tecnológicos.
+7.  **Bitácora de Gobierno (Governance Log)**: Registro de decisiones de arquitectura, evaluaciones de conformidad y aprobaciones de proyectos.
 
 ### 2.3 Metamodelo de contenido
 
@@ -87,6 +93,29 @@ El metamodelo de contenido organiza la arquitectura en dominios clave:
 - y gobierno.
 
 Los archivos del SDA alimentan este metamodelo y permiten construir trazabilidad entre elementos lógicos, físicos y de transición.
+
+Para alimentar este repositorio, los proveedores deben suministrar información estructurada 
+en **4 Catálogos Individuales**. Cada plantilla CSV mapea directamente a entidades del metamodelo (TOGAF):
+
+```
++---------------------------------------------------------------------------------+
+|                                 SDA REPOSITORIO                                 |
+|                                                                                 |
+|  +--------------------+  +--------------------+  +---------------------------+  |
+|  |  Catálogo de Datos |  |Catálogo de Sistemas|  |  Catálogo de Tecnología   |  |
+|  | (Data Component &  |  |   & Componentes    |  |   (Infraestructura HW/SW  |  |
+|  |    Data Entity)    |  | (Application Port.)|  |    Standards/Portfolio)   |  |
+|  +--------------------+  +--------------------+  +---------------------------+  |
+|            ^                       ^                           ^                |
+|            |                       |                           |                |
+|            +-----------------------+---------------------------+                |
+|                                    | (Alineados a)                              |
+|                         +-----------------------+                               |
+|                         |      Catálogo de      |                               |
+|                         |    Requerimientos     |                               |
+|                         +-----------------------+                               |
++---------------------------------------------------------------------------------+
+```
 
 ---
 
@@ -122,27 +151,23 @@ La combinación de catálogos y matrices permite:
 
 ## 4. Catálogos del SDA
 
-### 4.1 Catálogo de Datos
-**Objetivo**: identificar activos de información y sus componentes lógicos y físicos.
+### 4.1 Plantilla 1: Catálogo de Datos (catalogo_datos_plantilla.csv)
+**Objetivo**: Identificar los activos de información de la empresa, los componentes lógicos que los agrupan (para gobernanza y seguridad) y los repositorios físicos (bases de datos, esquemas) donde se almacenan físicamente.
 
-**Entidades principales**:
-- Data Entity
-- Logical Data Component
-- Physical Data Component
-
-**Campos clave**:
-- `ID_Elemento`
-- `Tipo_Elemento`
-- `Nombre`
-- `Descripcion`
-- `Clasificacion_ABB_SBB`
-- `Modulo_LGC_Asociado`
-- `Tecnologia_Almacenamiento`
-- `Clasificacion_Seguridad`
-- `Propietario_Datos`
-- `Origen_Registro_Sistema`
-- `Volumetria_Estimada`
-- `Frecuencia_Actualizacion`
+*   **Entidades Metamodelo Soportadas**: *Data Entity, Logical Data Component, Physical Data Component*.
+*   **Campos de la Plantilla**:
+    1.  `ID_Elemento`: Identificador único según nomenclatura (ej. DAT-ABB-001, DAT-SBB-001).
+    2.  `Tipo_Elemento`: Debe especificarse si es un componente de datos lógico (*Logical Data Component*), un componente físico o base de datos (*Physical Data Component*) o una entidad lógica de negocio (*Data Entity*).
+    3.  `Nombre`: Nombre descriptivo legible (ej. Maestro de Clientes).
+    4.  `Descripcion`: Propósito del almacenamiento o definición del dominio del dato.
+    5.  `Clasificacion_ABB_SBB`: Indica si corresponde a la definición abstracta de datos (`ABB`) o al producto físico implementado (`SBB`).
+    6.  `Modulo_LGC_Asociado ->`: Vínculo para asociar entidades a su componente lógico.
+    7.  `Tecnologia_Almacenamiento`: Motor de base de datos o almacenamiento físico utilizado (solo para SBB).
+    8.  `Clasificacion_Seguridad`: Nivel de sensibilidad del dato (*Público, Interno, Confidencial, Restringido*).
+    9.  `Propietario_Datos`: Área del negocio dueña del dato.
+    10. `Origen_Registro_Sistema ->`: Sistema de origen que se considera la "aplicación de registro" productora del dato.
+    11. `Volumetria_Estimada`: Cantidad aproximada de registros.
+    12. `Frecuencia_Actualizacion`: Tiempo de refresco (ej. Tiempo Real, Diario, Mensual).
 
 **Uso**:
 - definir qué datos existen,
@@ -150,79 +175,69 @@ La combinación de catálogos y matrices permite:
 - quién los administra,
 - y qué nivel de sensibilidad tienen.
 
-### 4.2 Catálogo de Sistemas y Componentes
-**Objetivo**: mantener el inventario de aplicaciones y servicios de tecnología.
+### 4.2 Plantilla 2: Catálogo de Sistemas y Componentes (catalogo_sistemas_plantilla.csv)
+**Objetivo**: Mantener el inventario unificado de aplicaciones (*Application Portfolio*) y servicios de TI de la empresa. Permite identificar la obsolescencia tecnológica, el solapamiento funcional y definir el alcance de los proyectos de cambio.
 
-**Entidades principales**:
-- Information System Service
-- Logical Application Component
-- Physical Application Component
-
-**Campos clave**:
-- `ID_Componente`
-- `Tipo_Elemento`
-- `Nombre_Sistema`
-- `Descripcion`
-- `Clasificacion_ABB_SBB`
-- `Fabricante_Proveedor`
-- `Version`
-- `Estado_Ciclo_Vida`
-- `Tipo_Despliegue`
-- `Propietario_Negocio`
-- `Lider_Tecnico`
-- `Servicios_Negocio_Soportados`
-- `Entidades_Datos_Consumidas ->`
-- `Entidades_Datos_Creadas ->`
+*   **Entidades Metamodelo Soportadas**: *Information System Service, Logical Application Component, Physical Application Component*.
+*   **Campos de la Plantilla**:
+    1.  `ID_Componente`: Identificador único (ej. APP-ABB-001, APP-SBB-001).
+    2.  `Tipo_Elemento`: Tipo de entidad (*Logical Application Component, Physical Application Component, Information System Service*).
+    3.  `Nombre_Sistema`: Nombre de la aplicación o servicio.
+    4.  `Descripcion`: Funcionalidades principales y objetivos de soporte de TI.
+    5.  `Clasificacion_ABB_SBB`: `ABB` para conceptos de negocio/servicios genéricos o `SBB` para software físico de proveedores.
+    6.  `Fabricante_Proveedor`: Fabricante u organizador técnico que brinda soporte.
+    7.  `Version`: Versión instalada en producción (solo para SBB).
+    8.  `Estado_Ciclo_Vida`: *Activo, En Desarrollo, En Plan de Retiro, Obsoleto*.
+    9.  `Tipo_Despliegue`: *SaaS, PaaS, IaaS, On-Premises, Híbrido*.
+    10. `Propietario_Negocio`: Área del negocio responsable del sistema.
+    11. `Lider_Tecnico`: Responsable del mantenimiento o arquitectura de la solución.
+    12. `Servicios_Negocio_Soportados`: Procesos o capacidades de negocio habilitados por este sistema.
+    13. `Entidades_Datos_Consumidas ->`: Datos que lee.
+    14. `Entidades_Datos_Creadas ->`: Datos que escribe o almacena en origen.
 
 **Uso**:
 - documentar portfolios de aplicaciones,
 - evaluar obsolescencia,
 - y trazar datos consumidos y generados por cada sistema.
 
-### 4.3 Catálogo de Tecnología
-**Objetivo**: registrar infraestructura de software y hardware que soporta la operación de las soluciones.
+### 4.3 Plantilla 3: Catálogo de Tecnología (catalogo_tecnologia_plantilla.csv)
+**Objetivo**: Registrar la infraestructura de software y hardware (servidores, redes, middleware, sistemas operativos) sobre la que corren las aplicaciones de la empresa, alineada con el Modelo de Referencia Técnico de TOGAF (TRM).
 
-**Entidades principales**:
-- Platform Service
-- Logical Technology Component
-- Physical Technology Component
-
-**Campos clave**:
-- `ID_Tecnologia`
-- `Tipo_Elemento`
-- `Nombre_Tecnologia`
-- `Descripcion`
-- `Clasificacion_TRM_TOGAF`
-- `Clasificacion_ABB_SBB`
-- `Clase_Estandar_Empresa`
-- `Fabricante_Proveedor`
-- `Version_Especifica`
-- `Modelo_Hardware_Especificacion_SW`
-- `Ubicacion_Fisica_Nube`
-- `Fecha_Fin_Soporte`
+*   **Entidades Metamodelo Soportadas**: *Platform Service, Logical Technology Component, Physical Technology Component*.
+*   **Campos de la Plantilla**:
+    1.  `ID_Tecnologia`: Identificador único (ej. TEC-ABB-001, TEC-SBB-001).
+    2.  `Tipo_Elemento`: Tipo de componente tecnológico lógicos o físicos, o servicios de plataforma.
+    3.  `Nombre_Tecnologia`: Nombre de la infraestructura, estándar o dispositivo.
+    4.  `Descripcion`: Detalles del soporte técnico provisto.
+    5.  `Clasificacion_TRM_TOGAF`: Categoría en la taxonomía TRM (ej. *Database Engine, Operating System, Application Server, Network Link, Security Engine*).
+    6.  `Clasificacion_ABB_SBB`: `ABB` (ej. estándar RDBMS genérico) o `SBB` (ej. PostgreSQL 15.4 RDS).
+    7.  `Clase_Estandar_Empresa`: Nivel de aprobación interna (*Approved Standard, Proposed Standard, Provisional, Phasing-Out, Retired*).
+    8.  `Fabricante_Proveedor`: Proveedor tecnológico responsable de la tecnología.
+    9.  `Version_Especifica`: Versión física actual.
+    10. `Modelo_Hardware_Especificacion_SW`: Modelo físico del servidor o arquitectura del sistema de software.
+    11. `Ubicacion_Fisica_Nube`: Dónde corre físicamente la tecnología (ej. Región AWS us-east-1, Centro de Datos Local).
+    12. `Fecha_Fin_Soporte`: Fecha límite de soporte oficial provisto por el fabricante.
 
 **Uso**:
 - identificar plataformas, estándares y componentes físicos de infraestructura,
 - validar compatibilidad con la Base de Información de Estándares (SIB),
 - y controlar riesgos de soporte y obsolescencia.
 
-### 4.4 Catálogo de Requerimientos de Arquitectura
-**Objetivo**: capturar requerimientos funcionales, no funcionales y técnicos que deben cumplir las soluciones.
+### 4.4 Plantilla 4: Catálogo de Requerimientos de Arquitectura (catalogo_requerimientos_plantilla.csv)
+**Objetivo**: Capturar y mantener la trazabilidad de los requerimientos técnicos y no funcionales que la solución del proveedor debe cumplir para ser calificada como conforme dentro del gobierno de arquitectura empresarial.
 
-**Entidades principales**:
-- Requirement
-
-**Campos clave**:
-- `ID_Requerimiento`
-- `Nombre_Requerimiento`
-- `Descripcion_Detallada`
-- `Tipo_Requerimiento`
-- `Prioridad`
-- `Estado_Actual`
-- `Origen_Solicitante`
-- `Objetivo_Negocio_Relacionado`
-- `Componentes_Sistemas_Afectados ->`
-- `Metricas_De_Cumplimiento`
+*   **Entidades Metamodelo Soportadas**: *Requirement*.
+*   **Campos de la Plantilla**:
+    1.  `ID_Requerimiento`: Identificador del requerimiento (ej. REQ-001).
+    2.  `Nombre_Requerimiento`: Título claro y conciso del requerimiento.
+    3.  `Descripcion_Detallada`: Declaración cuantitativa de la necesidad técnica o de negocio (ej. tiempo de respuesta, algoritmo de cifrado, redundancia física).
+    4.  `Tipo_Requerimiento`: *Negocio, No Funcional - Seguridad, No Funcional - Disponibilidad, No Funcional - Rendimiento, Técnico - Integración, Transición*.
+    5.  `Prioridad`: Priorización (*Alta, Media, Baja*).
+    6.  `Estado_Actual`: *Identificado, Analizado, Aprobado, Implementado, Validado*.
+    7.  `Origen_Solicitante`: Área o rol técnico solicitante (ej. Oficina de Seguridad, Infraestructura).
+    8.  `Objetivo_Negocio_Relacionado ->`: Vínculo con los objetivos estratégicos corporativos.
+    9.  `Componentes_Sistemas_Afectados ->`: IDs de elementos de datos, sistemas o tecnologías asociados (trazabilidad).
+    10. `Metricas_De_Cumplimiento`: Criterio cuantificable que usará el área de arquitectura para verificar la conformidad de la solución.
 
 **Uso**:
 - asegurar trazabilidad entre necesidades de negocio y cumplimiento tecnológico,
@@ -232,84 +247,84 @@ La combinación de catálogos y matrices permite:
 
 ## 5. Matrices del SDA
 
-### 5.1 Matriz de Integraciones
-**Objetivo**: registrar interfaces, protocolos y mecanismos de comunicación entre sistemas y componentes de terceros.
+### 5.1 Plantilla 5: Matriz de Integraciones (`matriz_integraciones_plantilla.csv`)
+**Objetivo**: Esta matriz documenta el inventario de servicios y canales de comunicación entre aplicaciones y componentes de terceros. Mapea la relación entre los componentes lógicos (ABBs) y los componentes de despliegue real (SBB).
 
-**Campos principales**:
-- `ID_Integracion`
-- `Nombre_Integracion`
-- `Sistema_Origen_ABB ->` / `Sistema_Origen_SBB ->`
-- `Sistema_Destino_ABB ->` / `Sistema_Destino_SBB ->`
-- `Tipo_Integracion`
-- `Patron_Sincronia`
-- `Endpoint_Origen_Exposicion`
-- `Endpoint_Destino_Consumo`
-- `Mecanismo_Autenticacion`
-- `Frecuencia_Volumen`
-- `Estado_CicloVida`
+* **Campos Principales**:
+  - `ID_Integracion`: Identificador unico (ej. `INT-001`).
+  - `Nombre_Integracion`: Nombre funcional del servicio o interacción.
+  - `Sistema_Origen_ABB ->` / `Sistema_Origen_SBB ->`: Componente emisor (lógico y físico).
+  - `Sistema_Destino_ABB ->` / `Sistema_Destino_SBB ->`: Componente receptor / backend (lógico y físico).
+  - `Tipo_Integracion`: Protocolo o formato (SOAP, REST, ETL, Batch, Event-Driven/Platform Event).
+  - `Patron_Sincronia`: Sincronico (Req-Reply), Asincrónico, Publish-Subscribe.
+  - `Endpoint_Origen_Exposicion`: URL o recurso expuesto por el origen.
+  - `Endpoint_Destino_Consumo`: URL de consumo en el bus o backend (ej. endpoint ESB/COBIS).
+  - `Mecanismo_Autenticacion`: OAuth 2.0, Basic Auth, Mutual TLS, Custom Header.
+  - `Frecuencia_Volumen`: Estimación de transacciones por dia / hora pico.
+  - `Estado_CicloVida`: Baseline, Target, Transition, Phasing-Out.
 
 **Qué permite**:
 - conocer cómo interactúan los sistemas,
 - identificar dependencias y rutas de integración,
 - y evaluar riesgos de seguridad, rendimiento y compatibilidad.
 
-### 5.2 Matriz de Flujos de Datos
-**Objetivo**: documentar el movimiento de información entre sistemas y su tratamiento en términos de operación, seguridad y frecuencia.
+### 5.2 Plantilla 6: Matriz de Flujos de Datos (`matriz_flujos_datos_plantilla.csv`)
+**Objetivo**: Con base en el *Data Dissemination Diagram* y la *Information Exchange Matrix* de TOGAF, especifica qué datos de negocio se mueven, con qué frecuencia, bajo qué operaciones y con qué nivel de seguridad.
 
-**Campos principales**:
-- `ID_Flujo_Datos`
-- `Nombre_Flujo`
-- `Entidad_Dato_Logica`
-- `Componente_Dato_Fisico`
-- `Rol_Dato`
-- `Sistema_Emisor_Origen ->` / `Sistema_Receptor_Destino ->`
-- `Operacion_CRUD`
-- `Tipo_Carga_Mecanismo`
-- `Transformacion_Homologacion`
-- `Frecuencia_Ejecucion`
-- `Sensibilidad_Seguridad`
+**Campos Principales**:
+  - `ID_Flujo_Datos`: Identificador unico del flujo (ej. `DFLOW-001`).
+  - `Nombre_Flujo`: Descripcion del proceso de transferencia.
+  - `Entidad_Dato_Logica ->`: Entidad conceptual/lógica (ej. *Cliente / Afiliado*, *Transaccion*).
+  - `Componente_Dato_Fisico ->`: Tabla, vista, objeto CRM o BigObject donde se materializa.
+  - `Rol_Dato`: Maestro (Familia A), Transaccional (Familia B), Log/Histórico (Familia C).
+  - `Sistema_Emisor_Origen ->` / `Sistema_Receptor_Destino ->`: Aplicaciones origen y destino.
+  - `Operacion_CRUD`: Create, Read, Update, Delete.
+  - `Tipo_Carga_Mecanismo`: Push por registro, Carga Masiva (DataLoader), Delta Batch.
+  - `Transformacion_Homologacion`: Reglas de mapeo o tablas de homologación aplicadas en el trayecto.
+  - `Frecuencia_Ejecucion`: Tiempo real, Diario nocturno, Event-Driven.
+  - `Sensibilidad_Seguridad`: Clasificación de seguridad (PII, Confidencial, Público).
 
 **Qué permite**:
 - mapear la movilidad real de la información,
 - controlar datos críticos y su tratamiento,
 - y detectar problemas de integridad, seguridad o sincronización.
 
-### 5.3 Matriz de Transición de Arquitectura
-**Objetivo**: mostrar el estado de cada elemento a lo largo del tiempo desde el baseline hasta el target.
+### 5.3 Plantilla 7: Matriz de Transición de Arquitectura y Trazabilidad (`matriz_transicion_arquitectura_plantilla.csv`)
+**Objetivo**: Basada en el *Transition Architecture State Evolution Table* y la tabla de *Increments* de TOGAF E/F, permite llevar el control estricto de la evolucion de los artefactos a lo largo de los *Plateaus* o estados temporales de transición.
 
-**Campos principales**:
-- `ID_Elemento`
-- `Nombre_Elemento ->`
-- `Dominio_Arquitectura`
-- `Estado_Baseline_AsIs`
-- `Estado_Transicion_1_Cert`
-- `Estado_Transicion_2_Pilot`
-- `Estado_Target_ToBe`
-- `Tipo_Accion_Cambio`
-- `Paquete_Trabajo_Proyecto`
-- `Justificacion_Brecha_Gap`
-- `Criterio_Salida_Gate`
-- `Riesgo_Asociado`
+* **Campos Principales**:
+  - `ID_Elemento`: Identificador del componente o servicio afectado.
+  - `Nombre_Elemento ->`: Nombre del artefacto de arquitectura.
+  - `Dominio_Arquitectura`: Negocio, Datos, Aplicación, Tecnología.
+  - `Estado_Baseline_AsIs`: Estado en la operación previa / legacy.
+  - `Estado_Transicion_1_Cert`: Estado en el primer hito de entrega (ej. Certificacion/Sandbox).
+  - `Estado_Transicion_2_Pilot`: Estado en el segundo hito (ej. Piloto/Go-Live Remediation).
+  - `Estado_Target_ToBe`: Estado final deseado en producción.
+  - `Tipo_Accion_Cambio`: Taxonomía TOGAF/ArchiMate: *New* (Nuevo), *Retain* (Mantener), *Replace* (Reemplazar), *Retire* (Retirar), *Transition* (En transición).
+  - `Paquete_Trabajo_Proyecto ->`: Work Package o proyecto responsable del cambio.
+  - `Justificacion_Brecha_Gap`: Brecha o necesidad técnica/de negocio que motiva el cambio.
+  - `Criterio_Salida_Gate`: Gate de calidad/KPI para aprobar la salida a la siguiente fase.
+  - `Riesgo_Asociado`: Riesgo operativo durante la transición.
 
 **Qué permite**:
 - controlar la evolución de activos y soluciones,
 - visualizar cambios por hito o transición,
 - y gestionar la adopción incremental de nuevas arquitecturas.
 
-### 5.4 Matriz de Brechas, Soluciones y Gobierno
-**Objetivo**: asegurar que cada brecha tenga una solución, responsable de ejecución y estado de aprobación.
+### 5.4 Plantilla 8: Matriz de Brechas, Soluciones y Gobierno (`matriz_brechas_soluciones_gobierno_plantilla.csv`)
+**Objetivo**: Alineada con la *Consolidated Gaps, Solutions, and Dependencies Matrix* y el *Governance Log* de TOGAF, permite auditar que cada brecha identificada tenga una solución tecnologica concreta (SBB), un ROI claro y la aprobación del Comité de Arquitectura.
 
-**Campos principales**:
-- `ID_Brecha_Gap`
-- `Dominio_Afectado`
-- `Descripcion_Brecha`
-- `Solucion_Propuesta_SBB`
-- `Paquete_Trabajo_Asociado`
-- `Dependencias_Tecnicas`
-- `Prioridad_Negocio`
-- `Valor_Negocio_ROI`
-- `Mecanismo_Gobierno_Compliance`
-- `Estado_Aprobacion`
+* **Campos Principales**:
+  - `ID_Brecha_Gap`: Identificador de la brecha (ej. `GAP-DAT-01`).
+  - `Dominio_Afectado`: Negocio, Datos, Aplicacion, Tecnología, Gobierno.
+  - `Descripcion_Brecha`: Deficiencia o diferencia entre el estado actual y el objetivo.
+  - `Solucion_Propuesta_SBB ->`: Componente especifico o producto que resuelve la brecha.
+  - `Paquete_Trabajo_Asociado ->`: Proyecto encargado de la implementación.
+  - `Dependencias_Tecnicas`: Requisitos previos o bloqueos con otros componentes.
+  - `Prioridad_Negocio`: Alta, Media, Baja.
+  - `Valor_Negocio_ROI`: Beneficio cuantificable o cualitativo.
+  - `Mecanismo_Gobierno_Compliance`: Instancia de aprobación (Architecture Board, Compliance Review, SLA Audit).
+  - `Estado_Aprobacion`: Propuesto, En Revision, Aprobado, Exceptuado.
 
 **Qué permite**:
 - cerrar la brecha entre el estado actual y el objetivo,
@@ -318,47 +333,33 @@ La combinación de catálogos y matrices permite:
 
 ---
 
-## 6. Flujo de gobierno y alimentación del repositorio
+## 6. Flujo de gobierno y alimentación del repositorio (proveedores tecnológicos)
 
-La entrega, diligenciamiento y carga del SDA sigue un ciclo claro:
+La entrega, diligenciamiento y carga del SDA sigue un ciclo objetivo:
 
-1. **Entrega de plantillas**
-   - El equipo de arquitectura entrega el conjunto de plantillas CSV al proveedor tecnológico.
+```
+ [1. Asignación]            [2. Diligenciamiento]         [3. Evaluación Compliance]         [4. Carga Repositorio]     [5. ]
+ Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comité de Arquitectura       -->   Modelado EA / Archi        (proc) documentación 
+ plantillas al proveedor    (SBB, Endpoints, Gaps)        evalúa estándares y riesgos        Trazabilidad End-to-End    técnica
+```
 
-2. **Diligenciamiento por el proveedor**
-   - El proveedor documenta los SBBs físicos y sus componentes asociados.
-   - Incluye integraciones reales, endpoints, flujos de datos, transiciones y brechas.
-
-3. **Evaluación de conformidad**
-   - La Mesa de Arquitectura revisa la información frente a la Base de Información de Estándares (SIB).
+1. **Entrega de Plantillas**: El equipo de arquitectura entrega el conjunto de las 8 plantillas CSV al proveedor al inicio de la fase de diseño o construcción.
+2. **Diligenciamiento por el Proveedor**: El proveedor completa la información técnica detallando componentes físicos, integraciones, endpoints reales, flujos de datos y la matriz de transición de sós entregables.
+3. **Validacion de Gobierno (Architecture Board)**: 
+   - La Mesa de Arquitectura revisa la información frente a la Base de Información de Estándares (SIB) de la empresa y evalúan los criterios de salida (*Gates*) de la matriz de transición.
    - Verifica versiones, clasificación de estándares, riesgos y cumplimiento de métricas.
-
+4. **Carga en el Repositorio de Arquitectura**: 
+   - Los archivos CSV planos se importan en la herramienta de modelado (ej. ArchiMate via CSV Importer / Enterprise Architect / iServer) para generar automaticamente los diagramas de interacción, diagramas de despliegue y matrices de trazabilidad de cambios.
+   - Los SBB son vinculados con los ABBs definidos por la organización.
 4. **Carga e integración al repositorio**
    - Los archivos son importados al repositorio de arquitectura.
-   - Los SBBs son vinculados con los ABBs definidos por la organización.
-
+   - Los SBB son vinculados con los ABBs definidos por la organización.
 5. **Gobernanza y trazabilidad**
    - Se mantiene evidencia documental de decisiones, aprobaciones, brechas y requisitos.
 
 Este flujo asegura una trazabilidad de extremo a extremo, útil para auditoría técnica, seguridad, cumplimiento y transformación de arquitectura.
 
 ---
-
-## 6.1. Flujo Operativo para Proveedores Tecnológicos y Gobierno
-
-```
- [1. Asignación]            [2. Diligenciamiento]         [3. Evaluación Compliance]         [4. Carga Repositorio]
- Arquitectura entrega  -->  Proveedor completa CSVs  -->  Comité de Arquitectura       -->   Modelado EA / Archi
- plantillas al proveedor    (SBBs, Endpoints, Gaps)       evalúa estándares y riesgos        Trazabilidad End-to-End
-```
-
-1. **Entrega de Plantillas**: El equipo de arquitectura entrega el kit de las 8 plantillas CSV al proveedor al inicio de la fase de diseño o construcción.
-2. **Diligenciamiento por el Proveedor**: El proveedor completa la información técnica detallando componentes físicos, integraciones, endpoints reales, flujos de datos y la matriz de transición de sós entregables.
-3. **Validacion de Gobierno (Architecture Board)**: Se verifica la conformidad contra la Base de Estándares (*Standards Information Base - SIB*) de la empresa y se evalúan los criterios de salida (*Gates*) de la matriz de transición.
-4. **Carga en el Repositorio de Arquitectura**: Los archivos CSV planos se importan en la herramienta de modelado (ej. ArchiMate via CSV Importer / Enterprise Architect / iServer) para generar automaticamente los diagramas de interacción, diagramas de despliegue y matrices de trazabilidad de cambios.
-
----
-
 
 ## 7. Principios de uso del SDA
 
@@ -387,16 +388,16 @@ La combinación de TOGAF y ArchiMate permite que el repositorio no solo document
 
 ## 9. Estructura resumida de archivos
 
-| Categoría | Archivo | Propósito |
-| :--- | :--- | :--- |
-| Catálogos | `catalogo_datos_plantilla.csv` | Datos lógicos y físicos |
-| Catálogos | `catalogo_sistemas_plantilla.csv` | Aplicaciones y componentes |
-| Catálogos | `catalogo_tecnologia_plantilla.csv` | Infraestructura y estándares |
-| Catálogos | `catalogo_requerimientos_plantilla.csv` | Requerimientos y criterios de conformidad |
-| Matrices | `matriz_integraciones_plantilla.csv` | Interfaces y protocolos |
-| Matrices | `matriz_flujos_datos_plantilla.csv` | Transferencias de información |
-| Matrices | `matriz_transicion_arquitectura_plantilla.csv` | Evolución temporal y cambios |
-| Matrices | `matriz_brechas_soluciones_gobierno_plantilla.csv` | Brechas, soluciones y aprobación |
+| Categoría | Archivo                                            | Propósito                                 |
+|:----------|:---------------------------------------------------|:------------------------------------------|
+| Catálogos | `catalogo_datos_plantilla.csv`                     | Datos lógicos y físicos                   |
+| Catálogos | `catalogo_sistemas_plantilla.csv`                  | Aplicaciones y componentes                |
+| Catálogos | `catalogo_tecnologia_plantilla.csv`                | Infraestructura y estándares              |
+| Catálogos | `catalogo_requerimientos_plantilla.csv`            | Requerimientos y criterios de conformidad |
+| Matrices  | `matriz_integraciones_plantilla.csv`               | Interfaces y protocolos                   |
+| Matrices  | `matriz_flujos_datos_plantilla.csv`                | Transferencias de información             |
+| Matrices  | `matriz_transicion_arquitectura_plantilla.csv`     | Evolución temporal y cambios              |
+| Matrices  | `matriz_brechas_soluciones_gobierno_plantilla.csv` | Brechas, soluciones y aprobación          |
 
 ---
 
