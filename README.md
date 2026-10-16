@@ -1,4 +1,4 @@
-# Guía Unificada del Sistema Documental de Arquitectura (SDA)
+# Sistema Documental de Arquitectura (SDA)
 ## Marco de trabajo basado en TOGAF ADM y ArchiMate 3.1
 
 **Uso interno y para distribución a proveedores tecnológicos**
