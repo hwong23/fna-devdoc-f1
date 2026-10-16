@@ -2,17 +2,16 @@ Evolucionar el SDA desde un conjunto de plantillas CSV hacia una Wiki Corporativ
 
 Adicionalmente, la documentación del SDA es compatible con Azure DevOps en el uso de Wiki como mecanismo colaborativo de documentación y búsqueda inicial de infomración y elementos de trabajo.
 
-# Wiki Corporativa del Sistema Documental de Arquitectura (SDA)
+
+# Wiki del Sistema Documental de Arquitectura (SDA)
 ## Objetivo
 
-Construir una Wiki institucional que concentre el conocimiento arquitectónico del FNA y permita:
+Proveer una Wiki institucional que concentre el conocimiento arquitectónico del FNA y permita:
 
-* Consultar arquitectura empresarial de forma sencilla.
+* Consultar arquitectura de los sistemas del FNA de forma sencilla.
 * Mantener trazabilidad entre demanda, arquitectura, soluciones y operación.
-* Integrar Archi, Azure Repos, Azure DevOps y HOPEX.
-* Centralizar estándares, principios, patrones y decisiones arquitectónicas.
-* Servir como repositorio de conocimiento para arquitectura empresarial, arquitectura de soluciones, ingeniería y proveedores.
-
+* Integrar Archi, Azure Repos, Azure DevOps y el SDA (repositorio de arquitectura).
+* Centralizar y servir como repositorio de conocimiento para arquitectura de soluciones, ingeniería, proveedores y arquitectura empresarial.
 
 # Estructura propuesta de la Wiki
 ## SDA - Sistema Documental de Arquitectura
