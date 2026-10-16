@@ -1,6 +1,6 @@
-Evolucionar el SDA desde un conjunto de plantillas CSV hacia una Wiki Corporativa de arquitectura de solución e ingeniería, que actúe como capa de conocimiento, navegación y gobierno, y como fundamento del repositorio de arquitectura FNA. --El SDA es la base del repositorio de arquitectura: catálogos, matrices, gobierno, trazabilidad y alineación con TOGAF y ArchiMate.
+Implementar el Sistema Docmental de Arquitectura (SDA) desde un conjunto de plantillas CSV tal que genere una Wiki FNA orientada a arquitectura de solución e ingeniería, y que actúe como capa de conocimiento, navegación y gobierno. El SDA es el fundamento del repositorio de arquitectura FNA y está constituido por catálogos, matrices, modelos Archimate, gobierno, trazabilidad.
 
-Adicionalmente, la documentación del SDA es compatible con Azure DevOps en el uso de Wiki como mecanismo colaborativo de documentación y búsqueda inicial de infomración y elementos de trabajo.
+Adicionalmente, la documentación del SDA es articula con Azure Wikis como mecanismo colaborativo de documentación y búsqueda inicial de infomración y elementos de trabajo.
 
 
 # Wiki del Sistema Documental de Arquitectura (SDA)
