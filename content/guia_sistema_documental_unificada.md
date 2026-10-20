@@ -1,4 +1,4 @@
-# Guía Unificada del Sistema Documental de Arquitectura (SDA)
+# Guía del Sistema Documental de Arquitectura (SDA)
 ## Marco de trabajo basado en TOGAF ADM y ArchiMate 3.1
 
 **Uso interno y para distribución a proveedores tecnológicos**
@@ -8,10 +8,7 @@
 ## Vision General del SDA
 
 El **Sistema Documental de Arquitectura (SDA)** constituye la estructura central del 
-**Repositorio de Arquitectura** de la organización. Su objetivo es gobernar, visibilizar y 
-mantener la trazabilidad de los componentes de negocio, datos, aplicaciones e infraestructura, 
-integrando tanto la vision lógica (**Architecture Building Blocks - ABBs**) como la solución física 
-entregada por los proveedores tecnológicos (**Solution Building Blocks - SBB**).
+**Repositorio de Arquitectura** de la organización. Su objetivo es gobernar, visibilizar y mantener la trazabilidad de los componentes de negocio, datos, aplicaciones e infraestructura, integrando tanto la vision lógica (**Architecture Building Blocks - ABBs**) como la solución física entregada por los proveedores tecnológicos (**Solution Building Blocks - SBB**).
 
 Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tres capas de plantillas 
 estandarizadoras en formato CSV:
