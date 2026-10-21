@@ -3,7 +3,7 @@ Implementar el Sistema Documental de Arquitectura (SDA) desde un conjunto de pla
 Adicionalmente, la documentación del SDA es articula con Azure Wikis como mecanismo colaborativo de documentación y búsqueda inicial de información y elementos de trabajo.
 
 
-# Wiki del Sistema Documental de Arquitectura (SDA)
+# Conjunto de Conocimiento del Sistema Documental de Arquitectura (SDA)
 ## Objetivo
 
 Proveer una Wiki institucional que concentre el conocimiento arquitectónico del FNA y permita:
