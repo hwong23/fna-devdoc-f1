@@ -13,13 +13,13 @@ El **Sistema Documental de Arquitectura (SDA)** constituye la estructura central
 Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tres capas de plantillas 
 estandarizadoras en formato CSV:
 
-1. **Catalogos de Inventario Base** (Poblacion de elementos unicos):
+1. **Catálogos de Inventario Base** (Población de elementos únicos):
    - `catalogo_datos_plantilla.csv`: Entidades de datos lógicas y componentes de almacenamiento físicos.
    - `catalogo_sistemas_plantilla.csv`: Servicios de SI, componentes lógicos y paquetes de software.
    - `catalogo_tecnologia_plantilla.csv`: Plataformas de software, servidores, redes y hardware.
    - `catalogo_requerimientos_plantilla.csv`: Requerimientos funcionales, no funcionales y restricciones.
 
-2. **Matrices de Relación e Integracion** (Interacciones y dinámica de datos):
+2. **Matrices de Relación e Integración** (Interacciones y dinámica de datos):
    - `matriz_integraciones_plantilla.csv`: Mapeo de interfaces de comunicación, protocolos (SOAP/REST/ETL) y endpoints salientes/entrantes.
    - `matriz_flujos_datos_plantilla.csv`: Trazabilidad del flujo de información, operaciones CRUD, mecanismos de carga e intercambios entre sistemas.
 

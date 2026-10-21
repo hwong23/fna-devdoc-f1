@@ -1,6 +1,6 @@
-Implementar el Sistema Docmental de Arquitectura (SDA) desde un conjunto de plantillas CSV tal que genere una Wiki FNA orientada a arquitectura de solución e ingeniería, y que actúe como capa de conocimiento, navegación y gobierno. El SDA es el fundamento del repositorio de arquitectura FNA y está constituido por catálogos, matrices, modelos Archimate, gobierno, trazabilidad.
+Implementar el Sistema Documental de Arquitectura (SDA) desde un conjunto de plantillas CSV tal que genere una Wiki FNA orientada a arquitectura de solución e ingeniería, y que actúe como capa de conocimiento, navegación y gobierno. El SDA es el fundamento del repositorio de arquitectura FNA y está constituido por catálogos, matrices, modelos Archimate, gobierno, trazabilidad.
 
-Adicionalmente, la documentación del SDA es articula con Azure Wikis como mecanismo colaborativo de documentación y búsqueda inicial de infomración y elementos de trabajo.
+Adicionalmente, la documentación del SDA es articula con Azure Wikis como mecanismo colaborativo de documentación y búsqueda inicial de información y elementos de trabajo.
 
 
 # Wiki del Sistema Documental de Arquitectura (SDA)
@@ -97,11 +97,7 @@ Redes
 
 Basado en la SIB:
 
-Approved
-Proposed
-Provisional
-Phasing-Out
-Retired
+- Approved, Proposed, Provisional, Phasing-Out, Retired.
 
 ## 7. Arquitectura de Integración
 ### 7.1 Mapa de Integraciones
@@ -114,12 +110,12 @@ matriz_integraciones
 
 Por cada API:
 
-Descripción
-Consumidores
-Productores
-Contrato OpenAPI
-Versiones
-Estado
+- Descripción
+- Consumidores
+- Productores
+- Contrato OpenAPI
+- Versiones
+- Estado
 
 La iniciativa de API Manager y la estrategia de apificación encajan directamente en esta sección.
 
@@ -128,26 +124,26 @@ La iniciativa de API Manager y la estrategia de apificación encajan directament
 
 Cada iniciativa tendría:
 
-Contexto
-Problema
-Alcance
-Arquitectura objetivo
-Diagramas
-ADR
-Repositorios
+- Contexto
+- Problema
+- Alcance
+- Arquitectura objetivo
+- Diagramas
+- ADR
+- Repositorios
 
 ### 8.2 Soluciones estratégicas
 
 Ejemplos:
 
-API Manager
-Azure DevOps
-Modernización Core
-Gestión Documental
+- API Manager
+- Azure DevOps ALM - CI/CD
+- Modernización ESB
+- Sistema Documental Arq.
 
 ### 9. Architecture Decision Records (ADR)
 
-Una sección crítica.
+Registro de decisiones relevantes de cada transición.
 
 Estructura
 ADR-0001
@@ -178,56 +174,58 @@ La estrategia Archi + Azure Repos y ADR ya está contemplada en la documentació
 
 Basado en:
 
-Baseline
-Transition
-Target
+- Baseline
+- Transition
+- Target
 
 Para cada iniciativa:
 
-AS-IS
-T1
-T2
-TO-BE
-Riesgos
-Gates
+- Estado actual (as is)
+- T1
+- T2... 
+- Estado objetivo (to be)
+- Riesgos
+- PUnto de control / Criterios de transición (gates)
 
 ## 11. Brechas y Roadmap
 
 Basado en:
 
 matriz_brechas_soluciones_gobierno
+
 Por dominio
-Negocio
-Datos
-Aplicaciones
-Tecnología
-Gobierno
+- Negocio
+- Datos
+- Aplicaciones
+- Tecnología
+- Gobierno
 
 ## 13. Conocimiento Operacional
 
 Documentación operativa como:
 
-Manuales
-Guías 
-Procedimientos
+- Manuales
+- Guías 
+- Procedimientos
 
 ## 14. Proveedores y Compliance
 Entregables SDA
-Catálogo de Datos
-Catálogo de Sistemas
-Catálogo de Tecnología
-Catálogo de Requerimientos
-Matrices SDA
-Checklist de conformidad
-Arquitectura
-Seguridad
-Integración
-Datos
-Gobierno
+
+- Catálogo de Datos
+- Catálogo de Sistemas
+- Catálogo de Tecnología
+- Catálogo de Requerimientos
+- Matrices SDA
+- Checklist de conformidad
+- Vistas de arquitectura
+- Seguridad
+- Integración
+- Datos
+- Gobierno
 
 ## Recomendación tecnológica
 
-La mejor implementación sería:
+La implementación elegida es:
 
 Azure DevOps Wiki
 │
@@ -243,7 +241,6 @@ Azure DevOps Wiki
 ├── Patrones
 └── Operación
 
-
 Con:
 
 Archi para modelado.
@@ -252,5 +249,5 @@ Azure Wiki para conocimiento.
 Azure Boards para trazabilidad.
 Pull Requests para aprobación documental.
 
-Esto coincide con la estrategia de gobierno propuesta para Archi + Azure Repos y la gestión de arquitectura como código.
+Esta propuesta se alinea con la estrategia de gobierno propuesta para Archi + Azure Repos y la gestión de arquitectura como código (AaC).
 
