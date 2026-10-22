@@ -2,8 +2,8 @@ Implementar el Sistema Documental de Arquitectura (SDA) desde un conjunto de pla
 
 Adicionalmente, la documentación del SDA es articula con Azure Wikis como mecanismo colaborativo de documentación y búsqueda inicial de información y elementos de trabajo.
 
-
 # Sistema Documental de Arquitectura (SDA)
+
 ## Objetivo
 
 Proveer una Wiki institucional que concentre el conocimiento arquitectónico del FNA y permita:
@@ -14,6 +14,7 @@ Proveer una Wiki institucional que concentre el conocimiento arquitectónico del
 * Centralizar y servir como repositorio de conocimiento para arquitectura de soluciones, ingeniería, proveedores y arquitectura empresarial.
 
 # Estructura propuesta de la Wiki
+
 ## SDA - Sistema Documental de Arquitectura
 
 Contenido:
@@ -28,7 +29,9 @@ Modelo de gobierno.
 Basado en la visión general y propósito del SDA.
 
 ## 2. Gobierno de Arquitectura
+
 ### Roles y Responsabilidades
+
 Arquitecto Empresarial
 Arquitecto de Negocio
 Arquitecto de Soluciones
@@ -39,19 +42,20 @@ Fábricas de Software
 Alineado con el modelo de gobierno definido para arquitectura e ingeniería.
 
 ## 3. Arquitectura de Negocio
+
 Procesos
 Servicios
 Actores
 Value Streams
 
 ## 4. Arquitectura de Aplicaciones
+
 ### 4.1 Catálogo de Sistemas
 
 Página por cada sistema:
 
 Ejemplo:
 
-COBIS
 Propietario
 Descripción
 Estado
@@ -64,6 +68,7 @@ Diagramas
 La información puede alimentarse desde el catálogo de sistemas definido por el SDA.
 
 ## 5. Arquitectura de Datos
+
 ### 5.1 Catálogo de Datos
 
 Para cada entidad:
@@ -86,7 +91,9 @@ Representación visual derivada de:
 matriz_flujos_datos
 
 ## 6. Arquitectura Tecnológica
+
 ### 6.1 Catálogo Tecnológico
+
 Plataformas
 Bases de datos
 Middleware
@@ -100,6 +107,7 @@ Basado en la SIB:
 - Approved, Proposed, Provisional, Phasing-Out, Retired.
 
 ## 7. Arquitectura de Integración
+
 ### 7.1 Mapa de Integraciones
 
 Generado desde:
@@ -120,6 +128,7 @@ Por cada API:
 La iniciativa de API Manager y la estrategia de apificación encajan directamente en esta sección.
 
 ## 8. Arquitectura de Soluciones
+
 ### 8.1 Soluciones por iniciativa
 
 Cada iniciativa tendría:
@@ -182,7 +191,7 @@ Para cada iniciativa:
 
 - Estado actual (as is)
 - T1
-- T2... 
+- T2...
 - Estado objetivo (to be)
 - Riesgos
 - PUnto de control / Criterios de transición (gates)
@@ -194,6 +203,7 @@ Basado en:
 matriz_brechas_soluciones_gobierno
 
 Por dominio
+
 - Negocio
 - Datos
 - Aplicaciones
@@ -205,10 +215,11 @@ Por dominio
 Documentación operativa como:
 
 - Manuales
-- Guías 
+- Guías
 - Procedimientos
 
 ## 14. Proveedores y Compliance
+
 Entregables SDA
 
 - Catálogo de Datos
@@ -250,4 +261,3 @@ Azure Boards para trazabilidad.
 Pull Requests para aprobación documental.
 
 Esta propuesta se alinea con la estrategia de gobierno propuesta para Archi + Azure Repos y la gestión de arquitectura como código (AaC).
-
