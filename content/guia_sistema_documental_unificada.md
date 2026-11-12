@@ -1,7 +1,7 @@
-# Guía del Sistema Documental de Arquitectura (SDA)
-Versión 1.0.3
+# Sistema Documental de Arquitectura (SDA)
+Versión 1.0.4
  
-## Marco de trabajo basado en MAE, TOGAF, FNA y ArchiMate 3.1
+## Marco de trabajo para la gestión de la documentación de arquitectura, basado en MAE, TOGAF, FNA y ArchiMate 3.1.
 
 **Uso interno y para distribución a proveedores tecnológicos**
 
@@ -11,8 +11,7 @@ Versión 1.0.3
 
 El **Sistema Documental de Arquitectura (SDA)** constituye la estructura central del **Repositorio de Arquitectura** de la organización. Su objetivo es visibilizar y mantener la trazabilidad de los componentes de negocio, datos, aplicaciones e infraestructura; integran tanto la vision lógica (**Architecture Building Blocks - ABBs**) como la solución física entregada por los proveedores tecnológicos (**Solution Building Blocks - SBB**).
 
-Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tres capas de plantillas 
-estandarizadoras en formato CSV:
+Para garantizar un gobierno integral de punta a punta, el SDA se organiza en tres capas de plantillas estandarizadoras en formato CSV:
 
 1. **Catálogos de Inventario Base** (Población de elementos únicos):
    - `catalogo_datos_plantilla.csv`: Entidades de datos lógicas y componentes de almacenamiento físicos.
@@ -24,11 +23,10 @@ estandarizadoras en formato CSV:
    - `matriz_integraciones_plantilla.csv`: Mapeo de interfaces de comunicación, protocolos (SOAP/REST/ETL) y endpoints salientes/entrantes.
    - `matriz_flujos_datos_plantilla.csv`: Trazabilidad del flujo de información, operaciones CRUD, mecanismos de carga e intercambios entre sistemas.
 
-3. **Vistas de Cambio, Transicion y Gobierno** (Trazabilidad temporal y cumplimiento):
+3. **Vistas de Cambio, Transición** (Trazabilidad temporal y cumplimiento):
    - `matriz_transicion_arquitectura_plantilla.csv`: Evolución incremental estado por estado (*Baseline*, *Transicion 1*, *Transicion 2*, *Target*) con acciones de cambio (*New*, *Retain*, *Replace*, *Retire*).
    - `matriz_brechas_soluciones_gobierno_plantilla.csv`: Trazabilidad entre brechas (*Gaps*), soluciones (*SBB*), paquetes de trabajo (*Work Packages*) y comités de gobierno (*Architecture Board*).
 
----
 
 ## 1. Propósito del SDA
 
@@ -45,11 +43,10 @@ El sistema busca facilitar:
 - la reducción de brechas entre el estado actual y el objetivo,
 - y la alineación entre estrategia, operación y tecnología.
 
----
 
 ## 2. Fundamentos del repositorio de arquitectura
 
-El SDA se organiza en torno a tres pilares del enfoque TOGAF:
+El SDA se organiza en torno a tres pilares fundamentales definidos por TOGAF:
 
 ### 2.1 Bloques de construcción: ABB vs. SBB
 
@@ -80,9 +77,9 @@ El Repositorio de Arquitectura de la empresa actúa como un archivo centralizado
 6.  **Panorama de Soluciones (Solutions Landscape)**: Registro de los SBB implementados y desplegados por los proveedores tecnológicos.
 7.  **Bitácora de Gobierno (Governance Log)**: Registro de decisiones de arquitectura, evaluaciones de conformidad y aprobaciones de proyectos.
 
-### 2.3 Metamodelo de contenido
+### 2.3 Modelo de contenido
 
-El metamodelo de contenido organiza la arquitectura en dominios clave:
+El modelo de contenido organiza la arquitectura en dominios clave:
 - negocio,
 - datos,
 - aplicaciones,
@@ -90,7 +87,7 @@ El metamodelo de contenido organiza la arquitectura en dominios clave:
 - requerimientos,
 - y gobierno.
 
-Los archivos del SDA alimentan este metamodelo y permiten construir trazabilidad entre elementos lógicos, físicos y de transición.
+Los archivos del SDA alimentan este modelo y permiten construir trazabilidad entre elementos lógicos, físicos y de transición.
 
 Para alimentar este repositorio, los proveedores deben suministrar información estructurada 
 en **4 Catálogos Individuales**. Cada plantilla CSV mapea directamente a entidades del metamodelo (TOGAF):
@@ -115,7 +112,6 @@ en **4 Catálogos Individuales**. Cada plantilla CSV mapea directamente a entida
 +---------------------------------------------------------------------------------+
 ```
 
----
 
 ## 3. Estructura del SDA y tipos de archivos
 
@@ -130,22 +126,22 @@ Estos archivos documentan los elementos principales del repositorio y forman la 
 - `catalogo_requerimientos_plantilla.csv`
 
 ### 3.2 Matrices de integración y trazabilidad
-Estos artefactos capturan relaciones, flujos, dependencias y cambios entre elementos.
+Estos artefactos capturan relaciones, flujos, dependencias y cambios entre transiciones.
 
 - `matriz_integraciones_plantilla.csv`
 - `matriz_flujos_datos_plantilla.csv`
 - `matriz_transicion_arquitectura_plantilla.csv`
 - `matriz_brechas_soluciones_gobierno_plantilla.csv`
 
+
 ### 3.3 Finalidad operativa
 
-La combinación de catálogos y matrices permite:
+La combinación de catálogos y matrices permite
 - identificar inventarios de datos, sistemas y tecnología,
 - mapear interfaces y flujos de información,
 - registrar evolución temporal de los activos,
 - y asociar brechas con soluciones, dependencias y mecanismos de gobierno.
 
----
 
 ## 4. Catálogos del SDA
 

@@ -15,7 +15,7 @@ Con el fin de automatizar la captura de datos desde los proveedores tecnológico
 El SDA se organiza en torno a tres pilares fundamentales definidos por TOGAF:
 1. **Bloques de Construcción (Building Blocks)**: La distinción entre especificaciones abstractas (ABB) e implementaciones concretas (SBB).
 2. **Repositorio de Arquitectura (Architecture Repository)**: Las áreas lógica y físicas donde se almacena el conocimiento arquitectónico.
-3. **Metamodelo de Contenido (Content Metamodel)**: La taxonomía de entidades (datos, aplicaciones, tecnologías y requerimientos) y sus relaciones.
+3. **Modelo de Contenido (Content Metamodel)**: La taxonomía de entidades (datos, aplicaciones, tecnologías y requerimientos) y sus relaciones.
 
 ### 1.1 Bloques de Construcción: ABB vs. SBB
 En el ciclo de desarrollo de arquitectura (ADM), los elementos se definen en dos niveles de abstracción:
@@ -36,7 +36,7 @@ El Repositorio de Arquitectura de la empresa actúa como un archivo centralizado
 
 ---
 
-## 2. METAMODELO DE CONTENIDO Y ESTRUCTURA DE PLANTILLAS CSV
+## 2. MODELO DE CONTENIDO Y ESTRUCTURA DE PLANTILLAS CSV
 
 Para alimentar este repositorio, los proveedores deben suministrar información estructurada en **4 Catálogos Individuales**. Cada plantilla CSV mapea directamente a entidades del metamodelo de TOGAF:
 

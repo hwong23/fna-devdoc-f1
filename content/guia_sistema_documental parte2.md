@@ -64,7 +64,7 @@ Con base en el *Data Dissemination Diagram* y la *Information Exchange Matrix* d
 ---
 
 ### C. Matriz de Transición de Arquitectura y Trazabilidad (`matriz_transicion_arquitectura_plantilla.csv`)
-Basada en el *Transition Architecture State Evolution Table* y la tabla de *Increments* de TOGAF E/F, permite llevar el control estricto de la evolucion de los artefactos a lo largo de los *Plateaus* o estados temporales de transición.
+Basada en el *Transition Architecture State Evolution Table* y la tabla de *Increments* de TOGAF E/F, permite llevar el control estricto de la evolución de los artefactos a lo largo de los *Plateaus* o estados temporales de transición.
 
 * **Campos Principales**:
   - `ID_Elemento`: Identificador del componente o servicio afectado.
