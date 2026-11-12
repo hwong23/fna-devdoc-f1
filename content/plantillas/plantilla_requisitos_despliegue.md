@@ -31,20 +31,20 @@ Este documento define los requisitos necesarios para desplegar [Nombre del siste
 ## 4. Requisitos de Infraestructura
 
 ### Infraestructura base
-| Requisito | Detalle |
-|---|---|
-| Plataforma | [Kubernetes / Docker / VM / Cloud] |
-| Cluster / entorno | [Nombre o detalle] |
-| Namespace | [nombre] |
-| Region / zona | [Región / zona / disponibilidad] |
-| Red | [VPC / subred / red privada / pública] |
+| Requisito         | Detalle                                |
+|-------------------|----------------------------------------|
+| Plataforma        | [Kubernetes / Docker / VM / Cloud]     |
+| Cluster / entorno | [Nombre o detalle]                     |
+| Namespace         | [nombre]                               |
+| Region / zona     | [Región / zona / disponibilidad]       |
+| Red               | [VPC / subred / red privada / pública] |
 
 ### Recursos mínimos
-| Componente | CPU | Memoria | Disco | Observaciones |
-|---|---|---|---|---|
-| [Servicio] | [x vCPU] | [x GiB] | [x GiB] | [Detalle] |
-| [Base de datos] | [x vCPU] | [x GiB] | [x GiB] | [Detalle] |
-| [Broker] | [x vCPU] | [x GiB] | [x GiB] | [Detalle] |
+| Componente      | CPU      | Memoria | Disco   | Observaciones |
+|-----------------|----------|---------|---------|---------------|
+| [Servicio]      | [x vCPU] | [x GiB] | [x GiB] | [Detalle]     |
+| [Base de datos] | [x vCPU] | [x GiB] | [x GiB] | [Detalle]     |
+| [Broker]        | [x vCPU] | [x GiB] | [x GiB] | [Detalle]     |
 
 ### Requisitos de alta disponibilidad
 - [Número de réplicas]
@@ -52,13 +52,13 @@ Este documento define los requisitos necesarios para desplegar [Nombre del siste
 - [Persistencia por componente]
 - [Tolerancia a fallos]
 
-## 5. Requisitos de Software y Dependencias
+## 5. Requisitos de Software Base y Dependencias
 
 ### Runtime / Framework
-| Componente | Tecnología | Versión |
-|---|---|---|
-| [Servicio] | [Java / Go / Python / Node] | [Versión] |
-| [Frontend] | [React / Angular / Vue] | [Versión] |
+| Componente      | Tecnología                                | Versión   |
+|-----------------|-------------------------------------------|-----------|
+| [Servicio]      | [Java / Go / Python / Node]               | [Versión] |
+| [Frontend]      | [React / Angular / Vue]                   | [Versión] |
 | [Base de datos] | [PostgreSQL / MySQL / DynamoDB / MongoDB] | [Versión] |
 
 ### Dependencias externas
@@ -94,13 +94,13 @@ flowchart LR
 ## 7. Requisitos de Red
 
 ### Puertos
-| Componente | Puerto | Protocolo | Uso |
-|---|---|---|---|
-| [Frontend] | [80 / 443 / 8080] | [HTTP / HTTPS] | [Uso] |
-| [API Gateway] | [8080] | [HTTP / HTTPS] | [Uso] |
-| [Servicio A] | [8080] | [HTTP] | [Uso] |
-| [Base de datos] | [5432] | [SQL] | [Uso] |
-| [Broker] | [5672 / 15672] | [AMQP / HTTP] | [Uso] |
+| Componente      | Puerto            | Protocolo      | Uso   |
+|-----------------|-------------------|----------------|-------|
+| [Frontend]      | [80 / 443 / 8080] | [HTTP / HTTPS] | [Uso] |
+| [API Gateway]   | [8080]            | [HTTP / HTTPS] | [Uso] |
+| [Servicio A]    | [8080]            | [HTTP]         | [Uso] |
+| [Base de datos] | [5432]            | [SQL]          | [Uso] |
+| [Broker]        | [5672 / 15672]    | [AMQP / HTTP]  | [Uso] |
 
 ### Reglas de acceso
 - [Permitir tráfico desde X hacia Y]
@@ -124,10 +124,10 @@ flowchart LR
 ## 9. Persistencia y Datos
 
 ### Bases de datos
-| Base de datos | Tipo | Volumen estimado | Persistencia |
-|---|---|---|---|
-| [DB 1] | [SQL / NoSQL] | [GB / TB] | [Sí / No] |
-| [DB 2] | [SQL / NoSQL] | [GB / TB] | [Sí / No] |
+| Base de datos | Tipo          | Volumen estimado | Persistencia |
+|---------------|---------------|------------------|--------------|
+| [DB 1]        | [SQL / NoSQL] | [GB / TB]        | [Sí / No]    |
+| [DB 2]        | [SQL / NoSQL] | [GB / TB]        | [Sí / No]    |
 
 ### Sistemas de almacenamiento
 - [Bucket / blob / almacenamiento de archivos]
@@ -152,19 +152,19 @@ flowchart LR
 - Retención: [X días]
 - Centralización: [ELK / Splunk / Loki / CloudWatch]
 
-### Health checks
+### Verificación de Actividad (health checks)
 - [Endpoint / readiness / liveness]
 - [Frecuencia de revisión]
 - [Acciones en fallo]
 
 ## 11. Configuración y Variables de Entorno
 
-| Variable | Descripción | Requerida |
-|---|---|---|
-| [NOMBRE_ENV] | [Descripción] | Sí |
-| [DB_HOST] | [Host de la base de datos] | Sí |
-| [API_KEY] | [Clave de integración] | Sí |
-| [JWT_SECRET] | [Secreto de JWT] | Sí |
+| Variable     | Descripción                | Requerida |
+|--------------|----------------------------|-----------|
+| [NOMBRE_ENV] | [Descripción]              | Sí        |
+| [DB_HOST]    | [Host de la base de datos] | Sí        |
+| [API_KEY]    | [Clave de integración]     | Sí        |
+| [JWT_SECRET] | [Secreto de JWT]           | Sí        |
 
 ### Reglas
 - [No guardar secretos en repositorio]
@@ -199,7 +199,7 @@ flowchart LR
 - [Autoescalado de infraestructura]
 - [Ajuste de volumen de almacenamiento]
 
-## 14. Requisitos de Recuperación ante Desastres
+## 14. Requisitos de Recuperación y Continuidad
 
 ### Objetivos
 - RTO: [horas / minutos]
@@ -223,8 +223,8 @@ flowchart LR
 
 ## 16. Riesgos y Mitigaciones
 
-| Riesgo | Impacto | Mitigación |
-|---|---|---|
+| Riesgo     | Impacto   | Mitigación   |
+|------------|-----------|--------------|
 | [Riesgo 1] | [Impacto] | [Mitigación] |
 | [Riesgo 2] | [Impacto] | [Mitigación] |
 
@@ -238,6 +238,6 @@ flowchart LR
 
 ---
 
-## Resumen Ejecutivo
+## Resumen del Despliegue
 
 [Describir en 4-6 líneas qué se despliega, en qué entorno, con qué dependencias y qué requisitos mínimos deben cumplirse para un despliegue seguro y funcional.]
